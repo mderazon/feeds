@@ -6,3 +6,12 @@ waitForSelector = ".listing-search-searchresults-component div.result > div.list
 titleSelector = "p.listing-price"
 linkSelector = "a[href]"
 contentSelector = "div.listing-card"
+
+[mimosa]
+title = "Mimosa"
+url = "https://www.mimosaproperties.com/imoveis/?pg=1&o=1&g=&t=&e=&dd=08&cc=03&ff=&ml=&z=&nq=&p=&a=&c=&ct=0000000000001&or=30&idioma=en"
+entrySelector = "#ContentPlaceHolder1_moduloimoveislistagem_listagem_imoveis_holder > div.comp-item-imovel"
+waitForSelector = "#ContentPlaceHolder1_moduloimoveislistagem_listagem_imoveis_holder > div.comp-item-imovel"
+titleSelector = "a.img-imovel[title]"
+linkSelector = "a.img-imovel[href]"
+contentSelector = "a.img-imovel"
