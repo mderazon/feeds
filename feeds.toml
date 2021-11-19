@@ -1,3 +1,11 @@
+[marcela]
+title = "Marcela Properties"
+url = "https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1"
+entrySelector = "li.propsList__col"
+waitForSelector = "li.propsList__col"
+titleSelector = "meta[itemprop=name][content]"
+linkSelector = "a.prop__link[href]"
+
 [remax]
 title = "Remax Aljezur"
 url = "https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"
@@ -28,14 +36,5 @@ linkSelector = "a.search-result-info[href]"
 title = "Luxview"
 url = "https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1"
 entrySelector = "li.grid-item"
-waitForSelector = "li.grid-item"
 titleSelector = "span.prop-price"
 linkSelector = "a.prop[href]"
-
-[marcela]
-title = "Marcela Properties"
-url = "https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1"
-entrySelector = "li.propsList__col"
-waitForSelector = "li.propsList__col"
-titleSelector = "meta[itemprop=name][content]"
-linkSelector = "a.prop__link[href]"
