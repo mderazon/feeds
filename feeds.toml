@@ -15,3 +15,27 @@ waitForSelector = "#ContentPlaceHolder1_moduloimoveislistagem_listagem_imoveis_h
 titleSelector = "a.img-imovel[title]"
 linkSelector = "a.img-imovel[href]"
 contentSelector = "a.img-imovel"
+
+[century21]
+title = "Century 21"
+url = "https://www.century21global.com/for-sale-residential/Portugal/Faro-%28Algarve%29/Aljezur-%28Algarve%29"
+entrySelector = "div.search-result"
+waitForSelector = "div.search-result"
+titleSelector = "div.price-native > span"
+linkSelector = "a.search-result-info[href]"
+
+[luxview]
+title = "Luxview"
+url = "https://www.century21global.com/for-sale-residential/Portugal/Faro-%28Algarve%29/Aljezur-%28Algarve%29"
+entrySelector = "li.grid-item"
+waitForSelector = "li.grid-item"
+titleSelector = "span.prop-price"
+linkSelector = "a.prop[href]"
+
+[marcela]
+title = "Marcela Properties"
+url = "https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1"
+entrySelector = "li.propsList__col"
+waitForSelector = "li.propsList__col"
+titleSelector = "meta[itemprop=name][content]"
+linkSelector = "a.prop__link[href]"
