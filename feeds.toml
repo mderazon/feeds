@@ -5,6 +5,7 @@ entrySelector = "li.propsList__col"
 waitForSelector = "li.propsList__col"
 titleSelector = "meta[itemprop=name][content]"
 linkSelector = "a.prop__link[href]"
+timeout = 360
 
 [remax]
 title = "Remax Aljezur"
@@ -14,6 +15,7 @@ waitForSelector = ".listing-search-searchresults-component div.result > div.list
 titleSelector = "p.listing-price"
 linkSelector = "a[href]"
 contentSelector = "div.listing-card"
+timeout = 360
 
 [mimosa]
 title = "Mimosa"
@@ -23,6 +25,7 @@ waitForSelector = "#ContentPlaceHolder1_moduloimoveislistagem_listagem_imoveis_h
 titleSelector = "a.img-imovel[title]"
 linkSelector = "a.img-imovel[href]"
 contentSelector = "a.img-imovel"
+timeout = 360
 
 [century21]
 title = "Century 21"
@@ -31,6 +34,7 @@ entrySelector = "div.search-result"
 waitForSelector = "div.search-result"
 titleSelector = "div.price-native > span"
 linkSelector = "a.search-result-info[href]"
+timeout = 360
 
 [luxview]
 title = "Luxview"
@@ -38,3 +42,4 @@ url = "https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1"
 entrySelector = "li.grid-item"
 titleSelector = "span.prop-price"
 linkSelector = "a.prop[href]"
+timeout = 360
