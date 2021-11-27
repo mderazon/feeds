@@ -2,53 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2021-11-23T05:52:07.858Z</updated>
+    <updated>2021-11-27T05:44:41.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3666/22215</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3666/22215"/>
-        <updated>2021-11-23T05:51:38.451Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="ONE BEDROOM EYRIE LOOKING OVER THE ODECEIXE VALLEY">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22215/710ca989-43e5-4a96-9fc2-30fe94493196.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="Enjoying a commanding position and spectacular views from an elevated location on the side of the Ceixe valley this charming 63 mtr² cottage sits on 1,160 mtr² of rustic land ten minutes from the village of Odeceixe, less than twenty minutes to the beach at Odeceixe.
-
-Licensed and built in 2001 and renovated in 2015 to a high standard the property enjoys; cork lined vaulted wooden ceilings, tilt and turn hardwood double glazing, spacious mezzanine sleeping platform offering the space for an additional double bed, granite tiled floors, Alojamento Locale license, spacious south west facing terrace with barbecue.
-
-Water is supplied from a borehole shared legally with a neighbour. Domestic hot water supplied from a newly installed electric immersion heater. With cork insulated walls the house is easily heated with an enclosed woodburner.
-
-This is a very special little “lock and leave” holiday/permanent home with a proven rental history. An early viewing is recommended.
-">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="220000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3666/22215"></a>
-
-        <span class="prop__stamp">UNDER OFFER</span>
-
-
-                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/C.png" alt="CE" width="29">
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22215/710ca989-43e5-4a96-9fc2-30fe94493196.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">ONE BEDROOM EYRIE LOOKING OVER THE ODECEIXE VALLEY</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>220.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22215" data-action-text="REF: C3666" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3666</span></p>
-    </div>
-</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464c/22057</id>
@@ -479,6 +435,50 @@ A great opportunity to acquire a business that is centrally located, near all th
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="21895" data-action-text="REF: N328" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: N328</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur--ref_rc228/21889</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur--ref_rc228/21889"/>
+        <updated>2021-11-27T05:44:14.984Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="RURAL LAND WITH A PROJECT SUBMITTED FOR A THREE (T2+1) A BEDROOM QUINTA">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/21889/a90459f2-5e29-4976-813d-8f224e31519a.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="Located in a peaceful partly forested location two minutes from Maria Vinagre this 1.4 hectares of fertile rural land has a registered ruin and an architectural project submitted for a three bed (T2 +1) quinta.
+  
+The property also benefits from a working well and holding tank for irrigation.
+
+Less than fifteen minutes by car to Aljezur, less than ten to Odeceixe and walking distance to Maria Vinagre and easy access to the beaches of Vale dos Homens, Carriagem, and Odeceixe.
+
+An ideal opportunity to build a family home with great buy to holiday let potential.
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="169000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/ruin-aljezur--ref_rc228/21889"></a>
+
+        <span class="prop__stamp">SOLD</span>
+
+
+                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/isento.png" alt="CE" width="29">
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/21889/a90459f2-5e29-4976-813d-8f224e31519a.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">RURAL LAND WITH A PROJECT SUBMITTED FOR A THREE (T2+1) A BEDROOM QUINTA</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>169.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="21889" data-action-text="REF: RC228" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: RC228</span></p>
     </div>
 </div>]]></content>
     </entry>
