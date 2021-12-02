@@ -2,7 +2,7 @@
 title = "Marcela Properties"
 url = "https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1"
 entrySelector = "li.propsList__col"
-waitForSelector = "li.propsList__col"
+waitUntil = "domcontentloaded"
 titleSelector = "meta[itemprop=name][content]"
 linkSelector = "a.prop__link[href]"
 timeout = 360
@@ -11,7 +11,7 @@ timeout = 360
 title = "Remax Aljezur"
 url = "https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"
 entrySelector = ".listing-search-searchresults-component div.result > div.listing-search-searchdetails-component"
-waitForSelector = ".listing-search-searchresults-component div.result > div.listing-search-searchdetails-component"
+waitUntil = "domcontentloaded"
 titleSelector = "p.listing-price"
 linkSelector = "a[href]"
 contentSelector = "div.listing-card"
@@ -21,7 +21,7 @@ timeout = 360
 title = "Mimosa"
 url = "https://www.mimosaproperties.com/imoveis/?pg=1&o=1&g=&t=&e=&dd=08&cc=03&ff=&ml=&z=&nq=&p=&a=&c=&ct=0000000000001&or=30&idioma=en"
 entrySelector = "#ContentPlaceHolder1_moduloimoveislistagem_listagem_imoveis_holder > div.comp-item-imovel"
-waitForSelector = "#ContentPlaceHolder1_moduloimoveislistagem_listagem_imoveis_holder > div.comp-item-imovel"
+waitUntil = "domcontentloaded"
 titleSelector = "a.img-imovel[title]"
 linkSelector = "a.img-imovel[href]"
 contentSelector = "a.img-imovel"
@@ -31,7 +31,7 @@ timeout = 360
 title = "Century 21"
 url = "https://www.century21global.com/for-sale-residential/Portugal/Faro-%28Algarve%29/Aljezur-%28Algarve%29"
 entrySelector = "div.search-result"
-waitForSelector = "div.search-result"
+waitUntil = "domcontentloaded"
 titleSelector = "div.price-native > span"
 linkSelector = "a.search-result-info[href]"
 timeout = 360
@@ -40,6 +40,7 @@ timeout = 360
 title = "Luxview"
 url = "https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1"
 entrySelector = "li.grid-item"
+waitUntil = "domcontentloaded"
 titleSelector = "span.prop-price"
 linkSelector = "a.prop[href]"
 timeout = 360
