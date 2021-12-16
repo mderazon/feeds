@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-16T05:38:49.638Z</updated>
+    <updated>2021-12-16T17:45:55.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -522,7 +522,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <id>https://remax.pt/en/listings/buy-land-aljezur-rogil/123761097-57</id>
         <link href="https://remax.pt/en/listings/buy-land-aljezur-rogil/123761097-57"/>
         <updated>2021-11-15T10:39:03.559Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" alt="Land of -- m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 375 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/9f2b1f94-3ea7-4c40-8181-f07999b466e5.jpg" alt="Ana Paula Neto" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 6676 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12376/6226296/d7364734-f504-4e57-bc25-241a34f906d1.jpg" alt="Land of 6676 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 375 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/9f2b1f94-3ea7-4c40-8181-f07999b466e5.jpg" alt="Ana Paula Neto" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 6676 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[650 000 € (Remax Aljezur)]]></title>
@@ -589,80 +589,87 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/imoveis/plot-with-housing-construction-project-near-odeceixe-and-aljezur_2784/en/</id>
+        <link href="https://www.mimosaproperties.com/imoveis/plot-with-housing-construction-project-near-odeceixe-and-aljezur_2784/en/"/>
+        <updated>2021-12-16T17:45:40.877Z</updated>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_0" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2784&amp;f=36a3ba099eef7b6fbd9dd3409c12dfcd.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Land" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_0" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/building-plot-near-vale-da-telha-in-aljezur_2703/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/building-plot-near-vale-da-telha-in-aljezur_2703/en/"/>
         <updated>2021-11-16T12:15:28.526Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_0" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2703&amp;f=1486a51e7d4537cd249903ed0ef45650.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_0" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_1" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2703&amp;f=1486a51e7d4537cd249903ed0ef45650.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_1" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/4-bedroom-villa-with-4-hectares-of-land-vale-da-telha-aljezur_2705/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/4-bedroom-villa-with-4-hectares-of-land-vale-da-telha-aljezur_2705/en/"/>
         <updated>2021-11-16T12:15:28.539Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_1" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2705&amp;f=c31c4d3e59bc6ef7d55e7090e14fd284.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Villa 4 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_1" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_2" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2705&amp;f=c31c4d3e59bc6ef7d55e7090e14fd284.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Villa 4 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_2" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/impressive-four-bedroom-villa-with-swimming-pool-and-sea-view-in-vale-da-telha_2132/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/impressive-four-bedroom-villa-with-swimming-pool-and-sea-view-in-vale-da-telha_2132/en/"/>
         <updated>2021-11-16T12:15:28.545Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_2" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2132&amp;f=f08cc2ca3fcdf05d2df7675f7fa301eb.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Villa 5 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_2" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_3" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2132&amp;f=f08cc2ca3fcdf05d2df7675f7fa301eb.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Villa 5 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_3" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/fabulous-villa-with-two-bedrooms-and-beautiful-swimming-pool-in-vale-da-telha_2115/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/fabulous-villa-with-two-bedrooms-and-beautiful-swimming-pool-in-vale-da-telha_2115/en/"/>
         <updated>2021-11-16T12:15:28.547Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_3" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2115&amp;f=2f07be19c48c6f3759722ea6f1ed7904.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 2 Bedrooms+1" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_3" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_4" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2115&amp;f=2f07be19c48c6f3759722ea6f1ed7904.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 2 Bedrooms+1" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_4" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/fantastic-commercial-space-all-equipped_1960/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/fantastic-commercial-space-all-equipped_1960/en/"/>
         <updated>2021-11-16T12:15:28.548Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_4" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1960&amp;f=134f9abe62813b561a9485959319400b.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Café" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_4" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_5" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1960&amp;f=134f9abe62813b561a9485959319400b.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Café" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_5" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/villa-with-swimming-pool-and-generous-outdoor-areas-in-vale-da-telha_1734/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/villa-with-swimming-pool-and-generous-outdoor-areas-in-vale-da-telha_1734/en/"/>
         <updated>2021-11-16T12:15:28.549Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_5" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1734&amp;f=1d51b573f1a7c6820319ef9c9898af2c.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 3 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_5" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_6" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1734&amp;f=1d51b573f1a7c6820319ef9c9898af2c.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 3 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_6" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/magnificent-urban-plot-with-sea-view-in-vale-da-telha_1486/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/magnificent-urban-plot-with-sea-view-in-vale-da-telha_1486/en/"/>
         <updated>2021-11-16T12:15:28.549Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_6" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1486&amp;f=2a21b65a9d8015c8d73ff7a6654bbfd4.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_6" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_7" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1486&amp;f=2a21b65a9d8015c8d73ff7a6654bbfd4.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_7" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/en/"/>
         <updated>2021-11-16T12:15:28.557Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_7" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1337&amp;f=0003E89F574544.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_7" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_8" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1337&amp;f=0003E89F574544.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_8" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/beautiful-shops-in-a-central-area-in-the-village-of-aljezur_1146/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/beautiful-shops-in-a-central-area-in-the-village-of-aljezur_1146/en/"/>
         <updated>2021-11-16T12:15:28.557Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_8" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1146&amp;f=0003E43983D00C.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Shop" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_8" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_9" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1146&amp;f=0003E43983D00C.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Shop" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_9" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/fantastic-two-storey-villa-with-swimming-pool-in-vale-da-telha_1056/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/fantastic-two-storey-villa-with-swimming-pool-in-vale-da-telha_1056/en/"/>
         <updated>2021-11-16T12:15:28.558Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_9" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1056&amp;f=0003E0D93375FA.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 4 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_9" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_10" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1056&amp;f=0003E0D93375FA.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 4 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_10" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/magnificent-land-for-housing-construction_468/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/magnificent-land-for-housing-construction_468/en/"/>
         <updated>2021-11-16T12:15:28.558Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_10" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=468&amp;f=0003DD621C5C5D.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_10" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_11" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=468&amp;f=0003DD621C5C5D.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_11" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[€599,000 (Century 21)]]></title>
@@ -685,7 +692,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>599,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>675,882</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>674,324</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -718,7 +725,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124370866&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>394,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>444,570</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>443,545</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -751,7 +758,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125863541&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>275,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>310,296</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>309,581</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -784,7 +791,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124305261&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>218,500</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>246,544</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>245,976</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -817,7 +824,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125240741&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>130,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>146,686</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>146,347</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
