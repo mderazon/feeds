@@ -63,3 +63,11 @@ entrySelector = ".list__item"
 waitUntil = "networkidle"
 titleSelector = ".prop__title"
 linkSelector = "a.prop[href]"
+
+[century21-pt]
+title = "Century 21 Portugal"
+url = "https://www.century21.pt/en/for-sale/property-type/aljezur-algarve/?q=portugal+faro-algarve+aljezur-algarve&ord=date-desc&r=&page=1&numberOfElements=12&v=c"
+entrySelector = ".property-list-item"
+waitUntil = "networkidle"
+titleSelector = ".title-link"
+linkSelector = "a.card-agent-photo[href]"
