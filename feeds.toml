@@ -71,3 +71,11 @@ entrySelector = ".property-list-item"
 waitUntil = "networkidle"
 titleSelector = ".title-link"
 linkSelector = "a.card-agent-photo[href]"
+
+[swplaces]
+title = "SW-Places"
+url = "https://sw-places.com/properties?lang=en"
+entrySelector = ".property"
+waitUntil = "networkidle"
+titleSelector = ".property-title"
+linkSelector = "a.property[href]"
