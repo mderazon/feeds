@@ -55,3 +55,11 @@ entrySelector = ".card"
 waitUntil = "networkidle"
 titleSelector = ".sr-only"
 linkSelector = "a.card__gallery[href]"
+
+[chestertons]
+title = "Chestertons"
+url = "https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1"
+entrySelector = ".list__item"
+waitUntil = "networkidle"
+titleSelector = ".prop__title"
+linkSelector = "a.prop[href]"
