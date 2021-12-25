@@ -52,7 +52,7 @@ linkSelector = "a.lptitle[href]"
 title = "ERA Aljezur"
 url = "https://www.era.pt/en/buy?ob=1&tp=1,2&lc=08-03&page=1&ord=3"
 entrySelector = ".card"
-waitUntil = "networkidle"
+waitUntil = "load"
 titleSelector = ".sr-only"
 linkSelector = "a.card__gallery[href]"
 
