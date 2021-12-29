@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-29T05:40:37.889Z</updated>
+    <updated>2021-12-29T17:48:23.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -265,6 +265,46 @@ A great opportunity to invest in this popular urbanisation which is within walki
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur-ref_-u478/22311</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur-ref_-u478/22311"/>
+        <updated>2021-12-29T17:46:53.361Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="URBAN LAND WITH RUIN FOR REDEVELOPMENT">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22311/8629d3ae-6f86-4048-8f54-f5412977884c.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="Centrally located in the delightful village of Bordeira, sitting in an elevated position, this is an ideal opportunity to submit a project to build a new house for permanent residence or holiday let.
+
+Currently registered as a stable/warehouse the property would require an application for change of use as part of a project submission.
+
+Only minutes by car to the beaches of Amado and Bordeira this is a rare find.">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="99950">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/ruin-aljezur-ref_-u478/22311"></a>
+
+
+
+                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/isento.png" alt="CE" width="29">
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22311/8629d3ae-6f86-4048-8f54-f5412977884c.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">URBAN LAND WITH RUIN FOR REDEVELOPMENT</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>99.950 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22311" data-action-text="REF:  U478" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref:  U478</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3632/22012</id>
         <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3632/22012"/>
         <updated>2021-11-23T05:51:38.452Z</updated>
@@ -405,45 +445,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="21980" data-action-text="REF: U452" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U452</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3607/21962</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3607/21962"/>
-        <updated>2021-12-14T17:43:05.737Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="RURAL HOLIDAY APARTMENTS - Aljezur">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/21962/8f29b28f-4716-4862-ba26-3337099cb7b8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="Restored family home overlooking three holiday apartments in 2.2 hectares of orchard land inside the Costa Vicentina Natural Park. The whole property of 410m2, land and buildings, have been maintained to an immaculate level and has had a full valid commercial letting license and successful business history which could possibly be renewed.
-
-Borehole, mains water, mains power and fosse, purpose built laundry to service the business.  The apartments are fully furnished and equipped for self catering and can sleep up to 12 people in total. A ready made business that could continue as is or be used as a large rural family home.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="595000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3607/21962"></a>
-
-        <span class="prop__stamp">SOLD</span>
-
-
-                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/F.png" alt="CE" width="29">
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/21962/8f29b28f-4716-4862-ba26-3337099cb7b8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">RURAL HOLIDAY APARTMENTS - Aljezur</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>595.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="21962" data-action-text="REF: C3607" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3607</span></p>
     </div>
 </div>]]></content>
     </entry>
@@ -685,7 +686,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>599,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>678,284</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>678,625</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -718,7 +719,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124370866&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>394,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>446,150</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>446,374</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -751,7 +752,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125863541&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>275,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>311,399</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>311,556</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -784,7 +785,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124305261&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>218,500</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>247,421</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>247,545</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -817,7 +818,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125240741&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>130,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>147,207</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>147,281</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -2703,6 +2704,228 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         </article>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212"/>
+        <updated>2021-12-29T17:48:15.904Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="3&nbsp;Photos"><i class="fa fa-image"></i>3</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">Urban land in Vale da Telha!</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00566</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
+                                <strong>
+                                    
+                                    65&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            990<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Jorge Guerreiro</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213"/>
+        <updated>2021-12-29T17:48:15.904Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="3&nbsp;Photos"><i class="fa fa-image"></i>3</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/36757-fe264f58c3c95fb006c7ea7e6d7671bd0522fec8_c9d400f3-1c47-43ea-b1ef-156b3068fbf0.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/36757-fe264f58c3c95fb006c7ea7e6d7671bd0522fec8_c9d400f3-1c47-43ea-b1ef-156b3068fbf0.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">Urban land in Vale da Telha!</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00567</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
+                                <strong>
+                                    
+                                    71&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            970<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Jorge Guerreiro</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Urban land in Carrapateira (Century 21 Portugal)]]></title>
         <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344</id>
         <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344"/>
@@ -2821,7 +3044,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
                 
                 <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432">
                 
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound" title="Luís Lourenço" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Luís Lourenço" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound">
                 
                 </a>
                 
@@ -2841,7 +3064,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
 
                 <span class="photo-count label label-dark tip" title="15&nbsp;Photos"><i class="fa fa-image"></i>15</span>
 
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/imagem-3d-edificio-de-servicos-e-recepcao_ed9a2333-affe-4ccf-a556-f1e0be8f933f.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/imagem-3d-edificio-de-servicos-e-recepcao_ed9a2333-affe-4ccf-a556-f1e0be8f933f.jpg?w=400&amp;h=282" alt="Land for tourism next to the beach of Odeceixe, Aljezur, Costa Vicentina!" style="display: block;">
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/imagem-3d-edificio-de-servicos-e-recepcao_ed9a2333-affe-4ccf-a556-f1e0be8f933f.jpg?w=400&amp;h=282" alt="Land for tourism next to the beach of Odeceixe, Aljezur, Costa Vicentina!">
                 </a>
             </div>
 
@@ -2932,7 +3155,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
                 
                 <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938">
                 
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_91193ca6-d23f-4de5-a45e-e681cb8fc4ed.png?w=75&amp;h=75&amp;func=bound" title="Ulisses Santos" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_91193ca6-d23f-4de5-a45e-e681cb8fc4ed.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Ulisses Santos" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_91193ca6-d23f-4de5-a45e-e681cb8fc4ed.png?w=75&amp;h=75&amp;func=bound">
                 
                 </a>
                 
@@ -2952,7 +3175,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
 
                 <span class="photo-count label label-dark tip" title="10&nbsp;Photos"><i class="fa fa-image"></i>10</span>
 
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/392dd6c11a485b6e881799bc73ed2c0b_b8456466-801a-4732-8b1a-dce98db8c4a2.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/392dd6c11a485b6e881799bc73ed2c0b_b8456466-801a-4732-8b1a-dce98db8c4a2.jpg?w=400&amp;h=282" alt="Ground 1170 M2 -  Zone- ALGARVE-Vale da Telha- Aljezur - Algarve" style="display: block;">
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/392dd6c11a485b6e881799bc73ed2c0b_b8456466-801a-4732-8b1a-dce98db8c4a2.jpg?w=400&amp;h=282" alt="Ground 1170 M2 -  Zone- ALGARVE-Vale da Telha- Aljezur - Algarve">
                 </a>
             </div>
 
@@ -3268,119 +3491,10 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         </article>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[*** Extraordinary Property for comeercial using, in the amazing Natural Park of Alezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast *** (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123</id>
-        <link href="https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123"/>
-        <updated>2021-12-29T05:40:29.929Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
-                
-                <img class="lazy tip" src="/images/loading/grey.gif" title="Aida Infante" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
-                    <span class="label-container">
-
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="25&nbsp;Photos"><i class="fa fa-image"></i>25</span>
-
-                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/vista-para-monchique-e-terreno-gatinhos_9d025623-32c6-44d7-9d8c-c2acf14490c0.jpg?w=400&amp;h=282" alt="*** Extraordinary Property for comeercial using, in the amazing Natural Park of Alezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast ***">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">*** Extraordinary Property for comeercial using, in the amazing Natural Park of Alezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast ***</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Store <small>Reference: C0369-00111</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
-                                <strong>
-                                    
-                                    On Request
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            5&nbsp;000<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Aida Infante</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Terreno Rústico (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.261Z</updated>
+        <updated>2021-12-29T17:48:23.318Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/530/slide/23-1-530-20211220151907000000-620C2A61-2A9D-465B-B5FA-2FC4D4D46E79.jpeg" alt="Terreno Rústico">
 						
@@ -3399,7 +3513,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Moradia Centro Histórico (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.262Z</updated>
+        <updated>2021-12-29T17:48:23.320Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/529/slide/23-1-529-20211117122552000000-9F56BEA5-4CAB-4F6F-9042-08076DC96D02.jpg" alt="Moradia Centro Histórico">
 						<div class="property-business-state">Reserved</div>
@@ -3418,7 +3532,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Terreno Urbano (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.263Z</updated>
+        <updated>2021-12-29T17:48:23.320Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/528/slide/23-1-528-20211112155425000000-0410CDF6-7312-4265-BD1C-2B627EC1F6EE.jpg" alt="Terreno Urbano">
 						
@@ -3437,7 +3551,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Edificio Central (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.270Z</updated>
+        <updated>2021-12-29T17:48:23.321Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/527/slide/23-1-527-20211110172456000000-3786389E-60E9-4F61-B35D-2F290EE47283.jpeg" alt="Edificio Central">
 						
@@ -3456,7 +3570,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Moradia de aldeia (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.271Z</updated>
+        <updated>2021-12-29T17:48:23.322Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/526/slide/23-1-526-20211110142302000000-00BFFCDB-2A1F-498C-9F23-9553E798D0C2.jpg" alt="Moradia de aldeia">
 						<div class="property-business-state">Exclusive</div>
@@ -3475,7 +3589,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Little Farm (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.272Z</updated>
+        <updated>2021-12-29T17:48:23.324Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/525/slide/23-1-525-20211029111943000000-7DA3491A-7F13-45AD-8578-198744A7AA1E.jpeg" alt="Little Farm">
 						<div class="property-business-state">Exclusive</div>
@@ -3494,7 +3608,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Rural Farm to Rehabilitate (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.273Z</updated>
+        <updated>2021-12-29T17:48:23.326Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/524/slide/23-1-524-20211011132002000000-171DE33B-CD98-47BE-8D26-DCF9C9EC5DDB.jpeg" alt="Rural Farm to Rehabilitate">
 						
@@ -3513,7 +3627,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Quinta no Alentejo (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.273Z</updated>
+        <updated>2021-12-29T17:48:23.328Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/523/slide/23-1-523-20211008142000000000-2BA343E9-4324-4077-A67B-4B745CDE9510.jpeg" alt="Quinta no Alentejo">
 						
@@ -3532,7 +3646,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Apartamento T1 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.274Z</updated>
+        <updated>2021-12-29T17:48:23.329Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/522/slide/23-1-522-20210930111922000000-53CA40BC-828C-4F0D-A793-60A5B66D46CF.jpg" alt="Apartamento T1">
 						<div class="property-business-state">Reserved</div>
@@ -3551,7 +3665,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Moradia Marmelete (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.275Z</updated>
+        <updated>2021-12-29T17:48:23.329Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/521/slide/23-1-521-20210916113920000000-A82086C6-44BA-4D0A-B777-C26A625C3F32.jpg" alt="Moradia Marmelete">
 						
@@ -3570,7 +3684,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Terreno Rústico (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.276Z</updated>
+        <updated>2021-12-29T17:48:23.330Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/520/slide/23-1-520-20210906153909000000-D10372DC-A246-43EA-84AA-DB00A5934456.jpg" alt="Terreno Rústico">
 						<div class="property-business-state">Sold</div>
@@ -3589,7 +3703,7 @@ Borehole, mains water, mains power and fosse, purpose built laundry to service t
         <title type="html"><![CDATA[Terreno Rústico (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2021-12-29T05:40:37.277Z</updated>
+        <updated>2021-12-29T17:48:23.332Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/519/slide/23-1-519-20210906152641000000-3FF159B5-D3AD-4494-B5B2-2A6B759CEEB9.jpg" alt="Terreno Rústico">
 						<div class="property-business-state">Sold</div>
