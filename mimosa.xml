@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/imoveis/?pg=1&amp;o=1&amp;g=&amp;t=&amp;e=&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;ct=0000000000001&amp;or=30&amp;idioma=en</id>
     <title>Mimosa</title>
-    <updated>2022-01-03T05:40:45.281Z</updated>
+    <updated>2022-01-03T17:51:09.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/assets/icons/favicon-32x32.png</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_4" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1960&amp;f=134f9abe62813b561a9485959319400b.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Café" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_4" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Faro, Aljezur]]></title>
+        <title type="html"><![CDATA[Faro, AljezurReserved]]></title>
         <id>https://www.mimosaproperties.com/imoveis/villa-with-swimming-pool-and-generous-outdoor-areas-in-vale-da-telha_1734/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/villa-with-swimming-pool-and-generous-outdoor-areas-in-vale-da-telha_1734/en/"/>
         <updated>2021-11-16T12:15:28.549Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_5" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1734&amp;f=1d51b573f1a7c6820319ef9c9898af2c.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 3 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_5" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_5" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1734&amp;f=1d51b573f1a7c6820319ef9c9898af2c.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 3 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_5" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_arrendado_5" class="lbl_arrendado">Reserved</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur]]></title>
