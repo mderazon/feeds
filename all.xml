@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-06T17:51:35.317Z</updated>
+    <updated>2022-01-07T05:41:18.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -792,11 +792,45 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[€167,000 (Century 21)]]></title>
+        <id>https://www.century21global.com/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft</id>
+        <link href="https://www.century21global.com/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft"/>
+        <updated>2022-01-07T05:40:22.092Z</updated>
+        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="372394748832287" data-index="4" data-lat="37.239474" data-lng="-8.832287">
+                <a class="search-result-photo" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
+
+    <div class="search-result-photo-wrapper">
+        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/shabouco---18-3_dcbc1ff0-13a3-4599-9ee7-c03b5363f861.jpg?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
+    </div>
+    <span class="property-flag new-flag">NEWLY LISTED</span>
+    </a>
+<div class="search-result-actions"><button data-id="126686434" data-type="property" data-property-type="1" data-contact-type="office" data-e="PRP-Contact Property Office" class="contact-link btn btn-sm btn-default text-left-md text-left-lg" title="Contact">
+            <span class="glyphicon glyphicon-envelope"></span></button>
+    <button class="property-card-save-btn save-property btn btn-sm btn-default text-left-md text-left-lg" data-property-id="126686434">
+            <span class="glyphicon glyphicon-heart"></span> <span class="visible-md-inline visible-lg-inline">
+            </span>
+        </button>
+    </div>
+<a class="search-result-info" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
+    <div class="search-result-label-primary price-native"><span dir="ltr">€<span>167,000</span></span> EUR</div>
+        <div class="search-result-label-secondary price-user">$<span>188,438</span> USD</div>
+        <span class="property-address" style="display:none">Aljezur (Algarve)</span>
+    <span class="search-result-label">
+                        Aljezur (Algarve), Faro (Algarve), Portugal</span>
+                    <span class="search-result-label">
+                        <div class="size">
+                                    807 sq. ft. - 75 m<sup>2</sup></div>
+                            </span>
+
+    <span class="search-result-label">2 rooms - 1 bath</span>
+    </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[€130,000 (Century 21)]]></title>
         <id>https://www.century21global.com/propertyDetails.action?id=125240741&amp;cu=USD&amp;sizeunit=sqft</id>
         <link href="https://www.century21global.com/propertyDetails.action?id=125240741&amp;cu=USD&amp;sizeunit=sqft"/>
         <updated>2021-11-23T05:52:00.894Z</updated>
-        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="37315657879362" data-index="4" data-lat="37.315657" data-lng="-8.79362">
+        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="37315657879362" data-index="5" data-lat="37.315657" data-lng="-8.79362">
                 <a class="search-result-photo" href="/propertyDetails.action?id=125240741&amp;cu=USD&amp;sizeunit=sqft">
 
     <div class="search-result-photo-wrapper">
@@ -2763,228 +2797,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         </article>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212</id>
-        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212"/>
-        <updated>2022-01-06T17:51:28.087Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
-                    <span class="label-container">
-
-                        
-                        <span class="label label-danger">Price Reduced</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="3&nbsp;Photos"><i class="fa fa-image"></i>3</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">Urban land in Vale da Telha!</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00566</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
-                                <strong>
-                                    
-                                    65&nbsp;000 € <small></small>
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            990<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Jorge Guerreiro</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213</id>
-        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213"/>
-        <updated>2022-01-06T17:51:28.089Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
-                    <span class="label-container">
-
-                        
-                        <span class="label label-danger">Price Reduced</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="3&nbsp;Photos"><i class="fa fa-image"></i>3</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/36757-fe264f58c3c95fb006c7ea7e6d7671bd0522fec8_c9d400f3-1c47-43ea-b1ef-156b3068fbf0.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/36757-fe264f58c3c95fb006c7ea7e6d7671bd0522fec8_c9d400f3-1c47-43ea-b1ef-156b3068fbf0.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">Urban land in Vale da Telha!</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00567</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
-                                <strong>
-                                    
-                                    71&nbsp;000 € <small></small>
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            970<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Jorge Guerreiro</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Urban land in Carrapateira (Century 21 Portugal)]]></title>
         <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344</id>
         <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344"/>
@@ -2994,7 +2806,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                 
                 <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344">
                 
-                <img class="lazy tip" src="/images/loading/grey.gif" title="José Henrique" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_bf15989e-aad2-4b8c-b366-4087490a62e6.png?w=75&amp;h=75&amp;func=bound">
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_bf15989e-aad2-4b8c-b366-4087490a62e6.png?w=75&amp;h=75&amp;func=bound" title="José Henrique" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_bf15989e-aad2-4b8c-b366-4087490a62e6.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
                 
                 </a>
                 
@@ -3012,7 +2824,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
 
                 <span class="photo-count label label-dark tip" title="42&nbsp;Photos"><i class="fa fa-image"></i>42</span>
 
-                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/whatsapp-image-2021-01-08-at-18-32-36_d3e97ace-064b-43dd-baab-cb1ae48e0134.jpg?w=400&amp;h=282" alt="Urban land in Carrapateira">
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/whatsapp-image-2021-01-08-at-18-32-36_d3e97ace-064b-43dd-baab-cb1ae48e0134.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/whatsapp-image-2021-01-08-at-18-32-36_d3e97ace-064b-43dd-baab-cb1ae48e0134.jpg?w=400&amp;h=282" alt="Urban land in Carrapateira" style="display: block;">
                 </a>
             </div>
 
@@ -3103,7 +2915,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                 
                 <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432">
                 
-                <img class="lazy tip" src="/images/loading/grey.gif" title="Luís Lourenço" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound">
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound" title="Luís Lourenço" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
                 
                 </a>
                 
@@ -3123,7 +2935,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
 
                 <span class="photo-count label label-dark tip" title="15&nbsp;Photos"><i class="fa fa-image"></i>15</span>
 
-                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/imagem-3d-edificio-de-servicos-e-recepcao_ed9a2333-affe-4ccf-a556-f1e0be8f933f.jpg?w=400&amp;h=282" alt="Land for tourism next to the beach of Odeceixe, Aljezur, Costa Vicentina!">
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/imagem-3d-edificio-de-servicos-e-recepcao_ed9a2333-affe-4ccf-a556-f1e0be8f933f.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/imagem-3d-edificio-de-servicos-e-recepcao_ed9a2333-affe-4ccf-a556-f1e0be8f933f.jpg?w=400&amp;h=282" alt="Land for tourism next to the beach of Odeceixe, Aljezur, Costa Vicentina!" style="display: block;">
                 </a>
             </div>
 
@@ -3441,10 +3253,230 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         </article>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[* SELLING Shop, Igreja Nova - Aljezur - 245 sqm - ready for your business * (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910</id>
+        <link href="https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910"/>
+        <updated>2022-01-07T05:41:10.717Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">
+                
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Aida Infante" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="54&nbsp;Photos"><i class="fa fa-image"></i>54</span>
+
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/dscn6590_ceb7de48-90c2-4cf9-8165-63c2a71075d9.JPG?w=400&amp;h=282" alt="* SELLING Shop, Igreja Nova - Aljezur - 245 sqm - ready for your business *">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">* SELLING Shop, Igreja Nova - Aljezur - 245 sqm - ready for your business *</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Store <small>Reference: C0369-00128</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">
+                                <strong>
+                                    
+                                    182&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            255<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Aida Infante</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*** Extraordinary Property for comeercial using, in the amazing Natural Park of Alezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast *** (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123</id>
+        <link href="https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123"/>
+        <updated>2022-01-07T05:41:10.718Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
+                
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Aida Infante" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
+                    <span class="label-container">
+
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="25&nbsp;Photos"><i class="fa fa-image"></i>25</span>
+
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/vista-para-monchique-e-terreno-gatinhos_9d025623-32c6-44d7-9d8c-c2acf14490c0.jpg?w=400&amp;h=282" alt="*** Extraordinary Property for comeercial using, in the amazing Natural Park of Alezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast ***">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">*** Extraordinary Property for comeercial using, in the amazing Natural Park of Alezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast ***</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Store <small>Reference: C0369-00111</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
+                                <strong>
+                                    
+                                    On Request
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            5&nbsp;000<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/commercial/aljezur-algarve/store-extraordinary-property-for-comeercial-using-in-the-amazing-natural-park-of-alezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Aida Infante</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Oportunidade de Negócio (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.702Z</updated>
+        <updated>2022-01-07T05:41:17.968Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/534/slide/23-1-534-20220106110129000000-283420A4-006B-47F7-9DAA-FD85492CD57F.jpg" alt="Oportunidade de Negócio">
 						
@@ -3463,7 +3495,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Moradia T2 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.703Z</updated>
+        <updated>2022-01-07T05:41:17.968Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/533/slide/23-1-533-20220104164608000000-E47DBD5E-FA97-471E-97AA-BC80E51C4CDA.jpg" alt="Moradia T2">
 						
@@ -3482,7 +3514,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Quintinha T3 Costa Alentejana (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.704Z</updated>
+        <updated>2022-01-07T05:41:17.968Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/531/slide/23-1-531-20211230124555000000-2DAE5284-7715-4303-B67E-CA6EA803CF41.jpeg" alt="Quintinha T3 Costa Alentejana">
 						
@@ -3501,7 +3533,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Terreno Rústico (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.704Z</updated>
+        <updated>2022-01-07T05:41:17.968Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/530/slide/23-1-530-20211220151907000000-620C2A61-2A9D-465B-B5FA-2FC4D4D46E79.jpeg" alt="Terreno Rústico">
 						
@@ -3520,7 +3552,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Moradia Centro Histórico (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.707Z</updated>
+        <updated>2022-01-07T05:41:17.968Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/529/slide/23-1-529-20211117122552000000-9F56BEA5-4CAB-4F6F-9042-08076DC96D02.jpg" alt="Moradia Centro Histórico">
 						<div class="property-business-state">Reserved</div>
@@ -3539,7 +3571,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Terreno Urbano (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.711Z</updated>
+        <updated>2022-01-07T05:41:17.968Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/528/slide/23-1-528-20211112155425000000-0410CDF6-7312-4265-BD1C-2B627EC1F6EE.jpg" alt="Terreno Urbano">
 						
@@ -3558,7 +3590,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Edificio Central (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.711Z</updated>
+        <updated>2022-01-07T05:41:17.972Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/527/slide/23-1-527-20211110172456000000-3786389E-60E9-4F61-B35D-2F290EE47283.jpeg" alt="Edificio Central">
 						
@@ -3577,7 +3609,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Moradia de aldeia (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.711Z</updated>
+        <updated>2022-01-07T05:41:17.972Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/526/slide/23-1-526-20211110142302000000-00BFFCDB-2A1F-498C-9F23-9553E798D0C2.jpg" alt="Moradia de aldeia">
 						<div class="property-business-state">Exclusive</div>
@@ -3596,7 +3628,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Little Farm (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.711Z</updated>
+        <updated>2022-01-07T05:41:17.972Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/525/slide/23-1-525-20211029111943000000-7DA3491A-7F13-45AD-8578-198744A7AA1E.jpeg" alt="Little Farm">
 						<div class="property-business-state">Exclusive</div>
@@ -3615,7 +3647,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Rural Farm to Rehabilitate (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.714Z</updated>
+        <updated>2022-01-07T05:41:17.973Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/524/slide/23-1-524-20211011132002000000-171DE33B-CD98-47BE-8D26-DCF9C9EC5DDB.jpeg" alt="Rural Farm to Rehabilitate">
 						
@@ -3634,7 +3666,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Quinta no Alentejo (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.715Z</updated>
+        <updated>2022-01-07T05:41:17.975Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/523/slide/23-1-523-20211008142000000000-2BA343E9-4324-4077-A67B-4B745CDE9510.jpeg" alt="Quinta no Alentejo">
 						
@@ -3653,7 +3685,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Apartamento T1 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-06T17:51:34.715Z</updated>
+        <updated>2022-01-07T05:41:17.977Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/522/slide/23-1-522-20210930111922000000-53CA40BC-828C-4F0D-A793-60A5B66D46CF.jpg" alt="Apartamento T1">
 						<div class="property-business-state">Reserved</div>
