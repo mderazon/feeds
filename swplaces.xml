@@ -2,14 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?lang=en</id>
     <title>SW-Places</title>
-    <updated>2022-01-19T05:38:36.268Z</updated>
+    <updated>2022-01-19T17:45:07.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/img/logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Quintinha da Avó]]></title>
+        <id>https://sw-places.com/properties?lang=en</id>
+        <link href="https://sw-places.com/properties?lang=en"/>
+        <updated>2022-01-19T17:45:07.032Z</updated>
+        <content type="html"><![CDATA[<div class="property-row-a">
+						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/537/slide/23-1-537-20220119152628000000-4EBA3976-A292-4D04-98AB-07EA0D6487DA.jpg" alt="Quintinha da Avó">
+						
+						<div class="property-ec">
+							<img class="property-ec-icon" src="img/icons/energy/energy-f.png" alt="F">
+						</div>
+						<div class="property-reference">Ref: Qt-520</div>
+					</div>
+					<div class="property-row-b">
+						<div class="property-title">Quintinha da Avó</div>
+						<div class="property-location"><span class="property-county">Aljezur</span> &gt; <span class="property-parish">Aljezur</span></div>
+						<div class="property-price">990 000 €</div>
+					</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Casa Azul]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.605Z</updated>
+        <updated>2022-01-19T17:45:07.033Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/536/slide/23-1-536-20220117151755000000-6248CF09-F29D-47B3-8FDD-897DF164FC53.jpg" alt="Casa Azul">
 						
@@ -28,7 +47,7 @@
         <title type="html"><![CDATA[Quintinha Carreagem]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.605Z</updated>
+        <updated>2022-01-19T17:45:07.034Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/535/slide/23-1-535-20220111150414000000-F10A503F-0531-475A-831D-4FBF5CB3B51C.jpg" alt="Quintinha Carreagem">
 						
@@ -47,7 +66,7 @@
         <title type="html"><![CDATA[Oportunidade de Negócio]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.606Z</updated>
+        <updated>2022-01-19T17:45:07.035Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/534/slide/23-1-534-20220106110129000000-283420A4-006B-47F7-9DAA-FD85492CD57F.jpg" alt="Oportunidade de Negócio">
 						
@@ -66,7 +85,7 @@
         <title type="html"><![CDATA[Cosy Ville just 5´ from Arrifana beach]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.608Z</updated>
+        <updated>2022-01-19T17:45:07.036Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/533/slide/23-1-533-20220104164608000000-E47DBD5E-FA97-471E-97AA-BC80E51C4CDA.jpg" alt="Cosy Ville just 5´ from Arrifana beach">
 						<div class="property-business-state">Reserved</div>
@@ -85,7 +104,7 @@
         <title type="html"><![CDATA[Quintinha T3 Costa Alentejana]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.610Z</updated>
+        <updated>2022-01-19T17:45:07.038Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/531/slide/23-1-531-20211230124555000000-2DAE5284-7715-4303-B67E-CA6EA803CF41.jpeg" alt="Quintinha T3 Costa Alentejana">
 						
@@ -104,7 +123,7 @@
         <title type="html"><![CDATA[Terreno Rústico]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.612Z</updated>
+        <updated>2022-01-19T17:45:07.044Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/530/slide/23-1-530-20211220151907000000-620C2A61-2A9D-465B-B5FA-2FC4D4D46E79.jpeg" alt="Terreno Rústico">
 						
@@ -123,7 +142,7 @@
         <title type="html"><![CDATA[Moradia Centro Histórico]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.615Z</updated>
+        <updated>2022-01-19T17:45:07.044Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/529/slide/23-1-529-20211117122552000000-9F56BEA5-4CAB-4F6F-9042-08076DC96D02.jpg" alt="Moradia Centro Histórico">
 						<div class="property-business-state">Reserved</div>
@@ -142,7 +161,7 @@
         <title type="html"><![CDATA[Terreno Urbano]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.616Z</updated>
+        <updated>2022-01-19T17:45:07.045Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/528/slide/23-1-528-20211112155425000000-0410CDF6-7312-4265-BD1C-2B627EC1F6EE.jpg" alt="Terreno Urbano">
 						
@@ -161,7 +180,7 @@
         <title type="html"><![CDATA[Edificio Central]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.619Z</updated>
+        <updated>2022-01-19T17:45:07.046Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/527/slide/23-1-527-20211110172456000000-3786389E-60E9-4F61-B35D-2F290EE47283.jpeg" alt="Edificio Central">
 						
@@ -180,7 +199,7 @@
         <title type="html"><![CDATA[Moradia de aldeia]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.621Z</updated>
+        <updated>2022-01-19T17:45:07.047Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/526/slide/23-1-526-20211110142302000000-00BFFCDB-2A1F-498C-9F23-9553E798D0C2.jpg" alt="Moradia de aldeia">
 						<div class="property-business-state">Exclusive</div>
@@ -199,7 +218,7 @@
         <title type="html"><![CDATA[Little Farm]]></title>
         <id>https://sw-places.com/properties?lang=en</id>
         <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.626Z</updated>
+        <updated>2022-01-19T17:45:07.048Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/525/slide/23-1-525-20211029111943000000-7DA3491A-7F13-45AD-8578-198744A7AA1E.jpeg" alt="Little Farm">
 						<div class="property-business-state">Exclusive</div>
@@ -212,25 +231,6 @@
 						<div class="property-title">Little Farm</div>
 						<div class="property-location"><span class="property-county">Monchique</span> &gt; <span class="property-parish">Monchique</span></div>
 						<div class="property-price">50 000 €</div>
-					</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rural Farm to Rehabilitate]]></title>
-        <id>https://sw-places.com/properties?lang=en</id>
-        <link href="https://sw-places.com/properties?lang=en"/>
-        <updated>2022-01-19T05:38:35.629Z</updated>
-        <content type="html"><![CDATA[<div class="property-row-a">
-						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/524/slide/23-1-524-20211011132002000000-171DE33B-CD98-47BE-8D26-DCF9C9EC5DDB.jpeg" alt="Rural Farm to Rehabilitate">
-						
-						<div class="property-ec">
-							<img class="property-ec-icon" src="img/icons/energy/energy-exempted.png" alt="Exempted">
-						</div>
-						<div class="property-reference">Ref: Qt-482</div>
-					</div>
-					<div class="property-row-b">
-						<div class="property-title">Rural Farm to Rehabilitate</div>
-						<div class="property-location"><span class="property-county">Monchique</span> &gt; <span class="property-parish">Marmelete</span></div>
-						<div class="property-price">70 000 €</div>
 					</div>]]></content>
     </entry>
 </feed>
