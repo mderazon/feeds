@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-21T17:42:30.013Z</updated>
+    <updated>2022-01-22T05:38:45.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -450,6 +450,13 @@ This is a unique opportunity to acquire a villa with a successful and fully func
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2 300 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-land-aljezur-bordeira/123041060-2</id>
+        <link href="https://remax.pt/en/listings/buy-land-aljezur-bordeira/123041060-2"/>
+        <updated>2022-01-22T05:37:30.461Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" alt="Land of 59250 m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 2 300 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/9390961b-0be2-4a56-8d5e-a08febf8f998.jpg" alt="Sónia Caravelas" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 59250 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[420 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-house-t3-aljezur-aljezur/126001012-1</id>
         <link href="https://remax.pt/en/listings/buy-house-t3-aljezur-aljezur/126001012-1"/>
@@ -581,13 +588,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <link href="https://remax.pt/en/listings/buy-land-t0-aljezur-rogil/123041029-40"/>
         <updated>2022-01-13T05:40:32.772Z</updated>
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" alt="Land of 6800 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 28 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/12304/123041029/A_7a1ecb18768e4e4cb601cd5cfbff2580_iList.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 6800 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[980 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-farm-t0-aljezur-odeceixe/123041029-34</id>
-        <link href="https://remax.pt/en/listings/buy-farm-t0-aljezur-odeceixe/123041029-34"/>
-        <updated>2022-01-21T17:41:12.509Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/123041029-34/L_f2640288a6bf4558ab45422ebae63571.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/123041029-34/L_f2640288a6bf4558ab45422ebae63571.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/123041029-34/L_f2640288a6bf4558ab45422ebae63571.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/123041029-34/L_f2640288a6bf4558ab45422ebae63571.jpg" alt="Farm T0 of 357 m², for sale in Odeceixe, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 980 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Odeceixe </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/12304/123041029/A_7a1ecb18768e4e4cb601cd5cfbff2580_iList.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Farm</li> <li class="listing-area"> <i class="icon-area-full"></i> 161960 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
@@ -2035,7 +2035,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Quintinha da Avó (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.409Z</updated>
+        <updated>2022-01-22T05:38:44.286Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/537/slide/23-1-537-20220119152628000000-4EBA3976-A292-4D04-98AB-07EA0D6487DA.jpg" alt="Quintinha da Avó">
 						
@@ -2054,7 +2054,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Casa Azul (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.409Z</updated>
+        <updated>2022-01-22T05:38:44.288Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/536/slide/23-1-536-20220117151755000000-6248CF09-F29D-47B3-8FDD-897DF164FC53.jpg" alt="Casa Azul">
 						
@@ -2073,7 +2073,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Quintinha Carreagem (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.411Z</updated>
+        <updated>2022-01-22T05:38:44.288Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/535/slide/23-1-535-20220111150414000000-F10A503F-0531-475A-831D-4FBF5CB3B51C.jpg" alt="Quintinha Carreagem">
 						
@@ -2092,7 +2092,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Oportunidade de Negócio (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.414Z</updated>
+        <updated>2022-01-22T05:38:44.289Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/534/slide/23-1-534-20220106110129000000-283420A4-006B-47F7-9DAA-FD85492CD57F.jpg" alt="Oportunidade de Negócio">
 						
@@ -2111,7 +2111,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Cosy Ville just 5´ from Arrifana beach (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.416Z</updated>
+        <updated>2022-01-22T05:38:44.290Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/533/slide/23-1-533-20220104164608000000-E47DBD5E-FA97-471E-97AA-BC80E51C4CDA.jpg" alt="Cosy Ville just 5´ from Arrifana beach">
 						<div class="property-business-state">Reserved</div>
@@ -2130,7 +2130,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Quintinha T3 Costa Alentejana (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.417Z</updated>
+        <updated>2022-01-22T05:38:44.291Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/531/slide/23-1-531-20211230124555000000-2DAE5284-7715-4303-B67E-CA6EA803CF41.jpeg" alt="Quintinha T3 Costa Alentejana">
 						
@@ -2149,7 +2149,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Terreno Rústico (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.418Z</updated>
+        <updated>2022-01-22T05:38:44.293Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/530/slide/23-1-530-20211220151907000000-620C2A61-2A9D-465B-B5FA-2FC4D4D46E79.jpeg" alt="Terreno Rústico">
 						
@@ -2168,7 +2168,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Terreno Urbano (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.419Z</updated>
+        <updated>2022-01-22T05:38:44.294Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/528/slide/23-1-528-20211112155425000000-0410CDF6-7312-4265-BD1C-2B627EC1F6EE.jpg" alt="Terreno Urbano">
 						
@@ -2187,7 +2187,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Edificio Central (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.428Z</updated>
+        <updated>2022-01-22T05:38:44.296Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/527/slide/23-1-527-20211110172456000000-3786389E-60E9-4F61-B35D-2F290EE47283.jpeg" alt="Edificio Central">
 						
@@ -2206,7 +2206,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Moradia de aldeia (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.428Z</updated>
+        <updated>2022-01-22T05:38:44.297Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/526/slide/23-1-526-20211110142302000000-00BFFCDB-2A1F-498C-9F23-9553E798D0C2.jpg" alt="Moradia de aldeia">
 						<div class="property-business-state">Exclusive</div>
@@ -2225,7 +2225,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Little Farm (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.429Z</updated>
+        <updated>2022-01-22T05:38:44.299Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/525/slide/23-1-525-20211029111943000000-7DA3491A-7F13-45AD-8578-198744A7AA1E.jpeg" alt="Little Farm">
 						<div class="property-business-state">Exclusive</div>
@@ -2244,7 +2244,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <title type="html"><![CDATA[Rural Farm to Rehabilitate (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-01-21T17:42:29.431Z</updated>
+        <updated>2022-01-22T05:38:44.301Z</updated>
         <content type="html"><![CDATA[<div class="property-row-a">
 						<img class="property-image" src="https://imodigi.com/backoffice/img/imoveis/23/1/524/slide/23-1-524-20211011132002000000-171DE33B-CD98-47BE-8D26-DCF9C9EC5DDB.jpeg" alt="Rural Farm to Rehabilitate">
 						
