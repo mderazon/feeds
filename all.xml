@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T05:39:15.341Z</updated>
+    <updated>2022-01-26T17:42:33.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -450,6 +450,13 @@ This is a unique opportunity to acquire a villa with a successful and fully func
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[130 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-house-t0-aljezur-aljezur/124921038-10</id>
+        <link href="https://remax.pt/en/listings/buy-house-t0-aljezur-aljezur/124921038-10"/>
+        <updated>2022-01-26T17:41:19.214Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12492/6337053/6c054458-b1dc-4e61-82cd-e2880741a7ff.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12492/6337053/6c054458-b1dc-4e61-82cd-e2880741a7ff.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12492/6337053/6c054458-b1dc-4e61-82cd-e2880741a7ff.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12492/6337053/6c054458-b1dc-4e61-82cd-e2880741a7ff.jpg" alt="House T0 of 64 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 130 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/4c18ef7d-1a3f-4b03-bc51-d93b855f9928.jpg" alt="Rui Sobreiro" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 64 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2 300 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-land-aljezur-bordeira/123041060-2</id>
         <link href="https://remax.pt/en/listings/buy-land-aljezur-bordeira/123041060-2"/>
@@ -583,13 +590,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" alt="Land of 780 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 40 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/79df97ee-c71d-427c-aad9-3f709eaab613.jpg" alt="Rui Bernardo" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 780 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> -- </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-t0-aljezur-rogil/123041029-40</id>
-        <link href="https://remax.pt/en/listings/buy-land-t0-aljezur-rogil/123041029-40"/>
-        <updated>2022-01-13T05:40:32.772Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/123041029-40/L_a1fec62e231842cf8ce53db192fc205c.jpg" alt="Land of 6800 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 28 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/12304/123041029/A_7a1ecb18768e4e4cb601cd5cfbff2580_iList.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 6800 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/building-plot-near-vale-da-telha-in-aljezur_2703/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/building-plot-near-vale-da-telha-in-aljezur_2703/en/"/>
@@ -673,7 +673,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>599,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>679,583</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>678,326</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -706,7 +706,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124370866&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>394,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>447,005</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>446,177</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -739,7 +739,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124305261&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>218,500</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>247,895</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>247,436</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -772,7 +772,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>167,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>189,467</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>189,116</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -970,45 +970,11 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[90.500 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305176</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305176"/>
-        <updated>2021-11-23T05:52:07.091Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305176">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/305176/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/305176/348b1ec8-291b-4f93-a725-de1851d2b723.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A019.4
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            90.500 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">UNDER OFFER</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100.000 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-_305172</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-_305172"/>
-        <updated>2021-11-23T05:52:07.092Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-_305172">
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172"/>
+        <updated>2022-01-26T17:41:46.549Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172">
                             <div class="prop-imgArea">
                                 <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/305172/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/305172/f579922c-b4de-451a-ab9e-06f1f8571ce2.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
@@ -1037,13 +1003,13 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[110.500 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499"/>
-        <updated>2021-11-23T05:52:07.094Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499">
+        <title type="html"><![CDATA[100.000 € (Luxview)]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455"/>
+        <updated>2021-11-23T05:52:07.096Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/304499/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/304499/0dd9e9e0-9034-49c0-9618-0ba71295ee8a.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271455/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271455/cee9f592-3cda-4104-a655-f0be21c67d08.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -1055,56 +1021,14 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                                                 <span class="prop-specLabel">
                                                     Ref: &nbsp;
                                                 </span>
-                                                A019
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            110.500 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100.000 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455"/>
-        <updated>2021-11-23T05:52:07.096Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271455/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271455/cee9f592-3cda-4104-a655-f0be21c67d08.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-content">
-                                        <ul class="prop-feats">
-                                                <li>
-                                                    Not applicable
-                                                </li>
-                                            <li>
-                                                Land
-                                            </li>
-                                            <li>
-                                                Aljezur Vale do Pereiro
-                                            </li>
-                                            <li>
                                                 A017
                                             </li>
                                         </ul>
-
-                                        <ul class="prop-specs">
-                                                                                    </ul>
+                                        <span class="prop-price prop-price--long">
+                                            100.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
                                     </div>
-                                    <span class="prop-price">
-                                        100.000 €
-                                        <i class="fa fa-long-arrow-right"></i>
-                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -1150,28 +1074,36 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <id>https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013</id>
         <link href="https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013"/>
         <updated>2021-11-23T05:52:07.098Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013">
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/256013/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/256013/d71dcac1-c154-4096-934d-be3734a81729.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/256013/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/256013/d71dcac1-c154-4096-934d-be3734a81729.png?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
+                                    <div class="prop-content">
+                                        <ul class="prop-feats">
+                                                <li>
+                                                    Not applicable
+                                                </li>
                                             <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
+                                                Land
+                                            </li>
+                                            <li>
+                                                Aljezur Vales
+                                            </li>
+                                            <li>
                                                 A014
                                             </li>
                                         </ul>
-                                        <span class="prop-price prop-price--long">
-                                            105.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
+
+                                        <ul class="prop-specs">
+                                                                                    </ul>
                                     </div>
+                                    <span class="prop-price">
+                                        105.000 €
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
