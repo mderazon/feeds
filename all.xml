@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-01T05:38:18.974Z</updated>
+    <updated>2022-02-01T17:42:05.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -595,74 +595,81 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12056/120561246-221/L_26cdade33246423b839301340e54f247.jpg" alt="Land of 780 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 40 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/79df97ee-c71d-427c-aad9-3f709eaab613.jpg" alt="Rui Bernardo" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 780 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> -- </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Faro, AljezurExclusive (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/imoveis/3-bedroom-villa-with-pool-and-garage-in-vale-da-telha-with-a-lovely-garden_3091/en/</id>
+        <link href="https://www.mimosaproperties.com/imoveis/3-bedroom-villa-with-pool-and-garage-in-vale-da-telha-with-a-lovely-garden_3091/en/"/>
+        <updated>2022-02-01T17:41:08.635Z</updated>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_0" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=3091&amp;f=6c41b097-c8de-4a73-9095-d9e6a8735197.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 3 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_0" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_exclusivo_0" class="lbl_exclusivo">Exclusive</span>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/development-faro-aljezur-sale_3090/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/development-faro-aljezur-sale_3090/en/"/>
         <updated>2022-01-31T17:39:31.978Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_0" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=3090&amp;f=22f19dd4-3414-4971-a377-35e1741eda70.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Development" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_0" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_1" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=3090&amp;f=22f19dd4-3414-4971-a377-35e1741eda70.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Development" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_1" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/building-plot-near-vale-da-telha-in-aljezur_2703/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/building-plot-near-vale-da-telha-in-aljezur_2703/en/"/>
         <updated>2021-11-16T12:15:28.526Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_1" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2703&amp;f=1486a51e7d4537cd249903ed0ef45650.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_1" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_2" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2703&amp;f=1486a51e7d4537cd249903ed0ef45650.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_2" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/impressive-four-bedroom-villa-with-swimming-pool-and-sea-view-in-vale-da-telha_2132/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/impressive-four-bedroom-villa-with-swimming-pool-and-sea-view-in-vale-da-telha_2132/en/"/>
         <updated>2021-11-16T12:15:28.545Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_2" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2132&amp;f=f08cc2ca3fcdf05d2df7675f7fa301eb.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Villa 5 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_2" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_3" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2132&amp;f=f08cc2ca3fcdf05d2df7675f7fa301eb.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Villa 5 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_3" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/fabulous-villa-with-two-bedrooms-and-beautiful-swimming-pool-in-vale-da-telha_2115/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/fabulous-villa-with-two-bedrooms-and-beautiful-swimming-pool-in-vale-da-telha_2115/en/"/>
         <updated>2021-11-16T12:15:28.547Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_3" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2115&amp;f=2f07be19c48c6f3759722ea6f1ed7904.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 2 Bedrooms+1" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_3" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_4" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=2115&amp;f=2f07be19c48c6f3759722ea6f1ed7904.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 2 Bedrooms+1" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_4" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/fantastic-commercial-space-all-equipped_1960/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/fantastic-commercial-space-all-equipped_1960/en/"/>
         <updated>2021-11-16T12:15:28.548Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_4" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1960&amp;f=134f9abe62813b561a9485959319400b.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Café" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_4" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_5" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1960&amp;f=134f9abe62813b561a9485959319400b.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Café" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_5" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/magnificent-urban-plot-with-sea-view-in-vale-da-telha_1486/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/magnificent-urban-plot-with-sea-view-in-vale-da-telha_1486/en/"/>
         <updated>2021-11-16T12:15:28.549Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_5" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1486&amp;f=2a21b65a9d8015c8d73ff7a6654bbfd4.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_5" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_6" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1486&amp;f=2a21b65a9d8015c8d73ff7a6654bbfd4.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_6" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/en/"/>
         <updated>2021-11-16T12:15:28.557Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_6" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1337&amp;f=0003E89F574544.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_6" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_7" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1337&amp;f=0003E89F574544.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_7" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/beautiful-shops-in-a-central-area-in-the-village-of-aljezur_1146/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/beautiful-shops-in-a-central-area-in-the-village-of-aljezur_1146/en/"/>
         <updated>2021-11-16T12:15:28.557Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_7" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1146&amp;f=0003E43983D00C.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Shop" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_7" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_8" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1146&amp;f=0003E43983D00C.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Shop" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_8" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/fantastic-two-storey-villa-with-swimming-pool-in-vale-da-telha_1056/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/fantastic-two-storey-villa-with-swimming-pool-in-vale-da-telha_1056/en/"/>
         <updated>2021-11-16T12:15:28.558Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_8" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1056&amp;f=0003E0D93375FA.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 4 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_8" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_9" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=1056&amp;f=0003E0D93375FA.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="House 4 Bedrooms" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_9" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Faro, Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/imoveis/magnificent-land-for-housing-construction_468/en/</id>
         <link href="https://www.mimosaproperties.com/imoveis/magnificent-land-for-housing-construction_468/en/"/>
         <updated>2021-11-16T12:15:28.558Z</updated>
-        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_9" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=468&amp;f=0003DD621C5C5D.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_9" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
+        <content type="html"><![CDATA[<img id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_img_imovel_10" class="js-imagescale loaded" onerror="master.imagemZero(this);" data-imagemzero="https://mediamimosaventure.ximo.pt/imoveis/0.jpg" src="https://media.ximo.pt/img.ashx?n=601069B7-222B-44FF-BF7F-296DA5DBD7FA&amp;i=468&amp;f=0003DD621C5C5D.jpg&amp;c=0&amp;fm=&amp;p=&amp;o=&amp;s=&amp;ico=1" alt="Plot" style="position: absolute; top: 0px; left: -21.6667px; width: 333px; height: 250px; max-width: none;"><span id="ContentPlaceHolder1_moduloimoveislistagem_RepeaterImoveis_lbl_destaques_10" class="lbl_destaques"><span class="faixa">Faro, Aljezur</span></span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[€599,000 (Century 21)]]></title>
@@ -685,7 +692,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>599,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>667,885</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>667,927</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -718,7 +725,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124370866&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>394,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>439,310</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>439,338</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -751,7 +758,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124305261&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>218,500</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>243,628</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>243,643</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -784,7 +791,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>167,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>186,205</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>186,217</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -1307,19 +1314,19 @@ This is a unique opportunity to acquire a villa with a successful and fully func
 		    </div><div class="plusinfo"><a href="https://www.provenda.net/en/farm-canada-aljezur-water-electricity-cork-oaks+1000017936.html"></a></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[House 3+1 bedrooms Marmelete Monchique (Provenda)]]></title>
-        <id>https://www.provenda.net/en/house-3+1-bedrooms-marmelete-monchique+1000017933.html</id>
-        <link href="https://www.provenda.net/en/house-3+1-bedrooms-marmelete-monchique+1000017933.html"/>
-        <updated>2021-12-23T11:22:33.925Z</updated>
-        <content type="html"><![CDATA[<div class="lpprice"> 318.500€</div><a class="lptitle" href="https://www.provenda.net/en/house-3+1-bedrooms-marmelete-monchique+1000017933.html" title="Ver House 3+1 bedrooms Marmelete Monchique">House 3+1 bedrooms Marmelete Monchique</a>
+        <title type="html"><![CDATA[House/Villa 3+1 bedrooms Marmelete Monchique (Provenda)]]></title>
+        <id>https://www.provenda.net/en/housevilla-3+1-bedrooms-marmelete-monchique+1000017933.html</id>
+        <link href="https://www.provenda.net/en/housevilla-3+1-bedrooms-marmelete-monchique+1000017933.html"/>
+        <updated>2022-02-01T17:41:30.281Z</updated>
+        <content type="html"><![CDATA[<div class="lpprice"> 318.500€</div><a class="lptitle" href="https://www.provenda.net/en/housevilla-3+1-bedrooms-marmelete-monchique+1000017933.html" title="Ver House/Villa 3+1 bedrooms Marmelete Monchique">House/Villa 3+1 bedrooms Marmelete Monchique</a>
 
-		    <a class="lpbody" href="https://www.provenda.net/en/house-3+1-bedrooms-marmelete-monchique+1000017933.html"><div class="limg"><img id="idx-3-0-17" src="https://www.espacos-portugal.com/m/-8040/1000017933_d2f18d8b-b046-43d5-827f-9f0aed1278bc.jpg" style="border:0;padding:0;top:5px;left:9px" alt="House 3+1 bedrooms Marmelete Monchique" width="320" height="214"><div class="backward" style="width:50px;height:240px;top:6px;left:6px;z-index:initial">prev</div>
+		    <a class="lpbody" href="https://www.provenda.net/en/housevilla-3+1-bedrooms-marmelete-monchique+1000017933.html"><div class="limg"><img id="idx-3-0-17" src="https://www.espacos-portugal.com/m/-8040/1000017933_d2f18d8b-b046-43d5-827f-9f0aed1278bc.jpg" style="border:0;padding:0;top:5px;left:9px" alt="House/Villa 3+1 bedrooms Marmelete Monchique" width="320" height="214"><div class="backward" style="width:50px;height:240px;top:6px;left:6px;z-index:initial">prev</div>
 					<div class="forward" style="width:50px;height:240px;top:6px;right:6px;z-index:initial">next</div><div class="overfav" id="img1000017933"></div></div><span class="lparea">136m²<u></u> &nbsp;308,70m²<i></i></span><span class="lpref">REF <b>PV-M-545</b><br><br></span><div class="lptext" style="width:initial;overflow:hidden"><b>Sale</b><br>Picturesque building renovated in 2020. Renovation included structure and new roof. The building is divided into 3 fractions (Studio, T1 and T2) Very versatile space, which allows immediate profitability of the space. The renovation was carried out respecting the environment and using natural materials You will immediately feel at home, with the colors, textures and good vibe. Charming place where you can live with your family and friends 15 minutes from Aljezur and only 20 minutes from the main beaches</div>
 			</a><div class="lplinks">
 				<div class="lpfav" id="link1000017933" onclick="javascript:click_fav('favprovenda.net', '1000017933', 'Add to Favorites', 'Remove from Favorites', '/en/favorites/');">Add to Favorites</div>
 				<a class="lpvisit" href="https://www.provenda.net/index2.php?option=com_gtprop&amp;task=visit&amp;id=1000017933&amp;lang=en">Schedule a Visit</a>
 				<a class="lpinfo" href="https://www.provenda.net/index2.php?option=com_gtprop&amp;task=info&amp;id=1000017933&amp;lang=en">More information</a>
-		    </div><div class="plusinfo"><a href="https://www.provenda.net/en/house-3+1-bedrooms-marmelete-monchique+1000017933.html"></a></div>]]></content>
+		    </div><div class="plusinfo"><a href="https://www.provenda.net/en/housevilla-3+1-bedrooms-marmelete-monchique+1000017933.html"></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Farm 3+1 bedrooms Amorosa Aljezur (Provenda)]]></title>
@@ -2008,5 +2015,1395 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         </div>
     </div>
 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spacious T0 + 1 apartment 10 minutes from Vale Figueiras Beach, in Alfambras, Aljezur. (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/homes/aljezur-algarve/apartment-t0-75m2-spacious-t0-1-apartment-10-minutes-from-vale-figueiras-beach-in-alfambras-aljezur-aldeia-nova-algarve-2255322</id>
+        <link href="https://www.century21.pt/en/for-sale/homes/aljezur-algarve/apartment-t0-75m2-spacious-t0-1-apartment-10-minutes-from-vale-figueiras-beach-in-alfambras-aljezur-aldeia-nova-algarve-2255322"/>
+        <updated>2022-02-01T17:41:57.990Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/homes/aljezur-algarve/apartment-t0-75m2-spacious-t0-1-apartment-10-minutes-from-vale-figueiras-beach-in-alfambras-aljezur-aldeia-nova-algarve-2255322">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_688bfe0b-98c3-4162-a347-d5f217bf5465.png?w=75&amp;h=75&amp;func=bound" title="Maria Cuesta" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_688bfe0b-98c3-4162-a347-d5f217bf5465.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/homes/aljezur-algarve/apartment-t0-75m2-spacious-t0-1-apartment-10-minutes-from-vale-figueiras-beach-in-alfambras-aljezur-aldeia-nova-algarve-2255322">
+                    <span class="label-container">
+
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="11&nbsp;Photos"><i class="fa fa-image"></i>11</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/shabouco---18-3_dcbc1ff0-13a3-4599-9ee7-c03b5363f861.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/shabouco---18-3_dcbc1ff0-13a3-4599-9ee7-c03b5363f861.jpg?w=400&amp;h=282" alt="Spacious T0 + 1 apartment 10 minutes from Vale Figueiras Beach, in Alfambras, Aljezur." style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/homes/aljezur-algarve/apartment-t0-75m2-spacious-t0-1-apartment-10-minutes-from-vale-figueiras-beach-in-alfambras-aljezur-aldeia-nova-algarve-2255322">Spacious T0 + 1 apartment 10 minutes from Vale Figueiras Beach, in Alfambras, Aljezur.</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Apartment <small>Reference: C0240-02264</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/homes/aljezur-algarve/apartment-t0-75m2-spacious-t0-1-apartment-10-minutes-from-vale-figueiras-beach-in-alfambras-aljezur-aldeia-nova-algarve-2255322">
+                                <strong>
+                                    
+                                    167&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Realty Art II</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            87<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+                            <span class="mright10 tip" title="Net area"><i class="icon-area-small"></i>
+                                
+                                75<span>m</span>
+                                
+                            <sup>2</sup></span>
+                            
+
+                            
+                            
+                            
+                            <span class="tip" title="N.º Bathrooms"><i class="icon-bathroom-small"></i><strong>1</strong>  </span>
+                            
+                            
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/homes/aljezur-algarve/apartment-t0-75m2-spacious-t0-1-apartment-10-minutes-from-vale-figueiras-beach-in-alfambras-aljezur-aldeia-nova-algarve-2255322">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_688bfe0b-98c3-4162-a347-d5f217bf5465.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Maria Cuesta</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Realty Art II</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vacation home opportunity on the Costa Vicentina! (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-t1-50m2-vacation-home-opportunity-on-the-costa-vicentina-aldeia-nova-algarve-2140528</id>
+        <link href="https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-t1-50m2-vacation-home-opportunity-on-the-costa-vicentina-aldeia-nova-algarve-2140528"/>
+        <updated>2022-02-01T17:41:57.992Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-t1-50m2-vacation-home-opportunity-on-the-costa-vicentina-aldeia-nova-algarve-2140528">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_8ec2fee3-cf3a-4666-a60b-e89d7c286b88.png?w=75&amp;h=75&amp;func=bound" title="João Almeida" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_8ec2fee3-cf3a-4666-a60b-e89d7c286b88.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-t1-50m2-vacation-home-opportunity-on-the-costa-vicentina-aldeia-nova-algarve-2140528">
+                    <span class="label-container">
+
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="14&nbsp;Photos"><i class="fa fa-image"></i>14</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/1_965eb669-5b0d-448a-a87a-1bd4b4911386.JPG?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/1_965eb669-5b0d-448a-a87a-1bd4b4911386.JPG?w=400&amp;h=282" alt="Vacation home opportunity on the Costa Vicentina!" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-t1-50m2-vacation-home-opportunity-on-the-costa-vicentina-aldeia-nova-algarve-2140528">Vacation home opportunity on the Costa Vicentina!</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Townhouse <small>Reference: C0369-00325</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-t1-50m2-vacation-home-opportunity-on-the-costa-vicentina-aldeia-nova-algarve-2140528">
+                                <strong>
+                                    
+                                    130&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            130<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+                            <span class="mright10 tip" title="Net area"><i class="icon-area-small"></i>
+                                
+                                50<span>m</span>
+                                
+                            <sup>2</sup></span>
+                            
+
+                            
+                            
+                            <span class="mright10 tip" title="N.º bedrooms"><i class="icon-bedroom-small"></i><strong>1</strong> </span>
+                            
+                            
+                            <span class="tip" title="N.º Bathrooms"><i class="icon-bathroom-small"></i><strong>1</strong>  </span>
+                            
+                            
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-t1-50m2-vacation-home-opportunity-on-the-costa-vicentina-aldeia-nova-algarve-2140528">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_8ec2fee3-cf3a-4666-a60b-e89d7c286b88.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>João Almeida</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 bedroom Villa near Praia da Arrifana (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-221m2-2-bedroom-villa-near-praia-da-arrifana-arrifana-algarve-2138680</id>
+        <link href="https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-221m2-2-bedroom-villa-near-praia-da-arrifana-arrifana-algarve-2138680"/>
+        <updated>2022-02-01T17:41:57.993Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-221m2-2-bedroom-villa-near-praia-da-arrifana-arrifana-algarve-2138680">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_615f1bae-c538-41e2-9604-08af4dcf2924.png?w=75&amp;h=75&amp;func=bound" title="Pedro Andrez Cruz" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_615f1bae-c538-41e2-9604-08af4dcf2924.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-221m2-2-bedroom-villa-near-praia-da-arrifana-arrifana-algarve-2138680">
+                    <span class="label-container">
+
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="25&nbsp;Photos"><i class="fa fa-image"></i>25</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/24_fc501ddc-5298-42b9-a6db-f59fb437cebf.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/24_fc501ddc-5298-42b9-a6db-f59fb437cebf.jpg?w=400&amp;h=282" alt="2 bedroom Villa near Praia da Arrifana" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-221m2-2-bedroom-villa-near-praia-da-arrifana-arrifana-algarve-2138680">2 bedroom Villa near Praia da Arrifana</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Townhouse Dwelling <small>Reference: C0369-00273</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-221m2-2-bedroom-villa-near-praia-da-arrifana-arrifana-algarve-2138680">
+                                <strong>
+                                    
+                                    394&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Arrifana (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            221<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+                            <span class="mright10 tip" title="Net area"><i class="icon-area-small"></i>
+                                
+                                221<span>m</span>
+                                
+                            <sup>2</sup></span>
+                            
+
+                            
+                            
+                            <span class="mright10 tip" title="N.º bedrooms"><i class="icon-bedroom-small"></i><strong>2</strong> </span>
+                            
+                            
+                            <span class="tip" title="N.º Bathrooms"><i class="icon-bathroom-small"></i><strong>2</strong>  </span>
+                            
+                            
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-221m2-2-bedroom-villa-near-praia-da-arrifana-arrifana-algarve-2138680">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_615f1bae-c538-41e2-9604-08af4dcf2924.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Pedro Andrez Cruz</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traditional Town House in Aljezur (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-118m2-traditional-town-house-in-aljezur-aldeia-nova-algarve-2140362</id>
+        <link href="https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-118m2-traditional-town-house-in-aljezur-aldeia-nova-algarve-2140362"/>
+        <updated>2022-02-01T17:41:57.994Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-118m2-traditional-town-house-in-aljezur-aldeia-nova-algarve-2140362">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-118m2-traditional-town-house-in-aljezur-aldeia-nova-algarve-2140362">
+                    <span class="label-container">
+
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="19&nbsp;Photos"><i class="fa fa-image"></i>19</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/img-20201226-141506---copia_8f396498-6d9a-4e35-bde3-dedb9072f6d9.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/img-20201226-141506---copia_8f396498-6d9a-4e35-bde3-dedb9072f6d9.jpg?w=400&amp;h=282" alt="Traditional Town House in Aljezur" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-118m2-traditional-town-house-in-aljezur-aldeia-nova-algarve-2140362">Traditional Town House in Aljezur</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Townhouse Dwelling <small>Reference: C0369-00267</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-118m2-traditional-town-house-in-aljezur-aldeia-nova-algarve-2140362">
+                                <strong>
+                                    
+                                    218&nbsp;500 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            184<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+                            <span class="mright10 tip" title="Net area"><i class="icon-area-small"></i>
+                                
+                                118<span>m</span>
+                                
+                            <sup>2</sup></span>
+                            
+
+                            
+                            
+                            <span class="mright10 tip" title="N.º bedrooms"><i class="icon-bedroom-small"></i><strong>2</strong> </span>
+                            
+                            
+                            <span class="tip" title="N.º Bathrooms"><i class="icon-bathroom-small"></i><strong>1</strong>  </span>
+                            
+                            
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-118m2-traditional-town-house-in-aljezur-aldeia-nova-algarve-2140362">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Jorge Guerreiro</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211"/>
+        <updated>2022-02-01T17:41:57.995Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="7&nbsp;Photos"><i class="fa fa-image"></i>7</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/imagem6_ea4d5180-bb2c-4d93-bfa4-207011b9509f.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/imagem6_ea4d5180-bb2c-4d93-bfa4-207011b9509f.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">Urban land in Vale da Telha!</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00565</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">
+                                <strong>
+                                    
+                                    54&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            740<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Jorge Guerreiro</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212"/>
+        <updated>2022-02-01T17:41:57.997Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="3&nbsp;Photos"><i class="fa fa-image"></i>3</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">Urban land in Vale da Telha!</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00566</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
+                                <strong>
+                                    
+                                    65&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            990<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Jorge Guerreiro</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213"/>
+        <updated>2022-02-01T17:41:57.998Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="3&nbsp;Photos"><i class="fa fa-image"></i>3</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/36757-fe264f58c3c95fb006c7ea7e6d7671bd0522fec8_c9d400f3-1c47-43ea-b1ef-156b3068fbf0.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/36757-fe264f58c3c95fb006c7ea7e6d7671bd0522fec8_c9d400f3-1c47-43ea-b1ef-156b3068fbf0.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">Urban land in Vale da Telha!</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00567</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
+                                <strong>
+                                    
+                                    71&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            970<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/profile-photo_c398affa-8b55-4882-9398-73255ae2dfb5.jpg?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Jorge Guerreiro</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban land in Carrapateira (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344"/>
+        <updated>2022-02-01T17:41:57.999Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344">
+                
+                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_bf15989e-aad2-4b8c-b366-4087490a62e6.png?w=75&amp;h=75&amp;func=bound" title="José Henrique" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_bf15989e-aad2-4b8c-b366-4087490a62e6.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344">
+                    <span class="label-container">
+
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="42&nbsp;Photos"><i class="fa fa-image"></i>42</span>
+
+                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/whatsapp-image-2021-01-08-at-18-32-44-1-_de4d0d00-5521-45bc-97ed-5624ddaec05c.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/whatsapp-image-2021-01-08-at-18-32-44-1-_de4d0d00-5521-45bc-97ed-5624ddaec05c.jpg?w=400&amp;h=282" alt="Urban land in Carrapateira" style="display: block;">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344">Urban land in Carrapateira</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: C0369-00279</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344">
+                                <strong>
+                                    
+                                    104&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Bordeira (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            199<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-carrapateira-bordeira-algarve-2143344">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_bf15989e-aad2-4b8c-b366-4087490a62e6.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>José Henrique</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land for tourism next to the beach of Odeceixe, Aljezur, Costa Vicentina! (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432"/>
+        <updated>2022-02-01T17:41:58.000Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432">
+                
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Luís Lourenço" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="15&nbsp;Photos"><i class="fa fa-image"></i>15</span>
+
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/imagem-3d-edificio-de-servicos-e-recepcao_ed9a2333-affe-4ccf-a556-f1e0be8f933f.jpg?w=400&amp;h=282" alt="Land for tourism next to the beach of Odeceixe, Aljezur, Costa Vicentina!">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432">Land for tourism next to the beach of Odeceixe, Aljezur, Costa Vicentina!</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: C0222-02728</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432">
+                                <strong>
+                                    
+                                    490&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Odeceixe (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Colombo</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            37&nbsp;000<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-land-for-tourism-next-to-the-beach-of-odeceixe-aljezur-costa-vicentina-odeceixe-algarve-2010432">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_22f5e78b-fcf6-4272-a3e2-2d341e09e4fe.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Luís Lourenço</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Colombo</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ground 1170 M2 -  Zone- ALGARVE-Vale da Telha- Aljezur - Algarve (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938</id>
+        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938"/>
+        <updated>2022-02-01T17:41:58.001Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938">
+                
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Ulisses Santos" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_91193ca6-d23f-4de5-a45e-e681cb8fc4ed.png?w=75&amp;h=75&amp;func=bound">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="10&nbsp;Photos"><i class="fa fa-image"></i>10</span>
+
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/392dd6c11a485b6e881799bc73ed2c0b_b8456466-801a-4732-8b1a-dce98db8c4a2.jpg?w=400&amp;h=282" alt="Ground 1170 M2 -  Zone- ALGARVE-Vale da Telha- Aljezur - Algarve">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938">Ground 1170 M2 -  Zone- ALGARVE-Vale da Telha- Aljezur - Algarve</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Urban Land <small>Reference: 0739-01667</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938">
+                                <strong>
+                                    
+                                    96&nbsp;200 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Vale da Telha (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 P.M. Paiva &amp; Associados</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            1&nbsp;170<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-ground-1170-m2-zone-algarve-vale-da-telha-aljezur-algarve-vale-da-telha-algarve-1505938">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_91193ca6-d23f-4de5-a45e-e681cb8fc4ed.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Ulisses Santos</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 P.M. Paiva &amp; Associados</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Country House in Aljezur (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/farms-or-estates/aljezur-algarve/farm-t5-215m2-country-house-in-aljezur-2226605</id>
+        <link href="https://www.century21.pt/en/for-sale/farms-or-estates/aljezur-algarve/farm-t5-215m2-country-house-in-aljezur-2226605"/>
+        <updated>2022-02-01T17:41:58.004Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t5-215m2-country-house-in-aljezur-2226605">
+                
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Aida Infante" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t5-215m2-country-house-in-aljezur-2226605">
+                    <span class="label-container">
+
+                        
+                        
+                        
+                        
+                        <span class="label label-primary">Price Upon Request</span>
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="85&nbsp;Photos"><i class="fa fa-image"></i>85</span>
+
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/107112943-neutra-varanda-jpg_2c285752-7b68-401d-9651-0bee6c0cbd01.jpg?w=400&amp;h=282" alt="Country House in Aljezur">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t5-215m2-country-house-in-aljezur-2226605">Country House in Aljezur</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Farm <small>Reference: C0369-00379</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t5-215m2-country-house-in-aljezur-2226605">
+                                <strong>
+                                    
+                                    On Request
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            10&nbsp;000<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+                            <span class="mright10 tip" title="Net area"><i class="icon-area-small"></i>
+                                
+                                215<span>m</span>
+                                
+                            <sup>2</sup></span>
+                            
+
+                            
+                            
+                            <span class="mright10 tip" title="N.º bedrooms"><i class="icon-bedroom-small"></i><strong>5</strong> </span>
+                            
+                            
+                            <span class="tip" title="N.º Bathrooms"><i class="icon-bathroom-small"></i><strong>3</strong>  </span>
+                            
+                            
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t5-215m2-country-house-in-aljezur-2226605">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Aida Infante</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[* SELLING Shop, Igreja Nova - Aljezur - 245 sqm - ready for your business * (Century 21 Portugal)]]></title>
+        <id>https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910</id>
+        <link href="https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910"/>
+        <updated>2022-02-01T17:41:58.006Z</updated>
+        <content type="html"><![CDATA[<article>
+            <div class="content-left ratio-wrapper">
+                
+                <a class="card-agent-photo" href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">
+                
+                <img class="lazy tip" src="/images/loading/grey.gif" title="Aida Infante" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                
+                </a>
+                
+
+                <a href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">
+                    <span class="label-container">
+
+                        
+                        <span class="label label-danger">Price Reduced</span>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </span>
+
+                <span class="photo-count label label-dark tip" title="54&nbsp;Photos"><i class="fa fa-image"></i>54</span>
+
+                <img class="lazy" src="/images/loading/grey.gif" data-original="https://cdn.21online.app/v7/_c21cdn_/dscn6590_ceb7de48-90c2-4cf9-8165-63c2a71075d9.JPG?w=400&amp;h=282" alt="* SELLING Shop, Igreja Nova - Aljezur - 245 sqm - ready for your business *">
+                </a>
+            </div>
+
+            <div class="content-middle">
+                <div class="middle">
+                    <div class="property-details">
+                        <div class="property-main-details">
+                            <div class="property-title">
+                                <div>
+                                    
+                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">* SELLING Shop, Igreja Nova - Aljezur - 245 sqm - ready for your business *</a></h2>
+                                    
+                                    <div>
+                                        <h3 class="truncate">Store <small>Reference: C0369-00128</small></h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <h2 class="property-price">
+                                <a href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">
+                                <strong>
+                                    
+                                    182&nbsp;000 € <small></small>
+                                    
+                                </strong>
+                                </a>
+                            </h2>
+                        </div>
+
+                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
+                        <div class="divider10"></div>
+
+                        
+                        <span style="font-size:9px">CENTURY 21 Universe</span>
+                    </div>
+                    <hr class="m0">
+                    <div class="property-characteristics">
+                        <p class="m0">
+                            
+                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
+                            
+                            255<span>m</span>
+                            
+                            <sup>2</sup></span>
+                            
+
+                            
+
+                            
+                        </p>
+
+                    </div>
+                    <div class="property-actions hidden-xs">
+                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/commercial/aljezur-algarve/store-selling-shop-igreja-nova-aljezur-245-sqm-ready-for-your-business-aldeia-nova-algarve-1977910">View more</a>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+
+            <div class="content-right">
+                <div class="text-center">
+                    <div class="agent-detail">
+
+                        
+                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_dd41125e-22fa-4795-85ae-84a8623d4386.png?w=75&amp;h=75&amp;func=bound">
+                        
+
+                        
+                        <h4>Aida Infante</h4>
+                        
+
+                        
+                        <h5>CENTURY 21 Universe</h5>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+        </article>]]></content>
     </entry>
 </feed>
