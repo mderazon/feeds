@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1</id>
     <title>Chestertons</title>
-    <updated>2022-02-04T05:38:23.041Z</updated>
+    <updated>2022-02-04T17:44:40.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chestertons-portugal.com/Assets/Favicon/favicon.ico</icon>
     <entry>
@@ -14,7 +14,7 @@
     <div class="prop__imgWrap">
         <div class="prop__labels">
         </div>
-        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3204/2b54718b-0edc-4a44-add9-467604b84924.jpg?quality=70);" role="img" aria-label="BEAUTIFUL THREE BEDROOM VILLA IN VALE DA TELHA"></div>
+        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3204/4f8662f7-63d9-425b-9743-cda0d8a69146.jpg?quality=70);" role="img" aria-label="BEAUTIFUL THREE BEDROOM VILLA IN VALE DA TELHA"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3204" data-action-text="BEAUTIFUL THREE BEDROOM VILLA IN VALE DA TELHA" title="Add to favorites">
             <i class="far fa-heart"></i>
             <i class="fas fa-heart"></i>
