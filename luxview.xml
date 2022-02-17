@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-02-17T05:38:22.832Z</updated>
+    <updated>2022-02-17T17:44:21.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -480,53 +480,7 @@
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[380.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172</id>
-        <link href="https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172"/>
-        <updated>2021-11-23T05:52:07.101Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/232172/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/232172/98a80cbc-e71c-4b89-a9da-17b1fd54a116.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
-                                                        3
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
-                                                        5
-                                                    </div>
-                                                </li>
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A003
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            380.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[950.000 €]]></title>
+        <title type="html"><![CDATA[999.000 €]]></title>
         <id>https://en.luxview.pt/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016</id>
         <link href="https://en.luxview.pt/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016"/>
         <updated>2021-11-23T05:52:07.103Z</updated>
@@ -560,7 +514,52 @@
                                             </li>
                                         </ul>
                                         <span class="prop-price prop-price--long">
-                                            950.000 €
+                                            999.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POA]]></title>
+        <id>https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172</id>
+        <link href="https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172"/>
+        <updated>2021-11-23T05:52:07.101Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/232172/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/232172/98a80cbc-e71c-4b89-a9da-17b1fd54a116.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                                <li>
+                                                    <div class="prop-spec">
+                                                        <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
+                                                        3
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="prop-spec">
+                                                        <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
+                                                        5
+                                                    </div>
+                                                </li>
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A003
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            POA
                                             <i class="fa fa-long-arrow-right"></i>
                                         </span>
                                     </div>
