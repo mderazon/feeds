@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-23T05:38:41.297Z</updated>
+    <updated>2022-02-23T17:41:18.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -615,7 +615,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>550,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>622,435</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>621,940</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -648,7 +648,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124370866&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>394,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>445,890</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>445,535</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -681,7 +681,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=124305261&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>218,500</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>247,276</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>247,080</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -714,7 +714,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>167,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>188,994</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>188,844</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -828,6 +828,39 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                                         90.500 €
                                         <i class="fa fa-long-arrow-right"></i>
                                     </span>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[102.000 € (Luxview)]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496"/>
+        <updated>2022-02-23T17:40:38.007Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357496/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357496/bc0a19d7-4333-4e7f-9540-f81b4eb84ec5.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A019.6
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            102.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -984,42 +1017,9 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-_318245</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-_318245"/>
         <updated>2021-11-23T05:52:07.090Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-_318245">
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-_318245">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/318245/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/318245/bfd2f461-8f55-4459-9508-6851efa5eb69.jpeg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A023
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            120.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100.000 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172"/>
-        <updated>2022-01-26T17:41:46.549Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/305172/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/305172/f579922c-b4de-451a-ab9e-06f1f8571ce2.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/318245/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/318245/bfd2f461-8f55-4459-9508-6851efa5eb69.jpeg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -1033,10 +1033,10 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                                                 Land
                                             </li>
                                             <li>
-                                                Aljezur Urbanização Paisagem Oceano
+                                                Aljezur
                                             </li>
                                             <li>
-                                                A019.2
+                                                A023
                                             </li>
                                         </ul>
 
@@ -1044,9 +1044,42 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                                                                                     </ul>
                                     </div>
                                     <span class="prop-price">
-                                        100.000 €
+                                        120.000 €
                                         <i class="fa fa-long-arrow-right"></i>
                                     </span>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100.000 € (Luxview)]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172"/>
+        <updated>2022-01-26T17:41:46.549Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/305172/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/305172/f579922c-b4de-451a-ab9e-06f1f8571ce2.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A019.2
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            100.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
                             </div>
                             <div class="prop-stampWrap">
 
