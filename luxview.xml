@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-02-24T05:38:45.270Z</updated>
+    <updated>2022-02-24T17:41:03.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -326,39 +326,6 @@
                                         120.000 €
                                         <i class="fa fa-long-arrow-right"></i>
                                     </span>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172"/>
-        <updated>2022-01-26T17:41:46.549Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_305172">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/305172/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/305172/f579922c-b4de-451a-ab9e-06f1f8571ce2.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A019.2
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            100.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
                             </div>
                             <div class="prop-stampWrap">
 
