@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-02-28T05:40:55.372Z</updated>
+    <updated>2022-02-28T17:41:16.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -225,40 +225,6 @@
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[190.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-carrapateira_321083</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-carrapateira_321083"/>
-        <updated>2022-02-02T17:40:46.906Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-carrapateira_321083">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/321083/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/321083/94471811-e334-422f-9d3e-f98139a37685.jpeg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A029
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            190.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[129.000 €]]></title>
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-monte-da-gorda_319006</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-monte-da-gorda_319006"/>
@@ -296,9 +262,42 @@
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-_318245</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-_318245"/>
         <updated>2021-11-23T05:52:07.090Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-_318245">
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-_318245">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/318245/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/318245/bfd2f461-8f55-4459-9508-6851efa5eb69.jpeg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/318245/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/318245/bfd2f461-8f55-4459-9508-6851efa5eb69.jpeg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A023
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            120.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100.000 €]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455"/>
+        <updated>2021-11-23T05:52:07.096Z</updated>
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271455/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271455/cee9f592-3cda-4104-a655-f0be21c67d08.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -312,10 +311,10 @@
                                                 Land
                                             </li>
                                             <li>
-                                                Aljezur
+                                                Aljezur Vale do Pereiro
                                             </li>
                                             <li>
-                                                A023
+                                                A017
                                             </li>
                                         </ul>
 
@@ -323,42 +322,9 @@
                                                                                     </ul>
                                     </div>
                                     <span class="prop-price">
-                                        120.000 €
+                                        100.000 €
                                         <i class="fa fa-long-arrow-right"></i>
                                     </span>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455"/>
-        <updated>2021-11-23T05:52:07.096Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271455/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271455/cee9f592-3cda-4104-a655-f0be21c67d08.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A017
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            100.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -526,6 +492,40 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[POA]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-carrapateira_321083</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-carrapateira_321083"/>
+        <updated>2022-02-02T17:40:46.906Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-carrapateira_321083">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/321083/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/321083/94471811-e334-422f-9d3e-f98139a37685.jpeg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A029
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            POA
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POA]]></title>
         <id>https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172</id>
         <link href="https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172"/>
         <updated>2021-11-23T05:52:07.101Z</updated>
@@ -566,7 +566,7 @@
                             </div>
                             <div class="prop-stampWrap">
 
-                                    <span class="prop-stamp prop-stamp--primary">FOR SALE</span>
+                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
                             </div>
                         </a>]]></content>
     </entry>
