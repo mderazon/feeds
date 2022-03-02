@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T05:38:29.764Z</updated>
+    <updated>2022-03-02T17:41:17.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -615,7 +615,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>550,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>615,208</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>616,847</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -648,7 +648,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>167,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>186,800</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>187,297</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -841,7 +841,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <updated>2021-11-23T05:52:07.082Z</updated>
         <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-aljezur_333388">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/333388/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/333388/7256d738-76d0-482a-9e32-bffb2738dbde.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/333388/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/333388/5f764c41-4bd2-4f20-92e6-a9aa7344b415.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -870,39 +870,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                                         </ul>
                                         <span class="prop-price prop-price--long">
                                             250.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[129.000 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-monte-da-gorda_319006</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-monte-da-gorda_319006"/>
-        <updated>2021-11-23T05:52:07.089Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-monte-da-gorda_319006">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/319006/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/319006/317b2b73-9f15-46cb-b68f-0d134bfca1e0.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A028
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            129.000 €
                                             <i class="fa fa-long-arrow-right"></i>
                                         </span>
                                     </div>
@@ -950,9 +917,42 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455"/>
         <updated>2021-11-23T05:52:07.096Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455">
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271455/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271455/cee9f592-3cda-4104-a655-f0be21c67d08.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271455/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271455/cee9f592-3cda-4104-a655-f0be21c67d08.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A017
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            100.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[22.000 € (Luxview)]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454"/>
+        <updated>2021-11-23T05:52:07.097Z</updated>
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271454/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271454/f7714327-ad0b-4374-a31d-f9ce17ecc49c.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -969,7 +969,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                                                 Aljezur Vale do Pereiro
                                             </li>
                                             <li>
-                                                A017
+                                                A017.1
                                             </li>
                                         </ul>
 
@@ -977,42 +977,9 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                                                                                     </ul>
                                     </div>
                                     <span class="prop-price">
-                                        100.000 €
+                                        22.000 €
                                         <i class="fa fa-long-arrow-right"></i>
                                     </span>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[22.000 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454"/>
-        <updated>2021-11-23T05:52:07.097Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271454/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271454/f7714327-ad0b-4374-a31d-f9ce17ecc49c.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A017.1
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            22.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -1142,40 +1109,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                             </div>
                             <div class="prop-stampWrap">
 
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POA (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-carrapateira_321083</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-carrapateira_321083"/>
-        <updated>2022-02-02T17:40:46.906Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-carrapateira_321083">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/321083/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/321083/94471811-e334-422f-9d3e-f98139a37685.jpeg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A029
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            POA
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
                             </div>
                         </a>]]></content>
     </entry>
@@ -1949,6 +1882,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
         <content type="html"><![CDATA[<a class="prop " href="/property-detail/plot-in-vale-da-telha--investment-for-the-future_2866">
     <div class="prop__imgWrap">
         <div class="prop__labels">
+                <span class="prop__label">Sold Subject to Contract</span>
         </div>
         <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/2866/b073b6c0-d950-4976-a8e9-f5946a2feec5.jpg?quality=70);" role="img" aria-label="Plot in Vale da Telha, investment for the future"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="2866" data-action-text="Plot in Vale da Telha, investment for the future" title="Add to favorites">
