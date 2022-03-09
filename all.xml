@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-08T17:44:03.378Z</updated>
+    <updated>2022-03-09T18:04:26.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -640,7 +640,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>550,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>597,894</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>597,580</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -674,7 +674,7 @@ This is a unique opportunity to acquire a villa with a successful and fully func
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=127250945&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>180,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>195,674</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>195,572</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -684,39 +684,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
                             </span>
 
     <span class="search-result-label">2 bedrooms - 1 bath</span>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€167,000 (Century 21)]]></title>
-        <id>https://www.century21global.com/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft</id>
-        <link href="https://www.century21global.com/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft"/>
-        <updated>2022-01-07T05:40:22.092Z</updated>
-        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="372394748832287" data-index="2" data-lat="37.239474" data-lng="-8.832287">
-                <a class="search-result-photo" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
-
-    <div class="search-result-photo-wrapper">
-        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/shabouco---18-3_dcbc1ff0-13a3-4599-9ee7-c03b5363f861.jpg?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
-    </div>
-    </a>
-<div class="search-result-actions"><button data-id="126686434" data-type="property" data-property-type="1" data-contact-type="office" data-e="PRP-Contact Property Office" class="contact-link btn btn-sm btn-default text-left-md text-left-lg" title="Contact">
-            <span class="glyphicon glyphicon-envelope"></span></button>
-    <button class="property-card-save-btn save-property btn btn-sm btn-default text-left-md text-left-lg" data-property-id="126686434">
-            <span class="glyphicon glyphicon-heart"></span> <span class="visible-md-inline visible-lg-inline">
-            </span>
-        </button>
-    </div>
-<a class="search-result-info" href="/propertyDetails.action?id=126686434&amp;cu=USD&amp;sizeunit=sqft">
-    <div class="search-result-label-primary price-native"><span dir="ltr">€<span>167,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>181,542</span> USD</div>
-        <span class="property-address" style="display:none">Aljezur (Algarve)</span>
-    <span class="search-result-label">
-                        Aljezur (Algarve), Faro (Algarve), Portugal</span>
-                    <span class="search-result-label">
-                        <div class="size">
-                                    807 sq. ft. - 75 m<sup>2</sup></div>
-                            </span>
-
-    <span class="search-result-label">2 rooms - 1 bath</span>
     </a>]]></content>
     </entry>
     <entry>
@@ -1398,6 +1365,55 @@ This is a unique opportunity to acquire a villa with a successful and fully func
 		    </div><div class="plusinfo"><a href="https://www.provenda.net/en/land-agricultural-with-200sqm-monte-clerigo-odeceixe-aljezur-electricity-water-cork-oaks+1000016326.html"></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SUPERB T3 VILLA ON THE BEAUTIFUL  WEST COAST (Chestertons)]]></title>
+        <id>https://www.chestertons-portugal.com/property-detail/superb-t3-villa-on-the-beautiful--west-coast_3223</id>
+        <link href="https://www.chestertons-portugal.com/property-detail/superb-t3-villa-on-the-beautiful--west-coast_3223"/>
+        <updated>2022-03-09T18:04:09.797Z</updated>
+        <content type="html"><![CDATA[<a class="prop " href="/property-detail/superb-t3-villa-on-the-beautiful--west-coast_3223">
+    <div class="prop__imgWrap">
+        <div class="prop__labels">
+                <span class="prop__label">Exclusive</span>
+        </div>
+        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3223/cd8e1e05-6e5e-4fb4-9752-e250d98a945b.jpg?quality=70);" role="img" aria-label="SUPERB T3 VILLA ON THE BEAUTIFUL  WEST COAST"></div>
+        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3223" data-action-text="SUPERB T3 VILLA ON THE BEAUTIFUL  WEST COAST" title="Add to favorites">
+            <i class="far fa-heart"></i>
+            <i class="fas fa-heart"></i>
+        </span>
+    </div>
+    <div class="prop__body">
+        <div class="prop__header">
+            <div class="prop__headerLeft">
+                <h3 class="prop__title">SUPERB T3 VILLA ON THE BEAUTIFUL  WEST COAST</h3>
+            </div>
+            <div class="prop__headerRight">
+                <span class="prop__ref">Ref: RSV100-990</span>
+            </div>
+        </div>
+        <div class="prop__flex">
+            <div class="prop__flexLeft">
+                <ul class="prop__items">
+                        <li class="prop__item">
+                            <i class="icon icon-bed"></i>
+                            <span>3</span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-bath"></i>
+                            <span>2</span>
+                        </li>
+                                                                <li class="prop__item">
+                            <i class="icon icon-land-area"></i>
+                            <span>840 m<sup>2</sup></span>
+                        </li>
+                </ul>
+            </div>
+            <div class="prop__flexRight">
+                <span class="prop__price">435,000 €</span>
+            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[T3 Villa close to Monte Clerigo (Chestertons)]]></title>
         <id>https://www.chestertons-portugal.com/property-detail/t3-villa-close-to-monte-clerigo_3216</id>
         <link href="https://www.chestertons-portugal.com/property-detail/t3-villa-close-to-monte-clerigo_3216"/>
@@ -1928,47 +1944,6 @@ This is a unique opportunity to acquire a villa with a successful and fully func
             </div>
             <div class="prop__flexRight">
                 <span class="prop__price">50,000 €</span>
-            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plot in Vale da Telha, investment for the future (Chestertons)]]></title>
-        <id>https://www.chestertons-portugal.com/property-detail/plot-in-vale-da-telha--investment-for-the-future_2866</id>
-        <link href="https://www.chestertons-portugal.com/property-detail/plot-in-vale-da-telha--investment-for-the-future_2866"/>
-        <updated>2022-02-21T17:39:35.766Z</updated>
-        <content type="html"><![CDATA[<a class="prop " href="/property-detail/plot-in-vale-da-telha--investment-for-the-future_2866">
-    <div class="prop__imgWrap">
-        <div class="prop__labels">
-                <span class="prop__label">Sold Subject to Contract</span>
-        </div>
-        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/2866/b073b6c0-d950-4976-a8e9-f5946a2feec5.jpg?quality=70);" role="img" aria-label="Plot in Vale da Telha, investment for the future"></div>
-        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="2866" data-action-text="Plot in Vale da Telha, investment for the future" title="Add to favorites">
-            <i class="far fa-heart"></i>
-            <i class="fas fa-heart"></i>
-        </span>
-    </div>
-    <div class="prop__body">
-        <div class="prop__header">
-            <div class="prop__headerLeft">
-                <h3 class="prop__title">Plot in Vale da Telha, investment for the future</h3>
-            </div>
-            <div class="prop__headerRight">
-                <span class="prop__ref">Ref: PH100-78</span>
-            </div>
-        </div>
-        <div class="prop__flex">
-            <div class="prop__flexLeft">
-                <ul class="prop__items">
-                                                                                    <li class="prop__item">
-                            <i class="icon icon-land-area"></i>
-                            <span>1740 m<sup>2</sup></span>
-                        </li>
-                </ul>
-            </div>
-            <div class="prop__flexRight">
-                <span class="prop__price">35,000 €</span>
             </div>
         </div>
     </div>
