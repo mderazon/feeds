@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2022-03-14T05:52:48.475Z</updated>
+    <updated>2022-03-14T17:41:23.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -65,9 +65,11 @@ A unique project in a superb location, only minutes on foot to either Monte Cler
         <updated>2022-03-10T17:42:08.135Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="RUSTIC LAND WITH RUIN TO RE-CONSTRUCT, VILARINHA">
+    <meta itemprop="name" content="URBAN LAND WITH RUIN TO RE-CONSTRUCT, VILARINHA">
     <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22423/ccb370fb-bc0c-425f-9c9e-8c787ab48bd8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="A 170m2 rustic plot of land with a 30m2 ruin to re-construct in the popular hamlet of Vilarinha, near to Carrapateira.
+    <meta itemprop="description" content="A 170m2 urban  plot of land with a 30m2 ruin to re-construct for habitation in the popular hamlet of Vilarinha, near to Carrapateira.
+
+There is the possibility of extending the size of the property.
 
 South facing  with rural views. Quiet location, neighbouring properties, no parking. Perfect location for hiking and mountain biking.
 
@@ -90,7 +92,7 @@ Within 15 minutes drive of two of the most beautiful beaches on the Western Alga
 
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22423/ccb370fb-bc0c-425f-9c9e-8c787ab48bd8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
-        <p class="prop__title">RUSTIC LAND WITH RUIN TO RE-CONSTRUCT, VILARINHA</p>
+        <p class="prop__title">URBAN LAND WITH RUIN TO RE-CONSTRUCT, VILARINHA</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>89.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22423" data-action-text="REF: RC242" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
