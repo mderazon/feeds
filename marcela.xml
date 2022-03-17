@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2022-03-17T05:39:45.672Z</updated>
+    <updated>2022-03-17T17:41:55.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -42,6 +42,7 @@ A unique project in a superb location, only minutes on foot to either Monte Cler
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3705/22426"></a>
 
+        <span class="prop__stamp">GOLDEN VISA OPPORTUNITY</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/A.png" alt="CE" width="29">
