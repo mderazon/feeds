@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1</id>
     <title>Chestertons</title>
-    <updated>2022-03-18T05:38:42.404Z</updated>
+    <updated>2022-03-18T17:42:21.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chestertons-portugal.com/Assets/Favicon/favicon.ico</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[<a class="prop " href="/property-detail/superb-t3-villa-on-the-beautiful--west-coast_3223">
     <div class="prop__imgWrap">
         <div class="prop__labels">
-                <span class="prop__label">Exclusive</span>
+                <span class="prop__label">Sold Subject to Contract</span>
         </div>
         <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3223/cd8e1e05-6e5e-4fb4-9752-e250d98a945b.jpg?quality=70);" role="img" aria-label="SUPERB T3 VILLA ON THE BEAUTIFUL  WEST COAST"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3223" data-action-text="SUPERB T3 VILLA ON THE BEAUTIFUL  WEST COAST" title="Add to favorites">
@@ -62,6 +62,7 @@
         <content type="html"><![CDATA[<a class="prop " href="/property-detail/t3-villa-close-to-monte-clerigo_3216">
     <div class="prop__imgWrap">
         <div class="prop__labels">
+                <span class="prop__label">Sold</span>
         </div>
         <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3216/a4735880-4018-42a3-9574-7eccebd75675.jpg?quality=70);" role="img" aria-label="T3 Villa close to Monte Clerigo"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3216" data-action-text="T3 Villa close to Monte Clerigo" title="Add to favorites">
