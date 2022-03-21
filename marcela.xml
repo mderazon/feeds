@@ -2,9 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2022-03-21T05:38:51.873Z</updated>
+    <updated>2022-03-21T17:42:16.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3709/22431</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3709/22431"/>
+        <updated>2022-03-21T17:40:55.868Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="TURNKEY PROJECT TO BUILD 4 BED VILLA WITH POOL - MONTE CLÉRIGO - ALJEZUR">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="An approved project to build a 246m2 villa on a 540m2 plot, boasting four bedrooms, four bathrooms, south facing swimming pool, basement, terraces and ocean views from the upper level.
+
+The villa will comprise:-
+
+First Level 82m2 - Two double bedrooms leading out to front terrace with two bathrooms and direct access to the street, ideal for renting out separately, one of the rooms has an ocean view. 
+
+Ground Floor 164.53m2 - spacious open plan dining/ living/ kitchen area leading out to rear terrace and pool. Stairs down to basement. Two double bedrooms leading out to front terrace with two bathrooms and direct access to the street, ideal for renting out separately.
+
+Basement - 'Technical room, Laundry and storage areas
+
+Off street parking for one car. 
+
+A fabulous opportunity to invest in a unique villa in an extremely desirable area within walking distance of the beaches at Monte Clerigo and Amoreira.
+
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="820000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3709/22431"></a>
+
+        <span class="prop__stamp">GOLDEN VISA OPPORTUNITY</span>
+
+
+                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/Aplus.png" alt="CE" width="29">
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">TURNKEY PROJECT TO BUILD 4 BED VILLA WITH POOL - MONTE CLÉRIGO - ALJEZUR</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>820.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22431" data-action-text="REF: C3709" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: C3709</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/townhouse-aljezur-ref_c3707/22428</id>
@@ -449,44 +500,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22321" data-action-text="REF: U464N" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U464N</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464m/22320</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464m/22320"/>
-        <updated>2021-12-13T17:45:18.488Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22320/2a3c5a17-1285-4973-85eb-2f23dcd9250d.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="A building plot of 447.91 m2 in the Espartal Urbanisation with the possibility to build a two storey property of of 232.50 m2 on a footprint of 169mtr2.  
-
-A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="152250">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u464m/22320"></a>
-
-        <span class="prop__stamp">SOLD</span>
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22320/2a3c5a17-1285-4973-85eb-2f23dcd9250d.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>152.250 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22320" data-action-text="REF: U464M" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: U464M</span></p>
     </div>
 </div>]]></content>
     </entry>
