@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T05:41:12.285Z</updated>
+    <updated>2022-03-22T17:44:35.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -663,7 +663,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>550,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>608,663</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>607,343</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -697,7 +697,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=127333815&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>275,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>304,332</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>303,671</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -730,7 +730,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=127250945&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>180,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>199,199</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>198,767</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -776,13 +776,13 @@ A great opportunity to invest in this popular urbanisation which is within walki
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[95.500 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357500</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357500"/>
-        <updated>2022-02-02T17:40:46.901Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357500">
+        <title type="html"><![CDATA[102.000 € (Luxview)]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496"/>
+        <updated>2022-02-23T17:40:38.007Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357496/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357496/bc0a19d7-4333-4e7f-9540-f81b4eb84ec5.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -794,56 +794,14 @@ A great opportunity to invest in this popular urbanisation which is within walki
                                                 <span class="prop-specLabel">
                                                     Ref: &nbsp;
                                                 </span>
-                                                A019.8
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            95.500 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[102.000 € (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496"/>
-        <updated>2022-02-23T17:40:38.007Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357496/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357496/bc0a19d7-4333-4e7f-9540-f81b4eb84ec5.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-content">
-                                        <ul class="prop-feats">
-                                                <li>
-                                                    Not applicable
-                                                </li>
-                                            <li>
-                                                Land
-                                            </li>
-                                            <li>
-                                                Aljezur Urbanização Paisagem Oceano
-                                            </li>
-                                            <li>
                                                 A019.6
                                             </li>
                                         </ul>
-
-                                        <ul class="prop-specs">
-                                                                                    </ul>
+                                        <span class="prop-price prop-price--long">
+                                            102.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
                                     </div>
-                                    <span class="prop-price">
-                                        102.000 €
-                                        <i class="fa fa-long-arrow-right"></i>
-                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -856,28 +814,36 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491"/>
         <updated>2022-01-25T17:43:29.629Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491">
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357491/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357491/b7468322-a665-4a0c-bdde-49dfdd3e4d8d.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357491/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357491/b7468322-a665-4a0c-bdde-49dfdd3e4d8d.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
+                                    <div class="prop-content">
+                                        <ul class="prop-feats">
+                                                <li>
+                                                    New
+                                                </li>
                                             <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
+                                                Land
+                                            </li>
+                                            <li>
+                                                Aljezur Urbanização Paisagem Oceano
+                                            </li>
+                                            <li>
                                                 A019.5
                                             </li>
                                         </ul>
-                                        <span class="prop-price prop-price--long">
-                                            102.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
+
+                                        <ul class="prop-specs">
+                                                                                    </ul>
                                     </div>
+                                    <span class="prop-price">
+                                        102.000 €
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -1026,7 +992,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
                             </div>
                             <div class="prop-stampWrap">
 
-                                    <span class="prop-stamp prop-stamp--primary">NEGOTIABLE</span>
+                                    <span class="prop-stamp prop-stamp--primary">UNDER OFFER</span>
                             </div>
                         </a>]]></content>
     </entry>
@@ -1035,36 +1001,28 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <id>https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013</id>
         <link href="https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013"/>
         <updated>2021-11-23T05:52:07.098Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013">
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/256013/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/256013/d71dcac1-c154-4096-934d-be3734a81729.png?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/256013/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/256013/d71dcac1-c154-4096-934d-be3734a81729.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-content">
-                                        <ul class="prop-feats">
-                                                <li>
-                                                    Not applicable
-                                                </li>
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
                                             <li>
-                                                Land
-                                            </li>
-                                            <li>
-                                                Aljezur Vales
-                                            </li>
-                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
                                                 A014
                                             </li>
                                         </ul>
-
-                                        <ul class="prop-specs">
-                                                                                    </ul>
+                                        <span class="prop-price prop-price--long">
+                                            105.000 €
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
                                     </div>
-                                    <span class="prop-price">
-                                        105.000 €
-                                        <i class="fa fa-long-arrow-right"></i>
-                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -1077,40 +1035,48 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <id>https://en.luxview.pt/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333</id>
         <link href="https://en.luxview.pt/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333"/>
         <updated>2021-11-23T05:52:07.100Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333">
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/241333/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/241333/0c3ba9ad-ffd1-4079-859e-97468f22841d.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/241333/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/241333/0c3ba9ad-ffd1-4079-859e-97468f22841d.png?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
+                                    <div class="prop-content">
+                                        <ul class="prop-feats">
                                                 <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
-                                                        0
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
-                                                        0
-                                                    </div>
+                                                    Ruin
                                                 </li>
                                             <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
+                                                Farmhouse
+                                            </li>
+                                            <li>
+                                                Aljezur Quinta Nova do Areeiro
+                                            </li>
+                                            <li>
                                                 A009
                                             </li>
                                         </ul>
-                                        <span class="prop-price prop-price--long">
-                                            150.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
+
+                                        <ul class="prop-specs">
+                                                <li>
+                                                    <img style="top: -3px" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
+                                                    0
+                                                </li>
+                                                <li>
+                                                    <img style="top: -5px" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
+                                                    0
+                                                </li>
+                                                                                            <li>
+                                                    <img style="top: -4px" src="/Assets/Images/icon-area.png" alt="House Area">
+                                                    0m <sup>2</sup>
+                                                </li>
+                                        </ul>
                                     </div>
+                                    <span class="prop-price">
+                                        150.000 €
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
