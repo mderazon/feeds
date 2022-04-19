@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-04-19T05:45:31.463Z</updated>
+    <updated>2022-04-19T17:49:44.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -86,10 +86,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[120.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-_318245</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-_318245"/>
-        <updated>2021-11-23T05:52:07.090Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-_318245">
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-corto-sobro_318245</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-corto-sobro_318245"/>
+        <updated>2022-04-19T17:49:08.218Z</updated>
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-corto-sobro_318245">
                             <div class="prop-imgArea">
                                 <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/318245/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/318245/bfd2f461-8f55-4459-9508-6851efa5eb69.jpeg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
@@ -105,7 +105,7 @@
                                                 Land
                                             </li>
                                             <li>
-                                                Aljezur
+                                                Aljezur Corto sobro
                                             </li>
                                             <li>
                                                 A023
@@ -273,13 +273,13 @@
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[999.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016</id>
-        <link href="https://en.luxview.pt/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016"/>
-        <updated>2021-11-23T05:52:07.103Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016">
+        <title type="html"><![CDATA[POA]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496"/>
+        <updated>2022-02-23T17:40:38.007Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/232016/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/232016/9853d2ee-1602-407e-89d2-4b662f72789b.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357496/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357496/bc0a19d7-4333-4e7f-9540-f81b4eb84ec5.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -287,71 +287,18 @@
                                     <div class="prop-smallContent">
 
                                         <ul class="prop-smallFeats">
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
-                                                        4
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
-                                                        4
-                                                    </div>
-                                                </li>
                                             <li>
                                                 <span class="prop-specLabel">
                                                     Ref: &nbsp;
                                                 </span>
-                                                A004
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            999.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POA]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496"/>
-        <updated>2022-02-23T17:40:38.007Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357496/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357496/bc0a19d7-4333-4e7f-9540-f81b4eb84ec5.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-content">
-                                        <ul class="prop-feats">
-                                                <li>
-                                                    Not applicable
-                                                </li>
-                                            <li>
-                                                Land
-                                            </li>
-                                            <li>
-                                                Aljezur Urbanização Paisagem Oceano
-                                            </li>
-                                            <li>
                                                 A019.6
                                             </li>
                                         </ul>
-
-                                        <ul class="prop-specs">
-                                                                                    </ul>
+                                        <span class="prop-price prop-price--long">
+                                            POA
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
                                     </div>
-                                    <span class="prop-price">
-                                        POA
-                                        <i class="fa fa-long-arrow-right"></i>
-                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -364,28 +311,36 @@
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491"/>
         <updated>2022-01-25T17:43:29.629Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491">
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357491/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357491/b7468322-a665-4a0c-bdde-49dfdd3e4d8d.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357491/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357491/b7468322-a665-4a0c-bdde-49dfdd3e4d8d.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
+                                    <div class="prop-content">
+                                        <ul class="prop-feats">
+                                                <li>
+                                                    New
+                                                </li>
                                             <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
+                                                Land
+                                            </li>
+                                            <li>
+                                                Aljezur Urbanização Paisagem Oceano
+                                            </li>
+                                            <li>
                                                 A019.5
                                             </li>
                                         </ul>
-                                        <span class="prop-price prop-price--long">
-                                            POA
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
+
+                                        <ul class="prop-specs">
+                                                                                    </ul>
                                     </div>
+                                    <span class="prop-price">
+                                        POA
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
