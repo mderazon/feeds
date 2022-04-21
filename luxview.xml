@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-04-21T05:57:07.775Z</updated>
+    <updated>2022-04-21T17:50:06.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -344,7 +344,7 @@
                             </div>
                             <div class="prop-stampWrap">
 
-                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
+                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
                             </div>
                         </a>]]></content>
     </entry>
