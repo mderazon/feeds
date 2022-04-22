@@ -2,9 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2022-04-22T05:56:23.351Z</updated>
+    <updated>2022-04-22T17:48:30.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464t/22504</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464t/22504"/>
+        <updated>2022-04-22T17:47:09.491Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22504/925b0e60-bc20-4bfe-af23-b8cf93ee3c4d.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="A building plot of 458m2 in the Espartal Urbanisation with fabulous distant sea views and the possibility to build a two storey property of of 210m2 on a footprint of 160mtr2.  
+
+A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="320000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u464t/22504"></a>
+
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22504/925b0e60-bc20-4bfe-af23-b8cf93ee3c4d.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>320.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22504" data-action-text="REF: U464T" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: U464T</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/hotel-aljezur-ref_c3712/22481</id>
@@ -482,44 +519,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22323" data-action-text="REF: U464P" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U464P</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464m/22320</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464m/22320"/>
-        <updated>2022-04-12T17:45:05.712Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22320/2a3c5a17-1285-4973-85eb-2f23dcd9250d.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="A building plot of 447.91 m2 in the Espartal Urbanisation with the possibility to build a two storey property of of 232.50 m2 on a footprint of 169mtr2.  
-
-A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="152250">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u464m/22320"></a>
-
-        <span class="prop__stamp">SOLD</span>
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22320/2a3c5a17-1285-4973-85eb-2f23dcd9250d.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>152.250 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22320" data-action-text="REF: U464M" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: U464M</span></p>
     </div>
 </div>]]></content>
     </entry>
