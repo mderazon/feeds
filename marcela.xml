@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2022-05-06T05:43:34.428Z</updated>
+    <updated>2022-05-06T17:48:01.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -447,6 +447,52 @@ This is versatile property that would be perfect as a large family residence or 
     </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3723/22382</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3723/22382"/>
+        <updated>2022-05-06T17:46:54.201Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="SPACIOUS THREE BEDROOM QUINTA CENTRALLY LOCATED ON AN IDYLLIC ORCHARD PLOT">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22382/e1e8b2e9-2228-4c47-bb0b-c7a4cfcb3a86.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="Centrally located on an idyllic orchard plot of 1.75 hectares this spacious three bedroom 259 mtr² farmhouse offers peaceful rustic accommodation only five minutes inland from Rogil, ten minutes from the coast.
+
+Offered fully furnished the house also benefits from; fully equipped and fitted kitchen, two bathrooms, three double bedrooms, garage and workshop, south facing conservatory and sun terrace, sauna and spa with double shower, gas &amp; solar boosted hot water and central heating system, double glazing. Mains water, electricity and telecoms, Securitas alarm system. 
+
+The orchard garden boasts a variety of local fruit trees and sub-tropical plants along with a barbecue and covered dining area.
+
+The property had an approved project to build a pool in 2003 and there exists a south facing baragem which could offer the option of a bio-pool if preferred.
+
+Early viewing is highly recommended
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="599000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/farmhouse-aljezur-ref_c3723/22382"></a>
+
+        <span class="prop__stamp">IN NEGOTIATION</span>
+
+
+                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/Bminus.png" alt="CE" width="29">
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22382/e1e8b2e9-2228-4c47-bb0b-c7a4cfcb3a86.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">SPACIOUS THREE BEDROOM QUINTA CENTRALLY LOCATED ON AN IDYLLIC ORCHARD PLOT</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>599.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22382" data-action-text="REF: C3723" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: C3723</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur-ref_rc240/22360</id>
         <link href="https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur-ref_rc240/22360"/>
         <updated>2022-03-30T17:40:27.223Z</updated>
@@ -483,43 +529,6 @@ Plans and details available on request.">
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22360" data-action-text="REF: RC240" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: RC240</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464s/22326</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464s/22326"/>
-        <updated>2021-12-13T17:45:18.480Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22326/046eb32f-bc51-4445-bbce-b94f21132a35.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="A building plot of 523.82 m2 in the Espartal Urbanisation with the possibility to build a two storey property of of 260 m2 on a footprint of 187 mtr2.  
-
-A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="172000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u464s/22326"></a>
-
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22326/046eb32f-bc51-4445-bbce-b94f21132a35.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>172.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22326" data-action-text="REF: U464S" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: U464S</span></p>
     </div>
 </div>]]></content>
     </entry>
