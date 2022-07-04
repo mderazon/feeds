@@ -2,13 +2,15 @@ pages:
   stage: deploy
   image: mcr.microsoft.com/playwright:v1.12.3-focal
   script:
-  - npx feed-me-up-scotty
+    - npx playwright install-deps
+    - npx playwright install firefox
+    - npx feed-me-up-scotty
   artifacts:
     paths:
-    - public
+      - public
     expire_in: 1 day
   only:
-  - main
+    - main
   retry:
     # Sometimes a website is temporarily slow/down:
     max: 2
