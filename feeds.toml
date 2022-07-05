@@ -56,21 +56,21 @@ waitUntil = "load"
 titleSelector = ".sr-only"
 linkSelector = "a.card__gallery[href]"
 
-# [chestertons]
-# title = "Chestertons"
-# url = "https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1"
-# entrySelector = ".list__item"
-# waitUntil = "networkidle"
-# titleSelector = ".prop__title"
-# linkSelector = "a.prop[href]"
-
-[century21-pt]
-title = "Century 21 Portugal"
-url = "https://www.century21.pt/comprar?q=Portugal%2C%20Faro%20%28Algarve%29%2C%20Aljezur%20%28Algarve%29&page=1&numberOfElements=12&ord=date-desc"
-entrySelector = ".card-property"
+[chestertons]
+title = "Chestertons"
+url = "https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1"
+entrySelector = ".list__item"
 waitUntil = "networkidle"
-titleSelector = ".c21card__address"
-linkSelector = "a.c21card__photo[href]"
+titleSelector = ".prop__title"
+linkSelector = "a.prop[href]"
+
+# [century21-pt]
+# title = "Century 21 Portugal"
+# url = "https://www.century21.pt/comprar?q=Portugal%2C%20Faro%20%28Algarve%29%2C%20Aljezur%20%28Algarve%29&page=1&numberOfElements=12&ord=date-desc"
+# entrySelector = "div.card-property"
+# waitUntil = "networkidle"
+# titleSelector = ".c21card__address"
+# linkSelector = "a.c21card__photo[href]"
 
 [swplaces]
 title = "SW-Places"
