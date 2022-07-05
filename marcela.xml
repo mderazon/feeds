@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2022-05-12T17:51:03.317Z</updated>
+    <updated>2022-07-05T06:50:09.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u483/22620</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u483/22620"/>
+        <updated>2022-07-05T06:48:52.274Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="LARGE URBAN PLOT IN A GOOD LOCATION, VALE DA TELHA">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22620/d38fddaf-2220-4bca-a578-63c43d49aade.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="A large 2040m2 plot of land for construction of a detached house with 250 sq.m construction area. Located in Vale da Telha, in a quiet area within walking distance of the local amenities of this popular urbanization. 
+
+Currently it is not possible to construct until the detailed building plan for Vale da Telha is approved. 
+As soon as the plan is approved and construction possible the value will increase.
+
+Good access to both of the local beaches at Arrifana and Monte Clerigo as well as the town of Aljezur.
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="79950">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u483/22620"></a>
+
+        <span class="prop__stamp">UNDER OFFER</span>
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22620/d38fddaf-2220-4bca-a578-63c43d49aade.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">LARGE URBAN PLOT IN A GOOD LOCATION, VALE DA TELHA</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>79.950 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22620" data-action-text="REF: U483" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: U483</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur--ref_c3728/22582</id>
@@ -13,7 +55,7 @@
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="THREE BEDROOM RURAL HOUSE WITH GARAGE AND LAND NEAR TO COAST">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A well presented  three bedroom 170m2 rural house with converted garage located on a 16000m2 plot of flat land within walking distance of the nearest town of Rogil and within walking distance to the coast in the Costa Vicentina Natural Park.
 
 This two storey property comprises of open plan dining/ living area with two terrace doors, fireplace; equipped kitchen; WC with utility; stairs to mezzanine area with office/ workspace, bedroom with WC and built in cupboard, plentiful storage areas.
@@ -34,13 +76,14 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/villa-aljezur--ref_c3728/22582"></a>
 
+        <span class="prop__stamp">UNDER OFFER</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/A.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">THREE BEDROOM RURAL HOUSE WITH GARAGE AND LAND NEAR TO COAST</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>565.000 €</strong></span></p>
@@ -58,7 +101,7 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="RUIN IN OLD TOWN WITH PROJECT APPROVED FOR RECONSTRUCTION">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A small 50m2 ruin located in the heart of the Old Town of Aljezur with project approved to build a 2 bed property with rooftop terrace with views to the hills at Monchique. Within walking distance of amenities and the historical attractions nearby. In need of complete re-build. Plot 65m2.  Parking nearby. Built pre-1951. A very attractive project in a very desirable area.">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
@@ -70,14 +113,14 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/ruin-aljezur--ref_c3724/22538"></a>
 
-        <span class="prop__stamp">OPPORTUNITY</span>
+        <span class="prop__stamp">SOLD</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/F.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">RUIN IN OLD TOWN WITH PROJECT APPROVED FOR RECONSTRUCTION</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>89.000 €</strong></span></p>
@@ -94,28 +137,26 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
         <updated>2022-05-10T17:48:43.708Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="URBANISED LAND WITH THE OPTION TO BUILD IN EXCESS OF 800mtrs² CONSTRUCTION">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="6,366 mtr² of urbanised land with the option to build in excess of 800 mtrs² construction.
+    <meta itemprop="name" content="URBAN PLOT WITH REGISTERED DWELLING">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="Small urban plot of 390 mt² with a registered dwelling of 62 m² needing renovation. 
+PLEASE NOTE THAT THERE IS NO POSSIBILITY TO AMPLIFY THE EXISTING DWELLING.
 
-Located at the edge of the village, this is the last urban build possibility. 
-
-The property is two parcels, one of 5,976 mtr² with an option to construct up to 800 mtr², the second parcel which is located inside the first one is 390 mtr² with a house of 62 mtr² registered. 
-
-Mains water and power are connected to the property.
 
 With amazing beaches in the surrounding areas of Alentejo and Algarve, nature lovers as well as beach and surf enthusiasts will appreciate the convenient location and easy access of this investment opportunity:
 
 ▪ Nearby unspoiled beaches; (Nearest beach; Baia dos Tiros, is 2.8 kmtrs as the crow flies)
 ▪ Private and calm environment;
-▪ Chance to develop various concepts on this plot
 ▪ Easy tarmac access just off a main road
-▪ Lots of amenities a short bicycle ride away
-▪ Small house need of renovation and project with immense commercial or residential potential 
+▪ Lots of amenities a short bicycle ride away. 
+
+Mains water and power are connected to the property.
+
+
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="290000">
+        <meta itemprop="price" content="135000">
     </div>
 </div>
 
@@ -123,16 +164,17 @@ With amazing beaches in the surrounding areas of Alentejo and Algarve, nature lo
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_c3725/22516"></a>
 
+        <span class="prop__stamp">UNDER OFFER</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/E.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
-        <p class="prop__title">URBANISED LAND WITH THE OPTION TO BUILD IN EXCESS OF 800mtrs² CONSTRUCTION</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>290.000 €</strong></span></p>
+        <p class="prop__title">URBAN PLOT WITH REGISTERED DWELLING</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>135.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22516" data-action-text="REF: C3725" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3725</span></p>
@@ -147,7 +189,7 @@ With amazing beaches in the surrounding areas of Alentejo and Algarve, nature lo
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A frontline urban building plot of 400 m2 with full Planning Permission on the Espartal Urbanisation with the possibility to build a two storey property of of 200 m2 on a footprint of 160 mtr2. 
 
 A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
@@ -166,7 +208,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>320.000 €</strong></span></p>
@@ -184,7 +226,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A frontline urban building plot of 430m2 with full Planning Permission on the Espartal Urbanisation with the possibility to build a two storey property of of 210 m2 on a footprint of 160 mtr2. 
 
 A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
@@ -204,7 +246,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>320.000 €</strong></span></p>
@@ -222,7 +264,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="Fully licensed seven bedroom 450m2 Guest House (Casa d’Hospedes) situated on a 1500 plot of land in a quiet cul -de-sac in a very desirable location within walking distance of two restaurants, a bar and mini market and within 3 km drive of Arrifana and Monte Clerigo beaches.
 
 The innovative design of the property lends itself to three possibilities:-
@@ -240,7 +282,7 @@ Immaculately presented the property is being sold fully furnished and ready to o
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="1200000">
+        <meta itemprop="price" content="1250000">
     </div>
 </div>
 
@@ -254,10 +296,10 @@ Immaculately presented the property is being sold fully furnished and ready to o
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.200.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.250.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22481" data-action-text="REF: C3712" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3712</span></p>
@@ -272,13 +314,13 @@ Immaculately presented the property is being sold fully furnished and ready to o
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A building plot of 580 m2 centrally located on the Espartal Urbanisation with mountain and valley views.  The plot has the approved possibility to build a two storey property with a pool of of 280 m2 on a footprint of 220 mtr2.  
 
 A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="195000">
+        <meta itemprop="price" content="250000">
     </div>
 </div>
 
@@ -292,54 +334,13 @@ A great opportunity to invest in this popular urbanisation which is within walki
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>195.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>250.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22440" data-action-text="REF: U480" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U480</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3711/22435</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3711/22435"/>
-        <updated>2022-04-06T05:39:28.972Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="SPACIOUS THREE BEDROOM VILLA WITH POOL">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22435/b2acb39a-530a-4714-a11a-5b78a9798f86.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="Tucked away in a quiet corner of the urbanization this barely used three bedroom villa with south west facing solar heated pool is a superb opportunity to invest in an ideal family home or buy to let holiday home. 
- 
-Sitting on an easy maintenance plot of 920 mtr² the villa also benefits from: Two en-suite double bedrooms and a guest bathroom. Tilt and turn double glazing throughout. Enclosed wood burner. Pre-plumbed for central heating. Solar boosted hot water system. Buried gas tank. Remote controlled garage door. Fully fitted kitchen. South facing pool terrace and outside dining area with barbecue and outside shower. Built in wardrobes and additional storage space in main corridor
-
-Only minutes from either Arrifana or Monte Clerigo the property is competitively priced and early viewing is recommended.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="475000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3711/22435"></a>
-
-        <span class="prop__stamp">IN NEGOTIATION</span>
-
-
-                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/C.png" alt="CE" width="29">
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22435/b2acb39a-530a-4714-a11a-5b78a9798f86.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">SPACIOUS THREE BEDROOM VILLA WITH POOL</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>475.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22435" data-action-text="REF: C3711" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3711</span></p>
     </div>
 </div>]]></content>
     </entry>
@@ -351,7 +352,7 @@ Only minutes from either Arrifana or Monte Clerigo the property is competitively
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="ARCHITECTURE PROJECT TO BUILD 4 BED VILLA WITH POOL - MONTE CLÉRIGO - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="An approved architecture project to build a 246m2 villa on a 540m2 plot, boasting four bedrooms, four bathrooms, south facing swimming pool, basement, terraces and ocean views from the upper level.
 
 The villa will comprise:-
@@ -384,7 +385,7 @@ A fabulous opportunity to invest in a unique villa in an extremely desirable are
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">ARCHITECTURE PROJECT TO BUILD 4 BED VILLA WITH POOL - MONTE CLÉRIGO - ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>820.000 €</strong></span></p>
@@ -402,7 +403,7 @@ A fabulous opportunity to invest in a unique villa in an extremely desirable are
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="THREE BEDROOM TOWNHOUSE IN ESPARTAL, MONTE CLERIGO, ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="This attractive three bedroom 125 m2 two storey end of terrace semi-detached town-house is located  in a small condominium within walking distance of the beaches at Monte Clerigo and Amoreira in the Costa Vicentina Natural Park.
 
 The property comprises: Ground Floor - entrance hallway with wardrobe; open plan dining/ living area with terrace doors to front; attractive fully equipped kitchen with patio doors to rear terrace and garden; double bedroom; guest bathroom; storage/utility under stairs.
@@ -422,14 +423,14 @@ A perfect lock up &amp; go holiday home with excellent potential for renting. Th
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/townhouse-aljezur-ref_c3707/22428"></a>
 
-        <span class="prop__stamp">UNDER OFFER</span>
+        <span class="prop__stamp">SOLD</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/Bminus.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">THREE BEDROOM TOWNHOUSE IN ESPARTAL, MONTE CLERIGO, ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>355.000 €</strong></span></p>
@@ -447,7 +448,7 @@ A perfect lock up &amp; go holiday home with excellent potential for renting. Th
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="LUXURY 2+1 BED VILLA WITH INFINITY POOL, IN CONSTRUCTION, MONTE CLERIGO, ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="Currently in construction this high quality, luxury two storey two bedroom (T2 +1) 241m2 villa with infinity pool sits on an elevated 460m2 plot with views across the Amoreira Valley to Monchique.
 
 Due to be complete and licensed by Sept/October 2022 the project design (picture #7) is detailed as follows:-
@@ -483,7 +484,7 @@ A unique project in a superb location, only minutes on foot to either Monte Cler
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">LUXURY 2+1 BED VILLA WITH INFINITY POOL, IN CONSTRUCTION, MONTE CLERIGO, ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>780.000 €</strong></span></p>
@@ -495,44 +496,47 @@ A unique project in a superb location, only minutes on foot to either Monte Cler
     </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3706/22415</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3706/22415"/>
-        <updated>2022-03-07T17:40:41.112Z</updated>
+        <id>https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3723/22382</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3723/22382"/>
+        <updated>2022-07-05T06:48:52.299Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="THREE BEDROOM VILLA WITH POOL, VALE DA TELHA, ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22415/d7fc2d61-7b3d-4231-89a6-0f6db58416e8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="An immaculate well maintained 177m2 three bedroom  villa located on a plot of 800m2 with swimming pool, garage, well established low maintenance garden and roof terrace with views of the ocean in the distance.
+    <meta itemprop="name" content="SPACIOUS THREE BEDROOM QUINTA CENTRALLY LOCATED ON AN IDYLLIC ORCHARD PLOT">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22382/26f66239-1a38-4ffb-bde4-4098a717b61c.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="Centrally located on an idyllic orchard plot of 1.75 hectares this spacious three bedroom 259 mtr² farmhouse offers peaceful rustic accommodation only five minutes inland from Rogil, ten minutes from the coast.
 
-Built in 2007 the property comprises of:- Entrance hallway; spacious 36m2 open plan dining living area and fully equipped kitchen with breakfast bar, patio doors to rear terrace and pool. Guest bathroom with bath. Corridor leading to three bedrooms all with fitted wardrobes, one en-suite with patio doors to rear terrace and pool. Garage with utility (access from house and automatic external doors). Off road parking. Roof terrace at rear with access to attic area (storage). 
+Offered fully furnished the house also benefits from; fully equipped and fitted kitchen, two bathrooms, three double bedrooms, garage and workshop, south facing conservatory and sun terrace, sauna and spa with double shower, gas &amp; solar boosted hot water and central heating system, double glazing. Mains water, electricity and telecoms, Securitas alarm system. 
 
-Double glazed, tilt &amp; turn windows and patio doors; heated towel rails; gas central heating (tank in front garden), wood burner in living area (Fogo Montanha), well established attractive low maintenance garden, kidney shaped swimming pool with cover. Offered fully furnished. Located in a very quiet area of this popular urbanization within walking distance of the coast and the local amenities.
+The orchard garden boasts a variety of local fruit trees and sub-tropical plants along with a barbecue and covered dining area.
 
-A beautiful permanent residency or holiday home which would also make an ideal rental villa - viewing is highly recommended.
+The property had an approved project to build a pool in 2003 and there exists a south facing baragem which could offer the option of a bio-pool if preferred.
+
+Early viewing is highly recommended
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="490000">
+        <meta itemprop="price" content="599000">
     </div>
 </div>
 
 
 <div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3706/22415"></a>
+    <a class="prop__link" href="/property-for-sale/farmhouse-aljezur-ref_c3723/22382"></a>
+
+        <span class="prop__stamp">SOLD</span>
+
+
+                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/Bminus.png" alt="CE" width="29">
 
 
 
-                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/C.png" alt="CE" width="29">
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22415/d7fc2d61-7b3d-4231-89a6-0f6db58416e8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22382/26f66239-1a38-4ffb-bde4-4098a717b61c.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
-        <p class="prop__title">THREE BEDROOM VILLA WITH POOL, VALE DA TELHA, ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>490.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22415" data-action-text="REF: C3706" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+        <p class="prop__title">SPACIOUS THREE BEDROOM QUINTA CENTRALLY LOCATED ON AN IDYLLIC ORCHARD PLOT</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>599.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22382" data-action-text="REF: C3723" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
-        <p><span class="prop__reference">Ref: C3706</span></p>
+        <p><span class="prop__reference">Ref: C3723</span></p>
     </div>
 </div>]]></content>
     </entry>

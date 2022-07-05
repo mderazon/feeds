@@ -2,8 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T17:51:03.335Z</updated>
+    <updated>2022-07-05T06:50:09.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u483/22620</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u483/22620"/>
+        <updated>2022-07-05T06:48:52.274Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="LARGE URBAN PLOT IN A GOOD LOCATION, VALE DA TELHA">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22620/d38fddaf-2220-4bca-a578-63c43d49aade.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="A large 2040m2 plot of land for construction of a detached house with 250 sq.m construction area. Located in Vale da Telha, in a quiet area within walking distance of the local amenities of this popular urbanization. 
+
+Currently it is not possible to construct until the detailed building plan for Vale da Telha is approved. 
+As soon as the plan is approved and construction possible the value will increase.
+
+Good access to both of the local beaches at Arrifana and Monte Clerigo as well as the town of Aljezur.
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="79950">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u483/22620"></a>
+
+        <span class="prop__stamp">UNDER OFFER</span>
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22620/d38fddaf-2220-4bca-a578-63c43d49aade.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">LARGE URBAN PLOT IN A GOOD LOCATION, VALE DA TELHA</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>79.950 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22620" data-action-text="REF: U483" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: U483</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur--ref_c3728/22582</id>
@@ -12,7 +54,7 @@
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="THREE BEDROOM RURAL HOUSE WITH GARAGE AND LAND NEAR TO COAST">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A well presented  three bedroom 170m2 rural house with converted garage located on a 16000m2 plot of flat land within walking distance of the nearest town of Rogil and within walking distance to the coast in the Costa Vicentina Natural Park.
 
 This two storey property comprises of open plan dining/ living area with two terrace doors, fireplace; equipped kitchen; WC with utility; stairs to mezzanine area with office/ workspace, bedroom with WC and built in cupboard, plentiful storage areas.
@@ -33,13 +75,14 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/villa-aljezur--ref_c3728/22582"></a>
 
+        <span class="prop__stamp">UNDER OFFER</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/A.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22582/f3296924-4fd9-4dcb-b47a-e3499eaece87.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">THREE BEDROOM RURAL HOUSE WITH GARAGE AND LAND NEAR TO COAST</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>565.000 €</strong></span></p>
@@ -57,7 +100,7 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="RUIN IN OLD TOWN WITH PROJECT APPROVED FOR RECONSTRUCTION">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A small 50m2 ruin located in the heart of the Old Town of Aljezur with project approved to build a 2 bed property with rooftop terrace with views to the hills at Monchique. Within walking distance of amenities and the historical attractions nearby. In need of complete re-build. Plot 65m2.  Parking nearby. Built pre-1951. A very attractive project in a very desirable area.">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
@@ -69,14 +112,14 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/ruin-aljezur--ref_c3724/22538"></a>
 
-        <span class="prop__stamp">OPPORTUNITY</span>
+        <span class="prop__stamp">SOLD</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/F.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22538/8d959e03-46e7-4609-b4e0-72167dc83f89.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">RUIN IN OLD TOWN WITH PROJECT APPROVED FOR RECONSTRUCTION</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>89.000 €</strong></span></p>
@@ -93,28 +136,26 @@ Gated private driveway, good access road.  Mature hedges provide shelter all aro
         <updated>2022-05-10T17:48:43.708Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="URBANISED LAND WITH THE OPTION TO BUILD IN EXCESS OF 800mtrs² CONSTRUCTION">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="6,366 mtr² of urbanised land with the option to build in excess of 800 mtrs² construction.
+    <meta itemprop="name" content="URBAN PLOT WITH REGISTERED DWELLING">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="Small urban plot of 390 mt² with a registered dwelling of 62 m² needing renovation. 
+PLEASE NOTE THAT THERE IS NO POSSIBILITY TO AMPLIFY THE EXISTING DWELLING.
 
-Located at the edge of the village, this is the last urban build possibility. 
-
-The property is two parcels, one of 5,976 mtr² with an option to construct up to 800 mtr², the second parcel which is located inside the first one is 390 mtr² with a house of 62 mtr² registered. 
-
-Mains water and power are connected to the property.
 
 With amazing beaches in the surrounding areas of Alentejo and Algarve, nature lovers as well as beach and surf enthusiasts will appreciate the convenient location and easy access of this investment opportunity:
 
 ▪ Nearby unspoiled beaches; (Nearest beach; Baia dos Tiros, is 2.8 kmtrs as the crow flies)
 ▪ Private and calm environment;
-▪ Chance to develop various concepts on this plot
 ▪ Easy tarmac access just off a main road
-▪ Lots of amenities a short bicycle ride away
-▪ Small house need of renovation and project with immense commercial or residential potential 
+▪ Lots of amenities a short bicycle ride away. 
+
+Mains water and power are connected to the property.
+
+
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="290000">
+        <meta itemprop="price" content="135000">
     </div>
 </div>
 
@@ -122,16 +163,17 @@ With amazing beaches in the surrounding areas of Alentejo and Algarve, nature lo
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_c3725/22516"></a>
 
+        <span class="prop__stamp">UNDER OFFER</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/E.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22516/8cd29b89-b0db-48c2-9f2c-422367b2a361.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
-        <p class="prop__title">URBANISED LAND WITH THE OPTION TO BUILD IN EXCESS OF 800mtrs² CONSTRUCTION</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>290.000 €</strong></span></p>
+        <p class="prop__title">URBAN PLOT WITH REGISTERED DWELLING</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>135.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22516" data-action-text="REF: C3725" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3725</span></p>
@@ -146,7 +188,7 @@ With amazing beaches in the surrounding areas of Alentejo and Algarve, nature lo
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A frontline urban building plot of 400 m2 with full Planning Permission on the Espartal Urbanisation with the possibility to build a two storey property of of 200 m2 on a footprint of 160 mtr2. 
 
 A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
@@ -165,7 +207,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22505/9f579516-0ee5-42a8-8ef4-2bd3ee5afc92.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>320.000 €</strong></span></p>
@@ -183,7 +225,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A frontline urban building plot of 430m2 with full Planning Permission on the Espartal Urbanisation with the possibility to build a two storey property of of 210 m2 on a footprint of 160 mtr2. 
 
 A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
@@ -203,7 +245,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>320.000 €</strong></span></p>
@@ -221,7 +263,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="Fully licensed seven bedroom 450m2 Guest House (Casa d’Hospedes) situated on a 1500 plot of land in a quiet cul -de-sac in a very desirable location within walking distance of two restaurants, a bar and mini market and within 3 km drive of Arrifana and Monte Clerigo beaches.
 
 The innovative design of the property lends itself to three possibilities:-
@@ -239,7 +281,7 @@ Immaculately presented the property is being sold fully furnished and ready to o
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="1200000">
+        <meta itemprop="price" content="1250000">
     </div>
 </div>
 
@@ -253,10 +295,10 @@ Immaculately presented the property is being sold fully furnished and ready to o
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.200.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.250.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22481" data-action-text="REF: C3712" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3712</span></p>
@@ -271,13 +313,13 @@ Immaculately presented the property is being sold fully furnished and ready to o
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="A building plot of 580 m2 centrally located on the Espartal Urbanisation with mountain and valley views.  The plot has the approved possibility to build a two storey property with a pool of of 280 m2 on a footprint of 220 mtr2.  
 
 A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="195000">
+        <meta itemprop="price" content="250000">
     </div>
 </div>
 
@@ -291,54 +333,13 @@ A great opportunity to invest in this popular urbanisation which is within walki
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>195.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>250.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22440" data-action-text="REF: U480" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U480</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3711/22435</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3711/22435"/>
-        <updated>2022-04-06T05:39:28.972Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="SPACIOUS THREE BEDROOM VILLA WITH POOL">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22435/b2acb39a-530a-4714-a11a-5b78a9798f86.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="Tucked away in a quiet corner of the urbanization this barely used three bedroom villa with south west facing solar heated pool is a superb opportunity to invest in an ideal family home or buy to let holiday home. 
- 
-Sitting on an easy maintenance plot of 920 mtr² the villa also benefits from: Two en-suite double bedrooms and a guest bathroom. Tilt and turn double glazing throughout. Enclosed wood burner. Pre-plumbed for central heating. Solar boosted hot water system. Buried gas tank. Remote controlled garage door. Fully fitted kitchen. South facing pool terrace and outside dining area with barbecue and outside shower. Built in wardrobes and additional storage space in main corridor
-
-Only minutes from either Arrifana or Monte Clerigo the property is competitively priced and early viewing is recommended.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="475000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3711/22435"></a>
-
-        <span class="prop__stamp">IN NEGOTIATION</span>
-
-
-                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/C.png" alt="CE" width="29">
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22435/b2acb39a-530a-4714-a11a-5b78a9798f86.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">SPACIOUS THREE BEDROOM VILLA WITH POOL</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>475.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22435" data-action-text="REF: C3711" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3711</span></p>
     </div>
 </div>]]></content>
     </entry>
@@ -350,7 +351,7 @@ Only minutes from either Arrifana or Monte Clerigo the property is competitively
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="ARCHITECTURE PROJECT TO BUILD 4 BED VILLA WITH POOL - MONTE CLÉRIGO - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="An approved architecture project to build a 246m2 villa on a 540m2 plot, boasting four bedrooms, four bathrooms, south facing swimming pool, basement, terraces and ocean views from the upper level.
 
 The villa will comprise:-
@@ -383,7 +384,7 @@ A fabulous opportunity to invest in a unique villa in an extremely desirable are
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22431/2dddf293-acd6-43b1-8f62-984bfa405285.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">ARCHITECTURE PROJECT TO BUILD 4 BED VILLA WITH POOL - MONTE CLÉRIGO - ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>820.000 €</strong></span></p>
@@ -401,7 +402,7 @@ A fabulous opportunity to invest in a unique villa in an extremely desirable are
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="THREE BEDROOM TOWNHOUSE IN ESPARTAL, MONTE CLERIGO, ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="This attractive three bedroom 125 m2 two storey end of terrace semi-detached town-house is located  in a small condominium within walking distance of the beaches at Monte Clerigo and Amoreira in the Costa Vicentina Natural Park.
 
 The property comprises: Ground Floor - entrance hallway with wardrobe; open plan dining/ living area with terrace doors to front; attractive fully equipped kitchen with patio doors to rear terrace and garden; double bedroom; guest bathroom; storage/utility under stairs.
@@ -421,14 +422,14 @@ A perfect lock up &amp; go holiday home with excellent potential for renting. Th
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/townhouse-aljezur-ref_c3707/22428"></a>
 
-        <span class="prop__stamp">UNDER OFFER</span>
+        <span class="prop__stamp">SOLD</span>
 
 
                 <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/Bminus.png" alt="CE" width="29">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22428/53d8ba0b-0a6e-4b3e-9068-434c2f1bc2b5.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">THREE BEDROOM TOWNHOUSE IN ESPARTAL, MONTE CLERIGO, ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>355.000 €</strong></span></p>
@@ -446,7 +447,7 @@ A perfect lock up &amp; go holiday home with excellent potential for renting. Th
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="LUXURY 2+1 BED VILLA WITH INFINITY POOL, IN CONSTRUCTION, MONTE CLERIGO, ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
     <meta itemprop="description" content="Currently in construction this high quality, luxury two storey two bedroom (T2 +1) 241m2 villa with infinity pool sits on an elevated 460m2 plot with views across the Amoreira Valley to Monchique.
 
 Due to be complete and licensed by Sept/October 2022 the project design (picture #7) is detailed as follows:-
@@ -482,7 +483,7 @@ A unique project in a superb location, only minutes on foot to either Monte Cler
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22426/f0defff0-dbfe-40e2-b9f5-725621a53af2.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">LUXURY 2+1 BED VILLA WITH INFINITY POOL, IN CONSTRUCTION, MONTE CLERIGO, ALJEZUR</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>780.000 €</strong></span></p>
@@ -494,46 +495,112 @@ A unique project in a superb location, only minutes on foot to either Monte Cler
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3706/22415</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3706/22415"/>
-        <updated>2022-03-07T17:40:41.112Z</updated>
+        <id>https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3723/22382</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3723/22382"/>
+        <updated>2022-07-05T06:48:52.299Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="THREE BEDROOM VILLA WITH POOL, VALE DA TELHA, ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22415/d7fc2d61-7b3d-4231-89a6-0f6db58416e8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
-    <meta itemprop="description" content="An immaculate well maintained 177m2 three bedroom  villa located on a plot of 800m2 with swimming pool, garage, well established low maintenance garden and roof terrace with views of the ocean in the distance.
+    <meta itemprop="name" content="SPACIOUS THREE BEDROOM QUINTA CENTRALLY LOCATED ON AN IDYLLIC ORCHARD PLOT">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22382/26f66239-1a38-4ffb-bde4-4098a717b61c.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop">
+    <meta itemprop="description" content="Centrally located on an idyllic orchard plot of 1.75 hectares this spacious three bedroom 259 mtr² farmhouse offers peaceful rustic accommodation only five minutes inland from Rogil, ten minutes from the coast.
 
-Built in 2007 the property comprises of:- Entrance hallway; spacious 36m2 open plan dining living area and fully equipped kitchen with breakfast bar, patio doors to rear terrace and pool. Guest bathroom with bath. Corridor leading to three bedrooms all with fitted wardrobes, one en-suite with patio doors to rear terrace and pool. Garage with utility (access from house and automatic external doors). Off road parking. Roof terrace at rear with access to attic area (storage). 
+Offered fully furnished the house also benefits from; fully equipped and fitted kitchen, two bathrooms, three double bedrooms, garage and workshop, south facing conservatory and sun terrace, sauna and spa with double shower, gas &amp; solar boosted hot water and central heating system, double glazing. Mains water, electricity and telecoms, Securitas alarm system. 
 
-Double glazed, tilt &amp; turn windows and patio doors; heated towel rails; gas central heating (tank in front garden), wood burner in living area (Fogo Montanha), well established attractive low maintenance garden, kidney shaped swimming pool with cover. Offered fully furnished. Located in a very quiet area of this popular urbanization within walking distance of the coast and the local amenities.
+The orchard garden boasts a variety of local fruit trees and sub-tropical plants along with a barbecue and covered dining area.
 
-A beautiful permanent residency or holiday home which would also make an ideal rental villa - viewing is highly recommended.
+The property had an approved project to build a pool in 2003 and there exists a south facing baragem which could offer the option of a bio-pool if preferred.
+
+Early viewing is highly recommended
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="490000">
+        <meta itemprop="price" content="599000">
     </div>
 </div>
 
 
 <div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3706/22415"></a>
+    <a class="prop__link" href="/property-for-sale/farmhouse-aljezur-ref_c3723/22382"></a>
+
+        <span class="prop__stamp">SOLD</span>
+
+
+                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/Bminus.png" alt="CE" width="29">
 
 
 
-                <img class="prop__energyCertificate" src="https://www.moonshapes.pt/certificacao/C.png" alt="CE" width="29">
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/f4790359-a211-465b-98f4-3d4b7f01f9a4/22415/d7fc2d61-7b3d-4231-89a6-0f6db58416e8.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22382/26f66239-1a38-4ffb-bde4-4098a717b61c.jpg?quality=70&amp;width=516&amp;height=356&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
-        <p class="prop__title">THREE BEDROOM VILLA WITH POOL, VALE DA TELHA, ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>490.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22415" data-action-text="REF: C3706" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+        <p class="prop__title">SPACIOUS THREE BEDROOM QUINTA CENTRALLY LOCATED ON AN IDYLLIC ORCHARD PLOT</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>599.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22382" data-action-text="REF: C3723" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
-        <p><span class="prop__reference">Ref: C3706</span></p>
+        <p><span class="prop__reference">Ref: C3723</span></p>
     </div>
 </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[475 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-house-t3-aljezur-aljezur/126001005-9</id>
+        <link href="https://remax.pt/en/listings/buy-house-t3-aljezur-aljezur/126001005-9"/>
+        <updated>2022-07-05T06:49:03.502Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6394131/f0892750-df30-4e4f-9d34-ca9f6fa4965a.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6394131/f0892750-df30-4e4f-9d34-ca9f6fa4965a.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6394131/f0892750-df30-4e4f-9d34-ca9f6fa4965a.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6394131/f0892750-df30-4e4f-9d34-ca9f6fa4965a.jpg" alt="House T3 of 130 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> 475 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/574f181d-20e4-4ec2-ad2d-ead4efb58d50.jpg" alt="Tony da Costa" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 107 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 3 </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 000 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/123041029-252</id>
+        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/123041029-252"/>
+        <updated>2022-07-05T06:49:03.502Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6393445/6a99709c-099b-41ad-8539-5c0648aec04b.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6393445/6a99709c-099b-41ad-8539-5c0648aec04b.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6393445/6a99709c-099b-41ad-8539-5c0648aec04b.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6393445/6a99709c-099b-41ad-8539-5c0648aec04b.jpg" alt="Land of 232 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> 2 000 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/a3667e47-1cd6-4bfc-9ee9-add6901f895e.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 232 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001011-5</id>
+        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001011-5"/>
+        <updated>2022-07-05T06:49:03.502Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6389633/1300141d-4f0f-4660-b45c-536e7183f5fc.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6389633/1300141d-4f0f-4660-b45c-536e7183f5fc.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6389633/1300141d-4f0f-4660-b45c-536e7183f5fc.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6389633/1300141d-4f0f-4660-b45c-536e7183f5fc.jpg" alt="Land of 250 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 80 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/26c27419-9a38-459d-8290-59f67ea00987.jpg" alt="Sara Gonçalves" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 200 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 500 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-house-t12-aljezur-aljezur/126001005-8</id>
+        <link href="https://remax.pt/en/listings/buy-house-t12-aljezur-aljezur/126001005-8"/>
+        <updated>2022-07-05T06:49:03.502Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6388722/709b9cf2-10db-45c7-a951-ffa2a33999fd.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6388722/709b9cf2-10db-45c7-a951-ffa2a33999fd.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6388722/709b9cf2-10db-45c7-a951-ffa2a33999fd.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6388722/709b9cf2-10db-45c7-a951-ffa2a33999fd.jpg" alt="House T12 of 579 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 1 500 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/574f181d-20e4-4ec2-ad2d-ead4efb58d50.jpg" alt="Tony da Costa" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 579 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 9 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 12 </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[110 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-building-aljezur-bordeira/122911415-27</id>
+        <link href="https://remax.pt/en/listings/buy-building-aljezur-bordeira/122911415-27"/>
+        <updated>2022-07-05T06:49:03.502Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12291/6386486/10478c01-661a-48f7-b8f1-42527c459725.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12291/6386486/10478c01-661a-48f7-b8f1-42527c459725.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12291/6386486/10478c01-661a-48f7-b8f1-42527c459725.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12291/6386486/10478c01-661a-48f7-b8f1-42527c459725.jpg" alt="Building of 118 m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 110 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/c50aaa16-5b9b-4a2a-b8b3-5d4bbc96098e.jpg" alt="Luís Queirós" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Building</li> <li class="listing-area"> <i class="icon-area-full"></i> 118 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[525 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-house-t6-aljezur-aljezur/124541081-48</id>
+        <link href="https://remax.pt/en/listings/buy-house-t6-aljezur-aljezur/124541081-48"/>
+        <updated>2022-07-05T06:49:03.504Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12454/6371369/6947cceb-d295-4efd-ab09-6dd27e70c11d.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12454/6371369/6947cceb-d295-4efd-ab09-6dd27e70c11d.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12454/6371369/6947cceb-d295-4efd-ab09-6dd27e70c11d.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12454/6371369/6947cceb-d295-4efd-ab09-6dd27e70c11d.jpg" alt="House T6 of 200 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 525 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/3de8dea0-159e-4ef5-8f79-6e4b5a11b07a.jpg" alt="Carlos Jesus" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 237 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 4 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 6 </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[405 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-house-t3-aljezur-aljezur/126001005-7</id>
+        <link href="https://remax.pt/en/listings/buy-house-t3-aljezur-aljezur/126001005-7"/>
+        <updated>2022-07-05T06:49:03.504Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6386646/26bb7d32-7e09-4770-8732-a6d83e2df471.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6386646/26bb7d32-7e09-4770-8732-a6d83e2df471.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6386646/26bb7d32-7e09-4770-8732-a6d83e2df471.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6386646/26bb7d32-7e09-4770-8732-a6d83e2df471.jpg" alt="House T3 of 166 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 405 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/574f181d-20e4-4ec2-ad2d-ead4efb58d50.jpg" alt="Tony da Costa" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 123 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 3 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 3 </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[650 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-others---habitacional-t4-aljezur-rogil/126001012-6</id>
+        <link href="https://remax.pt/en/listings/buy-others---habitacional-t4-aljezur-rogil/126001012-6"/>
+        <updated>2022-07-05T06:49:03.504Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6385005/e033a1ed-76fc-43c6-9c71-24b9752d6208.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6385005/e033a1ed-76fc-43c6-9c71-24b9752d6208.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6385005/e033a1ed-76fc-43c6-9c71-24b9752d6208.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6385005/e033a1ed-76fc-43c6-9c71-24b9752d6208.jpg" alt="Others - Habitacional of 336 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 650 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/92068fc4-c598-4608-a11d-9d8b374c7e4f.jpg" alt="Emmanuel Sagaz" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Others - Habitacional</li> <li class="listing-area"> <i class="icon-area-full"></i> 319 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 4 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 4 </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[89 500 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/122911517-5</id>
+        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/122911517-5"/>
+        <updated>2022-07-05T06:49:03.506Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12291/6370158/16297ebd-aa54-452f-84d0-2ab48e351319.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12291/6370158/16297ebd-aa54-452f-84d0-2ab48e351319.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12291/6370158/16297ebd-aa54-452f-84d0-2ab48e351319.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12291/6370158/16297ebd-aa54-452f-84d0-2ab48e351319.jpg" alt="Land of -- m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 89 500 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Land</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/ea8d1928-f221-4e51-96ef-cf70d318fea5.jpg" alt="Ana Cristina Ribeiro" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 200 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[200 000 € (Remax Aljezur)]]></title>
@@ -541,6 +608,13 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         <link href="https://remax.pt/en/listings/buy-house-t1-aljezur-rogil/123041037-33"/>
         <updated>2022-05-12T05:46:13.577Z</updated>
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6372639/bdd0b199-834f-41c2-8bcc-724bfe7c8484.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6372639/bdd0b199-834f-41c2-8bcc-724bfe7c8484.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6372639/bdd0b199-834f-41c2-8bcc-724bfe7c8484.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6372639/bdd0b199-834f-41c2-8bcc-724bfe7c8484.jpg" alt="House T1 of 88 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 200 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/bf379940-475b-4600-8ac4-a5a835205d4b.jpg" alt="Luís Muchacho" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 83 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 1 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 1 </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[950 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-farm-t8-aljezur-rogil/124471068-53</id>
+        <link href="https://remax.pt/en/listings/buy-farm-t8-aljezur-rogil/124471068-53"/>
+        <updated>2022-07-05T06:49:03.507Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" alt="Farm T8 of 357 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> 950 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Investment</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/3c8ea9d1-459f-4ea3-aa1c-531dd8a590ef.jpg" alt="Anca-Daniela Strugari" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Farm</li> <li class="listing-area"> <i class="icon-area-full"></i> 154920 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 8 </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[67 000 € (Remax Aljezur)]]></title>
@@ -571,11 +645,11 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6355715/c4c0fecb-fddd-4598-af58-eaad08bd7192.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6355715/c4c0fecb-fddd-4598-af58-eaad08bd7192.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6355715/c4c0fecb-fddd-4598-af58-eaad08bd7192.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6355715/c4c0fecb-fddd-4598-af58-eaad08bd7192.jpg" alt="House T3 of 111 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 130 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/92068fc4-c598-4608-a11d-9d8b374c7e4f.jpg" alt="Emmanuel Sagaz" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 64 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 3 </li> </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[55 000 € (Remax Aljezur)]]></title>
+        <title type="html"><![CDATA[49 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/123041060-3</id>
         <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/123041060-3"/>
         <updated>2022-02-04T17:43:26.232Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" alt="Land of 9640 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 55 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/0c78e6e3-9989-4076-a2e0-dea33cd046d3.jpg" alt="Sónia Caravelas" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 9640 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6339337/a5a97e22-bfe9-4fb0-b2f0-1455dd8d041b.jpg" alt="Land of 9640 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> 49 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/0c78e6e3-9989-4076-a2e0-dea33cd046d3.jpg" alt="Sónia Caravelas" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 9640 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50 000 € (Remax Aljezur)]]></title>
@@ -585,11 +659,11 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" alt="Land of 22250 m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 50 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/92068fc4-c598-4608-a11d-9d8b374c7e4f.jpg" alt="Emmanuel Sagaz" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 22250 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2 300 000 € (Remax Aljezur)]]></title>
+        <title type="html"><![CDATA[2 500 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-land-aljezur-bordeira/123041060-2</id>
         <link href="https://remax.pt/en/listings/buy-land-aljezur-bordeira/123041060-2"/>
         <updated>2022-01-22T05:37:30.461Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" alt="Land of 59250 m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 2 300 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/0c78e6e3-9989-4076-a2e0-dea33cd046d3.jpg" alt="Sónia Caravelas" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 59250 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6336037/e37c9624-3c05-463b-8ec8-844f7e6362b1.jpg" alt="Land of 59250 m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 2 500 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/0c78e6e3-9989-4076-a2e0-dea33cd046d3.jpg" alt="Sónia Caravelas" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 59250 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[80 000 € (Remax Aljezur)]]></title>
@@ -599,13 +673,6 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12427/6280993/e17fb187-5a02-4f25-97cb-6ff26ada814b.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12427/6280993/e17fb187-5a02-4f25-97cb-6ff26ada814b.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12427/6280993/e17fb187-5a02-4f25-97cb-6ff26ada814b.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12427/6280993/e17fb187-5a02-4f25-97cb-6ff26ada814b.jpg" alt="Land of 780 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 80 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/34a3de9f-7651-42f4-8361-45bff2cfd356.jpg" alt="Salvador Cunha" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 780 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[290 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-odeceixe/124641060-29</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-odeceixe/124641060-29"/>
-        <updated>2021-11-15T10:39:03.547Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12464/6259625/d012b39e-10fe-47ad-b3a5-6281baed362d.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12464/6259625/d012b39e-10fe-47ad-b3a5-6281baed362d.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12464/6259625/d012b39e-10fe-47ad-b3a5-6281baed362d.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12464/6259625/d012b39e-10fe-47ad-b3a5-6281baed362d.jpg" alt="Land of -- m², for sale in Odeceixe, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 290 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Land</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Odeceixe </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/73a92a2e-36bc-4e96-be46-8b98a97f0757.jpg" alt="Nuno Franco" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 50000 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[95 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-land-t0-aljezur-aljezur/124631058-130</id>
         <link href="https://remax.pt/en/listings/buy-land-t0-aljezur-aljezur/124631058-130"/>
@@ -613,78 +680,115 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12463/6242562/a8d7cbb2-1a70-4874-843b-78488c0c31d8.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12463/6242562/a8d7cbb2-1a70-4874-843b-78488c0c31d8.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12463/6242562/a8d7cbb2-1a70-4874-843b-78488c0c31d8.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12463/6242562/a8d7cbb2-1a70-4874-843b-78488c0c31d8.jpg" alt="Land of -- m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 95 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Land</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/8b5467fe-47dd-4700-bef3-ae80310f1567.jpg" alt="Darlene Pereira" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 200 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[47 500 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/125721031-2</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/125721031-2"/>
-        <updated>2021-11-15T10:39:03.550Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12572/6243803/8d8f2eee-30fa-44d3-9fe8-20bbf5c0c486.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12572/6243803/8d8f2eee-30fa-44d3-9fe8-20bbf5c0c486.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12572/6243803/8d8f2eee-30fa-44d3-9fe8-20bbf5c0c486.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12572/6243803/8d8f2eee-30fa-44d3-9fe8-20bbf5c0c486.jpg" alt="Land of -- m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 47 500 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/bf2d1e59-6690-4d71-9b92-70c5d983b67a.jpg" alt="Rita Santos" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 630 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+        <title type="html"><![CDATA[€949,000 (Century 21)]]></title>
+        <id>https://www.century21global.com/propertyDetails.action?id=127712844&amp;cu=USD&amp;sizeunit=sqft</id>
+        <link href="https://www.century21global.com/propertyDetails.action?id=127712844&amp;cu=USD&amp;sizeunit=sqft"/>
+        <updated>2022-07-05T06:49:26.210Z</updated>
+        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="372924458843392" data-index="0" data-lat="37.292445" data-lng="-8.843392">
+                <a class="search-result-photo" href="/propertyDetails.action?id=127712844&amp;cu=USD&amp;sizeunit=sqft">
+
+    <div class="search-result-photo-wrapper">
+        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/dji-0853_0b411d8f-4160-4e05-b871-9de7094499e2.JPG?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
+    </div>
+    </a>
+<div class="search-result-actions"><button data-id="127712844" data-type="property" data-property-type="1" data-contact-type="office" data-e="PRP-Contact Property Office" class="contact-link btn btn-sm btn-default text-left-md text-left-lg" title="Contact">
+            <span class="glyphicon glyphicon-envelope"></span></button>
+    <button class="property-card-save-btn save-property btn btn-sm btn-default text-left-md text-left-lg" data-property-id="127712844">
+            <span class="glyphicon glyphicon-heart"></span> <span class="visible-md-inline visible-lg-inline">
+            </span>
+        </button>
+    </div>
+<a class="search-result-info" href="/propertyDetails.action?id=127712844&amp;cu=USD&amp;sizeunit=sqft">
+    <div class="search-result-label-primary price-native"><span dir="ltr">€<span>949,000</span></span> EUR</div>
+        <div class="search-result-label-secondary price-user">$<span>989,551</span> USD</div>
+        <span class="property-address" style="display:none">Aljezur (Algarve)</span>
+    <span class="search-result-label">
+                        Aljezur (Algarve), Faro (Algarve), Portugal</span>
+                    <span class="search-result-label">
+                        <div class="size">
+                                    1,722 sq. ft. - 160 m<sup>2</sup></div>
+                            </span>
+
+    <span class="search-result-label">3 bedrooms - 1 bath</span>
+    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[500 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/122071109-110</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/122071109-110"/>
-        <updated>2021-11-15T10:39:03.556Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12207/6236646/0d1e61cc-1c9b-4625-84d4-2d5065bf0f42.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12207/6236646/0d1e61cc-1c9b-4625-84d4-2d5065bf0f42.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12207/6236646/0d1e61cc-1c9b-4625-84d4-2d5065bf0f42.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12207/6236646/0d1e61cc-1c9b-4625-84d4-2d5065bf0f42.jpg" alt="Land of 300 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 500 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Land</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/41080b1b-4b8f-464a-9119-63a4d4843605.jpg" alt="Luis Gomes" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 16320 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+        <title type="html"><![CDATA[€950,000 (Century 21)]]></title>
+        <id>https://www.century21global.com/propertyDetails.action?id=127766621&amp;cu=USD&amp;sizeunit=sqft</id>
+        <link href="https://www.century21global.com/propertyDetails.action?id=127766621&amp;cu=USD&amp;sizeunit=sqft"/>
+        <updated>2022-07-05T06:49:26.212Z</updated>
+        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="371457058654042" data-index="1" data-lat="37.145705" data-lng="-8.654042">
+                <a class="search-result-photo" href="/propertyDetails.action?id=127766621&amp;cu=USD&amp;sizeunit=sqft">
+
+    <div class="search-result-photo-wrapper">
+        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/dgt_35314843-bf51-4668-bfa3-cef80f9a859a.png?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
+    </div>
+    </a>
+<div class="search-result-actions"><button data-id="127766621" data-type="property" data-property-type="1" data-contact-type="office" data-e="PRP-Contact Property Office" class="contact-link btn btn-sm btn-default text-left-md text-left-lg" title="Contact">
+            <span class="glyphicon glyphicon-envelope"></span></button>
+    <button class="property-card-save-btn save-property btn btn-sm btn-default text-left-md text-left-lg" data-property-id="127766621">
+            <span class="glyphicon glyphicon-heart"></span> <span class="visible-md-inline visible-lg-inline">
+            </span>
+        </button>
+    </div>
+<a class="search-result-info" href="/propertyDetails.action?id=127766621&amp;cu=USD&amp;sizeunit=sqft">
+    <div class="search-result-label-primary price-native"><span dir="ltr">€<span>950,000</span></span> EUR</div>
+        <div class="search-result-label-secondary price-user">$<span>990,593</span> USD</div>
+        <span class="property-address" style="display:none">Aljezur (Algarve)</span>
+    <span class="search-result-label">
+                        Aljezur (Algarve), Faro (Algarve), Portugal</span>
+                    <span class="search-result-label">
+                        <div class="size">
+                                    3,767 sq. ft. - 350 m<sup>2</sup></div>
+                            </span>
+
+    <span class="search-result-label">8 bedrooms - 4 baths</span>
+    </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[110 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-rogil/123041049-13</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-rogil/123041049-13"/>
-        <updated>2022-04-20T17:50:04.862Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6234946/03b7072a-3f5d-4886-9f1a-c2887cdc7c58.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6234946/03b7072a-3f5d-4886-9f1a-c2887cdc7c58.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6234946/03b7072a-3f5d-4886-9f1a-c2887cdc7c58.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6234946/03b7072a-3f5d-4886-9f1a-c2887cdc7c58.jpg" alt="Land of 49840 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 110 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/1f807962-cc70-4ab1-b348-856e07b63971.jpg" alt="Patrícia Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 0 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[650 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-bordeira/124001037-53</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-bordeira/124001037-53"/>
-        <updated>2021-11-15T10:39:03.561Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12400/6224515/e96dea1e-e36f-4c8f-87df-0209bcb3442e.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12400/6224515/e96dea1e-e36f-4c8f-87df-0209bcb3442e.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12400/6224515/e96dea1e-e36f-4c8f-87df-0209bcb3442e.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12400/6224515/e96dea1e-e36f-4c8f-87df-0209bcb3442e.jpg" alt="Land of 1000 m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 650 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/37a64489-c51d-444e-a242-5d23ca4af587.jpg" alt="Vanda Fernandes" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 1000 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001011-1</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001011-1"/>
-        <updated>2021-11-15T10:39:03.561Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6225608/d14544fb-807f-42f1-9bc1-b48006f7bd7b.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6225608/d14544fb-807f-42f1-9bc1-b48006f7bd7b.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6225608/d14544fb-807f-42f1-9bc1-b48006f7bd7b.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6225608/d14544fb-807f-42f1-9bc1-b48006f7bd7b.jpg" alt="Land of 2750 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 220 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/26c27419-9a38-459d-8290-59f67ea00987.jpg" alt="Sara Gonçalves" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 0 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[42 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001011-2</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001011-2"/>
-        <updated>2021-11-15T10:39:03.562Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6225660/b07136b7-a4ee-4490-8726-4a81f573009b.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6225660/b07136b7-a4ee-4490-8726-4a81f573009b.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6225660/b07136b7-a4ee-4490-8726-4a81f573009b.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6225660/b07136b7-a4ee-4490-8726-4a81f573009b.jpg" alt="Land of 3250 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> 42 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/26c27419-9a38-459d-8290-59f67ea00987.jpg" alt="Sara Gonçalves" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 0 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[55 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001005-4</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001005-4"/>
-        <updated>2021-11-15T10:39:03.563Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6189177/57ca4eba-bdeb-422b-93c7-8a145bbf9fd4.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6189177/57ca4eba-bdeb-422b-93c7-8a145bbf9fd4.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6189177/57ca4eba-bdeb-422b-93c7-8a145bbf9fd4.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6189177/57ca4eba-bdeb-422b-93c7-8a145bbf9fd4.jpg" alt="Land of -- m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 55 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Land</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/574f181d-20e4-4ec2-ad2d-ead4efb58d50.jpg" alt="Tony da Costa" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 1280 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-t0-aljezur-aljezur/123701066-1</id>
-        <link href="https://remax.pt/en/listings/buy-land-t0-aljezur-aljezur/123701066-1"/>
-        <updated>2022-02-07T17:38:38.210Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12370/123701062-4/L_396c07a777bd4a7582529e065cd2bcff.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12370/123701062-4/L_396c07a777bd4a7582529e065cd2bcff.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12370/123701062-4/L_396c07a777bd4a7582529e065cd2bcff.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12370/123701062-4/L_396c07a777bd4a7582529e065cd2bcff.jpg" alt="Land of 200 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 80 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/7f433371-1c2a-4790-8b80-5592d28c5eca.jpg" alt="Marina Freitas" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 1120 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[45 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-t0-aljezur-aljezur/121161134-58</id>
-        <link href="https://remax.pt/en/listings/buy-land-t0-aljezur-aljezur/121161134-58"/>
-        <updated>2022-05-12T17:49:51.109Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12116/121161134-58/L_3b73dc6d167247bbb44f333d96bb13bb.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12116/121161134-58/L_3b73dc6d167247bbb44f333d96bb13bb.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12116/121161134-58/L_3b73dc6d167247bbb44f333d96bb13bb.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12116/121161134-58/L_3b73dc6d167247bbb44f333d96bb13bb.jpg" alt="Land of 960 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> 45 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Land</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/474fbd90-92dc-4681-9a13-42f0682c0a7a.jpg" alt="Miguel de Souza Barriga" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 960 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 0 </li> </ul>]]></content>
+        <title type="html"><![CDATA[€800,000 (Century 21)]]></title>
+        <id>https://www.century21global.com/propertyDetails.action?id=128127681&amp;cu=USD&amp;sizeunit=sqft</id>
+        <link href="https://www.century21global.com/propertyDetails.action?id=128127681&amp;cu=USD&amp;sizeunit=sqft"/>
+        <updated>2022-07-05T06:49:26.214Z</updated>
+        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="372925688849011" data-index="2" data-lat="37.292568" data-lng="-8.849011">
+                <a class="search-result-photo" href="/propertyDetails.action?id=128127681&amp;cu=USD&amp;sizeunit=sqft">
+
+    <div class="search-result-photo-wrapper">
+        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/img-4681_df88c724-119a-4c7b-a256-bf7c26e5989b.jpg?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
+    </div>
+    <span class="property-flag new-flag">NEWLY LISTED</span>
+    </a>
+<div class="search-result-actions"><button data-id="128127681" data-type="property" data-property-type="1" data-contact-type="office" data-e="PRP-Contact Property Office" class="contact-link btn btn-sm btn-default text-left-md text-left-lg" title="Contact">
+            <span class="glyphicon glyphicon-envelope"></span></button>
+    <button class="property-card-save-btn save-property btn btn-sm btn-default text-left-md text-left-lg" data-property-id="128127681">
+            <span class="glyphicon glyphicon-heart"></span> <span class="visible-md-inline visible-lg-inline">
+            </span>
+        </button>
+    </div>
+<a class="search-result-info" href="/propertyDetails.action?id=128127681&amp;cu=USD&amp;sizeunit=sqft">
+    <div class="search-result-label-primary price-native"><span dir="ltr">€<span>800,000</span></span> EUR</div>
+        <div class="search-result-label-secondary price-user">$<span>834,184</span> USD</div>
+        <span class="property-address" style="display:none">Aljezur (Algarve)</span>
+    <span class="search-result-label">
+                        Aljezur (Algarve), Faro (Algarve), Portugal</span>
+                    <span class="search-result-label">
+                        <div class="size">
+                                    775 sq. ft. - 72 m<sup>2</sup></div>
+                            </span>
+
+    <span class="search-result-label">2 bedrooms - 1 bath</span>
+    </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[€550,000 (Century 21)]]></title>
         <id>https://www.century21global.com/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft</id>
         <link href="https://www.century21global.com/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft"/>
         <updated>2021-11-23T05:52:00.881Z</updated>
-        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="373682478798976" data-index="0" data-lat="37.368247" data-lng="-8.798976">
+        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="373682478798976" data-index="3" data-lat="37.368247" data-lng="-8.798976">
                 <a class="search-result-photo" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
 
     <div class="search-result-photo-wrapper">
-        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/13_98827094-59e3-43a1-8dbc-970ac6e9036d.jpg?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
+        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/11_cae3ca50-8f2e-4db8-82f2-5e64ee9de562.jpg?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
     </div>
     </a>
 <div class="search-result-actions"><button data-id="125347685" data-type="property" data-property-type="1" data-contact-type="office" data-e="PRP-Contact Property Office" class="contact-link btn btn-sm btn-default text-left-md text-left-lg" title="Contact">
@@ -696,49 +800,16 @@ A beautiful permanent residency or holiday home which would also make an ideal r
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>550,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>579,155</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>573,501</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
                     <span class="search-result-label">
                         <div class="size">
-                                    3,197 sq. ft. - 297 m<sup>2</sup></div>
+                                    2,077 sq. ft. - 193 m<sup>2</sup></div>
                             </span>
 
     <span class="search-result-label">3 bedrooms - 4 baths</span>
-    </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€180,000 (Century 21)]]></title>
-        <id>https://www.century21global.com/propertyDetails.action?id=127250945&amp;cu=USD&amp;sizeunit=sqft</id>
-        <link href="https://www.century21global.com/propertyDetails.action?id=127250945&amp;cu=USD&amp;sizeunit=sqft"/>
-        <updated>2022-03-03T05:37:42.748Z</updated>
-        <content type="html"><![CDATA[<input class="map-coordinates" type="hidden" data-bingid="373311988792676" data-index="1" data-lat="37.331198" data-lng="-8.792676">
-                <a class="search-result-photo" href="/propertyDetails.action?id=127250945&amp;cu=USD&amp;sizeunit=sqft">
-
-    <div class="search-result-photo-wrapper">
-        <div class="search-result-img" style="background-image:url('https://cdn.21online.app/v7/_c21cdn_/6d4ba312-fb81-44dc-a2e2-985787efc41c_42d86300-4b4f-4211-814b-abf228368087.jpg?down.colorspace=linear&amp;f.sharpen=50&amp;w=1920&amp;mode=crop&amp;watermark=c21&amp;format=jpg&amp;quality=90');"></div>
-    </div>
-    </a>
-<div class="search-result-actions"><button data-id="127250945" data-type="property" data-property-type="1" data-contact-type="office" data-e="PRP-Contact Property Office" class="contact-link btn btn-sm btn-default text-left-md text-left-lg" title="Contact">
-            <span class="glyphicon glyphicon-envelope"></span></button>
-    <button class="property-card-save-btn save-property btn btn-sm btn-default text-left-md text-left-lg" data-property-id="127250945">
-            <span class="glyphicon glyphicon-heart"></span> <span class="visible-md-inline visible-lg-inline">
-            </span>
-        </button>
-    </div>
-<a class="search-result-info" href="/propertyDetails.action?id=127250945&amp;cu=USD&amp;sizeunit=sqft">
-    <div class="search-result-label-primary price-native"><span dir="ltr">€<span>180,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>189,542</span> USD</div>
-        <span class="property-address" style="display:none">Aljezur (Algarve)</span>
-    <span class="search-result-label">
-                        Aljezur (Algarve), Faro (Algarve), Portugal</span>
-                    <span class="search-result-label">
-                        <div class="size">
-                                    775 sq. ft. - 72 m<sup>2</sup></div>
-                            </span>
-
-    <span class="search-result-label">2 bedrooms - 1 bath</span>
     </a>]]></content>
     </entry>
     <entry>
@@ -783,7 +854,6 @@ A beautiful permanent residency or holiday home which would also make an ideal r
                             </div>
                             <div class="prop-stampWrap">
 
-                                    <span class="prop-stamp prop-stamp--primary">UNDER OFFER</span>
                             </div>
                         </a>]]></content>
     </entry>
@@ -1278,6 +1348,107 @@ A beautiful permanent residency or holiday home which would also make an ideal r
 		    </div><div class="plusinfo"><a href="https://www.provenda.net/en/land-agricultural-with-200sqm-monte-clerigo-odeceixe-aljezur-electricity-water-cork-oaks+1000016326.html"></a></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LOVELY THREE BEDROOM VILLA WITH POOL, VALE DA TELHA (Chestertons)]]></title>
+        <id>https://www.chestertons-portugal.com/property-detail/lovely-three-bedroom-villa-with-pool--vale-da-telha_3245</id>
+        <link href="https://www.chestertons-portugal.com/property-detail/lovely-three-bedroom-villa-with-pool--vale-da-telha_3245"/>
+        <updated>2022-07-05T06:50:00.513Z</updated>
+        <content type="html"><![CDATA[<a class="prop " href="/property-detail/lovely-three-bedroom-villa-with-pool--vale-da-telha_3245">
+    <div class="prop__imgWrap">
+        <div class="prop__labels">
+        </div>
+        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3245/4b8ed52d-c555-4033-946d-2a226d4c6ac4.jpg?quality=70);" role="img" aria-label="LOVELY THREE BEDROOM VILLA WITH POOL, VALE DA TELHA"></div>
+        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3245" data-action-text="LOVELY THREE BEDROOM VILLA WITH POOL, VALE DA TELHA" title="Add to favorites">
+            <i class="far fa-heart"></i>
+            <i class="fas fa-heart"></i>
+        </span>
+    </div>
+    <div class="prop__body">
+        <div class="prop__header">
+            <div class="prop__headerLeft">
+                <h3 class="prop__title">LOVELY THREE BEDROOM VILLA WITH POOL, VALE DA TELHA</h3>
+            </div>
+            <div class="prop__headerRight">
+                <span class="prop__ref">Ref: RSV100-1001</span>
+            </div>
+        </div>
+        <div class="prop__flex">
+            <div class="prop__flexLeft">
+                <ul class="prop__items">
+                        <li class="prop__item">
+                            <i class="icon icon-bed"></i>
+                            <span>3</span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-bath"></i>
+                            <span>2</span>
+                        </li>
+                                                                <li class="prop__item">
+                            <i class="icon icon-land-area"></i>
+                            <span>700 m<sup>2</sup></span>
+                        </li>
+                </ul>
+            </div>
+            <div class="prop__flexRight">
+                <span class="prop__price">499,000 €</span>
+            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T3 Villa with pool, Vale da Telha (Chestertons)]]></title>
+        <id>https://www.chestertons-portugal.com/property-detail/t3-villa-with-pool--vale-da-telha_3229</id>
+        <link href="https://www.chestertons-portugal.com/property-detail/t3-villa-with-pool--vale-da-telha_3229"/>
+        <updated>2022-07-05T06:50:00.519Z</updated>
+        <content type="html"><![CDATA[<a class="prop " href="/property-detail/t3-villa-with-pool--vale-da-telha_3229">
+    <div class="prop__imgWrap">
+        <div class="prop__labels">
+                <span class="prop__label">Sold</span>
+        </div>
+        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3229/f608066c-45e9-448e-a543-b398cefa6f9e.jpg?quality=70);" role="img" aria-label="T3 Villa with pool, Vale da Telha"></div>
+        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3229" data-action-text="T3 Villa with pool, Vale da Telha" title="Add to favorites">
+            <i class="far fa-heart"></i>
+            <i class="fas fa-heart"></i>
+        </span>
+    </div>
+    <div class="prop__body">
+        <div class="prop__header">
+            <div class="prop__headerLeft">
+                <h3 class="prop__title">T3 Villa with pool, Vale da Telha</h3>
+            </div>
+            <div class="prop__headerRight">
+                <span class="prop__ref">Ref: RSV100-998</span>
+            </div>
+        </div>
+        <div class="prop__flex">
+            <div class="prop__flexLeft">
+                <ul class="prop__items">
+                        <li class="prop__item">
+                            <i class="icon icon-bed"></i>
+                            <span>3</span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-bath"></i>
+                            <span>2</span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-house-area"></i>
+                            <span>205 m<sup>2</sup></span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-land-area"></i>
+                            <span>790 m<sup>2</sup></span>
+                        </li>
+                </ul>
+            </div>
+            <div class="prop__flexRight">
+                <span class="prop__price">449,000 €</span>
+            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SUPERB T3 VILLA ON THE BEAUTIFUL  WEST COAST (Chestertons)]]></title>
         <id>https://www.chestertons-portugal.com/property-detail/superb-t3-villa-on-the-beautiful--west-coast_3223</id>
         <link href="https://www.chestertons-portugal.com/property-detail/superb-t3-villa-on-the-beautiful--west-coast_3223"/>
@@ -1436,6 +1607,7 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         <content type="html"><![CDATA[<a class="prop " href="/property-detail/traditional-three-bedroom-villa-with-pool_3201">
     <div class="prop__imgWrap">
         <div class="prop__labels">
+                <span class="prop__label">Sold Subject to Contract</span>
         </div>
         <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3201/5eacfaff-3503-4ba6-bea9-0e683e393d1f.jpg?quality=70);" role="img" aria-label="TRADITIONAL THREE BEDROOM VILLA WITH POOL"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3201" data-action-text="TRADITIONAL THREE BEDROOM VILLA WITH POOL" title="Add to favorites">
@@ -1522,7 +1694,7 @@ A beautiful permanent residency or holiday home which would also make an ideal r
                 </ul>
             </div>
             <div class="prop__flexRight">
-                <span class="prop__price">1,200,000 €</span>
+                <span class="prop__price">1,250,000 €</span>
             </div>
         </div>
     </div>
@@ -1638,6 +1810,7 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         <content type="html"><![CDATA[<a class="prop " href="/property-detail/lovely-farmhouse-in-azenha--aljezur_3146">
     <div class="prop__imgWrap">
         <div class="prop__labels">
+                <span class="prop__label">Reduced</span>
         </div>
         <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3146/b684dfd5-247f-46bb-941c-a73e0c5ca06f.jpg?quality=70);" role="img" aria-label="LOVELY FARMHOUSE IN AZENHA, ALJEZUR"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3146" data-action-text="LOVELY FARMHOUSE IN AZENHA, ALJEZUR" title="Add to favorites">
@@ -1672,7 +1845,7 @@ A beautiful permanent residency or holiday home which would also make an ideal r
                 </ul>
             </div>
             <div class="prop__flexRight">
-                <span class="prop__price">650,000 €</span>
+                <span class="prop__price">599,000 €</span>
             </div>
         </div>
     </div>
@@ -1767,787 +1940,5 @@ A beautiful permanent residency or holiday home which would also make an ideal r
         </div>
     </div>
 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovely T2 House For Sale (Chestertons)]]></title>
-        <id>https://www.chestertons-portugal.com/property-detail/lovely-t2-house-for-sale_3076</id>
-        <link href="https://www.chestertons-portugal.com/property-detail/lovely-t2-house-for-sale_3076"/>
-        <updated>2021-12-25T19:11:00.773Z</updated>
-        <content type="html"><![CDATA[<a class="prop " href="/property-detail/lovely-t2-house-for-sale_3076">
-    <div class="prop__imgWrap">
-        <div class="prop__labels">
-                <span class="prop__label">Sold</span>
-        </div>
-        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3076/ee7f6159-4c4a-4f73-a0ca-c6f04b4abb45.jpg?quality=70);" role="img" aria-label="Lovely T2 House For Sale"></div>
-        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3076" data-action-text="Lovely T2 House For Sale" title="Add to favorites">
-            <i class="far fa-heart"></i>
-            <i class="fas fa-heart"></i>
-        </span>
-    </div>
-    <div class="prop__body">
-        <div class="prop__header">
-            <div class="prop__headerLeft">
-                <h3 class="prop__title">Lovely T2 House For Sale</h3>
-            </div>
-            <div class="prop__headerRight">
-                <span class="prop__ref">Ref: RSV100-953</span>
-            </div>
-        </div>
-        <div class="prop__flex">
-            <div class="prop__flexLeft">
-                <ul class="prop__items">
-                        <li class="prop__item">
-                            <i class="icon icon-bed"></i>
-                            <span>2</span>
-                        </li>
-                                            <li class="prop__item">
-                            <i class="icon icon-bath"></i>
-                            <span>2</span>
-                        </li>
-                                            <li class="prop__item">
-                            <i class="icon icon-house-area"></i>
-                            <span>880 m<sup>2</sup></span>
-                        </li>
-                                            <li class="prop__item">
-                            <i class="icon icon-land-area"></i>
-                            <span>880 m<sup>2</sup></span>
-                        </li>
-                </ul>
-            </div>
-            <div class="prop__flexRight">
-                <span class="prop__price">249,000 €</span>
-            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Plot in Vale da Telha, Golden opportunity (Chestertons)]]></title>
-        <id>https://www.chestertons-portugal.com/property-detail/building-plot-in-vale-da-telha--golden-opportunity_2871</id>
-        <link href="https://www.chestertons-portugal.com/property-detail/building-plot-in-vale-da-telha--golden-opportunity_2871"/>
-        <updated>2021-12-25T19:11:00.776Z</updated>
-        <content type="html"><![CDATA[<a class="prop " href="/property-detail/building-plot-in-vale-da-telha--golden-opportunity_2871">
-    <div class="prop__imgWrap">
-        <div class="prop__labels">
-                <span class="prop__label">Sold</span>
-        </div>
-        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/2871/a96439c8-055b-4699-8ec2-1eff39a96171.jpg?quality=70);" role="img" aria-label="Building Plot in Vale da Telha, Golden opportunity"></div>
-        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="2871" data-action-text="Building Plot in Vale da Telha, Golden opportunity" title="Add to favorites">
-            <i class="far fa-heart"></i>
-            <i class="fas fa-heart"></i>
-        </span>
-    </div>
-    <div class="prop__body">
-        <div class="prop__header">
-            <div class="prop__headerLeft">
-                <h3 class="prop__title">Building Plot in Vale da Telha, Golden opportunity</h3>
-            </div>
-            <div class="prop__headerRight">
-                <span class="prop__ref">Ref: PH100-73</span>
-            </div>
-        </div>
-        <div class="prop__flex">
-            <div class="prop__flexLeft">
-                <ul class="prop__items">
-                                                                                    <li class="prop__item">
-                            <i class="icon icon-land-area"></i>
-                            <span>1120 m<sup>2</sup></span>
-                        </li>
-                </ul>
-            </div>
-            <div class="prop__flexRight">
-                <span class="prop__price">50,000 €</span>
-            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T2 House in Aljezur (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-72m2-t2-house-in-aljezur-aldeia-nova-algarve-2270445</id>
-        <link href="https://www.century21.pt/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-72m2-t2-house-in-aljezur-aldeia-nova-algarve-2270445"/>
-        <updated>2022-05-12T17:50:55.852Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-72m2-t2-house-in-aljezur-aldeia-nova-algarve-2270445">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_fdc05273-9f51-4f7b-8be4-74fe5bf96d8e.png?w=75&amp;h=75&amp;func=bound" title="Carla Espiñal" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_fdc05273-9f51-4f7b-8be4-74fe5bf96d8e.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-72m2-t2-house-in-aljezur-aldeia-nova-algarve-2270445">
-                    <span class="label-container">
-
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="21&nbsp;Photos"><i class="fa fa-image"></i>21</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/6d4ba312-fb81-44dc-a2e2-985787efc41c_42d86300-4b4f-4211-814b-abf228368087.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/6d4ba312-fb81-44dc-a2e2-985787efc41c_42d86300-4b4f-4211-814b-abf228368087.jpg?w=400&amp;h=282" alt="T2 House in Aljezur" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-72m2-t2-house-in-aljezur-aldeia-nova-algarve-2270445">T2 House in Aljezur</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Townhouse Dwelling <small>Reference: C0369-00401</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-72m2-t2-house-in-aljezur-aldeia-nova-algarve-2270445">
-                                <strong>
-                                    
-                                    180&nbsp;000 € <small></small>
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            420<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-                            <span class="mright10 tip" title="Net area"><i class="icon-area-small"></i>
-                                
-                                72<span>m</span>
-                                
-                            <sup>2</sup></span>
-                            
-
-                            
-                            
-                            <span class="mright10 tip" title="N.º bedrooms"><i class="icon-bedroom-small"></i><strong>2</strong> </span>
-                            
-                            
-                            <span class="tip" title="N.º Bathrooms"><i class="icon-bathroom-small"></i><strong>1</strong>  </span>
-                            
-                            
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/single-habitation/aljezur-algarve/townhouse-dwelling-t2-72m2-t2-house-in-aljezur-aldeia-nova-algarve-2270445">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_fdc05273-9f51-4f7b-8be4-74fe5bf96d8e.png?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Carla Espiñal</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211</id>
-        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211"/>
-        <updated>2022-05-12T17:50:55.853Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">
-                    <span class="label-container">
-
-                        
-                        <span class="label label-danger">Price Reduced</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="7&nbsp;Photos"><i class="fa fa-image"></i>7</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/imagem6_ea4d5180-bb2c-4d93-bfa4-207011b9509f.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/imagem6_ea4d5180-bb2c-4d93-bfa4-207011b9509f.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">Urban land in Vale da Telha!</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00565</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">
-                                <strong>
-                                    
-                                    52&nbsp;000 € <small></small>
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            740<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177211">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Jorge Guerreiro</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212</id>
-        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212"/>
-        <updated>2022-05-12T17:50:55.855Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
-                    <span class="label-container">
-
-                        
-                        <span class="label label-danger">Price Reduced</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="4&nbsp;Photos"><i class="fa fa-image"></i>4</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/36755-e781c88e35e764aa38d0fc9519879dec692b92a3_0e122a50-33af-4f81-8fa5-6dd5b2a1c75d.png?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">Urban land in Vale da Telha!</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00566</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">
-                                <strong>
-                                    
-                                    63&nbsp;000 € <small></small>
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            990<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177212">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Jorge Guerreiro</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban land in Vale da Telha! (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213</id>
-        <link href="https://www.century21.pt/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213"/>
-        <updated>2022-05-12T17:50:55.856Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound" title="Jorge Guerreiro" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
-                    <span class="label-container">
-
-                        
-                        <span class="label label-danger">Price Reduced</span>
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="5&nbsp;Photos"><i class="fa fa-image"></i>5</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/mw-800_ba7158bc-bf61-463a-ba13-e18cce3ed983.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/mw-800_ba7158bc-bf61-463a-ba13-e18cce3ed983.jpg?w=400&amp;h=282" alt="Urban land in Vale da Telha!" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">Urban land in Vale da Telha!</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Urban Land <small>Reference: C0369-GORE-00567</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">
-                                <strong>
-                                    
-                                    69&nbsp;000 € <small></small>
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            970<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/land/aljezur-algarve/urban-land-urban-land-in-vale-da-telha-2177213">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_24616c42-4b53-4242-96e0-c0bf8b09ad7e.png?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Jorge Guerreiro</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[+++Quinta/Farm in unique location in Aljezur, with 26500 m2, 3 minutes from Arrifana beach, with 160,50 m2 + 56 m2 - Costa Vicentina+++ (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/farms-or-estates/aljezur-algarve/farm-t3-161m2-quinta-farm-in-unique-location-in-aljezur-with-26500-m2-3-minutes-from-arrifana-beach-with-16050-m2-56-m2-costa-vicentina-arrifana-algarve-2210784</id>
-        <link href="https://www.century21.pt/en/for-sale/farms-or-estates/aljezur-algarve/farm-t3-161m2-quinta-farm-in-unique-location-in-aljezur-with-26500-m2-3-minutes-from-arrifana-beach-with-16050-m2-56-m2-costa-vicentina-arrifana-algarve-2210784"/>
-        <updated>2022-05-12T17:50:55.857Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t3-161m2-quinta-farm-in-unique-location-in-aljezur-with-26500-m2-3-minutes-from-arrifana-beach-with-16050-m2-56-m2-costa-vicentina-arrifana-algarve-2210784">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_c5cb5e91-5895-45c4-9ca5-90a5d0a88681.png?w=75&amp;h=75&amp;func=bound" title="Aida Infante" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_c5cb5e91-5895-45c4-9ca5-90a5d0a88681.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t3-161m2-quinta-farm-in-unique-location-in-aljezur-with-26500-m2-3-minutes-from-arrifana-beach-with-16050-m2-56-m2-costa-vicentina-arrifana-algarve-2210784">
-                    <span class="label-container">
-
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="64&nbsp;Photos"><i class="fa fa-image"></i>64</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/a97e9e36-a983-4ec0-9e80-b52c1b5cb99a_a1cf529a-c2b7-4392-9250-1794016f3bc3.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/a97e9e36-a983-4ec0-9e80-b52c1b5cb99a_a1cf529a-c2b7-4392-9250-1794016f3bc3.jpg?w=400&amp;h=282" alt="+++Quinta/Farm in unique location in Aljezur, with 26500 m2, 3 minutes from Arrifana beach, with 160,50 m2 + 56 m2 - Costa Vicentina+++" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t3-161m2-quinta-farm-in-unique-location-in-aljezur-with-26500-m2-3-minutes-from-arrifana-beach-with-16050-m2-56-m2-costa-vicentina-arrifana-algarve-2210784">+++Quinta/Farm in unique location in Aljezur, with 26500 m2, 3 minutes from Arrifana beach, with 160,50 m2 + 56 m2 - Costa Vicentina+++</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Farm <small>Reference: C0369-00414</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t3-161m2-quinta-farm-in-unique-location-in-aljezur-with-26500-m2-3-minutes-from-arrifana-beach-with-16050-m2-56-m2-costa-vicentina-arrifana-algarve-2210784">
-                                <strong>
-                                    
-                                    949&nbsp;000 € <small></small>
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Arrifana (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            26&nbsp;500<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-                            <span class="mright10 tip" title="Net area"><i class="icon-area-small"></i>
-                                
-                                161<span>m</span>
-                                
-                            <sup>2</sup></span>
-                            
-
-                            
-                            
-                            <span class="mright10 tip" title="N.º bedrooms"><i class="icon-bedroom-small"></i><strong>3</strong> </span>
-                            
-                            
-                            <span class="tip" title="N.º Bathrooms"><i class="icon-bathroom-small"></i><strong>1</strong>  </span>
-                            
-                            
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/farms-or-estates/aljezur-algarve/farm-t3-161m2-quinta-farm-in-unique-location-in-aljezur-with-26500-m2-3-minutes-from-arrifana-beach-with-16050-m2-56-m2-costa-vicentina-arrifana-algarve-2210784">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_c5cb5e91-5895-45c4-9ca5-90a5d0a88681.png?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Aida Infante</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*** Property, in the amazing Natural Park of Aljezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast *** (Century 21 Portugal)]]></title>
-        <id>https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-property-in-the-amazing-natural-park-of-aljezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123</id>
-        <link href="https://www.century21.pt/en/for-sale/commercial/aljezur-algarve/store-property-in-the-amazing-natural-park-of-aljezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123"/>
-        <updated>2022-05-12T17:50:55.858Z</updated>
-        <content type="html"><![CDATA[<article>
-            <div class="content-left ratio-wrapper">
-                
-                <a class="card-agent-photo" href="/en/for-sale/commercial/aljezur-algarve/store-property-in-the-amazing-natural-park-of-aljezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
-                
-                <img class="lazy tip" src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_c5cb5e91-5895-45c4-9ca5-90a5d0a88681.png?w=75&amp;h=75&amp;func=bound" title="Aida Infante" data-original="https://cdn.21online.app/v7/_c21cdn_/agent-photo_c5cb5e91-5895-45c4-9ca5-90a5d0a88681.png?w=75&amp;h=75&amp;func=bound" style="display: block;">
-                
-                </a>
-                
-
-                <a href="/en/for-sale/commercial/aljezur-algarve/store-property-in-the-amazing-natural-park-of-aljezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
-                    <span class="label-container">
-
-                        
-                        
-                        
-                        
-                        
-                        
-                    </span>
-
-                <span class="photo-count label label-dark tip" title="25&nbsp;Photos"><i class="fa fa-image"></i>25</span>
-
-                <img class="lazy" src="https://cdn.21online.app/v7/_c21cdn_/vista-balcao-gatinhos_85281812-c82c-4f58-b228-90160115754e.jpg?w=400&amp;h=282" data-original="https://cdn.21online.app/v7/_c21cdn_/vista-balcao-gatinhos_85281812-c82c-4f58-b228-90160115754e.jpg?w=400&amp;h=282" alt="*** Property, in the amazing Natural Park of Aljezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast ***" style="display: block;">
-                </a>
-            </div>
-
-            <div class="content-middle">
-                <div class="middle">
-                    <div class="property-details">
-                        <div class="property-main-details">
-                            <div class="property-title">
-                                <div>
-                                    
-                                    <h2 class="truncate"><a class="title-link" href="/en/for-sale/commercial/aljezur-algarve/store-property-in-the-amazing-natural-park-of-aljezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">*** Property, in the amazing Natural Park of Aljezur - 5.000 sqm, with big outside terraces, nearby the most beautiful beaches of the Vicetine Coast ***</a></h2>
-                                    
-                                    <div>
-                                        <h3 class="truncate">Store <small>Reference: C0369-00111</small></h3>
-                                    </div>
-                                </div>
-
-                            </div>
-                            <h2 class="property-price">
-                                <a href="/en/for-sale/commercial/aljezur-algarve/store-property-in-the-amazing-natural-park-of-aljezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">
-                                <strong>
-                                    
-                                    On Request
-                                    
-                                </strong>
-                                </a>
-                            </h2>
-                        </div>
-
-                        <h4 class="truncate"><i class="fa fa-map-marker"></i>  Aljezur (Algarve),  Aldeia Nova (Algarve)</h4>
-                        <div class="divider10"></div>
-
-                        
-                        <span style="font-size:9px">CENTURY 21 Universe</span>
-                    </div>
-                    <hr class="m0">
-                    <div class="property-characteristics">
-                        <p class="m0">
-                            
-                            <span class="mright10 tip" title="Gross area"><i class="icon-area-alt-small"></i>
-                            
-                            5&nbsp;000<span>m</span>
-                            
-                            <sup>2</sup></span>
-                            
-
-                            
-
-                            
-                        </p>
-
-                    </div>
-                    <div class="property-actions hidden-xs">
-                        <a class="btn btn-xs btn-default raised" href="/en/for-sale/commercial/aljezur-algarve/store-property-in-the-amazing-natural-park-of-aljezur-5000-sqm-with-big-outside-terraces-nearby-the-most-beautiful-beaches-of-the-vicetine-coast-aldeia-nova-algarve-1959123">View more</a>
-                    </div>
-                    <div class="clearfix"></div>
-                </div>
-            </div>
-
-            <div class="content-right">
-                <div class="text-center">
-                    <div class="agent-detail">
-
-                        
-                        <img src="https://cdn.21online.app/v7/_c21cdn_/agent-photo_c5cb5e91-5895-45c4-9ca5-90a5d0a88681.png?w=75&amp;h=75&amp;func=bound">
-                        
-
-                        
-                        <h4>Aida Infante</h4>
-                        
-
-                        
-                        <h5>CENTURY 21 Universe</h5>
-                        
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-        </article>]]></content>
     </entry>
 </feed>
