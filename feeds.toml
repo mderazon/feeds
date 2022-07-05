@@ -18,11 +18,11 @@ contentSelector = "div.listing-card"
 [mimosa]
 title = "Mimosa"
 url = "https://www.mimosaproperties.com/imoveis/?pg=1&o=1&g=&t=&e=&dd=08&cc=03&ff=&ml=&z=&nq=&p=&a=&c=&ct=0000000000001&or=30&idioma=en"
-entrySelector = "#ContentPlaceHolder1_moduloimoveislistagem_listagem_imoveis_holder > div.comp-item-imovel"
+entrySelector = ".card-imovel"
 waitUntil = "networkidle"
-titleSelector = "a.img-imovel[title]"
-linkSelector = "a.img-imovel[href]"
-contentSelector = "a.img-imovel"
+titleSelector = ["h1.ma-font-00", "span.preco_actual"]
+linkSelector = "header.card-imovel_titles > a[href]"
+contentSelector = "h2.card-imovel_localidade"
 
 [century21]
 title = "Century 21"
@@ -53,7 +53,7 @@ title = "ERA Aljezur"
 url = "https://www.era.pt/en/buy?ob=1&tp=1,2&lc=08-03&page=1&ord=3"
 entrySelector = ".card"
 waitUntil = "load"
-titleSelector = ".sr-only"
+titleSelector = "div.content > a > span"
 linkSelector = "a.card__gallery[href]"
 
 [chestertons]
@@ -74,7 +74,7 @@ linkSelector = "a.prop[href]"
 
 [swplaces]
 title = "SW-Places"
-url = "https://sw-places.com/properties?lang=en"
+url = "https://sw-places.com/en/properties?v=0-0-0-0-0-0-0-0-620-1-8-3-0-0"
 entrySelector = ".property"
 waitUntil = "networkidle"
 titleSelector = ".property-title"
