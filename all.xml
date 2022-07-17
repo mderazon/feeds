@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-17T05:42:04.870Z</updated>
+    <updated>2022-07-17T17:41:35.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -784,7 +784,7 @@ Early viewing is highly recommended
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=127712844&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>949,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>951,429</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>957,095</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -817,7 +817,7 @@ Early viewing is highly recommended
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=127766621&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>950,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>952,432</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>958,104</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -850,7 +850,7 @@ Early viewing is highly recommended
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=128127681&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>759,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>760,943</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>765,474</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -883,7 +883,7 @@ Early viewing is highly recommended
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=125347685&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>550,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>551,408</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>554,692</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -2034,84 +2034,84 @@ Early viewing is highly recommended
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.080Z</updated>
+        <updated>2022-07-17T17:41:35.213Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/574/slide/23-1-574-20220708095808000000-1741D2EC-FB71-4AE3-BD17-4210C05D1D0A.jpg" alt="Moradia T3 Odeceixe"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-d.png" alt="D"></div><div class="reference">Ref: M-578</div></div><div class="b"><div class="title">Moradia T3 Odeceixe</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Odeceixe</span></div><div class="price">390 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.080Z</updated>
+        <updated>2022-07-17T17:41:35.213Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/573/slide/23-1-573-20220706145019000000-F1E22851-3A78-4436-8AF1-DB5DBC644005.jpg" alt="Imóvel com negócio Vale da Telha"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-b-minus.png" alt="B-"></div><div class="reference">Ref: M-579</div></div><div class="b"><div class="title">Imóvel com negócio Vale da Telha</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">1 250 000 €</div></div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.080Z</updated>
+        <updated>2022-07-17T17:41:35.215Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/572/slide/23-1-572-20220705144850000000-61EB34DA-30A9-4526-A7C1-1BE95C4B21D3.jpg" alt="Imóveis Alfambras"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: T-577</div></div><div class="b"><div class="title">Imóveis Alfambras</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Bordeira</span></div><div class="price">185 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.081Z</updated>
+        <updated>2022-07-17T17:41:35.216Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/561/slide/23-1-561-20220504144922000000-475794B2-1200-4BED-AE85-DDABD1531A76.jpg" alt="House in Arrifana"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-b.png" alt="B"></div><div class="reference">Ref: M-567</div></div><div class="b"><div class="title">House in Arrifana</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">1 150 000 €</div></div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.083Z</updated>
+        <updated>2022-07-17T17:41:35.218Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/559/slide/23-1-559-20220426114027000000-992B5C33-0287-40DD-99A6-49DF99F7F0CA.jpeg" alt="Moradia Centro Aljezur"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-e.png" alt="E"></div><div class="reference">Ref: M-561</div></div><div class="b"><div class="title">Moradia Centro Aljezur</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">250 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.091Z</updated>
+        <updated>2022-07-17T17:41:35.219Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/557/slide/23-1-557-20220419145447000000-CAB22A4A-622A-4C08-AE3D-D25AD893477E.jpg" alt="Moradia T3 Rogil"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-a.png" alt="A"></div><div class="reference">Ref: M-538</div></div><div class="b"><div class="title">Moradia T3 Rogil</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Rogil</span></div><div class="price">550 000 €</div></div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.095Z</updated>
+        <updated>2022-07-17T17:41:35.221Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/554/slide/23-1-554-20220406144726000000-981A9AC2-6DDC-4BF9-A2FD-2E5F59D7DDE1.jpg" alt="Moradia contemporânea"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-a.png" alt="A"></div><div class="reference">Ref: M-558</div></div><div class="b"><div class="title">Moradia contemporânea</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">780 000 €</div></div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.096Z</updated>
+        <updated>2022-07-17T17:41:35.222Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/551/slide/23-1-551-20220404102200000000-8FEBFE98-20BA-4F21-A590-D54A8E742EE8.jpeg" alt="Terreno Urbano para construção de moradia T3 com piscina"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: T-550</div></div><div class="b"><div class="title">Terreno Urbano para construção de moradia T3 com piscina</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">On Request</div></div><div class="business-state">Sold</div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.099Z</updated>
+        <updated>2022-07-17T17:41:35.224Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/550/slide/23-1-550-20220401160521000000-38C63E91-573D-4E27-B1F5-F410566C890C.jpeg" alt="Rustic land located in Rogil"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: T-546</div></div><div class="b"><div class="title">Rustic land located in Rogil</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Rogil</span></div><div class="price">110 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.100Z</updated>
+        <updated>2022-07-17T17:41:35.225Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/548/slide/23-1-548-20220331093209000000-01983B41-303E-43FB-A439-B7AFD8D83488.jpeg" alt="Moradia T3 Centro Aljezur"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-d.png" alt="D"></div><div class="reference">Ref: M-555</div></div><div class="b"><div class="title">Moradia T3 Centro Aljezur</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">On Request</div></div><div class="business-state">Reserved</div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.100Z</updated>
+        <updated>2022-07-17T17:41:35.228Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/546/slide/23-1-546-20220324122615000000-7BEDDC1C-01E6-475D-8359-9DDC2E31D46D.jpeg" alt="Moradia T4 com piscina e Garagem"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-c.png" alt="C"></div><div class="reference">Ref: M-553</div></div><div class="b"><div class="title">Moradia T4 com piscina e Garagem</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">On Request</div></div><div class="business-state">Reserved</div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2022-07-17T05:42:04.101Z</updated>
+        <updated>2022-07-17T17:41:35.230Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/544/slide/23-1-544-20220303143131000000-F020AD0A-EA6B-435E-B7A4-94E14BD2E7BE.jpg" alt="Ex-Libris in Aljezur"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: Qt-539</div></div><div class="b"><div class="title">Ex-Libris in Aljezur</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">2 000 000 €</div></div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
 </feed>
