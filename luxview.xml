@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-07-21T05:49:09.385Z</updated>
+    <updated>2022-07-21T17:47:43.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -23,7 +23,7 @@
                                                 <li>
                                                     <div class="prop-spec">
                                                         <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
-                                                        1
+                                                        2
                                                     </div>
                                                 </li>
                                                 <li>
