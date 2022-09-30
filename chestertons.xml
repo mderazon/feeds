@@ -2,9 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1</id>
     <title>Chestertons</title>
-    <updated>2022-09-30T06:39:43.011Z</updated>
+    <updated>2022-09-30T17:59:48.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chestertons-portugal.com/Assets/Favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[EXCLUSIVE  - SUPERB THREE BEDROOM VILLA WITH POOL, VALE DA TELHA]]></title>
+        <id>https://www.chestertons-portugal.com/property-detail/exclusive----superb-three-bedroom-villa-with-pool--vale-da-telha_4022</id>
+        <link href="https://www.chestertons-portugal.com/property-detail/exclusive----superb-three-bedroom-villa-with-pool--vale-da-telha_4022"/>
+        <updated>2022-09-30T17:59:39.340Z</updated>
+        <content type="html"><![CDATA[<a class="prop " href="/property-detail/exclusive----superb-three-bedroom-villa-with-pool--vale-da-telha_4022">
+    <div class="prop__imgWrap">
+        <div class="prop__labels">
+                <span class="prop__label">Exclusive</span>
+        </div>
+        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/4022/29854f0f-6dff-4928-a58d-dad3e8e5d16e.jpg?quality=70);" role="img" aria-label="EXCLUSIVE  - SUPERB THREE BEDROOM VILLA WITH POOL, VALE DA TELHA"></div>
+        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="4022" data-action-text="EXCLUSIVE  - SUPERB THREE BEDROOM VILLA WITH POOL, VALE DA TELHA" title="Add to favorites">
+            <i class="far fa-heart"></i>
+            <i class="fas fa-heart"></i>
+        </span>
+    </div>
+    <div class="prop__body">
+        <div class="prop__header">
+            <div class="prop__headerLeft">
+                <h3 class="prop__title">EXCLUSIVE  - SUPERB THREE BEDROOM VILLA WITH POOL, VALE DA TELHA</h3>
+            </div>
+            <div class="prop__headerRight">
+                <span class="prop__ref">Ref: RSV100-1007</span>
+            </div>
+        </div>
+        <div class="prop__flex">
+            <div class="prop__flexLeft">
+                <ul class="prop__items">
+                        <li class="prop__item">
+                            <i class="icon icon-bed"></i>
+                            <span>3</span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-bath"></i>
+                            <span>4</span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-house-area"></i>
+                            <span>217 m<sup>2</sup></span>
+                        </li>
+                                            <li class="prop__item">
+                            <i class="icon icon-land-area"></i>
+                            <span>1340 m<sup>2</sup></span>
+                        </li>
+                </ul>
+            </div>
+            <div class="prop__flexRight">
+                <span class="prop__price">575,000 €</span>
+            </div>
+        </div>
+    </div>
+</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exclusive 3 Bedroom Villa in Vale da Telha]]></title>
         <id>https://www.chestertons-portugal.com/property-detail/exclusive-3-bedroom-villa-in-vale-da-telha_3253</id>
@@ -553,55 +606,6 @@
             </div>
             <div class="prop__flexRight">
                 <span class="prop__price">399,000 €</span>
-            </div>
-        </div>
-    </div>
-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVELY FARMHOUSE IN AZENHA, ALJEZUR]]></title>
-        <id>https://www.chestertons-portugal.com/property-detail/lovely-farmhouse-in-azenha--aljezur_3146</id>
-        <link href="https://www.chestertons-portugal.com/property-detail/lovely-farmhouse-in-azenha--aljezur_3146"/>
-        <updated>2022-09-30T06:39:34.203Z</updated>
-        <content type="html"><![CDATA[<a class="prop " href="/property-detail/lovely-farmhouse-in-azenha--aljezur_3146">
-    <div class="prop__imgWrap">
-        <div class="prop__labels">
-                <span class="prop__label">Reduced</span>
-        </div>
-        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/3146/b684dfd5-247f-46bb-941c-a73e0c5ca06f.jpg?quality=70);" role="img" aria-label="LOVELY FARMHOUSE IN AZENHA, ALJEZUR"></div>
-        <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="3146" data-action-text="LOVELY FARMHOUSE IN AZENHA, ALJEZUR" title="Add to favorites">
-            <i class="far fa-heart"></i>
-            <i class="fas fa-heart"></i>
-        </span>
-    </div>
-    <div class="prop__body">
-        <div class="prop__header">
-            <div class="prop__headerLeft">
-                <h3 class="prop__title">LOVELY FARMHOUSE IN AZENHA, ALJEZUR</h3>
-            </div>
-            <div class="prop__headerRight">
-                <span class="prop__ref">Ref: RSV100-970</span>
-            </div>
-        </div>
-        <div class="prop__flex">
-            <div class="prop__flexLeft">
-                <ul class="prop__items">
-                        <li class="prop__item">
-                            <i class="icon icon-bed"></i>
-                            <span>3</span>
-                        </li>
-                                            <li class="prop__item">
-                            <i class="icon icon-bath"></i>
-                            <span>1</span>
-                        </li>
-                                                                <li class="prop__item">
-                            <i class="icon icon-land-area"></i>
-                            <span>5000 m<sup>2</sup></span>
-                        </li>
-                </ul>
-            </div>
-            <div class="prop__flexRight">
-                <span class="prop__price">599,000 €</span>
             </div>
         </div>
     </div>
