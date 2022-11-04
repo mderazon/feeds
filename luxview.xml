@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-11-04T05:45:45.955Z</updated>
+    <updated>2022-11-04T17:44:37.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -277,7 +277,7 @@
                             </div>
                             <div class="prop-stampWrap">
 
-                                    <span class="prop-stamp prop-stamp--primary">UNDER OFFER</span>
+                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
                             </div>
                         </a>]]></content>
     </entry>
@@ -350,6 +350,86 @@
                                         POA
                                         <i class="fa fa-long-arrow-right"></i>
                                     </span>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POA]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499"/>
+        <updated>2022-11-04T17:44:07.959Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/304499/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/304499/0dd9e9e0-9034-49c0-9618-0ba71295ee8a.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A019
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            POA
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POA]]></title>
+        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-pegoes_289104</id>
+        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-pegoes_289104"/>
+        <updated>2022-11-04T17:44:07.959Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-pegoes_289104">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/289104/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/289104/4cc96ff9-ac3c-4181-917f-c8d68bde75fe.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                                <li>
+                                                    <div class="prop-spec">
+                                                        <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
+                                                        3
+                                                    </div>
+                                                </li>
+                                                <li>
+                                                    <div class="prop-spec">
+                                                        <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
+                                                        2
+                                                    </div>
+                                                </li>
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A018
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            POA
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
                             </div>
                             <div class="prop-stampWrap">
 
