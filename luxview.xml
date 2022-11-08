@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2022-11-08T05:46:54.449Z</updated>
+    <updated>2022-11-08T17:47:38.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -248,40 +248,6 @@
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[105.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013</id>
-        <link href="https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013"/>
-        <updated>2022-10-15T17:52:39.963Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/256013/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/256013/d71dcac1-c154-4096-934d-be3734a81729.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A014
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            105.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[POA]]></title>
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357496"/>
@@ -320,36 +286,28 @@
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491"/>
         <updated>2022-10-15T17:52:39.963Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491">
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357491/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357491/b7468322-a665-4a0c-bdde-49dfdd3e4d8d.jpg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357491/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357491/b7468322-a665-4a0c-bdde-49dfdd3e4d8d.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-content">
-                                        <ul class="prop-feats">
-                                                <li>
-                                                    New
-                                                </li>
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
                                             <li>
-                                                Land
-                                            </li>
-                                            <li>
-                                                Aljezur Urbanização Paisagem Oceano
-                                            </li>
-                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
                                                 A019.5
                                             </li>
                                         </ul>
-
-                                        <ul class="prop-specs">
-                                                                                    </ul>
+                                        <span class="prop-price prop-price--long">
+                                            POA
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
                                     </div>
-                                    <span class="prop-price">
-                                        POA
-                                        <i class="fa fa-long-arrow-right"></i>
-                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -362,28 +320,36 @@
         <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499</id>
         <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499"/>
         <updated>2022-11-04T17:44:07.959Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499">
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/304499/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/304499/0dd9e9e0-9034-49c0-9618-0ba71295ee8a.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/304499/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/304499/0dd9e9e0-9034-49c0-9618-0ba71295ee8a.png?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
+                                    <div class="prop-content">
+                                        <ul class="prop-feats">
+                                                <li>
+                                                    Not applicable
+                                                </li>
                                             <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
+                                                Land
+                                            </li>
+                                            <li>
+                                                Aljezur Urbanização Paisagem Oceano
+                                            </li>
+                                            <li>
                                                 A019
                                             </li>
                                         </ul>
-                                        <span class="prop-price prop-price--long">
-                                            POA
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
+
+                                        <ul class="prop-specs">
+                                                                                    </ul>
                                     </div>
+                                    <span class="prop-price">
+                                        POA
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -468,6 +434,40 @@
                             <div class="prop-stampWrap">
 
                                     <span class="prop-stamp prop-stamp--primary">Sold</span>
+                            </div>
+                        </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POA]]></title>
+        <id>https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013</id>
+        <link href="https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013"/>
+        <updated>2022-10-15T17:52:39.963Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013">
+                            <div class="prop-imgArea">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/256013/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/256013/d71dcac1-c154-4096-934d-be3734a81729.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                            </div>
+                            <div class="prop-overlay">
+
+
+                                    <div class="prop-smallContent">
+
+                                        <ul class="prop-smallFeats">
+                                            <li>
+                                                <span class="prop-specLabel">
+                                                    Ref: &nbsp;
+                                                </span>
+                                                A014
+                                            </li>
+                                        </ul>
+                                        <span class="prop-price prop-price--long">
+                                            POA
+                                            <i class="fa fa-long-arrow-right"></i>
+                                        </span>
+                                    </div>
+                            </div>
+                            <div class="prop-stampWrap">
+
+                                    <span class="prop-stamp prop-stamp--primary">RESERVED</span>
                             </div>
                         </a>]]></content>
     </entry>
