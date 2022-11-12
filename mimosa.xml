@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/imoveis/?pg=1&amp;o=1&amp;g=&amp;t=&amp;e=&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;ct=0000000000001&amp;or=30&amp;idioma=en</id>
     <title>Mimosa</title>
-    <updated>2022-11-12T05:41:48.138Z</updated>
+    <updated>2022-11-12T17:42:38.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
@@ -53,5 +53,26 @@
         <link href="https://www.mimosaproperties.com/en/imoveis/restaurant-aljezur-carrapateira-sale_3104/"/>
         <updated>2022-11-12T05:41:07.008Z</updated>
         <content type="html"><![CDATA[Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 1 Bedroom 500.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/house-1-bedroom-aljezur-carrapateira-sale_3102/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/house-1-bedroom-aljezur-carrapateira-sale_3102/"/>
+        <updated>2022-11-12T17:41:56.914Z</updated>
+        <content type="html"><![CDATA[Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnificant plot of land in Vale da Telha near Aljezur 85.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
+        <updated>2022-11-12T17:41:56.916Z</updated>
+        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnificent land for housing construction 100.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/magnificent-land-for-housing-construction_468/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/magnificent-land-for-housing-construction_468/"/>
+        <updated>2022-11-12T17:41:56.917Z</updated>
+        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
 </feed>
