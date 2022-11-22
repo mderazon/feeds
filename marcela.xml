@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2022-11-22T05:41:13.180Z</updated>
+    <updated>2022-11-22T17:42:31.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -68,7 +68,7 @@ Less than ten minutes by car to Aljezur and less than thirty minutes to Lagos wi
 Viewing is highly recommended.">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="260000">
+        <meta itemprop="price" content="250000">
     </div>
 </div>
 
@@ -85,7 +85,7 @@ Viewing is highly recommended.">
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22817/ba252eea-bd37-4397-a5a1-eaed8d94f07d.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">TWO BEDROOM APARTMENT WITH VALLEY VIEWS, MONTE CLERIGO, ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>260.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>250.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22817" data-action-text="REF: A1950" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: A1950</span></p>
