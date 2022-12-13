@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1</id>
     <title>Chestertons</title>
-    <updated>2022-12-13T05:38:55.835Z</updated>
+    <updated>2022-12-13T17:38:39.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chestertons-portugal.com/Assets/Favicon/favicon.ico</icon>
     <entry>
@@ -61,6 +61,7 @@
         <content type="html"><![CDATA[<a class="prop " href="/property-detail/two-bedroom-aljezur-town-house_4025">
     <div class="prop__imgWrap">
         <div class="prop__labels">
+                <span class="prop__label">Under Offer</span>
         </div>
         <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyfiles/165/4025/32d89b7c-3ae6-4324-ab85-e10b0c846deb.jpg?quality=70);" role="img" aria-label="Two Bedroom Aljezur Town House"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="4025" data-action-text="Two Bedroom Aljezur Town House" title="Add to favorites">
