@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1</id>
     <title>Chestertons</title>
-    <updated>2022-12-28T17:38:38.114Z</updated>
+    <updated>2022-12-29T05:39:10.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.chestertons-portugal.com/Assets/Favicon/favicon.ico</icon>
     <entry>
@@ -352,7 +352,7 @@
         <div class="prop__labels">
                 <span class="prop__label">Under Offer</span>
         </div>
-        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/165/5f63b544-4939-410d-9bdc-1c573e2bd342/4022/84bc41f7-2faa-42da-b205-541b6953d504.jpg?quality=70);" role="img" aria-label="EXCLUSIVE  - SUPERB THREE BEDROOM VILLA WITH POOL, VALE DA TELHA - GOLDEN VISA"></div>
+        <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/165/5f63b544-4939-410d-9bdc-1c573e2bd342/4022/bdd6018e-eb51-4357-b53e-dd1da7c8ea6b.jpg?quality=70);" role="img" aria-label="EXCLUSIVE  - SUPERB THREE BEDROOM VILLA WITH POOL, VALE DA TELHA - GOLDEN VISA"></div>
         <span class="prop__favorite js-toggleFavorite" role="button" data-prop-id="4022" data-action-text="EXCLUSIVE  - SUPERB THREE BEDROOM VILLA WITH POOL, VALE DA TELHA - GOLDEN VISA" title="Add to favorites">
             <i class="far fa-heart"></i>
             <i class="fas fa-heart"></i>
