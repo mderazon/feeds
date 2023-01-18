@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-18T05:38:43.484Z</updated>
+    <updated>2023-01-18T17:41:48.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -567,7 +567,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <id>https://remax.pt/en/listings/buy-house-t2-aljezur-aljezur/123041029-258</id>
         <link href="https://remax.pt/en/listings/buy-house-t2-aljezur-aljezur/123041029-258"/>
         <updated>2022-12-14T17:37:50.695Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" alt="House T2 of 168 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 330 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/a3667e47-1cd6-4bfc-9ee9-add6901f895e.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 117 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" alt="House T2 of 168 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> 330 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/a3667e47-1cd6-4bfc-9ee9-add6901f895e.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 117 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50 000 € (Remax Aljezur)]]></title>
@@ -772,7 +772,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=127766621&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>950,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>1,028,242</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>1,028,888</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -805,7 +805,7 @@ A great opportunity to invest in this popular urbanisation which is within walki
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=128127681&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>759,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>821,511</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>822,027</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -1559,84 +1559,84 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.858Z</updated>
+        <updated>2023-01-18T17:41:47.973Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/609/slide/23-1-609-20230106160729000000-ED071ED5-9B7F-4C56-B0AE-354B8F70CA76.jpg" alt="Moradia T-2 Odeceixe"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-f.png" alt="F"></div><div class="reference">Ref: M-615</div></div><div class="b"><div class="title">Moradia T-2 Odeceixe</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Odeceixe</span></div><div class="price">150 000 €</div></div><div class="business-state">Exclusive</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.858Z</updated>
+        <updated>2023-01-18T17:41:47.976Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/607/slide/23-1-607-20221228115047000000-CCECDC6F-D462-4455-A393-3C323C3D02A5.jpeg" alt="Moradia T3"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-c.png" alt="C"></div><div class="reference">Ref: M-629</div></div><div class="b"><div class="title">Moradia T3</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">355 000 €</div></div><div class="business-state">Exclusive</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.858Z</updated>
+        <updated>2023-01-18T17:41:47.978Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/605/slide/23-1-605-20221222103721000000-DA6B4385-F1DD-4A16-AF2E-132626358441.jpeg" alt="Herdade Vale dos Polvos"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: Qt-603</div></div><div class="b"><div class="title">Herdade Vale dos Polvos</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">1 250 000 €</div></div><div class="business-state">Reserved</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.859Z</updated>
+        <updated>2023-01-18T17:41:47.980Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/603/slide/23-1-603-20221214150632000000-03576B96-3F37-4450-B427-F51E63CD4018.jpg" alt="Quintinha Palazim"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: Qt-624</div></div><div class="b"><div class="title">Quintinha Palazim</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">630 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.859Z</updated>
+        <updated>2023-01-18T17:41:47.982Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/602/slide/23-1-602-20221213124325000000-2F077B96-85C6-4E71-AD7A-2D8E84494313.jpeg" alt="Fantástica Quintinha Alfambras"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-b-minus.png" alt="B-"></div><div class="reference">Ref: Qt-625</div></div><div class="b"><div class="title">Fantástica Quintinha Alfambras</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Bordeira</span></div><div class="price">1 450 000 €</div></div><div class="business-state">Exclusive</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.860Z</updated>
+        <updated>2023-01-18T17:41:47.985Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/601/slide/23-1-601-20221212162157000000-40340861-AF81-4932-A176-00E9E5080552.jpg" alt="Terreno Carrapateira"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: T-602</div></div><div class="b"><div class="title">Terreno Carrapateira</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Bordeira</span></div><div class="price">525 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.861Z</updated>
+        <updated>2023-01-18T17:41:47.987Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/600/slide/23-1-600-20221207154423000000-F3C5A23F-C84B-4347-9409-17D7588B8BCE.jpeg" alt="Apartamento T2 Espartal"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-c.png" alt="C"></div><div class="reference">Ref: Apt-627</div></div><div class="b"><div class="title">Apartamento T2 Espartal</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">250 000 €</div></div><div class="business-state">Reserved</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.865Z</updated>
+        <updated>2023-01-18T17:41:47.990Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/597/slide/23-1-597-20221109161210000000-3DB6F2AE-9FC3-4C6C-8EB0-601D8320E56D.jpg" alt="Herdade da Laranjeira"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: T-263</div></div><div class="b"><div class="title">Herdade da Laranjeira</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Odeceixe</span></div><div class="price">775 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.865Z</updated>
+        <updated>2023-01-18T17:41:47.992Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/594/slide/23-1-594-20221027143038000000-5502F78E-DE54-49EF-9A74-A55BEF712148.jpeg" alt="Restaurante Vale Gatinhos"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-b.png" alt="B"></div><div class="reference">Ref: Rest-586</div></div><div class="b"><div class="title">Restaurante Vale Gatinhos</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">980 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.867Z</updated>
+        <updated>2023-01-18T17:41:47.994Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/593/slide/23-1-593-20221026093156000000-482D337B-3A8A-46AF-BF37-BB26C8CB006B.jpeg" alt="Imóvel centro de Aljezur"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: A-613</div></div><div class="b"><div class="title">Imóvel centro de Aljezur</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">197 500 €</div></div><div class="business-state">Sold</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.869Z</updated>
+        <updated>2023-01-18T17:41:47.997Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/592/slide/23-1-592-20221019101622000000-5B338E87-E2C7-4BF6-A2A0-8DE9AA3309ED.jpg" alt="Moradia Contemporânea"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-a-plus.png" alt="A+"></div><div class="reference">Ref: M-603</div></div><div class="b"><div class="title">Moradia Contemporânea</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">2 900 000 €</div></div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-18T05:38:42.870Z</updated>
+        <updated>2023-01-18T17:41:47.999Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/591/slide/23-1-591-20221017111040000000-04D03C87-1F22-4452-B4CB-69AF58F5A194.jpeg" alt="Quintinha T3+1"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-e.png" alt="E"></div><div class="reference">Ref: Qt-610</div></div><div class="b"><div class="title">Quintinha T3+1</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">435 500 €</div></div><div class="business-state">Reserved</div>]]></content>
     </entry>
 </feed>
