@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-25T05:39:36.011Z</updated>
+    <updated>2023-01-25T17:41:17.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -542,11 +542,11 @@ Immaculately presented the property is being sold fully furnished and ready to o
 </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[239 900 € (Remax Aljezur)]]></title>
+        <title type="html"><![CDATA[280 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-condoapartment-t2-aljezur-aljezur/122261294-63</id>
         <link href="https://remax.pt/en/listings/buy-condoapartment-t2-aljezur-aljezur/122261294-63"/>
         <updated>2023-01-03T05:37:45.667Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" alt="Condo/Apartment T2 of 83 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 239 900 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/25ff0b3e-8f9f-410a-a48c-8acbd497a321.jpg" alt="Nadiya Babets" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Condo/Apartment</li> <li class="listing-area"> <i class="icon-area-full"></i> 121 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" alt="Condo/Apartment T2 of 83 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> 280 000 € </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/25ff0b3e-8f9f-410a-a48c-8acbd497a321.jpg" alt="Nadiya Babets" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Condo/Apartment</li> <li class="listing-area"> <i class="icon-area-full"></i> 121 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[235 000 € (Remax Aljezur)]]></title>
@@ -779,7 +779,7 @@ Immaculately presented the property is being sold fully furnished and ready to o
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=127766621&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>950,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>1,032,127</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>1,032,840</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -812,7 +812,7 @@ Immaculately presented the property is being sold fully furnished and ready to o
     </div>
 <a class="search-result-info" href="/propertyDetails.action?id=128127681&amp;cu=USD&amp;sizeunit=sqft">
     <div class="search-result-label-primary price-native"><span dir="ltr">€<span>759,000</span></span> EUR</div>
-        <div class="search-result-label-secondary price-user">$<span>824,616</span> USD</div>
+        <div class="search-result-label-secondary price-user">$<span>825,185</span> USD</div>
         <span class="property-address" style="display:none">Aljezur (Algarve)</span>
     <span class="search-result-label">
                         Aljezur (Algarve), Faro (Algarve), Portugal</span>
@@ -1102,162 +1102,6 @@ Immaculately presented the property is being sold fully furnished and ready to o
     </entry>
     <entry>
         <title type="html"><![CDATA[POA (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491"/>
-        <updated>2022-10-15T17:52:39.963Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_357491">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/357491/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/357491/b7468322-a665-4a0c-bdde-49dfdd3e4d8d.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A019.5
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            POA
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POA (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499"/>
-        <updated>2022-11-04T17:44:07.959Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-urbanizacao-paisagem-oceano_304499">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/304499/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/304499/0dd9e9e0-9034-49c0-9618-0ba71295ee8a.png?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-content">
-                                        <ul class="prop-feats">
-                                                <li>
-                                                    Not applicable
-                                                </li>
-                                            <li>
-                                                Land
-                                            </li>
-                                            <li>
-                                                Aljezur Urbanização Paisagem Oceano
-                                            </li>
-                                            <li>
-                                                A019
-                                            </li>
-                                        </ul>
-
-                                        <ul class="prop-specs">
-                                                                                    </ul>
-                                    </div>
-                                    <span class="prop-price">
-                                        POA
-                                        <i class="fa fa-long-arrow-right"></i>
-                                    </span>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POA (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-pegoes_289104</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-pegoes_289104"/>
-        <updated>2022-11-04T17:44:07.959Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-pegoes_289104">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/289104/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/289104/4cc96ff9-ac3c-4181-917f-c8d68bde75fe.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
-                                                        3
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
-                                                        2
-                                                    </div>
-                                                </li>
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A018
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            POA
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">SOLD</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POA (Luxview)]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454"/>
-        <updated>2022-10-15T17:52:39.963Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271454">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271454/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271454/f7714327-ad0b-4374-a31d-f9ce17ecc49c.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A017.1
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            POA
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                                    <span class="prop-stamp prop-stamp--primary">Sold</span>
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POA (Luxview)]]></title>
         <id>https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013</id>
         <link href="https://en.luxview.pt/property-detail/agricultural-land--land-for-agricultural-project-is-sold-agricultural-land-in-aljezur_256013"/>
         <updated>2022-10-15T17:52:39.963Z</updated>
@@ -1295,40 +1139,48 @@ Immaculately presented the property is being sold fully furnished and ready to o
         <id>https://en.luxview.pt/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333</id>
         <link href="https://en.luxview.pt/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333"/>
         <updated>2022-10-15T17:52:39.969Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333">
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/241333/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/241333/0c3ba9ad-ffd1-4079-859e-97468f22841d.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/241333/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/241333/0c3ba9ad-ffd1-4079-859e-97468f22841d.png?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
 
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
+                                    <div class="prop-content">
+                                        <ul class="prop-feats">
                                                 <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
-                                                        0
-                                                    </div>
-                                                </li>
-                                                <li>
-                                                    <div class="prop-spec">
-                                                        <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
-                                                        0
-                                                    </div>
+                                                    Ruin
                                                 </li>
                                             <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
+                                                Farmhouse
+                                            </li>
+                                            <li>
+                                                Aljezur Quinta Nova do Areeiro
+                                            </li>
+                                            <li>
                                                 A009
                                             </li>
                                         </ul>
-                                        <span class="prop-price prop-price--long">
-                                            POA
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
+
+                                        <ul class="prop-specs">
+                                                <li>
+                                                    <img style="top: -3px" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
+                                                    0
+                                                </li>
+                                                <li>
+                                                    <img style="top: -5px" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
+                                                    0
+                                                </li>
+                                                                                            <li>
+                                                    <img style="top: -4px" src="/Assets/Images/icon-area.png" alt="House Area">
+                                                    0m <sup>2</sup>
+                                                </li>
+                                        </ul>
                                     </div>
+                                    <span class="prop-price">
+                                        POA
+                                        <i class="fa fa-long-arrow-right"></i>
+                                    </span>
                             </div>
                             <div class="prop-stampWrap">
 
@@ -1566,84 +1418,84 @@ Immaculately presented the property is being sold fully furnished and ready to o
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.429Z</updated>
+        <updated>2023-01-25T17:41:16.595Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/609/slide/23-1-609-20230106160729000000-ED071ED5-9B7F-4C56-B0AE-354B8F70CA76.jpg" alt="Moradia T-2 Odeceixe"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-f.png" alt="F"></div><div class="reference">Ref: M-615</div></div><div class="b"><div class="title">Moradia T-2 Odeceixe</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Odeceixe</span></div><div class="price">150 000 €</div></div><div class="business-state">Exclusive</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.429Z</updated>
+        <updated>2023-01-25T17:41:16.598Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/607/slide/23-1-607-20221228115047000000-CCECDC6F-D462-4455-A393-3C323C3D02A5.jpeg" alt="Moradia T3"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-c.png" alt="C"></div><div class="reference">Ref: M-629</div></div><div class="b"><div class="title">Moradia T3</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">355 000 €</div></div><div class="business-state">Exclusive</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.431Z</updated>
+        <updated>2023-01-25T17:41:16.599Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/605/slide/23-1-605-20221222103721000000-DA6B4385-F1DD-4A16-AF2E-132626358441.jpeg" alt="Herdade Vale dos Polvos"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: Qt-603</div></div><div class="b"><div class="title">Herdade Vale dos Polvos</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">1 250 000 €</div></div><div class="business-state">Reserved</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.433Z</updated>
+        <updated>2023-01-25T17:41:16.599Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/603/slide/23-1-603-20221214150632000000-03576B96-3F37-4450-B427-F51E63CD4018.jpg" alt="Quintinha Palazim"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: Qt-624</div></div><div class="b"><div class="title">Quintinha Palazim</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">630 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.436Z</updated>
+        <updated>2023-01-25T17:41:16.599Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/602/slide/23-1-602-20221213124325000000-2F077B96-85C6-4E71-AD7A-2D8E84494313.jpeg" alt="Fantástica Quintinha Alfambras"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-b-minus.png" alt="B-"></div><div class="reference">Ref: Qt-625</div></div><div class="b"><div class="title">Fantástica Quintinha Alfambras</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Bordeira</span></div><div class="price">1 450 000 €</div></div><div class="business-state">Exclusive</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.437Z</updated>
+        <updated>2023-01-25T17:41:16.599Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/601/slide/23-1-601-20221212162157000000-40340861-AF81-4932-A176-00E9E5080552.jpg" alt="Terreno Carrapateira"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: T-602</div></div><div class="b"><div class="title">Terreno Carrapateira</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Bordeira</span></div><div class="price">525 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.438Z</updated>
+        <updated>2023-01-25T17:41:16.600Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/600/slide/23-1-600-20221207154423000000-F3C5A23F-C84B-4347-9409-17D7588B8BCE.jpeg" alt="Apartamento T2 Espartal"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-c.png" alt="C"></div><div class="reference">Ref: Apt-627</div></div><div class="b"><div class="title">Apartamento T2 Espartal</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">250 000 €</div></div><div class="business-state">Reserved</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.439Z</updated>
+        <updated>2023-01-25T17:41:16.601Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/597/slide/23-1-597-20221109161210000000-3DB6F2AE-9FC3-4C6C-8EB0-601D8320E56D.jpg" alt="Herdade da Laranjeira"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: T-263</div></div><div class="b"><div class="title">Herdade da Laranjeira</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Odeceixe</span></div><div class="price">775 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.440Z</updated>
+        <updated>2023-01-25T17:41:16.604Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/594/slide/23-1-594-20221027143038000000-5502F78E-DE54-49EF-9A74-A55BEF712148.jpeg" alt="Restaurante Vale Gatinhos"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-b.png" alt="B"></div><div class="reference">Ref: Rest-586</div></div><div class="b"><div class="title">Restaurante Vale Gatinhos</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">980 000 €</div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.441Z</updated>
+        <updated>2023-01-25T17:41:16.606Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/593/slide/23-1-593-20221026093156000000-482D337B-3A8A-46AF-BF37-BB26C8CB006B.jpeg" alt="Imóvel centro de Aljezur"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-exempted.png" alt="Exempted"></div><div class="reference">Ref: A-613</div></div><div class="b"><div class="title">Imóvel centro de Aljezur</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">197 500 €</div></div><div class="business-state">Sold</div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.442Z</updated>
+        <updated>2023-01-25T17:41:16.608Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/592/slide/23-1-592-20221019101622000000-5B338E87-E2C7-4BF6-A2A0-8DE9AA3309ED.jpg" alt="Moradia Contemporânea"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-a-plus.png" alt="A+"></div><div class="reference">Ref: M-603</div></div><div class="b"><div class="title">Moradia Contemporânea</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">2 900 000 €</div></div><img class="golden-visa" src="/img/golden-visa.png">]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[undefined (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2023-01-25T05:39:35.443Z</updated>
+        <updated>2023-01-25T17:41:16.609Z</updated>
         <content type="html"><![CDATA[<div class="a"><img class="image" src="https://imodigi.com/backoffice/img/imoveis/23/1/591/slide/23-1-591-20221017111040000000-04D03C87-1F22-4452-B4CB-69AF58F5A194.jpeg" alt="Quintinha T3+1"><div class="ec"><img class="ec-icon" src="/img/icons/energy/energy-e.png" alt="E"></div><div class="reference">Ref: Qt-610</div></div><div class="b"><div class="title">Quintinha T3+1</div><div class="location"><i class="fas fa-map-marker-alt location-icon-a"></i><span class="county">Aljezur</span><i class="fas fa-chevron-right location-icon-b"></i><span class="parish">Aljezur</span></div><div class="price">435 500 €</div></div><div class="business-state">Reserved</div>]]></content>
     </entry>
 </feed>
