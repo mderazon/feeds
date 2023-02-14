@@ -2,9 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2023-02-14T05:40:26.607Z</updated>
+    <updated>2023-02-14T17:39:24.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/townhouse-aljezur--ref_c3787/23029</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/townhouse-aljezur--ref_c3787/23029"/>
+        <updated>2023-02-14T17:38:19.968Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="OLD HOUSE FOR RENOVATION WITH CONCEPT PROJECT FOR TWO APARTMENTS, ALJEZUR">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23029/b742122e-1844-47b7-aa49-13ba67cb9f92.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="An old house for renovation with a 'concept project' for two apartments on 3 levels plus a small accessible roof terrace located in the desirable old town of Aljezur.
+
+The 'concept project' is for each of the ??m2 two apartments to have 1 bedroom, 1 bathroom and open plan kitchen / dining / living area. Both are accessible by a communal staircase. The ground floor is a 'service area' - a large area of 41 m2.
+
+The project is a proposal of what could be constructed but has not been submitted for approval so another project could be developed.
+
+A great opportunity!">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="197500">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/townhouse-aljezur--ref_c3787/23029"></a>
+
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23029/b742122e-1844-47b7-aa49-13ba67cb9f92.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">OLD HOUSE FOR RENOVATION WITH CONCEPT PROJECT FOR TWO APARTMENTS, ALJEZUR</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>197.500 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="23029" data-action-text="REF: C3787" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: C3787</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3779/22988</id>
@@ -48,6 +89,51 @@ A perfect lock up and go and/ or rental property being within easy walking dista
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22988" data-action-text="REF: C3779" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3779</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3777/22976</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/farmhouse-aljezur-ref_c3777/22976"/>
+        <updated>2023-02-14T17:38:19.968Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="THREE BEDROOM FARMHOUSE , CARRASCALINHO, ALJEZUR">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22976/159b6372-d342-453b-927b-3b63baa9e99e.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="A partly restored three bedroom 131m² farmhouse located on a 51.420m² plot of land in a tranquil scenic location with countryside views only 9km from Aljezur.
+
+The property (which is divided into two dwellings) has 3 bedrooms, 1 bathroom, 2 kitchens and living area leading onto a south facing terrace.  There are 3 salamanders in the property. Of traditional Portuguese ‘taipa’ construction, built before 1951.
+
+Mains electricity and water connections are nearby, electricity and water heating is by solar. There are water storage tanks (rain and stream water) for irrigating the land. There are lots of fruit trees, pines trees and 2 ha of cork oaks on the land, some of which is useable, but a lot is very steep. Storage shed.
+
+An ideal property and location for a rural tourism project or for a tranquil peaceful home.
+
+
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="200000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/farmhouse-aljezur-ref_c3777/22976"></a>
+
+        <span class="prop__stamp">PRICE REDUCED</span>
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22976/159b6372-d342-453b-927b-3b63baa9e99e.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">THREE BEDROOM FARMHOUSE , CARRASCALINHO, ALJEZUR</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>200.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22976" data-action-text="REF: C3777" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: C3777</span></p>
     </div>
 </div>]]></content>
     </entry>
@@ -435,92 +521,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22504" data-action-text="REF: U464T" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U464T</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/hotel-aljezur-ref_c3712/22481</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/hotel-aljezur-ref_c3712/22481"/>
-        <updated>2023-01-31T17:39:20.746Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="Fully licensed seven bedroom 450m2 Guest House (Casa d’Hospedes) situated on a 1500 plot of land in a quiet cul -de-sac in a very desirable location within walking distance of two restaurants, a bar and mini market and within 3 km drive of Arrifana and Monte Clerigo beaches.
-
-The innovative design of the property lends itself to three possibilities:-
-A large family home 
-A family home on the upper floor with guest accommodation on the ground level
-A large hotel
-
-The upper level, accessed from the road, has 3 bedrooms (one e/s) and 3 bathrooms, spacious living room with large terrace overlooking the pool and gardens, large fully fitted kitchen.
-
-The lower level has four ‘hotel type’ rooms with separate entrances and bathrooms, communal kitchen and lounge/ reception area. . A small apartment with kitchen, bedroom and bathroom. Swimming pool and gardens.
-
-The property benefits from central heating, air conditioning, storeroom, off-street parking, garage and laundry room. 
-
-Immaculately presented the property is being sold fully furnished and ready to operate. An excellent investment opportunity.
-">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="1300000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/hotel-aljezur-ref_c3712/22481"></a>
-
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.300.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22481" data-action-text="REF: C3712" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3712</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u480/22440</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u480/22440"/>
-        <updated>2023-02-07T17:38:17.151Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="A building plot of 580 m2 centrally located on the Espartal Urbanisation with mountain and valley views.  The plot has the approved possibility to build a two storey property with a pool of of 280 m2 on a footprint of 220 mtr2.  
-
-A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="250000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u480/22440"></a>
-
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22440/1a589085-3aa2-4f98-a365-93725bbd6fd5.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>250.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22440" data-action-text="REF: U480" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: U480</span></p>
     </div>
 </div>]]></content>
     </entry>
