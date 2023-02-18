@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2023-02-17T17:41:00.713Z</updated>
+    <updated>2023-02-18T05:39:47.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -54,7 +54,7 @@ A great opportunity!">
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="REFURBISHED TWO STOREY TWO BEDROOM TOWNHOUSE WITH VIEWS">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22988/68afe4e0-468e-450f-9af4-29d7bec2d53c.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22988/ffcecad1-0dc6-4c32-b302-94ffe7d5dc18.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
     <meta itemprop="description" content="A two storey 76m2 refurbished townhouse with two bedrooms located in the heart of the old town of Aljezur with lovely views across the town onto the Monchique hills.
 
 Previously two old houses, the property has been renovated and converted into one dwelling, as follows:-
@@ -82,7 +82,7 @@ A perfect lock up and go and/ or rental property being within easy walking dista
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22988/68afe4e0-468e-450f-9af4-29d7bec2d53c.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22988/ffcecad1-0dc6-4c32-b302-94ffe7d5dc18.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">REFURBISHED TWO STOREY TWO BEDROOM TOWNHOUSE WITH VIEWS</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>230.000 €</strong></span></p>
