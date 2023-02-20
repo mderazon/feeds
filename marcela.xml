@@ -2,9 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2023-02-20T05:40:25.322Z</updated>
+    <updated>2023-02-20T17:38:25.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u496/23032</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u496/23032"/>
+        <updated>2023-02-20T17:37:16.511Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="URBANISED BUILDING PLOT CONVINIENTLY LOCATED WITHIN URBANIZATION VALE DA TELHA">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23032/e65df259-7611-4b49-af2d-d618c3b4e4f5.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="This 1040 square meters plot is located 800 meters away from Praia de Arrifana, less than 10 minutes driving to Monte Clerigo and only 15 minutes to the town of Aljezur.
+
+Suspended architectural project presented in 2006 to build a house with pool up to 313 square meters in two storey.
+
+Perfect opportunity for investment. As soon as the building moratorium in Vale da Telha is lifted and construction allowed the value will go up substantially.">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="110000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u496/23032"></a>
+
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23032/e65df259-7611-4b49-af2d-d618c3b4e4f5.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">URBANISED BUILDING PLOT CONVINIENTLY LOCATED WITHIN URBANIZATION VALE DA TELHA</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>110.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="23032" data-action-text="REF: U496" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: U496</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/townhouse-aljezur--ref_c3787/23029</id>
@@ -476,55 +515,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22504" data-action-text="REF: U464T" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U464T</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/hotel-aljezur-ref_c3712/22481</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/hotel-aljezur-ref_c3712/22481"/>
-        <updated>2023-02-15T17:38:17.281Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="Fully licensed seven bedroom 450m2 Guest House (Casa d’Hospedes) situated on a 1500 plot of land in a quiet cul -de-sac in a very desirable location within walking distance of two restaurants, a bar and mini market and within 3 km drive of Arrifana and Monte Clerigo beaches.
-
-The innovative design of the property lends itself to three possibilities:-
-A large family home 
-A family home on the upper floor with guest accommodation on the ground level
-A large hotel
-
-The upper level, accessed from the road, has 3 bedrooms (one e/s) and 3 bathrooms, spacious living room with large terrace overlooking the pool and gardens, large fully fitted kitchen.
-
-The lower level has four ‘hotel type’ rooms with separate entrances and bathrooms, communal kitchen and lounge/ reception area. . A small apartment with kitchen, bedroom and bathroom. Swimming pool and gardens.
-
-The property benefits from central heating, air conditioning, storeroom, off-street parking, garage and laundry room. 
-
-Immaculately presented the property is being sold fully furnished and ready to operate. An excellent investment opportunity.
-">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="1300000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/hotel-aljezur-ref_c3712/22481"></a>
-
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22481/e94c8d4d-69e6-4062-9afd-fb3594a979f3.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">IMMACULATE GUEST HOUSE WITH OWNERS ACCOMMODATION, VALE DA TELHA</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.300.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22481" data-action-text="REF: C3712" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3712</span></p>
     </div>
 </div>]]></content>
     </entry>
