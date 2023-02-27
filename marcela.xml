@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2023-02-27T05:38:57.740Z</updated>
+    <updated>2023-02-27T17:42:32.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -270,6 +270,48 @@ A terrific 'lock up &amp; go' property with excellent rental potential within wa
     </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur-ref_rc258/22929</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/ruin-aljezur-ref_rc258/22929"/>
+        <updated>2023-02-27T17:41:04.046Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="RURAL LAND WITH RUIN, ALJEZUR">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22929/8ea8e0b4-ecb2-4f8e-9da8-e7e55bb3fd5e.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="Attractive 6.1 hectares of land with a registered ruin of 126m² with the opportunity to rebuilding up to 300m²
+
+Located in a very tranquil area, a paradise for many species of birds, and only five minutes driving from the town of Aljezur with easy access by a pavemented road.
+
+The property features strawberry trees and cork trees and an extended vegetable garden area of around 1800 m². The water is from a stream and there is no electricity, although it is available 300 meters away at the neighbouring agrotourism.
+
+This is a great opportunity to build a rural family home or a tourism project since it is situated less than 4 km from the centre of the town where it is possible to find all services. It is also less than twenty minutes driving to the best beaches in the region, Amoreira, Monte Clérigo and Arrifana.
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="370000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/ruin-aljezur-ref_rc258/22929"></a>
+
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22929/8ea8e0b4-ecb2-4f8e-9da8-e7e55bb3fd5e.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">RURAL LAND WITH RUIN, ALJEZUR</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>370.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22929" data-action-text="REF: RC258" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: RC258</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur--ref_u491/22840</id>
         <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur--ref_u491/22840"/>
         <updated>2022-11-16T17:44:22.378Z</updated>
@@ -478,43 +520,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22505" data-action-text="REF: U464U" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U464U</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464t/22504</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464t/22504"/>
-        <updated>2022-11-16T17:44:22.386Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="A frontline urban building plot of 430m2 with full Planning Permission on the Espartal Urbanisation with the possibility to build a two storey property of of 210 m2 on a footprint of 160 mtr2. 
-
-A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="320000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u464t/22504"></a>
-
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22504/d0c07d3d-e7ad-4639-864f-2232c8df86e5.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>320.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22504" data-action-text="REF: U464T" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: U464T</span></p>
     </div>
 </div>]]></content>
     </entry>

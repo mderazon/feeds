@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/imoveis/?pg=1&amp;o=1&amp;g=&amp;t=&amp;e=&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;ct=0000000000001&amp;or=30&amp;idioma=en</id>
     <title>Mimosa</title>
-    <updated>2023-02-27T05:38:57.729Z</updated>
+    <updated>2023-02-27T17:42:32.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[Apartment 2 Bedrooms 285.000 €]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/apartment-2-bedrooms-aljezur-espartal-sale_3494/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/apartment-2-bedrooms-aljezur-espartal-sale_3494/"/>
-        <updated>2023-01-05T17:38:42.232Z</updated>
+        <title type="html"><![CDATA[New T2 in Urbanização Espartal in Aljezur with balcony and panoramic view 285.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/new-t2-in-urbanizacao-espartal-in-aljezur-with-balcony-and-panoramic-view_3494/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/new-t2-in-urbanizacao-espartal-in-aljezur-with-balcony-and-panoramic-view_3494/"/>
+        <updated>2023-02-27T17:41:34.816Z</updated>
         <content type="html"><![CDATA[Aljezur, Espartal]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Townhouse 3 Bedrooms 280.000 €]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/townhouse-3-bedrooms-aljezur-aljezur-sale_3422/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/townhouse-3-bedrooms-aljezur-aljezur-sale_3422/"/>
-        <updated>2022-11-16T17:45:35.074Z</updated>
+        <title type="html"><![CDATA[House T3 to recover in the historic area of Aljezur 280.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/house-t3-to-recover-in-the-historic-area-of-aljezur_3422/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/house-t3-to-recover-in-the-historic-area-of-aljezur_3422/"/>
+        <updated>2023-02-27T17:41:34.842Z</updated>
         <content type="html"><![CDATA[Aljezur, Aljezur]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Townhouse 2 Bedrooms 210.000 €]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/townhouse-2-bedrooms-aljezur-aljezur-sale_3421/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/townhouse-2-bedrooms-aljezur-aljezur-sale_3421/"/>
-        <updated>2022-11-16T17:45:35.075Z</updated>
+        <title type="html"><![CDATA[House T2 to recover, Aljezur 210.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/house-t2-to-recover-aljezur_3421/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/house-t2-to-recover-aljezur_3421/"/>
+        <updated>2023-02-27T17:41:34.844Z</updated>
         <content type="html"><![CDATA[Aljezur, Aljezur]]></content>
     </entry>
     <entry>
