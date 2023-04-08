@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2023-04-08T05:39:22.628Z</updated>
+    <updated>2023-04-08T17:38:38.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -280,7 +280,7 @@ First Floor of 50m2 - 3 bedrooms (two double, one with balcony) and house bathro
 A great opportunity!">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="98000">
+        <meta itemprop="price" content="112000">
     </div>
 </div>
 
@@ -297,7 +297,7 @@ A great opportunity!">
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22840/5269b203-5896-4609-bf99-1df0353e8f08.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">URBAN PLOT WITH PROJECT SUBITTED FOR APPROVAL FOR A MODERN HOUSE WITH GREAT VIEWS, MARIA VINAGRE</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>98.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>112.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22840" data-action-text="REF: U491" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U491</span></p>
