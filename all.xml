@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-23T05:39:56.201Z</updated>
+    <updated>2023-05-23T17:38:53.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -647,6 +647,20 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" alt="Farm T8 of 357 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 950 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Investment</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/4a04a351-915b-4790-ae57-9ca0882a73ad.jpg" alt="Anca-Daniela Strugari" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Farm</li> <li class="listing-area"> <i class="icon-area-full"></i> 154920 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 8 </li> </ul>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[House 5 Bedrooms 1.300.000 € (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/house-5-bedrooms-aljezur-carrapateira-sale_3617/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/house-5-bedrooms-aljezur-carrapateira-sale_3617/"/>
+        <updated>2023-05-23T17:38:07.103Z</updated>
+        <content type="html"><![CDATA[Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms 485.000 € (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/house-3-bedrooms-aljezur-vale-da-telha-sale_3615/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/house-3-bedrooms-aljezur-vale-da-telha-sale_3615/"/>
+        <updated>2023-05-23T17:38:07.108Z</updated>
+        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[House T7 overlooking the Beach in Espartal, Aljezur 2.900.000 € (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/en/imoveis/house-t7-overlooking-the-beach-in-espartal-aljezur_3607/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/house-t7-overlooking-the-beach-in-espartal-aljezur_3607/"/>
@@ -715,20 +729,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <link href="https://www.mimosaproperties.com/en/imoveis/house-1-bedroom-aljezur-carrapateira-sale_3102/"/>
         <updated>2022-11-16T17:45:35.081Z</updated>
         <content type="html"><![CDATA[Aljezur, Carrapateira]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnificant plot of land in Vale da Telha near Aljezur 85.000 € (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
-        <updated>2022-11-16T17:45:35.083Z</updated>
-        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make your dream come true with this 1160m² plot of urban land in Vale da Telha 100.000 € (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/"/>
-        <updated>2023-02-22T17:38:32.642Z</updated>
-        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[280.000 € (Luxview)]]></title>
