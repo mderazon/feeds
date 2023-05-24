@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-24T05:38:24.303Z</updated>
+    <updated>2023-05-24T17:39:11.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -605,13 +605,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6408939/4e9231ff-d497-4f12-99c9-e827bdd9b5b4.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6408939/4e9231ff-d497-4f12-99c9-e827bdd9b5b4.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6408939/4e9231ff-d497-4f12-99c9-e827bdd9b5b4.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6408939/4e9231ff-d497-4f12-99c9-e827bdd9b5b4.jpg" alt="Land of -- m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> <span> 95 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/bf379940-475b-4600-8ac4-a5a835205d4b.jpg" alt="Luís Muchacho" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> -- m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[318 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-farm-t4-aljezur-aljezur/120261787-4</id>
-        <link href="https://remax.pt/en/listings/buy-farm-t4-aljezur-aljezur/120261787-4"/>
-        <updated>2023-02-21T17:37:54.855Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12026/6406765/fb57b2e7-35b2-4233-9424-32dbc7aad2e1.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12026/6406765/fb57b2e7-35b2-4233-9424-32dbc7aad2e1.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12026/6406765/fb57b2e7-35b2-4233-9424-32dbc7aad2e1.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12026/6406765/fb57b2e7-35b2-4233-9424-32dbc7aad2e1.jpg" alt="Farm T4 of -- m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 318 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/7291e510-1a7b-4475-8143-2651056ded30.jpg" alt="Daniela Giblott" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Farm</li> <li class="listing-area"> <i class="icon-area-full"></i> 83 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 1 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 4 </li> </ul>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[195 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-house-t2-aljezur-odeceixe/126001012-7</id>
         <link href="https://remax.pt/en/listings/buy-house-t2-aljezur-odeceixe/126001012-7"/>
@@ -645,6 +638,13 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <link href="https://remax.pt/en/listings/buy-farm-t8-aljezur-rogil/124471068-53"/>
         <updated>2023-05-20T05:37:24.837Z</updated>
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12447/6371444/0456ff18-dc02-430e-9072-06e6d94c3188.jpg" alt="Farm T8 of 357 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 950 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Investment</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/4a04a351-915b-4790-ae57-9ca0882a73ad.jpg" alt="Anca-Daniela Strugari" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Farm</li> <li class="listing-area"> <i class="icon-area-full"></i> 154920 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 8 </li> </ul>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80 000 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/122741071-29</id>
+        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/122741071-29"/>
+        <updated>2023-05-24T17:37:58.549Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12274/6371390/be31de8b-4a88-4952-ba97-43a29d15a3cc.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12274/6371390/be31de8b-4a88-4952-ba97-43a29d15a3cc.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12274/6371390/be31de8b-4a88-4952-ba97-43a29d15a3cc.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12274/6371390/be31de8b-4a88-4952-ba97-43a29d15a3cc.jpg" alt="Land of -- m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 80 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;">Land</span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/9245815c-e54e-48f3-90fd-c50e4aa01286.jpg" alt="Rodrigo Calapez" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 43240 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[House 3 Bedrooms 1.300.000 € (Mimosa)]]></title>
@@ -717,18 +717,18 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[Aljezur, Arrifana]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Seaside restaurant on Costa Vicentina 1.250.000 € (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/seaside-restaurant-on-costa-vicentina_3104/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/seaside-restaurant-on-costa-vicentina_3104/"/>
-        <updated>2023-03-27T17:37:51.897Z</updated>
-        <content type="html"><![CDATA[Aljezur, Carrapateira]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[House 1 Bedroom 500.000 € (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/en/imoveis/house-1-bedroom-aljezur-carrapateira-sale_3102/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/house-1-bedroom-aljezur-carrapateira-sale_3102/"/>
         <updated>2022-11-16T17:45:35.081Z</updated>
         <content type="html"><![CDATA[Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnificant plot of land in Vale da Telha near Aljezur 85.000 € (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
+        <updated>2023-05-24T17:38:16.195Z</updated>
+        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[280.000 € (Luxview)]]></title>
