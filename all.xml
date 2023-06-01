@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-01T05:38:52.504Z</updated>
+    <updated>2023-06-01T17:38:20.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -392,9 +392,9 @@ Ideal as a holiday home or for rental property.
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-to-be-renovated-aljezur--ref_c3722/22562</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-to-be-renovated-aljezur--ref_c3722/22562"/>
-        <updated>2023-05-19T17:37:08.773Z</updated>
+        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur--ref_c3722/22562</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur--ref_c3722/22562"/>
+        <updated>2023-06-01T17:37:14.528Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="TOWNHOUSE FOR RENOVATION WITH DISTANT SEA VIEWS, ODECEIXE">
@@ -415,7 +415,7 @@ An interesting property with great potential.
 
 
 <div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-to-be-renovated-aljezur--ref_c3722/22562"></a>
+    <a class="prop__link" href="/property-for-sale/villa-aljezur--ref_c3722/22562"></a>
 
 
 
