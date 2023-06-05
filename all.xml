@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-05T05:38:29.624Z</updated>
+    <updated>2023-06-05T17:39:12.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -268,7 +268,7 @@ This is a great opportunity to build a rural family home or a tourism project si
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="URBAN PLOT WITH PROJECT SUBITTED FOR APPROVAL FOR A MODERN HOUSE WITH GREAT VIEWS, MARIA VINAGRE">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22840/5269b203-5896-4609-bf99-1df0353e8f08.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22840/18a4a957-8907-428b-8e18-69e77900af7c.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
     <meta itemprop="description" content="A 150m2 plot of urban land with project submitted for approval for a 130m2 modern 3 bedroom house on two levels with garage and pool in the rear garden with lovely views across the countryside/ Natural land.
 
 Located in a quiet area of this small typical Portuguese village near to Rogil and Odeceixe, The project is on 2 levels:-
@@ -294,7 +294,7 @@ A great opportunity!">
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22840/5269b203-5896-4609-bf99-1df0353e8f08.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22840/18a4a957-8907-428b-8e18-69e77900af7c.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">URBAN PLOT WITH PROJECT SUBITTED FOR APPROVAL FOR A MODERN HOUSE WITH GREAT VIEWS, MARIA VINAGRE</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>104.900 €</strong></span></p>
