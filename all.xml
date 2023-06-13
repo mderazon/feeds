@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-13T05:38:09.220Z</updated>
+    <updated>2023-06-13T17:39:27.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -661,6 +661,13 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6338009/ed31f5d2-f98f-4732-b70b-4f53630eafe0.jpg" alt="Land of 22250 m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> <span> 47 500 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/92068fc4-c598-4608-a11d-9d8b374c7e4f.jpg" alt="Emmanuel Sagaz" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 22250 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[House 4 Bedrooms 899.000 € (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/house-4-bedrooms-aljezur-espartal-sale_3632/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/house-4-bedrooms-aljezur-espartal-sale_3632/"/>
+        <updated>2023-06-13T17:38:41.321Z</updated>
+        <content type="html"><![CDATA[Aljezur, Espartal]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Townhouse 2 Bedrooms 550.000 € (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/en/imoveis/townhouse-2-bedrooms-aljezur-carrapateira-sale_3244/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/townhouse-2-bedrooms-aljezur-carrapateira-sale_3244/"/>
@@ -736,13 +743,6 @@ A great opportunity to invest in this popular urbanisation which is within walki
         <link href="https://www.mimosaproperties.com/en/imoveis/luxury-villa-with-8-bedrooms-in-praia-da-arrifana-aljezur_3219/"/>
         <updated>2023-03-01T17:40:28.126Z</updated>
         <content type="html"><![CDATA[Aljezur, Arrifana]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[House 1 Bedroom 500.000 € (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/house-1-bedroom-aljezur-carrapateira-sale_3102/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/house-1-bedroom-aljezur-carrapateira-sale_3102/"/>
-        <updated>2022-11-16T17:45:35.081Z</updated>
-        <content type="html"><![CDATA[Aljezur, Carrapateira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[280.000 € (Luxview)]]></title>
