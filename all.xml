@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-29T17:39:20.782Z</updated>
+    <updated>2023-06-30T05:38:45.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -574,14 +574,14 @@ A great opportunity!">
         <title type="html"><![CDATA[550 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-house-t3-aljezur-rogil/126001002-5</id>
         <link href="https://remax.pt/en/listings/buy-house-t3-aljezur-rogil/126001002-5"/>
-        <updated>2023-06-29T17:38:04.721Z</updated>
+        <updated>2023-06-30T05:37:45.802Z</updated>
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6540120/a1b7a418-fece-4a7b-8554-e1ca33daad65.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6540120/a1b7a418-fece-4a7b-8554-e1ca33daad65.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6540120/a1b7a418-fece-4a7b-8554-e1ca33daad65.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6540120/a1b7a418-fece-4a7b-8554-e1ca33daad65.jpg" alt="House T3 of 174 m², for sale in Rogil, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-price"> <span> 550 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Rogil </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/593e39a7-c04b-416c-bb11-2288070a6a6b.jpg" alt="Cláudio Faustino" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 174 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 1 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 3 </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[136 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-others---habitacional-t2-aljezur-aljezur/124641072-17</id>
         <link href="https://remax.pt/en/listings/buy-others---habitacional-t2-aljezur-aljezur/124641072-17"/>
-        <updated>2023-06-29T17:38:04.721Z</updated>
+        <updated>2023-06-30T05:37:45.803Z</updated>
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12464/6540107/d570b11f-ed55-403a-98a4-fb60e3402822.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12464/6540107/d570b11f-ed55-403a-98a4-fb60e3402822.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12464/6540107/d570b11f-ed55-403a-98a4-fb60e3402822.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12464/6540107/d570b11f-ed55-403a-98a4-fb60e3402822.jpg" alt="Others - Habitacional of 111 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 136 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/21083885-4b75-40ff-93f8-31ea0c91d9ac.jpg" alt="Adriana Pires" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Others - Habitacional</li> <li class="listing-area"> <i class="icon-area-full"></i> 212 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
     </entry>
     <entry>
