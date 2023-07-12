@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1</id>
     <title>Luxview</title>
-    <updated>2023-07-12T05:39:04.674Z</updated>
+    <updated>2023-07-12T17:39:42.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/favicon.ico</icon>
     <entry>
@@ -96,13 +96,13 @@
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[120.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-corto-sobro_318245</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-corto-sobro_318245"/>
-        <updated>2022-10-15T17:52:39.963Z</updated>
-        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/for-sale--in-aljezur-corto-sobro_318245">
+        <title type="html"><![CDATA[1.000.000 €]]></title>
+        <id>https://en.luxview.pt/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016</id>
+        <link href="https://en.luxview.pt/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016"/>
+        <updated>2023-07-12T17:39:09.903Z</updated>
+        <content type="html"><![CDATA[<a class="prop prop--big" href="/property-detail/villa--vale-da-telha--arrifana--pool--terrace-villa-v3--1-with-swimming-pool-and-sunny-terrace_232016">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/318245/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/318245/bfd2f461-8f55-4459-9508-6851efa5eb69.jpeg?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/232016/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/232016/9853d2ee-1602-407e-89d2-4b662f72789b.png?quality=70&amp;mode=crop&amp;width=681&amp;height=518" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -110,24 +110,36 @@
                                     <div class="prop-content">
                                         <ul class="prop-feats">
                                                 <li>
-                                                    Not applicable
+                                                    Resale
                                                 </li>
                                             <li>
-                                                Land
+                                                Villa
                                             </li>
                                             <li>
-                                                Aljezur Corto sobro
+                                                Aljezur Vale da Telha
                                             </li>
                                             <li>
-                                                A023
+                                                A004
                                             </li>
                                         </ul>
 
                                         <ul class="prop-specs">
-                                                                                    </ul>
+                                                <li>
+                                                    <img style="top: -3px" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
+                                                    4
+                                                </li>
+                                                <li>
+                                                    <img style="top: -5px" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
+                                                    4
+                                                </li>
+                                                                                            <li>
+                                                    <img style="top: -4px" src="/Assets/Images/icon-area.png" alt="House Area">
+                                                    402m <sup>2</sup>
+                                                </li>
+                                        </ul>
                                     </div>
                                     <span class="prop-price">
-                                        120.000 €
+                                        1.000.000 €
                                         <i class="fa fa-long-arrow-right"></i>
                                     </span>
                             </div>
@@ -137,46 +149,13 @@
                         </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455</id>
-        <link href="https://en.luxview.pt/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455"/>
-        <updated>2022-10-15T17:52:39.963Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/for-sale--in-aljezur-vale-do-pereiro_271455">
+        <title type="html"><![CDATA[POA]]></title>
+        <id>https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172</id>
+        <link href="https://en.luxview.pt/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172"/>
+        <updated>2023-07-12T17:39:09.907Z</updated>
+        <content type="html"><![CDATA[<a class="prop" href="/property-detail/triplex-in-aljezur-sells-up-3-storey-housing-building--property-is-sold-aljezur-historic-center_232172">
                             <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/271455/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/271455/6d6304b2-d146-4963-8ec0-5e321f22d016.jpeg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
-                            </div>
-                            <div class="prop-overlay">
-
-
-                                    <div class="prop-smallContent">
-
-                                        <ul class="prop-smallFeats">
-                                            <li>
-                                                <span class="prop-specLabel">
-                                                    Ref: &nbsp;
-                                                </span>
-                                                A017
-                                            </li>
-                                        </ul>
-                                        <span class="prop-price prop-price--long">
-                                            100.000 €
-                                            <i class="fa fa-long-arrow-right"></i>
-                                        </span>
-                                    </div>
-                            </div>
-                            <div class="prop-stampWrap">
-
-                            </div>
-                        </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[150.000 €]]></title>
-        <id>https://en.luxview.pt/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333</id>
-        <link href="https://en.luxview.pt/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333"/>
-        <updated>2022-10-15T17:52:39.969Z</updated>
-        <content type="html"><![CDATA[<a class="prop" href="/property-detail/natural-park-of-southwest-alentejo-and-costa-vicentina--aljezur--land-two-lands-for-sale-in-the-heart-of-the-natural-park_241333">
-                            <div class="prop-imgArea">
-                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/241333/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/241333/0c3ba9ad-ffd1-4079-859e-97468f22841d.png?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
+                                <img class="prop-img" src="https://bo.moonshapes.pt/PropertyPhotos/509/232172/cdn.proppy.app/propertyphotos/1761/4af4a973-6faf-451b-bf3b-a9ba0daef907/232172/98a80cbc-e71c-4b89-a9da-17b1fd54a116.jpg?quality=70&amp;mode=crop&amp;width=324&amp;height=244" alt="Properties for sale In Aljezur ">
                             </div>
                             <div class="prop-overlay">
 
@@ -187,24 +166,24 @@
                                                 <li>
                                                     <div class="prop-spec">
                                                         <img style="top: 3px;" src="/Assets/Images/icon-bed.png" alt="Bedrooms">
-                                                        0
+                                                        3
                                                     </div>
                                                 </li>
                                                 <li>
                                                     <div class="prop-spec">
                                                         <img style="top: -1px;" src="/Assets/Images/icon-bath.png" alt="Bathrooms">
-                                                        0
+                                                        5
                                                     </div>
                                                 </li>
                                             <li>
                                                 <span class="prop-specLabel">
                                                     Ref: &nbsp;
                                                 </span>
-                                                A009
+                                                A003
                                             </li>
                                         </ul>
                                         <span class="prop-price prop-price--long">
-                                            150.000 €
+                                            POA
                                             <i class="fa fa-long-arrow-right"></i>
                                         </span>
                                     </div>
