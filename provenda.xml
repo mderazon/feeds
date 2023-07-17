@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2023-07-17T05:39:47.541Z</updated>
+    <updated>2023-07-17T17:39:45.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
     <entry>
@@ -28,7 +28,7 @@
         <content type="html"><![CDATA[<div class="lpprice"> € 295.000</div><a class="lptitle" href="https://www.provenda.net/en/house-4-bedrooms-maria-vinagre-rogil-aljezur-garden-garage+1000018914.html" title="Ver House 4 bedrooms Maria Vinagre Rogil Aljezur - garden, garage">House 4 bedrooms Maria Vinagre Rogil Aljezur - garden, garage</a>
 
 		    <a class="lpbody" href="https://www.provenda.net/en/house-4-bedrooms-maria-vinagre-rogil-aljezur-garden-garage+1000018914.html"><div class="limg"><img id="idx-1-0-14" src="https://www.espacos-portugal.com/m/-8040/1000018914_20230524_140852_edit.jpg" style="border:0;padding:0;top:5px;left:9px" alt="House 4 bedrooms Maria Vinagre Rogil Aljezur - garden, garage" width="320" height="180"><div class="backward" style="width:50px;height:240px;top:6px;left:6px;z-index:initial">prev</div>
-					<div class="forward" style="width:50px;height:240px;top:6px;right:6px;z-index:initial">next</div><div class="overn"></div><div class="overfav" id="img1000018914"></div></div><span class="lparea">154,90m²<u></u> &nbsp;240m²<i></i><b></b></span><span class="lpref">REF <b>PV-M-556</b><br><br></span><div class="lptext" style="width:initial;overflow:hidden"><b>Sale</b><br>House located in the small and quiet village of Maria Vinagre, close to Aljezur and the Atlantic Coast. With easy access, you can use the garage as well as public parking. As the Housing is adjacent to 2 streets, it has 2 independent entrances (from the main door street and from the garden street). This House has an excellent use of spaces, the construction level is in good condition. Come and let's visit it with us!</div>
+					<div class="forward" style="width:50px;height:240px;top:6px;right:6px;z-index:initial">next</div><div class="overn"></div><div class="overfav" id="img1000018914"></div><div class="ofeat"><span class="so">Reserved</span><br></div></div><span class="lparea">154,90m²<u></u> &nbsp;240m²<i></i><b></b></span><span class="lpref">REF <b>PV-M-556</b><br><br></span><div class="lptext" style="width:initial;overflow:hidden"><b>Sale</b><br>House located in the small and quiet village of Maria Vinagre, close to Aljezur and the Atlantic Coast. With easy access, you can use the garage as well as public parking. As the Housing is adjacent to 2 streets, it has 2 independent entrances (from the main door street and from the garden street). This House has an excellent use of spaces, the construction level is in good condition. Come and let's visit it with us!</div>
 			</a><div class="lplinks">
 				<div class="lpfav" id="link1000018914" onclick="javascript:click_fav('favprovenda.net', '1000018914', 'Add to Favorites', 'Remove from Favorites', '/en/favorites/');">Add to Favorites</div>
 				<a class="lpvisit" href="https://www.provenda.net/index2.php?option=com_gtprop&amp;task=visit&amp;id=1000018914&amp;lang=en">Schedule a Visit</a>
