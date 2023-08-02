@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-02T05:39:04.305Z</updated>
+    <updated>2023-08-02T17:38:21.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -486,6 +486,52 @@ This great opportunity is located fifteen minutes from Aljezur and only ten minu
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/apartment-aljezur-ref_a1963a/22950</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/apartment-aljezur-ref_a1963a/22950"/>
+        <updated>2023-08-02T17:37:14.091Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="CONTEMPORARY TWO BEDROOM APARTMENT WITH VALLEY VIEWS, MONTE CLERIGO, ALJEZUR">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22950/e5f128d5-9e06-4221-9e8f-e66b4e60edfd.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="
+
+Contemporary two-bedroom apartment  measuring 104.86 mtr², with balconies, roof terrace and private garage with private parking space of 21.72 mtr². Set in a beautiful location with panoramic views across the Amoreira Valley to Aljezur and Monchique. 
+
+The property comprises of entrance hallway with spacious storage and access to the two double bedrooms - one e/s at the rear with balconies and built in wardrobes; house bathroom; spacious open plan dining/ living/ kitchen area (kitchen with cooker, dishwasher and extractor fan) and large balcony which gets the morning sunshine to enjoy the fabulous views.
+
+There are 6 apartments in total in the block, all of which share the roof terrace. All apartments share the garage but each apartment has its own private parking space.
+
+The property benefits from solar water heating, air conditioning and an elevator.
+
+A terrific 'lock up &amp; go' property with excellent rental potential within walking distance of two stunning beaches, Monte Clerigo and Amoreira. Viewing is highly recommended.">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="285000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/apartment-aljezur-ref_a1963a/22950"></a>
+
+        <span class="prop__stamp">UNDER OFFER</span>
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22950/e5f128d5-9e06-4221-9e8f-e66b4e60edfd.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">CONTEMPORARY TWO BEDROOM APARTMENT WITH VALLEY VIEWS, MONTE CLERIGO, ALJEZUR</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>285.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22950" data-action-text="REF: A1963A" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: A1963A</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/plot-with-ruin-aljezur-ref_rc258/22929</id>
         <link href="https://www.marcelapropriedades.com/property-for-sale/plot-with-ruin-aljezur-ref_rc258/22929"/>
         <updated>2023-05-25T17:37:47.606Z</updated>
@@ -524,50 +570,6 @@ This is a great opportunity to build a rural family home or a tourism project si
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22929" data-action-text="REF: RC258" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: RC258</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur--ref_u491/22840</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur--ref_u491/22840"/>
-        <updated>2022-11-16T17:44:22.378Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="URBAN PLOT WITH APPROVED PROJECT FOR A MODERN HOUSE WITH GREAT VIEWS, MARIA VINAGRE">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22840/18a4a957-8907-428b-8e18-69e77900af7c.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="A 150m2 plot of urban land with approved project for a 130m2 modern 3 bedroom house on two levels with garage and pool in the rear garden with lovely views across the countryside/ Natural land.
-
-Located in a quiet area of this small typical Portuguese village near to Rogil and Odeceixe, The project is on 2 levels:-
-
-Ground floor of 80m2 - spacious open plan dining/ living/ kitchen area; with terrace doors to garden and pool at the rear; WC; internal access to the garage.
-
-First Floor of 50m2 - 3 bedrooms (two double, one with balcony) and house bathroom.
-
-A great opportunity!">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="98200">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/urban-land-aljezur--ref_u491/22840"></a>
-
-        <span class="prop__stamp">PRICED TO SELL</span>
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22840/18a4a957-8907-428b-8e18-69e77900af7c.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">URBAN PLOT WITH APPROVED PROJECT FOR A MODERN HOUSE WITH GREAT VIEWS, MARIA VINAGRE</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>98.200 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22840" data-action-text="REF: U491" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: U491</span></p>
     </div>
 </div>]]></content>
     </entry>
@@ -663,11 +665,11 @@ A great opportunity!">
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12464/6489961/839e82eb-832d-45e0-97cb-9eff30ba8372.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12464/6489961/839e82eb-832d-45e0-97cb-9eff30ba8372.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12464/6489961/839e82eb-832d-45e0-97cb-9eff30ba8372.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12464/6489961/839e82eb-832d-45e0-97cb-9eff30ba8372.jpg" alt="House T3 of 72 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 759 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/5cebfbd9-18c6-4475-9503-f6af9adf1c71.jpg" alt="Patrício Ferreira" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 72 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 3 </li> </ul>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[280 000 € (Remax Aljezur)]]></title>
+        <title type="html"><![CDATA[275 000 €  280 000 €  2% (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-condoapartment-t2-aljezur-aljezur/122261294-63</id>
         <link href="https://remax.pt/en/listings/buy-condoapartment-t2-aljezur-aljezur/122261294-63"/>
         <updated>2023-02-21T17:37:54.826Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" alt="Condo/Apartment T2 of 83 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 280 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/25ff0b3e-8f9f-410a-a48c-8acbd497a321.jpg" alt="Nadiya Babets" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Condo/Apartment</li> <li class="listing-area"> <i class="icon-area-full"></i> 121 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12226/6463993/4f5412e2-eaaf-4709-b837-9d385c6e6391.jpg" alt="Condo/Apartment T2 of 83 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> <span> 275 000 € </span> <span class="previous-price">280 000 €</span> <span class="price-reduction-percentage"> <i class="price-reduction-percentage-icon icon-down"></i>2% </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/25ff0b3e-8f9f-410a-a48c-8acbd497a321.jpg" alt="Nadiya Babets" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Condo/Apartment</li> <li class="listing-area"> <i class="icon-area-full"></i> 121 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[299 500 € (Remax Aljezur)]]></title>
