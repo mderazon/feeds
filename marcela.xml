@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2023-08-23T05:38:30.869Z</updated>
+    <updated>2023-08-23T17:38:48.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3834/23624</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3834/23624"/>
+        <updated>2023-08-23T17:37:29.860Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="ATTRACTIVE THREE BEDROOM VILLA WITH POOL IN A QUIET LOCATION, VALE DA TELHA">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23624/efa3482f-a9b9-4003-9c9d-4cd281d28b72.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="An attractive 3 bedroom 134m2 villa with pool situated on a large 1280 m2 plot in a quiet, yet central area of the Vale da Telha urbanisation close to Arrifana and Monte Clerigo beaches.
+The property has been adapted internally so that all 3 bedrooms have e/s bathrooms and their own separate entrances – these are individual studios for renting. Covered terrace with BBQ/ outside kitchen.
+In the main house there is a large open plan kitchen/ dining/ living area with woodburner and terrace doors to front garden and the pool at the rear; bathroom; garage which has been converted into a bedroom.
+The orientation is such that the property – and pool – has all day sunshine. Solar water heating and pre-installation for a/c.
+
+Located between the beaches of Arrifana and Monte Clerigo, with a significant historical ‘point’ , Atalia, where there are incredible views of this stunning coastline. The urbanisation has been in development for over 30 years resulting in a wide variety of styles and ages of houses. Currently it is not permitted to build even though there are many vacant plots. The amenities are two small supermarkets, a bakery, several restaurants and cafes, many surf schools/ lodges.
+The main town of Aljezur is just a 10 minute drive, it can also be reached by a regular bus service.
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="680000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3834/23624"></a>
+
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23624/efa3482f-a9b9-4003-9c9d-4cd281d28b72.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">ATTRACTIVE THREE BEDROOM VILLA WITH POOL IN A QUIET LOCATION, VALE DA TELHA</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>680.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="23624" data-action-text="REF: C3834" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: C3834</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3825/23520</id>
@@ -524,49 +566,6 @@ A terrific 'lock up &amp; go' property with excellent rental potential within wa
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22950" data-action-text="REF: A1963A" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: A1963A</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/plot-with-ruin-aljezur-ref_rc258/22929</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/plot-with-ruin-aljezur-ref_rc258/22929"/>
-        <updated>2023-08-19T17:37:23.306Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="RURAL LAND WITH RUIN, ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22929/f5dc39f3-6921-40ec-a9cd-db141f87f16c.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="Attractive 6.1 hectares of land with a registered ruin of 126m² with the opportunity to rebuilding up to 300m²
-
-Located in a very tranquil area, a paradise for many species of birds, and only five minutes driving from the town of Aljezur with easy access by a pavemented road.
-
-The property features strawberry trees and cork trees and an extended vegetable garden area of around 1800 m². The water is from a stream and there is no electricity, although it is available 300 meters away at the neighbouring agrotourism.
-
-This is a great opportunity to build a rural family home or a tourism project since it is situated less than 4 km from the centre of the town where it is possible to find all services. It is also less than twenty minutes driving to the best beaches in the region, Amoreira, Monte Clérigo and Arrifana.
-">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="350000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/plot-with-ruin-aljezur-ref_rc258/22929"></a>
-
-        <span class="prop__stamp">NEGOTIABLE</span>
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22929/f5dc39f3-6921-40ec-a9cd-db141f87f16c.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">RURAL LAND WITH RUIN, ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>350.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22929" data-action-text="REF: RC258" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: RC258</span></p>
     </div>
 </div>]]></content>
     </entry>
