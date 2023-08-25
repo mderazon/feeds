@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-25T05:38:16.360Z</updated>
+    <updated>2023-08-25T17:38:48.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -758,6 +758,13 @@ A terrific 'lock up &amp; go' property with excellent rental potential within wa
         <content type="html"><![CDATA[Aljezur, Aljezur]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3 bedroom villa with pool and jacuzzi in Espartal Urbanization, Costa Vicentina. 980.000 € (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/3-bedroom-villa-with-pool-and-jacuzzi-in-espartal-urbanization-costa-vicentina_3592/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/3-bedroom-villa-with-pool-and-jacuzzi-in-espartal-urbanization-costa-vicentina_3592/"/>
+        <updated>2023-08-25T17:37:59.521Z</updated>
+        <content type="html"><![CDATA[Aljezur, Espartal]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Restaurant with housing in Aljezur 675.000 € (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/en/imoveis/restaurant-with-housing-in-aljezur_3236/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/restaurant-with-housing-in-aljezur_3236/"/>
@@ -783,13 +790,6 @@ A terrific 'lock up &amp; go' property with excellent rental potential within wa
         <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
         <updated>2023-07-04T17:39:21.110Z</updated>
-        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make your dream come true with this 1160m² plot of urban land in Vale da Telha 100.000 € (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/"/>
-        <updated>2023-07-04T17:39:21.111Z</updated>
         <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
