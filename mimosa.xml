@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/imoveis/?pg=1&amp;o=1&amp;g=&amp;t=&amp;e=&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;ct=0000000000001&amp;or=30&amp;idioma=en</id>
     <title>Mimosa</title>
-    <updated>2023-09-13T05:39:17.541Z</updated>
+    <updated>2023-09-13T17:38:23.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://www.mimosaproperties.com/en/imoveis/casas-monte-clerigo-21-bedroom-villas-with-sea-views-in-espartal_3639/"/>
         <updated>2023-06-20T17:38:31.954Z</updated>
         <content type="html"><![CDATA[Aljezur, Espartal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[House T4 in Vale da Telha - Nature and tranquility 720.000 €]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/house-t4-in-vale-da-telha-nature-and-tranquility_3640/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/house-t4-in-vale-da-telha-nature-and-tranquility_3640/"/>
-        <updated>2023-06-16T17:39:54.195Z</updated>
-        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[House 4 Bedrooms 899.000 €]]></title>
@@ -88,5 +81,12 @@
         <link href="https://www.mimosaproperties.com/en/imoveis/luxury-villa-with-8-bedrooms-in-praia-da-arrifana-aljezur_3219/"/>
         <updated>2023-07-04T17:39:21.102Z</updated>
         <content type="html"><![CDATA[Aljezur, Arrifana]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magnificant plot of land in Vale da Telha near Aljezur 85.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
+        <updated>2023-09-13T17:37:36.920Z</updated>
+        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
 </feed>
