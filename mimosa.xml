@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/imoveis/?pg=1&amp;o=1&amp;g=&amp;t=&amp;e=&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;ct=0000000000001&amp;or=30&amp;idioma=en</id>
     <title>Mimosa</title>
-    <updated>2023-10-04T05:38:34.622Z</updated>
+    <updated>2023-10-04T17:38:14.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Villa 2 Bedrooms+2 550.000 €]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/villa-2-bedrooms-2-aljezur-vale-da-telha-sale_3709/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/villa-2-bedrooms-2-aljezur-vale-da-telha-sale_3709/"/>
+        <updated>2023-10-04T17:37:28.559Z</updated>
+        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Casas Monte Clérigo: 2+1 bedroom villas with sea views in Espartal 547.000 €]]></title>
         <id>https://www.mimosaproperties.com/en/imoveis/casas-monte-clerigo-21-bedroom-villas-with-sea-views-in-espartal_3639/</id>
@@ -80,13 +87,6 @@
         <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
         <updated>2023-09-13T17:37:36.920Z</updated>
-        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make your dream come true with this 1160m² plot of urban land in Vale da Telha 100.000 €]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/"/>
-        <updated>2023-09-18T17:38:01.012Z</updated>
         <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T05:38:34.642Z</updated>
+    <updated>2023-10-04T17:38:14.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -422,7 +422,13 @@ The property comprises of:- Entrance hallway leading to open plan dining/ living
 
 Woodburner in the living room ;tilt &amp; turn doors and windows.
 
-Walking distance to restaurants, a bar and mini market in the urbanisation and more restaurants at the beaches. An ideal holiday home or as a permanent home.">
+Walking distance to restaurants, a bar and mini market in the urbanisation and more restaurants at the beaches. An ideal holiday home or as a permanent home.
+
+Located between the beaches of Arrifana and Monte Clerigo, with a significant historical ‘point’ , Atalia, where there are incredible views of this stunning coastline. The urbanisation has been in development for over 30 years resulting in a wide variety of styles and ages of houses. Currently it is not permitted to build even though there are many vacant plots. The amenities are two small supermarkets, a bakery, several restaurants and cafes, many surf schools/ lodges.
+The main town of Aljezur is just a 10 minute drive, it can also be reached by a regular bus service.
+
+REF:  C3795
+">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
         <meta itemprop="price" content="720000">
@@ -723,6 +729,13 @@ REF:  RC255">
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" alt="House T2 of 168 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 299 500 € </span> </p> <p class="sold-label">Sold</p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/a3667e47-1cd6-4bfc-9ee9-add6901f895e.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 117 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Villa 2 Bedrooms+2 550.000 € (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/villa-2-bedrooms-2-aljezur-vale-da-telha-sale_3709/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/villa-2-bedrooms-2-aljezur-vale-da-telha-sale_3709/"/>
+        <updated>2023-10-04T17:37:28.559Z</updated>
+        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Casas Monte Clérigo: 2+1 bedroom villas with sea views in Espartal 547.000 € (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/en/imoveis/casas-monte-clerigo-21-bedroom-villas-with-sea-views-in-espartal_3639/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/casas-monte-clerigo-21-bedroom-villas-with-sea-views-in-espartal_3639/"/>
@@ -797,13 +810,6 @@ REF:  RC255">
         <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
         <updated>2023-09-13T17:37:36.920Z</updated>
-        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make your dream come true with this 1160m² plot of urban land in Vale da Telha 100.000 € (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/make-your-dream-come-true-with-this-1160m-plot-of-urban-land-in-vale-da-telha_468/"/>
-        <updated>2023-09-18T17:38:01.012Z</updated>
         <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
