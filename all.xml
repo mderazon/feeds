@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-13T05:38:41.729Z</updated>
+    <updated>2023-10-13T17:39:01.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -589,6 +589,13 @@ REF:  RC255">
 </div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[9 500 € (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001012-21</id>
+        <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/126001012-21"/>
+        <updated>2023-10-13T17:37:44.084Z</updated>
+        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12600/6576170/8f921550-d051-459a-9e4b-40249eaa0a99.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12600/6576170/8f921550-d051-459a-9e4b-40249eaa0a99.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12600/6576170/8f921550-d051-459a-9e4b-40249eaa0a99.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12600/6576170/8f921550-d051-459a-9e4b-40249eaa0a99.jpg" alt="Land of -- m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 9 500 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/d66dc1d3-b1bf-4581-ab71-641a382499e4.jpg" alt="Emmanuel Sagaz" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> -- m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[85 000 € (Remax Aljezur)]]></title>
         <id>https://remax.pt/en/listings/buy-land-aljezur-aljezur/125471105-38</id>
         <link href="https://remax.pt/en/listings/buy-land-aljezur-aljezur/125471105-38"/>
@@ -720,13 +727,6 @@ REF:  RC255">
         <link href="https://remax.pt/en/listings/buy-house-t2-aljezur-aljezur/123041029-258"/>
         <updated>2023-09-26T17:37:32.567Z</updated>
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6447159/0d669e44-36d5-4418-9ee7-d5990468e4d7.jpg" alt="House T2 of 168 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 299 500 € </span> </p> <p class="sold-label">Sold</p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/a3667e47-1cd6-4bfc-9ee9-add6901f895e.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 117 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 2 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 2 </li> </ul>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50 000 € (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/listings/buy-land-aljezur-bordeira/124471056-147</id>
-        <link href="https://remax.pt/en/listings/buy-land-aljezur-bordeira/124471056-147"/>
-        <updated>2023-10-13T05:37:40.989Z</updated>
-        <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12447/6447179/553c60d8-19d1-4f4e-a12e-ef0ca365906d.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12447/6447179/553c60d8-19d1-4f4e-a12e-ef0ca365906d.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12447/6447179/553c60d8-19d1-4f4e-a12e-ef0ca365906d.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12447/6447179/553c60d8-19d1-4f4e-a12e-ef0ca365906d.jpg" alt="Land of -- m², for sale in Bordeira, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <div class="figCaption"> <p class="listing-price"> <span> 50 000 € </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Bordeira </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/df33dc4d-3ed3-4ac1-ae6f-962f4db9ed5e.jpg" alt="Marília Vicente" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">Land</li> <li class="listing-area"> <i class="icon-area-full"></i> 7040 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 0 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> -- </li> </ul>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Villa 2 Bedrooms+2 550.000 € (Mimosa)]]></title>
