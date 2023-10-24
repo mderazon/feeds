@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-24T05:42:18.481Z</updated>
+    <updated>2023-10-24T17:38:52.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -22,7 +22,9 @@ Talk to us now to find out more details.
 
 
 ENERGY CERTIFICATION: Excluded from the SCE (Energy Certifaction System for Buildings) under the paragraph 'F' of Article 4. From the Decree-Law nº 118/2013, of August 20th, in its current composition.
-Features">
+Features
+
+REF:  RC264">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
         <meta itemprop="price" content="2000000">

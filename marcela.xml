@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2023-10-24T05:42:18.461Z</updated>
+    <updated>2023-10-24T17:38:52.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -23,7 +23,9 @@ Talk to us now to find out more details.
 
 
 ENERGY CERTIFICATION: Excluded from the SCE (Energy Certifaction System for Buildings) under the paragraph 'F' of Article 4. From the Decree-Law nº 118/2013, of August 20th, in its current composition.
-Features">
+Features
+
+REF:  RC264">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
         <meta itemprop="price" content="2000000">
