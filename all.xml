@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-31T05:38:34.880Z</updated>
+    <updated>2023-10-31T17:38:57.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -411,53 +411,6 @@ REF:  C3818">
     </entry>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3795/23086</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3795/23086"/>
-        <updated>2023-09-27T17:37:36.895Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="SPACIOUS 3 BEDROOMS VILLA WITH POOL AND GARAGE, VALE DA TELHA">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23086/24dc2715-a9e9-492f-ad29-57544b32e4f1.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="A spacious 177m2 3 bed villa with pool, garage and roof terrace situated on a plot of 840m2 in an excellent location of the Vale da Telha urbanization just 5 minutes drive to the beaches at Arrifana and Monte Clerigo and 10 minutes from the village of Aljezur.
-
-The property comprises of:- Entrance hallway leading to open plan dining/ living room and equipped kitchen;3 bedrooms (1 e/s) and house bathroom; garage and off road parking; terrace with BBQ and garden. The villa has several terrace doors in the living areas and bedrooms leading to the outside area.
-
-Woodburner in the living room ;tilt &amp; turn doors and windows.
-
-Walking distance to restaurants, a bar and mini market in the urbanisation and more restaurants at the beaches. An ideal holiday home or as a permanent home.
-
-Located between the beaches of Arrifana and Monte Clerigo, with a significant historical ‘point’ , Atalia, where there are incredible views of this stunning coastline. The urbanisation has been in development for over 30 years resulting in a wide variety of styles and ages of houses. Currently it is not permitted to build even though there are many vacant plots. The amenities are two small supermarkets, a bakery, several restaurants and cafes, many surf schools/ lodges.
-The main town of Aljezur is just a 10 minute drive, it can also be reached by a regular bus service.
-
-REF:  C3795
-">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="720000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3795/23086"></a>
-
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/23086/24dc2715-a9e9-492f-ad29-57544b32e4f1.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">SPACIOUS 3 BEDROOMS VILLA WITH POOL AND GARAGE, VALE DA TELHA</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>720.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="23086" data-action-text="REF: C3795" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3795</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u496/23032</id>
         <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u496/23032"/>
         <updated>2023-09-27T17:37:36.896Z</updated>
@@ -587,6 +540,51 @@ REF:  RC255">
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22798" data-action-text="REF: RC255" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: RC255</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ (Marcela Properties)]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464u/22505</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u464u/22505"/>
+        <updated>2023-10-31T17:37:36.658Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22505/a716dcf5-6d21-4d5a-9fcb-727588091cf5.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="A frontline urban building plot of 400 m2 with full Planning Permission on the Espartal Urbanisation with the possibility to build a two storey property of of 200 m2 on a footprint of 160 mtr2. 
+
+A great opportunity to invest in this popular urbanisation which is within walking distance of the two beaches Amoreira and Monte Clerigo and only ten minutes by car from Aljezur.
+
+A unique plot in a very desirable location. Viewing is highly recommended.
+
+The urbanisation of Espartal is one of the very few communities located within the Western Algarve nature reserve and sought-after for its proximity to two of the most beautiful beaches of the Costa Vicentina: Praia Monte Clerigo and Praia da Amoreira. Both beaches are in walking distance and connected via a trail along the cliffs.
+
+Supermarkets, medical services, cafes, stores and a weekly farmers market are a few minutes away by car. A sought-after international school can be reached in about 15 minutes. Faro Airport can be reached in just over one hour.
+
+REF:  U464U">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="320000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/urban-land-aljezur-ref_u464u/22505"></a>
+
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/22505/a716dcf5-6d21-4d5a-9fcb-727588091cf5.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">FRONTLINE URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>320.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="22505" data-action-text="REF: U464U" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: U464U</span></p>
     </div>
 </div>]]></content>
     </entry>
