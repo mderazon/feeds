@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-06T05:39:46.765Z</updated>
+    <updated>2023-11-06T17:40:01.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -729,6 +729,13 @@ REF:  U464U">
         <content type="html"><![CDATA[<div class="listing-picture"> <figure> <div class="sold-mask"> <span class="mask"></span> <img src="https://s.maxwork.pt/site/spa_resources/watermarks/remax_watermark.jpg" alt="sold-watermark"> </div> <picture> <source srcset="https://i.maxwork.pt/xs/listings/12304/6447409/1fb11f77-2908-4b3b-8997-1cbe5bdfd35f.jpg" media="(min-width: 0px) and (max-width: 375px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/l-search/listings/12304/6447409/1fb11f77-2908-4b3b-8997-1cbe5bdfd35f.jpg" media="(min-width: 376px) and (max-width: 750px)" type="image/jpeg"> <source srcset="https://i.maxwork.pt/m/listings/12304/6447409/1fb11f77-2908-4b3b-8997-1cbe5bdfd35f.jpg" media="(min-width: 2881px)" type="image/jpeg"> <img class="listing-picture-thumbnail" src="https://i.maxwork.pt/l-search/listings/12304/6447409/1fb11f77-2908-4b3b-8997-1cbe5bdfd35f.jpg" alt="House T3 of 70 m², for sale in Aljezur, Aljezur." onerror="this.onerror=null;this.src='/images/no-image.png';"> </picture> </figure> <span class="multimedia-label"> <i class="icon-3d"></i> Virtual tour </span> <div class="figCaption"> <p class="listing-campaign"> Price Reduction </p> <p class="listing-price"> <span> 439 000 € </span> <span class="previous-price">459 000 €</span> <span class="price-reduction-percentage"> <i class="price-reduction-percentage-icon icon-down"></i>4% </span> </p> <p class="sold-label"></p> </div> <span class="listing-status" style="display: none;"></span> </div> <div class="listing-body"> <h2 class="listing-address"> Faro -&nbsp; <span> Aljezur, Aljezur </span> </h2> <figure class="agent-picture"> <img src="https://i.maxwork.pt/i/users/a3667e47-1cd6-4bfc-9ee9-add6901f895e.jpg" alt="Marina Dias" onerror="this.onerror=null;this.src='/images/agent.png';"> </figure> </div> <ul class="listing-footer"> <li class="listing-type">House</li> <li class="listing-area"> <i class="icon-area-full"></i> 70 m<sup>2</sup> </li> <li class="listing-bathroom"> <i class="icon-wc-full"></i> 1 </li> <li class="listing-bedroom"> <i class="icon-bedroom-full"></i> 3 </li> </ul>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Country House 4 Bedrooms 1.500.000 € (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/en/imoveis/country-house-4-bedrooms-aljezur-aljezur-sale_3747/</id>
+        <link href="https://www.mimosaproperties.com/en/imoveis/country-house-4-bedrooms-aljezur-aljezur-sale_3747/"/>
+        <updated>2023-11-06T17:37:52.656Z</updated>
+        <content type="html"><![CDATA[Aljezur, Aljezur]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Villa 2 Bedrooms+2 550.000 € (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/en/imoveis/villa-2-bedrooms-2-aljezur-vale-da-telha-sale_3709/</id>
         <link href="https://www.mimosaproperties.com/en/imoveis/villa-2-bedrooms-2-aljezur-vale-da-telha-sale_3709/"/>
@@ -804,13 +811,6 @@ REF:  U464U">
         <link href="https://www.mimosaproperties.com/en/imoveis/luxury-villa-with-8-bedrooms-in-praia-da-arrifana-aljezur_3219/"/>
         <updated>2023-07-04T17:39:21.102Z</updated>
         <content type="html"><![CDATA[Aljezur, Arrifana]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magnificant plot of land in Vale da Telha near Aljezur 85.000 € (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/</id>
-        <link href="https://www.mimosaproperties.com/en/imoveis/magnificant-plot-of-land-in-vale-da-telha-near-aljezur_1337/"/>
-        <updated>2023-09-13T17:37:36.920Z</updated>
-        <content type="html"><![CDATA[Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[280.000 € (Luxview)]]></title>
