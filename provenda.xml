@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2023-11-15T05:38:23.492Z</updated>
+    <updated>2023-11-15T17:42:20.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
     <entry>
@@ -10,10 +10,10 @@
         <id>https://www.provenda.net/en/farm-0-bedrooms-portela-baixa-monchique-cork-oaks+1000019087.html</id>
         <link href="https://www.provenda.net/en/farm-0-bedrooms-portela-baixa-monchique-cork-oaks+1000019087.html"/>
         <updated>2023-10-26T17:38:49.577Z</updated>
-        <content type="html"><![CDATA[<div class="lpprice"> € 555.000</div><a class="lptitle" href="https://www.provenda.net/en/farm-0-bedrooms-portela-baixa-monchique-cork-oaks+1000019087.html" title="Ver Farm 0 bedrooms Portela Baixa Monchique - cork oaks">Farm 0 bedrooms Portela Baixa Monchique - cork oaks</a>
+        <content type="html"><![CDATA[<div class="lpprice"> (<s>555.000</s>) € 429.000</div><a class="lptitle" href="https://www.provenda.net/en/farm-0-bedrooms-portela-baixa-monchique-cork-oaks+1000019087.html" title="Ver Farm 0 bedrooms Portela Baixa Monchique - cork oaks">Farm 0 bedrooms Portela Baixa Monchique - cork oaks</a>
 
 		    <a class="lpbody" href="https://www.provenda.net/en/farm-0-bedrooms-portela-baixa-monchique-cork-oaks+1000019087.html"><div class="limg"><img id="idx-0-0-10" src="https://www.espacos-portugal.com/m/-8040/1000019087_20230812_090232.jpg" width="320" height="240" style="border:0;padding:0;top:5px;left:9px" alt="Farm 0 bedrooms Portela Baixa Monchique - cork oaks"><div class="backward" style="width:50px;height:240px;top:6px;left:6px;z-index:initial">prev</div>
-					<div class="forward" style="width:50px;height:240px;top:6px;right:6px;z-index:initial">next</div><div class="overn"></div><div class="overfav" id="img1000019087"></div></div><span class="lparea">42m²<u></u> &nbsp;34.760m²<i></i></span><span class="lpref">REF <b>PV-T-574</b><br><br></span><div class="lptext" style="width:initial;overflow:hidden"><b>Sale</b><br>Property with small house of 42sqm with the possibility of expansion. The land is divided into several terraces of good size for agriculture, a very beautiful area of ​​cork oaks and strawberry trees and other native plants. It also has an area of ​​around 1ha with eucalyptus trees, capable of yielding for 3 to 4 years The views are always magnificent, whether towards the other slope, or especially on sunny days, overlooking Portimão and the Sea. Ideal for those who want to live off the grid.</div>
+					<div class="forward" style="width:50px;height:240px;top:6px;right:6px;z-index:initial">next</div><div class="overn"></div><div class="overp">-23%</div><div class="overfav" id="img1000019087"></div></div><span class="lparea">42m²<u></u> &nbsp;34.760m²<i></i></span><span class="lpref">REF <b>PV-T-574</b><br><br></span><div class="lptext" style="width:initial;overflow:hidden"><b>Sale</b><br>Property with small house of 42sqm with the possibility of expansion. The land is divided into several terraces of good size for agriculture, a very beautiful area of ​​cork oaks and strawberry trees and other native plants. It also has an area of ​​around 1ha with eucalyptus trees, capable of yielding for 3 to 4 years The views are always magnificent, whether towards the other slope, or especially on sunny days, overlooking Portimão and the Sea. Ideal for those who want to live off the grid.</div>
 			</a><div class="lplinks">
 				<div class="lpfav" id="link1000019087" onclick="javascript:click_fav('favprovenda.net', '1000019087', 'Add to Favorites', 'Remove from Favorites', '/en/favorites/');">Add to Favorites</div>
 				<a class="lpvisit" href="https://www.provenda.net/index2.php?option=com_gtprop&amp;task=visit&amp;id=1000019087&amp;lang=en">Schedule a Visit</a>
