@@ -17,7 +17,7 @@ contentSelector = "div.listing-card"
 
 [mimosa]
 title = "Mimosa"
-url = "https://www.century21global.com/en/l/homes-for-sale/Portugal,Faro-%28Algarve%29,Aljezur-%28Algarve%29?max=100&sort=PRICE&order=ASC"
+url = "https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&o=1&g=&e=&pp=176&dd=08&cc=03&ff=&ml=&z=&nq=&p=&a=&c=&es=&ct=00000001&or=30&idioma=pt1"
 entrySelector = ".card-imovel"
 waitUntil = "networkidle"
 titleSelector = ["h1.ma-font-00", "span.preco_actual"]
@@ -26,7 +26,7 @@ contentSelector = "h2.card-imovel_localidade"
 
 [century21]
 title = "Century 21"
-url = "https://www.century21global.com/for-sale-residential/Portugal/Faro-%28Algarve%29/Aljezur-%28Algarve%29"
+url = "https://www.century21global.com/en/l/homes-for-sale/Portugal,Faro-%28Algarve%29,Aljezur-%28Algarve%29?max=100&sort=PRICE&order=ASC"
 entrySelector = ".listings-item"
 waitUntil = "networkidle"
 titleSelector = "address"
@@ -44,7 +44,7 @@ linkSelector = "a.lptitle[href]"
 title = "ERA Aljezur"
 url = "https://www.era.pt/en/buy?ob=1&tp=1,2&lc=08-03&page=1&ord=3"
 entrySelector = ".card"
-waitUntil = "load"
+waitUntil = "networkidle"
 titleSelector = "div.content > a > span"
 linkSelector = "a.card__gallery[href]"
 
