@@ -17,7 +17,7 @@ contentSelector = "div.listing-card"
 
 [mimosa]
 title = "Mimosa"
-url = "https://www.mimosaproperties.com/imoveis/?pg=1&o=1&g=&t=&e=&dd=08&cc=03&ff=&ml=&z=&nq=&p=&a=&c=&ct=0000000000001&or=30&idioma=en"
+url = "https://www.century21global.com/en/l/homes-for-sale/Portugal,Faro-%28Algarve%29,Aljezur-%28Algarve%29?max=100&sort=PRICE&order=ASC"
 entrySelector = ".card-imovel"
 waitUntil = "networkidle"
 titleSelector = ["h1.ma-font-00", "span.preco_actual"]
@@ -27,18 +27,10 @@ contentSelector = "h2.card-imovel_localidade"
 [century21]
 title = "Century 21"
 url = "https://www.century21global.com/for-sale-residential/Portugal/Faro-%28Algarve%29/Aljezur-%28Algarve%29"
-entrySelector = "div.search-result"
+entrySelector = ".listings-item"
 waitUntil = "networkidle"
-titleSelector = "div.price-native > span"
-linkSelector = "a.search-result-info[href]"
-
-[luxview]
-title = "Luxview"
-url = "https://en.luxview.pt/properties-list/1/0/373230/0/0/0/0/-/1"
-entrySelector = "li.grid-item"
-waitUntil = "networkidle"
-titleSelector = "span.prop-price"
-linkSelector = "a.prop[href]"
+titleSelector = "address"
+linkSelector = "site-property-thumbnail a[href]"
 
 [provenda]
 title = "Provenda"
@@ -56,13 +48,13 @@ waitUntil = "load"
 titleSelector = "div.content > a > span"
 linkSelector = "a.card__gallery[href]"
 
-[chestertons]
-title = "Chestertons"
-url = "https://www.chestertons-portugal.com/properties-list/1/-1/3732307c416c6a657a7572/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/-1/12/-1"
-entrySelector = ".list__item"
+[oando]
+title = "Oando"
+url = "https://oando.pt/westalgarve/properties/?search_location=&mscbo_city%5B%5D=city-aljezur&mscbo_locality%5B%5D=locality-aljezur&location_zone%5B%5D=Aljezur&location_zone%5B%5D=Espartal&location_zone%5B%5D=Paisagem+Oceano&location_zone%5B%5D=Vale+Da+Telha&mscbo_locality%5B%5D=locality-bordeira&location_zone%5B%5D=Carrapateira&mscbo_locality%5B%5D=locality-rogil&location_zone%5B%5D=Rogil&property_price_min=-1&property_price_max=-1&property_reference="
+entrySelector = ".card-item"
 waitUntil = "networkidle"
-titleSelector = ".prop__title"
-linkSelector = "a.prop[href]"
+titleSelector = ".card-item h2"
+linkSelector = "a[href]"
 
 # [century21-pt]
 # title = "Century 21 Portugal"
@@ -74,8 +66,8 @@ linkSelector = "a.prop[href]"
 
 [swplaces]
 title = "SW-Places"
-url = "https://sw-places.com/en/properties?v=0-0-0-0-0-0-0-0-620-1-8-3-0-0"
-entrySelector = ".property"
+url = "https://sw-places.com/properties?location=%7B%22620%22:%7B%221%22:%7B%228%22:%7B%223%22:%7B%7D%7D%7D%7D%7D"
+entrySelector = ".row.property-area.ng-star-inserted"
 waitUntil = "networkidle"
 titleSelector = ".property-title"
-linkSelector = "a.property[href]"
+linkSelector = ".property-data a[href]"
