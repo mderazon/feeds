@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2024-04-29T05:38:39.637Z</updated>
+    <updated>2024-04-30T17:33:23.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
@@ -163,13 +163,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[ 630.000 €]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-isolada-t3-1-aljezur-vale-da-telha-venda_3903/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-isolada-t3-1-aljezur-vale-da-telha-venda_3903/"/>
-        <updated>2024-04-24T13:31:34.861Z</updated>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-de-4-quartos-no-vale-da-telha_3903/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-de-4-quartos-no-vale-da-telha_3903/"/>
+        <updated>2024-04-30T17:32:41.685Z</updated>
         <content type="html"><![CDATA[<div class="card-imovel_flex">
         <div class="card-imovel_inner">
             <div class="card-imovel_img">
-                <a href="/pt/imoveis/moradia-isolada-t3-1-aljezur-vale-da-telha-venda_3903/" class="card-imovel_link"></a>
+                <a href="/pt/imoveis/moradia-de-4-quartos-no-vale-da-telha_3903/" class="card-imovel_link"></a>
                 <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
                     <div class="swiper-pagination"></div>
                     <div class="swiper-navigation-holder">
@@ -180,18 +180,22 @@
                             <span class="icon-ma icon-nav_swiper"></span>
                         </div>
                     </div>
-                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_c52d98d8-d984-426d-8aaf-acad794b66b2.jpg" alt="Moradia Isolada T3+1"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_47f10f27-4746-46a1-8d52-fede5b2541e2.jpg" alt="Moradia Isolada T3+1"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_852a7b54-d3d6-468f-8027-e671de9a2fcf.jpg" alt="Moradia Isolada T3+1"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_4dbbdd4d-2c47-438f-818b-6bd5912fe1c7.jpg" alt="Moradia Isolada T3+1"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_2b8e0463-a14f-4661-a251-d7a68f2b21cd.jpg" alt="Moradia Isolada T3+1"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_c52d98d8-d984-426d-8aaf-acad794b66b2.jpg" alt="Moradia Isolada T3+1"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_47f10f27-4746-46a1-8d52-fede5b2541e2.jpg" alt="Moradia Isolada T3+1"></li></ul>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_c52d98d8-d984-426d-8aaf-acad794b66b2.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_47f10f27-4746-46a1-8d52-fede5b2541e2.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_852a7b54-d3d6-468f-8027-e671de9a2fcf.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_4dbbdd4d-2c47-438f-818b-6bd5912fe1c7.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_2b8e0463-a14f-4661-a251-d7a68f2b21cd.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_c52d98d8-d984-426d-8aaf-acad794b66b2.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3903_0_____1_47f10f27-4746-46a1-8d52-fede5b2541e2.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></li></ul>
                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                 <div class="card-imovel_labels">
                 </div>
                 <div class="card-imovel_labels_vendido">
                 </div>
                 <div class="card-imovel_ce">
-                    <img alt="Moradia Isolada T3+1" src="https://media.ximo.pt/images/CERTIFICACAO/64/3.png">
+                    <img alt="Moradia de 4 Quartos no Vale da Telha" src="https://media.ximo.pt/images/CERTIFICACAO/64/3.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/es/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" alt="Moradia Isolada T3+1" data-ll-status="loaded"></a>
+                    <a href="/es/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" alt="Moradia de 4 Quartos no Vale da Telha" data-ll-status="loaded"></a>
                     <div class="card-imovel_media-label">
+                        
+                                <div class="card-imovel_video rounded">
+                                    <i class="icon-ma icon-videos_premium"></i>
+                                </div>
                     </div>
                 </div>
             </div>
@@ -217,7 +221,7 @@
                 </div>
                 <div class="card-imovel_info-left">
                     <header class="card-imovel_titles">
-                        <a href="/pt/imoveis/moradia-isolada-t3-1-aljezur-vale-da-telha-venda_3903/" title="Moradia Isolada T3+1" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia Isolada T3+1</span></a>
+                        <a href="/pt/imoveis/moradia-de-4-quartos-no-vale-da-telha_3903/" title="Moradia de 4 Quartos no Vale da Telha" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia de 4 Quartos no Vale da Telha</span></a>
                         <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
                     </header>
                 </div>
