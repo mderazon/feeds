@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2024-05-14T05:33:58.098Z</updated>
+    <updated>2024-05-14T17:33:31.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -264,7 +264,7 @@ REF:  C3885
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="695000">
+        <meta itemprop="price" content="645000">
     </div>
 </div>
 
@@ -272,7 +272,7 @@ REF:  C3885
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3885/24257"></a>
 
-        <span class="prop__stamp">EXCLUSIVE</span>
+        <span class="prop__stamp">SPECIAL PRICE</span>
 
 
 
@@ -281,7 +281,7 @@ REF:  C3885
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24257/77f0af9b-fdd0-4f79-8df4-b9d3464d33e6.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">IMPRESSIVE THREE BED CHARACTER VILLA WITH OCEAN VIEWS; VALE DA TELHA		</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>695.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>645.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24257" data-action-text="REF: C3885" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3885</span></p>
