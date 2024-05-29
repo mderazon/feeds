@@ -2,9 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2024-05-29T05:34:46.534Z</updated>
+    <updated>2024-05-29T17:34:40.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3919/24372</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3919/24372"/>
+        <updated>2024-05-29T17:33:33.663Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="TWO BEDROOM VILLA WITH LARGE GARDEN AND DISTANT SEA VIEWS, VALE DA TELHA">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24372/c6861d3b-12c8-4ef6-a12c-c1d40306fd88.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="A spacious 176m2 two bedroom villa with garage, roof terrace with ocean views and large garden situated on a 1770m2 plot in a quiet area of this popular urbanisation within walking distance of the headland and coast.
+
+Built in 2003 this character property would benefit from modernisation although is perfectly habitable as is. The property comprises of :-
+
+Entrance Hallway; double bedroom with fitted wardrobes; house bathroom; spacious 22m2 en-suite bedroom at the rear of the property with fitted wardrobes and terrace doors leading to the L shaped winter garden; living room with woodburner and terrace doors to the winter garden; open access to the spacious kitchen with terrace doors to the winter garden, door leading to large garage. Terrace area with seating leading to the large established south facing garden at rear with seating areas and outside shower, roof terrace with distant ocean views. Double fronted off road parking.
+
+The property benefits from solar water heating and electricity, central heating from a heat pump. Sold fully furnished.
+
+The location is quiet and private within walking distance of the coast, a very desirable area. A character property offering great potential which has to be seen to be fully appreciated.
+
+REF:  C3919
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="425000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3919/24372"></a>
+
+        <span class="prop__stamp">NOT NEGOTIABLE</span>
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24372/c6861d3b-12c8-4ef6-a12c-c1d40306fd88.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">TWO BEDROOM VILLA WITH LARGE GARDEN AND DISTANT SEA VIEWS, VALE DA TELHA</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>425.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24372" data-action-text="REF: C3919" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: C3919</span></p>
+    </div>
+</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
         <id>https://www.marcelapropriedades.com/property-for-sale/urban-land-aljezur-ref_u521/24355</id>
@@ -218,7 +265,7 @@ REF:  C3890
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="390000">
+        <meta itemprop="price" content="375000">
     </div>
 </div>
 
@@ -235,7 +282,7 @@ REF:  C3890
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24276/89c6430a-a93e-4cc8-a168-f9a0fa4740eb.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">ATTRACTIVE THREE BEDROOM TOWNHOUSE WITH FABULOUS VALLEY VIEWS; ESPARTAL</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>390.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>375.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24276" data-action-text="REF: C3890" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3890</span></p>
@@ -525,64 +572,6 @@ REF:  U511
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24225" data-action-text="REF: U511" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: U511</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3870/24221</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-aljezur-ref_c3870/24221"/>
-        <updated>2024-04-24T13:11:59.154Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="MODERN HOUSE WITH GREAT VIEWS, MARIA VINAGRE">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24221/60912f5f-98f3-4fa2-9347-bf9133392265.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="Villa Features:
-New villa (turnkey) with a plot of 150m2 modern design 3 bedroom with a total built 130m2 with two floors, garage and swimming pool in the rear garden with beautiful countryside views.
-Located in a quiet area of the small typical Portuguese village of Maria Vinagre near Rogil and Odeceixe, the villa has 2 levels:
-80m2 ground floor - spacious open-plan dining/living/kitchen area; with terrace doors to rear garden and pool; WC; internal access to garage.
-First floor of 50m2 - three bedrooms (two doubles, one with balcony) and a shared bathroom.
-Property details:
-Location: Maria Vinagre, Rogil, Aljezur
-Plot size: 150m2
-Construction area: 130m2 on 2 floors
-Estimated completion date: April-May 2024
-About Maria Vinagre:
-The small village of Maria Vinagre is set in the Southwest Alentejo and Costa Vicentina Natural Park, and is a popular destination for enjoying Mother Nature, whether you're looking for exciting outdoor activities or just want to enjoy the scenery, in the village you'll also find restaurants and cafés as well as other services.
-
-Rogil and Odeceixe are just a few minutes away by car, and the nearest beaches such as Vale dos Homens, Carriagem and Odeceixe have unique flora and fauna. Of particular note are the long stretches of sand and the surrounding landscape of jagged cliffs and dunes. An ideal environment for surfing, with plenty of waves and few surfers.
-Other information:
-Faro International Airport is an hour and twenty minutes away via the A22 motorway.
-
-If you're ready to take the next step in realising your dream of owning your own home, contact us to arrange a viewing of this villa. We're here to answer all your questions and help you make this house your next home.
-Ideal as a permanent residence or holiday home.
-
-Book a viewing and don't miss out on this great opportunity!
-
-REF:  C3870">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="300000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-aljezur-ref_c3870/24221"></a>
-
-        <span class="prop__stamp">SOLD</span>
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24221/60912f5f-98f3-4fa2-9347-bf9133392265.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">MODERN HOUSE WITH GREAT VIEWS, MARIA VINAGRE</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>300.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24221" data-action-text="REF: C3870" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3870</span></p>
     </div>
 </div>]]></content>
     </entry>
