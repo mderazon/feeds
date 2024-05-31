@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2024-05-31T05:37:48.812Z</updated>
+    <updated>2024-05-31T17:34:54.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
     <entry>
@@ -55,10 +55,10 @@
         <id>https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html</id>
         <link href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html"/>
         <updated>2024-04-24T13:12:32.127Z</updated>
-        <content type="html"><![CDATA[<div class="lpprice"> € 26.000</div><a class="lptitle" href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html" title="Ver Land Rustic with 3250sqm Palheirinho-Varzea Aljezur - well">Land Rustic with 3250sqm Palheirinho-Varzea Aljezur - well</a>
+        <content type="html"><![CDATA[<div class="lpprice"> (<s>26.000</s>) € 21.000</div><a class="lptitle" href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html" title="Ver Land Rustic with 3250sqm Palheirinho-Varzea Aljezur - well">Land Rustic with 3250sqm Palheirinho-Varzea Aljezur - well</a>
 
 		    <a class="lpbody" href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html"><div class="limg"><img id="idx-3-0-7" src="https://www.espacos-portugal.com/m/-8040/1000019454_whatsapp_image_2024-04-17_at_12.46.11.jpeg" width="320" height="180" style="border:0;padding:0;top:5px;left:9px" alt="Land Rustic with 3250sqm Palheirinho-Varzea Aljezur - well"><div class="backward" style="width:50px;height:240px;top:6px;left:6px;z-index:initial">prev</div>
-					<div class="forward" style="width:50px;height:240px;top:6px;right:6px;z-index:initial">next</div><div class="overn"></div><div class="overfav" id="img1000019454"></div></div><span class="lparea">3.250m²<i></i></span><span class="lpref">REF <b>PV-T-567</b><br><br></span><div class="lptext" style="width:initial;overflow:hidden"><b>Sale</b><br>Property with great agricultural potential, comprising two adjoining rustic articles, very well located in Várzea de Aljezur, with direct access from Rua Capitão Salgueiro Maia, with a total area of 3250.00m² and well</div>
+					<div class="forward" style="width:50px;height:240px;top:6px;right:6px;z-index:initial">next</div><div class="overn"></div><div class="overp">-19%</div><div class="overfav" id="img1000019454"></div></div><span class="lparea">3.250m²<i></i></span><span class="lpref">REF <b>PV-T-567</b><br><br></span><div class="lptext" style="width:initial;overflow:hidden"><b>Sale</b><br>Property with great agricultural potential, comprising two adjoining rustic articles, very well located in Várzea de Aljezur, with direct access from Rua Capitão Salgueiro Maia, with a total area of 3250.00m² and well</div>
 			</a><div class="lplinks">
 				<div class="lpfav" id="link1000019454" onclick="javascript:click_fav('favprovenda.net', '1000019454', 'Add to Favorites', 'Remove from Favorites', '/en/favorites/');">Add to Favorites</div>
 				<a class="lpvisit" href="https://www.provenda.net/index2.php?option=com_gtprop&amp;task=visit&amp;id=1000019454&amp;lang=en">Schedule a Visit</a>
