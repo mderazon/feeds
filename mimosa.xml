@@ -2,9 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2024-06-25T05:34:42.051Z</updated>
+    <updated>2024-06-25T17:33:27.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ 690.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-paisagem-oceano-aljezur_3982/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-paisagem-oceano-aljezur_3982/"/>
+        <updated>2024-06-25T17:32:35.862Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-t3-1-paisagem-oceano-aljezur_3982/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3982_0_____1_e7b9f62c-9b1d-44eb-8741-e48a16fcc834.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3982_0_____1_4ad6bfe6-8412-4d9f-acea-59fcfa256b2e.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3982_0_____1_49864781-91ca-426f-90a3-7be7483df1f5.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3982_0_____1_b9635a6c-3994-42a5-8ba5-5631a0ad0758.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3982_0_____1_a5d91aa6-0ea9-4b09-9a68-07cc66feaddc.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3982_0_____1_e7b9f62c-9b1d-44eb-8741-e48a16fcc834.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3982_0_____1_4ad6bfe6-8412-4d9f-acea-59fcfa256b2e.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia T3 + 1 Paisagem Oceano, Aljezur" src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/de/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" alt="Moradia T3 + 1 Paisagem Oceano, Aljezur" data-ll-status="loaded"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">690.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3982">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3982">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-t3-1-paisagem-oceano-aljezur_3982/" title="Moradia T3 + 1 Paisagem Oceano, Aljezur" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T3 + 1 Paisagem Oceano, Aljezur</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
+                    <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">180 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">648 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ 600.000 €]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-3-estudios-privativos_3913/</id>
@@ -34,7 +113,7 @@
                     <img alt="Moradia t4 com 3 Estúdios Privativos" src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" alt="Moradia t4 com 3 Estúdios Privativos" data-ll-status="loaded"></a>
+                    <a href="/de/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" alt="Moradia t4 com 3 Estúdios Privativos" data-ll-status="loaded"></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -84,13 +163,13 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[ 640.000 €]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscinas-em-vale-da-telha-aljezur_3910/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscinas-em-vale-da-telha-aljezur_3910/"/>
-        <updated>2024-06-23T11:42:37.987Z</updated>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/"/>
+        <updated>2024-06-25T17:32:35.864Z</updated>
         <content type="html"><![CDATA[<div class="card-imovel_flex">
         <div class="card-imovel_inner">
             <div class="card-imovel_img">
-                <a href="/pt/imoveis/moradia-t4-com-piscinas-em-vale-da-telha-aljezur_3910/" class="card-imovel_link"></a>
+                <a href="/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/" class="card-imovel_link"></a>
                 <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
                     <div class="swiper-pagination"></div>
                     <div class="swiper-navigation-holder">
@@ -101,17 +180,17 @@
                             <span class="icon-ma icon-nav_swiper"></span>
                         </div>
                     </div>
-                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_32b815f3-7758-4404-9b88-32817ad4acc5.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_ac9e6850-4d3d-4ead-9616-b47b8e00d32f.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_591c3225-94c9-4237-bd6b-a06bb5f3aaa8.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_8e5bf91d-b092-4298-939f-c26d8b102079.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_ea2a293f-57fa-445c-8bdc-eb562fb08c34.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_32b815f3-7758-4404-9b88-32817ad4acc5.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_ac9e6850-4d3d-4ead-9616-b47b8e00d32f.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur."></li></ul>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_32b815f3-7758-4404-9b88-32817ad4acc5.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_ac9e6850-4d3d-4ead-9616-b47b8e00d32f.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_591c3225-94c9-4237-bd6b-a06bb5f3aaa8.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_8e5bf91d-b092-4298-939f-c26d8b102079.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_ea2a293f-57fa-445c-8bdc-eb562fb08c34.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_32b815f3-7758-4404-9b88-32817ad4acc5.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3910_0_____1_ac9e6850-4d3d-4ead-9616-b47b8e00d32f.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li></ul>
                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                 <div class="card-imovel_labels">
                 </div>
                 <div class="card-imovel_labels_vendido">
                 </div>
                 <div class="card-imovel_ce">
-                    <img alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur." src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
+                    <img alt="Moradia T4 com piscina em Vale Da Telha, Aljezur." src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" alt="Moradia T4 com piscinas em Vale Da Telha, Aljezur." data-ll-status="loaded"></a>
+                    <a href="/de/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur." data-ll-status="loaded"></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -138,7 +217,7 @@
                 </div>
                 <div class="card-imovel_info-left">
                     <header class="card-imovel_titles">
-                        <a href="/pt/imoveis/moradia-t4-com-piscinas-em-vale-da-telha-aljezur_3910/" title="Moradia T4 com piscinas em Vale Da Telha, Aljezur." class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T4 com piscinas em Vale Da Telha, Aljezur.</span></a>
+                        <a href="/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/" title="Moradia T4 com piscina em Vale Da Telha, Aljezur." class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T4 com piscina em Vale Da Telha, Aljezur.</span></a>
                         <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
                     </header>
                 </div>
@@ -190,7 +269,7 @@
                     <img alt="Moradia de 4 Quartos no Vale da Telha" src="https://media.ximo.pt/images/CERTIFICACAO/64/3.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" alt="Moradia de 4 Quartos no Vale da Telha" data-ll-status="loaded"></a>
+                    <a href="/de/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia de 4 Quartos no Vale da Telha"></a>
                     <div class="card-imovel_media-label">
                         
                                 <div class="card-imovel_video rounded">
@@ -243,14 +322,14 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 425.000 €]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/casa-junto-a-praia-de-monte-clerigo_3905/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/casa-junto-a-praia-de-monte-clerigo_3905/"/>
-        <updated>2024-04-24T13:31:34.862Z</updated>
+        <title type="html"><![CDATA[ 418.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/"/>
+        <updated>2024-06-25T17:32:35.864Z</updated>
         <content type="html"><![CDATA[<div class="card-imovel_flex">
         <div class="card-imovel_inner">
             <div class="card-imovel_img">
-                <a href="/pt/imoveis/casa-junto-a-praia-de-monte-clerigo_3905/" class="card-imovel_link"></a>
+                <a href="/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/" class="card-imovel_link"></a>
                 <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
                     <div class="swiper-pagination"></div>
                     <div class="swiper-navigation-holder">
@@ -261,17 +340,17 @@
                             <span class="icon-ma icon-nav_swiper"></span>
                         </div>
                     </div>
-                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_edff61d1-93b2-4c62-8475-945c2eb545be.jpg" alt="Casa junto à Praia de Monte Clérigo"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_a1e5bea1-892a-4e0f-a6fe-20bbd574bd17.jpg" alt="Casa junto à Praia de Monte Clérigo"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_ea379d37-478c-45ad-88f3-d8471262307a.jpg" alt="Casa junto à Praia de Monte Clérigo"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_df80840f-c086-436e-a234-22c10e4bbf3b.jpg" alt="Casa junto à Praia de Monte Clérigo"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_6d17ef69-633a-4eb7-8095-5329f17db0fa.jpg" alt="Casa junto à Praia de Monte Clérigo"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_edff61d1-93b2-4c62-8475-945c2eb545be.jpg" alt="Casa junto à Praia de Monte Clérigo"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_a1e5bea1-892a-4e0f-a6fe-20bbd574bd17.jpg" alt="Casa junto à Praia de Monte Clérigo"></li></ul>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_edff61d1-93b2-4c62-8475-945c2eb545be.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_a1e5bea1-892a-4e0f-a6fe-20bbd574bd17.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_ea379d37-478c-45ad-88f3-d8471262307a.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_df80840f-c086-436e-a234-22c10e4bbf3b.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_6d17ef69-633a-4eb7-8095-5329f17db0fa.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_edff61d1-93b2-4c62-8475-945c2eb545be.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3905_0_____1_a1e5bea1-892a-4e0f-a6fe-20bbd574bd17.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li></ul>
                 <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
                 <div class="card-imovel_labels">
                 </div>
                 <div class="card-imovel_labels_vendido">
                 </div>
                 <div class="card-imovel_ce">
-                    <img alt="Casa junto à Praia de Monte Clérigo" src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
+                    <img alt="Moradia T3 Espertal com piscina, Aljezur." src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Casa junto à Praia de Monte Clérigo"></a>
+                    <a href="/de/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -282,7 +361,7 @@
                 <div class="card-imovel_info-right">
                     <div class="card-imovel_preco">
                         <div class="precos-wrapper ma-font-00">
-                            <span class="preco_actual ma-font-17">425.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                            <span class="preco_actual ma-font-17">418.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
                         </div>
 
                         <div class="card-imovel_btns-holder">
@@ -298,7 +377,7 @@
                 </div>
                 <div class="card-imovel_info-left">
                     <header class="card-imovel_titles">
-                        <a href="/pt/imoveis/casa-junto-a-praia-de-monte-clerigo_3905/" title="Casa junto à Praia de Monte Clérigo" class="card-imovel_titulo"><span class="titulo ma-font-06">Casa junto à Praia de Monte Clérigo</span></a>
+                        <a href="/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/" title="Moradia T3 Espertal com piscina, Aljezur." class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T3 Espertal com piscina, Aljezur.</span></a>
                         <span title="Aljezur, Espartal" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Espartal</span>
                     </header>
                 </div>
@@ -353,7 +432,7 @@
                     <img alt="Moradia T3" src="https://media.ximo.pt/images/CERTIFICACAO/64/5.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3"></a>
+                    <a href="/de/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3"></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -432,7 +511,7 @@
                     <img alt="Terreno Agrícola em Rogil" src="https://media.ximo.pt/images/CERTIFICACAO/64/0.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></a>
+                    <a href="/de/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -503,7 +582,7 @@
                     <img alt="Moradia 5 Quartos em Vale da Telha" src="https://media.ximo.pt/images/CERTIFICACAO/64/4.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/karel-vandera_26/" title="Karel van_der_A" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/26.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/26.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/26.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></a>
+                    <a href="/de/consultores/karel-vandera_26/" title="Karel van_der_A" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/26.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/26.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/26.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -585,7 +664,7 @@
                     <img alt="Residência Luxuosa em Vale de Figueiras" src="https://media.ximo.pt/images/CERTIFICACAO/64/4.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></a>
+                    <a href="/de/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></a>
                     <div class="card-imovel_media-label">
                         
                                 <div class="card-imovel_video rounded">
@@ -668,7 +747,7 @@
                     <img alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico" src="https://media.ximo.pt/images/CERTIFICACAO/64/0.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></a>
+                    <a href="/de/consultores/nuno-silva_39/" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -741,7 +820,7 @@
                     <img alt="Moradia Isolada T2+2" src="https://media.ximo.pt/images/CERTIFICACAO/64/5.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/andre-de-koning_13/" title="Andre Koning" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/13.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/13.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/13.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></a>
+                    <a href="/de/consultores/andre-de-koning_13/" title="Andre Koning" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/13.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/13.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/13.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></a>
                     <div class="card-imovel_media-label">
                     </div>
                 </div>
@@ -820,7 +899,7 @@
                     <img alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade" src="https://media.ximo.pt/images/CERTIFICACAO/64/5.png">
                 </div>
                 <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/erik-heijselaar_3/" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></a>
+                    <a href="/de/consultores/erik-heijselaar_3/" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></a>
                     <div class="card-imovel_media-label">
                         
                                 <div class="card-imovel_video rounded">
@@ -867,85 +946,6 @@
                         <span class="lbl_valor">182 m²</span><span class="tooltip"> A. Útil</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
                         <span class="lbl_valor">850 m²</span><span class="tooltip"> A. Terreno</span></div>
-                </div>
-            </div>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 899.000 €]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/"/>
-        <updated>2024-06-05T17:32:48.700Z</updated>
-        <content type="html"><![CDATA[<div class="card-imovel_flex">
-        <div class="card-imovel_inner">
-            <div class="card-imovel_img">
-                <a href="/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/" class="card-imovel_link"></a>
-                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-navigation-holder">
-                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                    </div>
-                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_3cf404a0-5c19-4aeb-98ec-db64638fb3e0.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_c7fff0e9-f7a4-4385-8fdf-5b03952a7cff.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_2b741f40-44d4-4989-ad38-21508443970f.jpg" alt="Moradia T4"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_79d818fa-52c7-40d0-b6ee-e4ece30ca7bf.jpg" alt="Moradia T4"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_45328457-8110-4440-8661-7d0818c5d812.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_3cf404a0-5c19-4aeb-98ec-db64638fb3e0.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale " data-align="center" data-scale="best-fill" src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_c7fff0e9-f7a4-4385-8fdf-5b03952a7cff.jpg" alt="Moradia T4"></li></ul>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                <div class="card-imovel_labels">
-                </div>
-                <div class="card-imovel_labels_vendido">
-                </div>
-                <div class="card-imovel_ce">
-                    <img alt="Moradia T4" src="https://media.ximo.pt/images/CERTIFICACAO/64/-1.png">
-                </div>
-                <div class="card-imovel_info-top">
-                    <a href="/fr/consultores/erik-heijselaar_3/" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></a>
-                    <div class="card-imovel_media-label">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card-imovel_holder-texts">
-            <div class="card-imovel_info">
-                <div class="card-imovel_info-right">
-                    <div class="card-imovel_preco">
-                        <div class="precos-wrapper ma-font-00">
-                            <span class="preco_actual ma-font-17">899.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
-                        </div>
-
-                        <div class="card-imovel_btns-holder">
-                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3632">
-                                <i class="icon-ma icon-pedido-info-dark"></i>
-                            </span>
-                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3632">
-                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
-                            </span>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="card-imovel_info-left">
-                    <header class="card-imovel_titles">
-                        <a href="/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/" title="Moradia T4" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T4</span></a>
-                        <span title="Aljezur, Espartal" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Espartal</span>
-                    </header>
-                </div>
-
-            </div>
-            <div class="card-imovel_caracteristicas ma-font-02 mobile">
-                <div class="card-imovel_caracteristicas_scroll js-scroll">
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
-                    <span class="lbl_valor">4</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
-                    <span class="lbl_valor">5</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
-                    <span class="lbl_valor">1</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
-                        <span class="lbl_valor">238 m²</span><span class="tooltip"> A. Útil</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
-                        <span class="lbl_valor">495 m²</span><span class="tooltip"> A. Terreno</span></div>
                 </div>
             </div>
         </div>

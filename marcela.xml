@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2024-06-25T05:34:41.993Z</updated>
+    <updated>2024-06-25T17:33:27.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -129,7 +129,7 @@ REF:  C3922
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
     <meta itemprop="name" content="CONTEMPORARY 3-BEDROOM HOUSE IN THE CENTER OF ALJEZUR WITH COUNTRYSIDE VIEWS">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24390/48544640-1bb8-46d9-8717-5fb510789618.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24390/328af977-95b9-423a-a91b-f2f773d97a0e.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
     <meta itemprop="description" content="Discover this charming two-storey house with 3 bedrooms, situated in a serene neighborhood of Aljezur, with breathtaking views of the countryside. This is the ideal home for those looking for comfort, tranquillity and a connection to nature.
 
 Ground floor:
@@ -167,7 +167,7 @@ REF:C3929
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24390/48544640-1bb8-46d9-8717-5fb510789618.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24390/328af977-95b9-423a-a91b-f2f773d97a0e.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">CONTEMPORARY 3-BEDROOM HOUSE IN THE CENTER OF ALJEZUR WITH COUNTRYSIDE VIEWS</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>850.000 €</strong></span></p>
@@ -387,7 +387,7 @@ REF:  C3901
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="425000">
+        <meta itemprop="price" content="418000">
     </div>
 </div>
 
@@ -403,7 +403,7 @@ REF:  C3901
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/2fbd51c5-f2e4-4672-b227-982b33e51e2c/24307/625e4b08-fa9d-4aee-9ef1-ce51294483c2.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">THREE BEDROOM TOWNHOUSE, ESPARTAL, MONTE CLERIGO</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>425.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>418.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24307" data-action-text="REF: C3901" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: C3901</span></p>
