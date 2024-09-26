@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2024-09-26T05:38:48.760Z</updated>
+    <updated>2024-09-26T17:39:40.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
@@ -793,94 +793,6 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 2.950.000 €]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/residencia-luxuosa-em-vale-de-figueiras_3794/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/residencia-luxuosa-em-vale-de-figueiras_3794/"/>
-        <updated>2024-07-02T17:33:18.825Z</updated>
-        <content type="html"><![CDATA[<div class="card-imovel_flex">
-        <div class="card-imovel_inner">
-            <div class="card-imovel_img">
-                <a href="/pt/imoveis/residencia-luxuosa-em-vale-de-figueiras_3794/" class="card-imovel_link"></a>
-                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-navigation-holder">
-                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                    </div>
-                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_339ee06e-1621-4fb9-b746-be5e1c386561.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_339ee06e-1621-4fb9-b746-be5e1c386561.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_339ee06e-1621-4fb9-b746-be5e1c386561.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_339ee06e-1621-4fb9-b746-be5e1c386561.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_506a8407-f83c-4fde-9b56-a0fc92c8c65f.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_506a8407-f83c-4fde-9b56-a0fc92c8c65f.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_506a8407-f83c-4fde-9b56-a0fc92c8c65f.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_506a8407-f83c-4fde-9b56-a0fc92c8c65f.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_ec084a73-ffd2-4251-8c65-de1aa37f9319.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_ec084a73-ffd2-4251-8c65-de1aa37f9319.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_ec084a73-ffd2-4251-8c65-de1aa37f9319.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_ec084a73-ffd2-4251-8c65-de1aa37f9319.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_5cef7257-be0b-47e3-b566-7703785222cb.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3794_0_____1_57384521-b034-41e1-a1ab-41be9822595d.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></li></ul>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                <div class="card-imovel_labels">
-                    <div class="card-imovel_label  baixa-lbl-color" style="">
-                        <span class="ma-font-03">
-                            Baixa de preço
-                        </span>
-                    </div>
-                </div>
-                <div class="card-imovel_labels_vendido">
-                </div>
-                <div class="card-imovel_ce">
-                    <img alt="Residência Luxuosa em Vale de Figueiras" src="https://media.ximo.pt/images/CERTIFICACAO/64/4.png">
-                </div>
-                <div class="card-imovel_info-top">
-                    <a href="/pt/consultores/patrick-canelas_38/" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Residência Luxuosa em Vale de Figueiras"></a>
-                    <div class="card-imovel_media-label">
-                        
-                                <div class="card-imovel_video rounded">
-                                    <i class="icon-ma icon-videos_premium"></i>
-                                </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card-imovel_holder-texts">
-            <div class="card-imovel_info">
-                <div class="card-imovel_info-right">
-                    <div class="card-imovel_preco">
-                        <div class="precos-wrapper ma-font-00">
-                            <span class="preco_actual ma-font-17">2.950.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
-                        </div>
-
-                        <div class="card-imovel_btns-holder">
-                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3794">
-                                <i class="icon-ma icon-pedido-info-dark"></i>
-                            </span>
-                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3794">
-                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
-                            </span>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="card-imovel_info-left">
-                    <header class="card-imovel_titles">
-                        <a href="/pt/imoveis/residencia-luxuosa-em-vale-de-figueiras_3794/" title="Residência Luxuosa em Vale de Figueiras" class="card-imovel_titulo"><span class="titulo ma-font-06">Residência Luxuosa em Vale de Figueiras</span></a>
-                        <span title="Aljezur, Bordeira" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Bordeira</span>
-                    </header>
-                </div>
-
-            </div>
-            <div class="card-imovel_caracteristicas ma-font-02 mobile">
-                <div class="card-imovel_caracteristicas_scroll js-scroll">
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
-                    <span class="lbl_valor">9</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
-                    <span class="lbl_valor">8</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_premium "></span></span>
-                        <span class="lbl_valor">455 m²</span><span class="tooltip"> A. Bruta</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
-                        <span class="lbl_valor">394 m²</span><span class="tooltip"> A. Útil</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
-                        <span class="lbl_valor">20500000 m²</span><span class="tooltip"> A. Terreno</span></div>
-                </div>
-            </div>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ 1.500.000 €]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/</id>
         <link href="https://www.mimosaproperties.com/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/"/>
@@ -948,6 +860,85 @@
                         <span class="lbl_valor">142 m²</span><span class="tooltip"> A. Útil</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
                         <span class="lbl_valor">235500 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 540.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-isolada-t2-2-aljezur-vale-da-telha-venda_3709/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-isolada-t2-2-aljezur-vale-da-telha-venda_3709/"/>
+        <updated>2024-09-26T17:38:54.606Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-isolada-t2-2-aljezur-vale-da-telha-venda_3709/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_7fbd26a6-3c04-4e63-a45e-73bcd2c91de1.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_7fbd26a6-3c04-4e63-a45e-73bcd2c91de1.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_7fbd26a6-3c04-4e63-a45e-73bcd2c91de1.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_7fbd26a6-3c04-4e63-a45e-73bcd2c91de1.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_d9d888cd-d150-4acb-87ed-98f154f66d56.jpg 1920w,https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_d9d888cd-d150-4acb-87ed-98f154f66d56.jpg 800w, https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_d9d888cd-d150-4acb-87ed-98f154f66d56.jpg 480w" data-src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_d9d888cd-d150-4acb-87ed-98f154f66d56.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_c7613246-2fe2-4c67-9665-8990c4b67f50.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_c7613246-2fe2-4c67-9665-8990c4b67f50.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_c7613246-2fe2-4c67-9665-8990c4b67f50.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_c7613246-2fe2-4c67-9665-8990c4b67f50.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_5354d830-fda5-497f-988d-150f582b480d.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3709_0_____1_516cb265-8a3b-45e6-a1b7-2da4b7bd61eb.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia Isolada T2+2" src="https://media.ximo.pt/images/CERTIFICACAO/64/5.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/consultores/andre-de-koning_13/" title="Andre Koning" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/13.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/13.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/13.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia Isolada T2+2"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">540.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3709">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3709">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-isolada-t2-2-aljezur-vale-da-telha-venda_3709/" title="Moradia Isolada T2+2" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia Isolada T2+2</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_premium "></span></span>
+                        <span class="lbl_valor">156 m²</span><span class="tooltip"> A. Bruta</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_privativa_premium "></span></span>
+                        <span class="lbl_valor">156 m²</span><span class="tooltip"> A. Bruta Privada</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">156 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">730 m²</span><span class="tooltip"> A. Terreno</span></div>
                 </div>
             </div>
         </div>
