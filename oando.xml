@@ -2,17 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
     <title>Oando</title>
-    <updated>2024-09-30T05:39:42.476Z</updated>
+    <updated>2024-09-30T17:37:18.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://oando.pt/westalgarve/wp-content/uploads/sites/13/2023/04/oando-west-150x150.jpg</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.335Z</updated>
+        <updated>2024-09-30T17:37:12.245Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
+                <div class="property-label-container">
+            <span class="label">Exclusive</span>        </div>
         
         
         
@@ -51,7 +53,7 @@
         <title type="html"><![CDATA[1]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.336Z</updated>
+        <updated>2024-09-30T17:37:12.245Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
@@ -93,7 +95,7 @@
         <title type="html"><![CDATA[2]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.337Z</updated>
+        <updated>2024-09-30T17:37:12.246Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
@@ -137,7 +139,7 @@
         <title type="html"><![CDATA[3]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.338Z</updated>
+        <updated>2024-09-30T17:37:12.246Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
@@ -181,7 +183,7 @@
         <title type="html"><![CDATA[4]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.339Z</updated>
+        <updated>2024-09-30T17:37:12.246Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
@@ -225,7 +227,7 @@
         <title type="html"><![CDATA[5]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.341Z</updated>
+        <updated>2024-09-30T17:37:12.248Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
@@ -269,7 +271,7 @@
         <title type="html"><![CDATA[6]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.341Z</updated>
+        <updated>2024-09-30T17:37:12.248Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
@@ -313,7 +315,7 @@
         <title type="html"><![CDATA[7]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.343Z</updated>
+        <updated>2024-09-30T17:37:12.248Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
@@ -355,28 +357,30 @@
         <title type="html"><![CDATA[8]]></title>
         <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
         <link href="https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference="/>
-        <updated>2024-09-30T05:39:36.344Z</updated>
+        <updated>2024-09-30T17:37:12.250Z</updated>
         <content type="html"><![CDATA[<figure class="img-holder">
 
         
+                <div class="property-label-container">
+            <span class="label">Reduced</span>        </div>
         
         
         
-        <img src="" data-src="" srcset="https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=360https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=360 360w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=480 480w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=768 768w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=1080 1080w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=1280 1280w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=1440 1440w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=1536 1536w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=1920 1920w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4121/3ff1d1bb-c28d-468d-86b3-39a0045a1d3c.jpg?quality=80&amp;width=2560 2560w" alt="Large farmhouse with valley and sea views" class="lazyload" loading="lazy" itemprop="image">
+        <img src="" data-src="" srcset="https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=360https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=360 360w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=480 480w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=768 768w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=1080 1080w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=1280 1280w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=1440 1440w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=1536 1536w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=1920 1920w,https://cdn.proppy.app/propertyphotos/165/379864de-4d20-4a75-82e3-004e71c46006/4094/71074c5b-31b2-4b8d-bfe3-8e18e32e9938.jpg?quality=80&amp;width=2560 2560w" alt="Aljezur Land For Investment" class="lazyload" loading="lazy" itemprop="image">
 
                 <figcaption>
-            <span>Ref.</span>RSV100-1058        </figcaption>
+            <span>Ref.</span>PH100-114        </figcaption>
     </figure>
 
     <div class="card-body">
         <div class="property-num">
             <span>Ref.</span>
-            RSV100-1058        </div>
-        <h2>Large farmhouse with valley and sea views</h2>
+            PH100-114        </div>
+        <h2>Aljezur Land For Investment</h2>
 
         
         <ol class="breadcrumb">
-            <li class="breadcrumb-item active" aria-current="page">Vale Da Telha</li>        </ol>
+            <li class="breadcrumb-item active" aria-current="page">Aljezur</li>        </ol>
 
         <div class="description">
             <p></p>
@@ -386,7 +390,7 @@
             <span class="price-label">Sale</span>
             <span class="woocommerce-Price-amount amount">
                 <bdi>
-                    1.200.000 €                </bdi>
+                    2.600.000 €                </bdi>
             </span>
         </div>
 
