@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2024-10-01T05:38:58.600Z</updated>
+    <updated>2024-10-01T17:38:28.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -114,50 +114,6 @@ REF:  RC278
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24426" data-action-text="REF: RC278" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: RC278</span></p>
-    </div>
-</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/villa-to-be-renovated-aljezur-ref_c3938/24425</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/villa-to-be-renovated-aljezur-ref_c3938/24425"/>
-        <updated>2024-07-12T17:33:08.495Z</updated>
-        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
-    <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="OLD VILLAGE HOUSE FOR RESTORATION; ALJEZUR">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/eb59ff7e-c02a-41fa-a639-0a0b08afdf2c/24425/be7b73f5-2603-4ae7-b38e-bfed056601e0.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="A two storey 72m2 old village house in need of complete restoration in the old town of Aljezur moments walk from local amenities.
-
-The property comprises of:-
-Lower Level (access from the rear street) kitchen / dining room; shower/ wet room. Stairs leading to -
-Upper Level (access from front street) two bedrooms and living room with doors leading to the balcony at the  rear (views across the new town with the Monchique hills in the distance) and a door accessing the street at the front.
-
-Built in 1937, this compact character property has a lot of potential, a real project for those with vision and time. Viewing is recommended to appreciate what is on offer.
-
-REF:  C3938">
-    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
-        <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="120000">
-    </div>
-</div>
-
-
-<div class="prop">
-    <a class="prop__link" href="/property-for-sale/villa-to-be-renovated-aljezur-ref_c3938/24425"></a>
-
-        <span class="prop__stamp">SOLD</span>
-
-
-
-
-
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/eb59ff7e-c02a-41fa-a639-0a0b08afdf2c/24425/be7b73f5-2603-4ae7-b38e-bfed056601e0.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
-    <div class="prop__panel">
-        <p class="prop__title">OLD VILLAGE HOUSE FOR RESTORATION; ALJEZUR</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>120.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24425" data-action-text="REF: C3938" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
-
-        <p><span class="prop__reference">Ref: C3938</span></p>
     </div>
 </div>]]></content>
     </entry>
@@ -614,6 +570,50 @@ REF:  RC277">
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24319" data-action-text="REF: RC277" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: RC277</span></p>
+    </div>
+</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://www.marcelapropriedades.com/property-for-sale/rural-land-aljezur-ref_n360/24315</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/rural-land-aljezur-ref_n360/24315"/>
+        <updated>2024-10-01T17:36:37.572Z</updated>
+        <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
+    <meta itemprop="brand" content="Marcela Propriedades Lagos">
+    <meta itemprop="name" content="AGRICULTURAL BUSINESS FOR SALE IN THE NATURAL PARK">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/eb59ff7e-c02a-41fa-a639-0a0b08afdf2c/24315/5e0efe8b-10d4-4ed7-a126-456c912b04b0.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="A rare opportunity to invest in an agricultural business located in the Natural Park on 11 hectares of land  with storage warehouse and all equipment.
+
+The business grows tropical plants in plastic tunnels for export. There is comprehensive infrastructure of access roads throughout the land and irrigation system from the canal water (from the Santa Clara dam). The storage warehouse includes a large refrigerated room where the plants are stored after harvesting and before exportation.
+
+There is a temporary dwelling where the owners live (not registered).
+
+An impressive set up for a new buyer to take over a running enterprise, complete with order book.
+
+REF:  N360
+">
+    <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
+        <meta itemprop="priceCurrency" content="EUR">
+        <meta itemprop="price" content="1200000">
+    </div>
+</div>
+
+
+<div class="prop">
+    <a class="prop__link" href="/property-for-sale/rural-land-aljezur-ref_n360/24315"></a>
+
+
+
+
+
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/eb59ff7e-c02a-41fa-a639-0a0b08afdf2c/24315/5e0efe8b-10d4-4ed7-a126-456c912b04b0.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+    <div class="prop__panel">
+        <p class="prop__title">AGRICULTURAL BUSINESS FOR SALE IN THE NATURAL PARK</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.200.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24315" data-action-text="REF: N360" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+
+        <p><span class="prop__reference">Ref: N360</span></p>
     </div>
 </div>]]></content>
     </entry>
