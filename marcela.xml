@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2025-01-06T05:39:07.395Z</updated>
+    <updated>2025-01-06T17:36:25.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -551,7 +551,7 @@ REF:  N360
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="1200000">
+        <meta itemprop="price" content="850000">
     </div>
 </div>
 
@@ -559,6 +559,7 @@ REF:  N360
 <div class="prop">
     <a class="prop__link" href="/property-for-sale/rural-land-aljezur-ref_n360/24315"></a>
 
+        <span class="prop__stamp">PRICE REDUCED</span>
 
 
 
@@ -567,7 +568,7 @@ REF:  N360
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/eb59ff7e-c02a-41fa-a639-0a0b08afdf2c/24315/5e0efe8b-10d4-4ed7-a126-456c912b04b0.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
         <p class="prop__title">AGRICULTURAL BUSINESS FOR SALE IN THE NATURAL PARK</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>1.200.000 €</strong></span></p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>850.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24315" data-action-text="REF: N360" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
         <p><span class="prop__reference">Ref: N360</span></p>
