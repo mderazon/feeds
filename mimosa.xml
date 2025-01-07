@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-01-07T05:37:59.080Z</updated>
+    <updated>2025-01-07T17:36:37.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
@@ -304,83 +304,6 @@
                         <span class="lbl_valor">262 m²</span><span class="tooltip"> A. Útil</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
                         <span class="lbl_valor">794 m²</span><span class="tooltip"> A. Terreno</span></div>
-                </div>
-            </div>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 575.000 €]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-3-estudios-privativos_3913/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-3-estudios-privativos_3913/"/>
-        <updated>2024-11-30T05:37:54.686Z</updated>
-        <content type="html"><![CDATA[<div class="card-imovel_flex">
-        <div class="card-imovel_inner">
-            <div class="card-imovel_img">
-                <a href="/pt/imoveis/moradia-t4-com-3-estudios-privativos_3913/" class="card-imovel_link"></a>
-                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-navigation-holder">
-                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                    </div>
-                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg 1920w,https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg 800w, https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg 480w" data-src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_c7d5fc29-151b-4a53-a80b-ab4e9ba0c1a8.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_c7d5fc29-151b-4a53-a80b-ab4e9ba0c1a8.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_c7d5fc29-151b-4a53-a80b-ab4e9ba0c1a8.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_c7d5fc29-151b-4a53-a80b-ab4e9ba0c1a8.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_d5673225-6e06-468b-9240-5fda61ac94a4.jpg 1920w,https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_d5673225-6e06-468b-9240-5fda61ac94a4.jpg 800w, https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_d5673225-6e06-468b-9240-5fda61ac94a4.jpg 480w" data-src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_d5673225-6e06-468b-9240-5fda61ac94a4.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_708604e3-1032-4ede-a158-c4994091e899.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_708604e3-1032-4ede-a158-c4994091e899.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_708604e3-1032-4ede-a158-c4994091e899.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_708604e3-1032-4ede-a158-c4994091e899.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_7fca12d2-77db-4272-9668-fea06cd7be32.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg 1920w,https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg 800w, https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg 480w" data-src="https://cdn3.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3913_0_____1_28752f49-af17-4ce4-814a-7d16b5010321.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></li></ul>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                <div class="card-imovel_labels">
-                </div>
-                <div class="card-imovel_labels_vendido">
-                </div>
-                <div class="card-imovel_ce">
-                    <img alt="Moradia t4 com 3 Estúdios Privativos" src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
-                </div>
-                <div class="card-imovel_info-top">
-                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=38&amp;es=&amp;ct=00000001&amp;or=30" title="Patrick Canelas" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/38.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/38.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/38.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia t4 com 3 Estúdios Privativos"></a>
-                    <div class="card-imovel_media-label">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card-imovel_holder-texts">
-            <div class="card-imovel_info">
-                <div class="card-imovel_info-right">
-                    <div class="card-imovel_preco">
-                        <div class="precos-wrapper ma-font-00">
-                            <span class="preco_actual ma-font-17">575.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
-                        </div>
-
-                        <div class="card-imovel_btns-holder">
-                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3913">
-                                <i class="icon-ma icon-pedido-info-dark"></i>
-                            </span>
-                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3913">
-                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
-                            </span>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="card-imovel_info-left">
-                    <header class="card-imovel_titles">
-                        <a href="/pt/imoveis/moradia-t4-com-3-estudios-privativos_3913/" title="Moradia t4 com 3 Estúdios Privativos" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia t4 com 3 Estúdios Privativos</span></a>
-                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
-                    </header>
-                </div>
-
-            </div>
-            <div class="card-imovel_caracteristicas ma-font-02 mobile">
-                <div class="card-imovel_caracteristicas_scroll js-scroll">
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
-                    <span class="lbl_valor">4</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
-                    <span class="lbl_valor">4</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
-                        <span class="lbl_valor">170 m²</span><span class="tooltip"> A. Útil</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
-                        <span class="lbl_valor">1280 m²</span><span class="tooltip"> A. Terreno</span></div>
                 </div>
             </div>
         </div>
@@ -931,6 +854,94 @@
                         <span class="lbl_valor">182 m²</span><span class="tooltip"> A. Útil</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
                         <span class="lbl_valor">850 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 875.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/"/>
+        <updated>2025-01-07T17:35:51.411Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg 1920w,https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg 800w, https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg 480w" data-src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_c931eaf5-cf74-4c46-ba3c-2424b375ba7c.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_c931eaf5-cf74-4c46-ba3c-2424b375ba7c.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_c931eaf5-cf74-4c46-ba3c-2424b375ba7c.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_c931eaf5-cf74-4c46-ba3c-2424b375ba7c.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_0f17482e-8e14-4289-a06d-9ea0bfdb9fdc.jpg 1920w,https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_0f17482e-8e14-4289-a06d-9ea0bfdb9fdc.jpg 800w, https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_0f17482e-8e14-4289-a06d-9ea0bfdb9fdc.jpg 480w" data-src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_0f17482e-8e14-4289-a06d-9ea0bfdb9fdc.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_a85ac6f6-28f7-42bc-b956-2baba8a0c97e.jpg 1920w,https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_a85ac6f6-28f7-42bc-b956-2baba8a0c97e.jpg 800w, https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_a85ac6f6-28f7-42bc-b956-2baba8a0c97e.jpg 480w" data-src="https://cdn2.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_a85ac6f6-28f7-42bc-b956-2baba8a0c97e.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg 1920w,https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg 800w, https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg 480w" data-src="https://cdn1.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_80d79b20-f805-4522-83e2-539042638315.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg 1920w,https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg 800w, https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg 480w" data-src="https://cdn4.ximocrm.com/i/601069b7-222b-44ff-bf7f-296da5dbd7fa_3632_0_____1_7d0022d2-793e-4693-90fb-0a6a5b737ca0.jpg" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                    <div class="card-imovel_label  baixa-lbl-color" style="">
+                        <span class="ma-font-03">
+                            Baixa de preço
+                        </span>
+                    </div>
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia T4" src="https://media.ximo.pt/images/CERTIFICACAO/64/-1.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4"></a>
+                    <div class="card-imovel_media-label">
+                        
+                                <div class="card-imovel_video rounded">
+                                    <i class="icon-ma icon-videos_premium"></i>
+                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">875.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3632">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3632">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/" title="Moradia T4" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T4</span></a>
+                        <span title="Aljezur, Espartal" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Espartal</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">5</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
+                    <span class="lbl_valor">1</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">238 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">495 m²</span><span class="tooltip"> A. Terreno</span></div>
                 </div>
             </div>
         </div>
