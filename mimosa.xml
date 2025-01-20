@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-01-20T05:38:57.627Z</updated>
+    <updated>2025-01-20T17:34:49.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
@@ -379,6 +379,8 @@
                     <span class="lbl_valor">2</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
                     <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_premium "></span></span>
+                        <span class="lbl_valor">207 m²</span><span class="tooltip"> A. Bruta</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
                         <span class="lbl_valor">180 m²</span><span class="tooltip"> A. Útil</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
