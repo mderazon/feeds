@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2025-03-01T05:36:48.900Z</updated>
+    <updated>2025-03-01T17:34:26.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -112,7 +112,7 @@ REF: C3982">
         <updated>2024-07-23T17:33:44.983Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="DETACHED T2 + 1  HOUSE SEA VIEWS VALE DA TELHA">
+    <meta itemprop="name" content="DETACHED T2  HOUSE + 1  BED APARTMENT AND STUDIO WITH SEA VIEWS VALE DA TELHA">
     <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/eb59ff7e-c02a-41fa-a639-0a0b08afdf2c/24434/60fac555-1c8d-4105-854d-2d36bba8e77f.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
     <meta itemprop="description" content="On a quiet corner plot in Vale da Telha we have an excellent, traditional Algarvian house with a large garden and lots of privacy. Entering from double gates onto a beautiful calcada drive there is parking for multiple cars.
 
@@ -164,7 +164,7 @@ REF: C3940
 
     <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/eb59ff7e-c02a-41fa-a639-0a0b08afdf2c/24434/60fac555-1c8d-4105-854d-2d36bba8e77f.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
-        <p class="prop__title">DETACHED T2 + 1  HOUSE SEA VIEWS VALE DA TELHA</p>
+        <p class="prop__title">DETACHED T2  HOUSE + 1  BED APARTMENT AND STUDIO WITH SEA VIEWS VALE DA TELHA</p>
             <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>570.000 €</strong></span></p>
         <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24434" data-action-text="REF: C3940" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
