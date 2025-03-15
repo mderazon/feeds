@@ -2,7 +2,939 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-03-15T05:38:06.037Z</updated>
+    <updated>2025-03-15T17:36:28.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ 900.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/bonita-moradia-t4-com-piscina-e-vista-mar-perto-de-vale-da-telha_4129/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/bonita-moradia-t4-com-piscina-e-vista-mar-perto-de-vale-da-telha_4129/"/>
+        <updated>2025-03-15T17:35:44.656Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/bonita-moradia-t4-com-piscina-e-vista-mar-perto-de-vale-da-telha_4129/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-prev" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Bonita moradia T4 com piscina e vista mar perto de Vale da Telha"></li><li class="swiper-slide swiper-slide-active swiper-slide-duplicate-next swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy entered loaded" data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp" src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp" alt="Bonita moradia T4 com piscina e vista mar perto de Vale da Telha" data-ll-status="loaded"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active swiper-slide-next" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MTI5L2ZiMWJiYjA2YWE4YmJmY2I1MDM5ZDEyZWZmNzJjYzAwLmpwZ19pY28uanBn.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Bonita moradia T4 com piscina e vista mar perto de Vale da Telha"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Bonita moradia T4 com piscina e vista mar perto de Vale da Telha" src="https://media.ximo.pt/images/CERTIFICACAO/64/7.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" alt="Bonita moradia T4 com piscina e vista mar perto de Vale da Telha" data-ll-status="loaded"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">900.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="4129">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="4129">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/bonita-moradia-t4-com-piscina-e-vista-mar-perto-de-vale-da-telha_4129/" title="Bonita moradia T4 com piscina e vista mar perto de Vale da Telha" class="card-imovel_titulo"><span class="titulo ma-font-06">Bonita moradia T4 com piscina e vista mar perto de Vale da Telha</span></a>
+                        <span title="Aljezur, Arrifana" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Arrifana</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
+                    <span class="lbl_valor">1</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_premium "></span></span>
+                        <span class="lbl_valor">220 m²</span><span class="tooltip"> A. Bruta</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">220 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">1075 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 209.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4051/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4051/"/>
+        <updated>2025-03-15T17:35:44.665Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4051/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy entered loaded" data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp" src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp" alt="Terreno Urbano" data-ll-status="loaded"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy entered loaded" data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2IzY2YzMDkwLTIwYjUtNDlkMy05ODkxLTFhMmFmZWI3MGVkZS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2IzY2YzMDkwLTIwYjUtNDlkMy05ODkxLTFhMmFmZWI3MGVkZS5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2IzY2YzMDkwLTIwYjUtNDlkMy05ODkxLTFhMmFmZWI3MGVkZS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2IzY2YzMDkwLTIwYjUtNDlkMy05ODkxLTFhMmFmZWI3MGVkZS5qcGdfaWNvLmpwZw.webp" src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2IzY2YzMDkwLTIwYjUtNDlkMy05ODkxLTFhMmFmZWI3MGVkZS5qcGdfaWNvLmpwZw.webp" alt="Terreno Urbano" data-ll-status="loaded"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2EyMzY5MWVmLWEzMWUtNDcwZi1hODRkLTU3MTFmYjllNGZiMS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2EyMzY5MWVmLWEzMWUtNDcwZi1hODRkLTU3MTFmYjllNGZiMS5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2EyMzY5MWVmLWEzMWUtNDcwZi1hODRkLTU3MTFmYjllNGZiMS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxL2EyMzY5MWVmLWEzMWUtNDcwZi1hODRkLTU3MTFmYjllNGZiMS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzQyYTA5NmRmLTQ0OGYtNDIwMS05M2Y0LWZkZmU5YzM5Njk3MS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzQyYTA5NmRmLTQ0OGYtNDIwMS05M2Y0LWZkZmU5YzM5Njk3MS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzQyYTA5NmRmLTQ0OGYtNDIwMS05M2Y0LWZkZmU5YzM5Njk3MS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzQyYTA5NmRmLTQ0OGYtNDIwMS05M2Y0LWZkZmU5YzM5Njk3MS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzcxMmZlMGQ5LTNmYjQtNGE1ZS1iNDQ3LWU4MjM1NGI5MzQ2Yy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUxLzdlYjk0YTRiLTNlNDktNGE3YS05NDI3LWRkZjA3MmQ0MmJkZi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Terreno Urbano" src="https://media.ximo.pt/images/CERTIFICACAO/64/0.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" alt="Terreno Urbano" data-ll-status="loaded"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">209.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="4051">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="4051">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4051/" title="Terreno Urbano" class="card-imovel_titulo"><span class="titulo ma-font-06">Terreno Urbano</span></a>
+                        <span title="Aljezur, Espartal" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Espartal</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">540 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 199.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4050/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4050/"/>
+        <updated>2025-03-15T17:35:44.667Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4050/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy entered loaded" data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp" src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp" alt="Terreno Urbano" data-ll-status="loaded"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy entered loaded" data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzg5ODUxOWI4LTI4MDItNDI1NS04MGE0LTJhM2MxZTAzOWYxNy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzg5ODUxOWI4LTI4MDItNDI1NS04MGE0LTJhM2MxZTAzOWYxNy5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzg5ODUxOWI4LTI4MDItNDI1NS04MGE0LTJhM2MxZTAzOWYxNy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzg5ODUxOWI4LTI4MDItNDI1NS04MGE0LTJhM2MxZTAzOWYxNy5qcGdfaWNvLmpwZw.webp" src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzg5ODUxOWI4LTI4MDItNDI1NS04MGE0LTJhM2MxZTAzOWYxNy5qcGdfaWNvLmpwZw.webp" alt="Terreno Urbano" data-ll-status="loaded"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzgzYjM0MDA2LTkwYWYtNGMyMC1hNWI0LWFkZGVmNTJlNTY4Yi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzgzYjM0MDA2LTkwYWYtNGMyMC1hNWI0LWFkZGVmNTJlNTY4Yi5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzgzYjM0MDA2LTkwYWYtNGMyMC1hNWI0LWFkZGVmNTJlNTY4Yi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzgzYjM0MDA2LTkwYWYtNGMyMC1hNWI0LWFkZGVmNTJlNTY4Yi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2UxMDQ4Y2Q1LWU3OTctNDAyYy04NjIyLTllNzZkMWViNzZlNy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2UxMDQ4Y2Q1LWU3OTctNDAyYy04NjIyLTllNzZkMWViNzZlNy5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2UxMDQ4Y2Q1LWU3OTctNDAyYy04NjIyLTllNzZkMWViNzZlNy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2UxMDQ4Y2Q1LWU3OTctNDAyYy04NjIyLTllNzZkMWViNzZlNy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwL2JmZDA3MGFlLWQ0YTctNGQ2NC04MGViLWQyOWM0MTA2NDg4MC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy80MDUwLzI3NzQ1YjY4LTIzMTctNGRhZC1iZTBkLTNiNjdjMGEzYjg5Yi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Urbano"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Terreno Urbano" src="https://media.ximo.pt/images/CERTIFICACAO/64/0.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy entered" data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" alt="Terreno Urbano" data-ll-status="loaded"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">199.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="4050">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="4050">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4050/" title="Terreno Urbano" class="card-imovel_titulo"><span class="titulo ma-font-06">Terreno Urbano</span></a>
+                        <span title="Aljezur, Espartal" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Espartal</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">490 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 1.200.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/espacosa-moradia-t5-na-carrapateira-costa-vicentina_3995/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/espacosa-moradia-t5-na-carrapateira-costa-vicentina_3995/"/>
+        <updated>2025-03-15T17:35:44.672Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/espacosa-moradia-t5-na-carrapateira-costa-vicentina_3995/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2NkZGZjYjE0LWNjYzUtNGEwZS04ODU0LWU1MDAxMTBiZGI3ZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2NkZGZjYjE0LWNjYzUtNGEwZS04ODU0LWU1MDAxMTBiZGI3ZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2NkZGZjYjE0LWNjYzUtNGEwZS04ODU0LWU1MDAxMTBiZGI3ZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2NkZGZjYjE0LWNjYzUtNGEwZS04ODU0LWU1MDAxMTBiZGI3ZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2QzZjBjZDIxLTljNGEtNDAyYi04YTZhLThjNjcwYzE2ZTc1NS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2QzZjBjZDIxLTljNGEtNDAyYi04YTZhLThjNjcwYzE2ZTc1NS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2QzZjBjZDIxLTljNGEtNDAyYi04YTZhLThjNjcwYzE2ZTc1NS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2QzZjBjZDIxLTljNGEtNDAyYi04YTZhLThjNjcwYzE2ZTc1NS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U4ZDMyNDE4LTdkNGUtNGYzMi05YWIwLWYzNzEzMjUxNTkyZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U4ZDMyNDE4LTdkNGUtNGYzMi05YWIwLWYzNzEzMjUxNTkyZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U4ZDMyNDE4LTdkNGUtNGYzMi05YWIwLWYzNzEzMjUxNTkyZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U4ZDMyNDE4LTdkNGUtNGYzMi05YWIwLWYzNzEzMjUxNTkyZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1LzQ3NjI4Y2IzLTNjNTctNDZkYi1iMmY1LWJmZTY5M2U1NmQ4Ni5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk1L2U0N2EzYTc5LWU1MmItNDllYi1hOGZmLTQ2MjZmZjI1N2E1OC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina" src="https://media.ximo.pt/images/CERTIFICACAO/64/5.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=13&amp;es=&amp;ct=00000001&amp;or=30" title="Andre Koning" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/13.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/13.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/13.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina"></a>
+                    <div class="card-imovel_media-label">
+                        
+                                <div class="card-imovel_video rounded">
+                                    <i class="icon-ma icon-videos_premium"></i>
+                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">1.200.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3995">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3995">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/espacosa-moradia-t5-na-carrapateira-costa-vicentina_3995/" title="Espaçosa Moradia T5 na Carrapateira, Costa Vicentina" class="card-imovel_titulo"><span class="titulo ma-font-06">Espaçosa Moradia T5 na Carrapateira, Costa Vicentina</span></a>
+                        <span title="Aljezur, Carrapateira" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Carrapateira</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">5</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">3</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_premium "></span></span>
+                        <span class="lbl_valor">269 m²</span><span class="tooltip"> A. Bruta</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_privativa_premium "></span></span>
+                        <span class="lbl_valor">269 m²</span><span class="tooltip"> A. Bruta Privada</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">269 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">952 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 850.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moderna-moradia-t4-em-construcao-na-paisagem-oceano_3999/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moderna-moradia-t4-em-construcao-na-paisagem-oceano_3999/"/>
+        <updated>2025-03-15T17:35:44.673Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moderna-moradia-t4-em-construcao-na-paisagem-oceano_3999/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZiYjFlNjdjLTQ4NjctNGUxMS04MzgxLTRiMWJmMGIwODIwYi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZiYjFlNjdjLTQ4NjctNGUxMS04MzgxLTRiMWJmMGIwODIwYi5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZiYjFlNjdjLTQ4NjctNGUxMS04MzgxLTRiMWJmMGIwODIwYi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZiYjFlNjdjLTQ4NjctNGUxMS04MzgxLTRiMWJmMGIwODIwYi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2IxNmE1OTk2LWRkMTUtNDE2MS04NDMzLTkxNGVkMTRjMTNkNy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2IxNmE1OTk2LWRkMTUtNDE2MS04NDMzLTkxNGVkMTRjMTNkNy5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2IxNmE1OTk2LWRkMTUtNDE2MS04NDMzLTkxNGVkMTRjMTNkNy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2IxNmE1OTk2LWRkMTUtNDE2MS04NDMzLTkxNGVkMTRjMTNkNy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzVjODNmYWYyLTFhOTUtNDEzOS05NDEwLTg0ZjAwNzY1OGE2Yi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzVjODNmYWYyLTFhOTUtNDEzOS05NDEwLTg0ZjAwNzY1OGE2Yi5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzVjODNmYWYyLTFhOTUtNDEzOS05NDEwLTg0ZjAwNzY1OGE2Yi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzVjODNmYWYyLTFhOTUtNDEzOS05NDEwLTg0ZjAwNzY1OGE2Yi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5LzZhMzQ2NjE0LWVkODAtNDkzMy04N2JlLTM4ZmY2YWZiYmExZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTk5L2FmM2FjNjQ1LTkzMzAtNGE2Yy1iOWU4LTM1ZmU3YTgyYjdiMS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moderna Moradia T4 em Construção na Paisagem Oceano" src="https://media.ximo.pt/images/CERTIFICACAO/64/8.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=13&amp;es=&amp;ct=00000001&amp;or=30" title="Andre Koning" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/13.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/13.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/13.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moderna Moradia T4 em Construção na Paisagem Oceano"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">850.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3999">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3999">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moderna-moradia-t4-em-construcao-na-paisagem-oceano_3999/" title="Moderna Moradia T4 em Construção na Paisagem Oceano" class="card-imovel_titulo"><span class="titulo ma-font-06">Moderna Moradia T4 em Construção na Paisagem Oceano</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">262 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">794 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 499.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/"/>
+        <updated>2025-03-15T17:35:44.674Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzQ5ODY0NzgxLTkxY2EtNDI2Zi05MGEzLTdiZTc0ODNkZjFmNS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzQ5ODY0NzgxLTkxY2EtNDI2Zi05MGEzLTdiZTc0ODNkZjFmNS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzQ5ODY0NzgxLTkxY2EtNDI2Zi05MGEzLTdiZTc0ODNkZjFmNS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzQ5ODY0NzgxLTkxY2EtNDI2Zi05MGEzLTdiZTc0ODNkZjFmNS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2I5NjM1YTZjLTM5OTQtNDJhNS04YmE1LTU2MzFhMGFkMDc1OC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2I5NjM1YTZjLTM5OTQtNDJhNS04YmE1LTU2MzFhMGFkMDc1OC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2I5NjM1YTZjLTM5OTQtNDJhNS04YmE1LTU2MzFhMGFkMDc1OC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2I5NjM1YTZjLTM5OTQtNDJhNS04YmE1LTU2MzFhMGFkMDc1OC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2E1ZDkxYWE2LTBlYTktNGIwOS05YTY4LTA3Y2M2NmZlYWRkYy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2E1ZDkxYWE2LTBlYTktNGIwOS05YTY4LTA3Y2M2NmZlYWRkYy5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2E1ZDkxYWE2LTBlYTktNGIwOS05YTY4LTA3Y2M2NmZlYWRkYy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2E1ZDkxYWE2LTBlYTktNGIwOS05YTY4LTA3Y2M2NmZlYWRkYy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyL2U3YjlmNjJjLTliMWQtNDRlYi04NzQxLWU0OGExNmZjYzgzNC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTgyLzRhZDZiZmU2LTg0MTItNGQ5Zi1hY2VhLTU5ZmNmYTI1NmIyZS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                    <div class="card-imovel_label  baixa-lbl-color" style="">
+                        <span class="ma-font-03">
+                            Baixa de preço
+                        </span>
+                    </div>
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia T3 + 1 em Vale da Telha" src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 + 1 em Vale da Telha"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">499.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3982">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3982">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/" title="Moradia T3 + 1 em Vale da Telha" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T3 + 1 em Vale da Telha</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
+                    <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">180 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">648 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 589.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/"/>
+        <updated>2025-03-15T17:35:44.675Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzU5MWMzMjI1LTk0YzktNDIzNy1iZDZiLWEwNmJiNWYzYWFhOC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzU5MWMzMjI1LTk0YzktNDIzNy1iZDZiLWEwNmJiNWYzYWFhOC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzU5MWMzMjI1LTk0YzktNDIzNy1iZDZiLWEwNmJiNWYzYWFhOC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzU5MWMzMjI1LTk0YzktNDIzNy1iZDZiLWEwNmJiNWYzYWFhOC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzhlNWJmOTFkLWIwOTItNDI5OC05MzlmLWMyNmQ4YjEwMjA3OS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzhlNWJmOTFkLWIwOTItNDI5OC05MzlmLWMyNmQ4YjEwMjA3OS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzhlNWJmOTFkLWIwOTItNDI5OC05MzlmLWMyNmQ4YjEwMjA3OS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzhlNWJmOTFkLWIwOTItNDI5OC05MzlmLWMyNmQ4YjEwMjA3OS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2VhMmEyOTNmLTU3ZmEtNDQ1Yy04YmRjLWViNTYyZmIwOGMzNC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2VhMmEyOTNmLTU3ZmEtNDQ1Yy04YmRjLWViNTYyZmIwOGMzNC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2VhMmEyOTNmLTU3ZmEtNDQ1Yy04YmRjLWViNTYyZmIwOGMzNC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2VhMmEyOTNmLTU3ZmEtNDQ1Yy04YmRjLWViNTYyZmIwOGMzNC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwLzMyYjgxNWYzLTc3NTgtNDQwNC05Yjg4LTMyODE3YWQ0YWNjNS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTEwL2FjOWU2ODUwLTRkM2QtNGVhZC05NjE2LWI0N2I4ZTAwZDMyZi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia T4 com piscina em Vale Da Telha, Aljezur." src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 com piscina em Vale Da Telha, Aljezur."></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">589.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3910">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3910">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/" title="Moradia T4 com piscina em Vale Da Telha, Aljezur." class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T4 com piscina em Vale Da Telha, Aljezur.</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
+                    <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_premium "></span></span>
+                        <span class="lbl_valor">207 m²</span><span class="tooltip"> A. Bruta</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">180 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">720 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 418.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/"/>
+        <updated>2025-03-15T17:35:44.678Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2ExZTViZWExLTg5MmEtNGUwZi1hNmZlLTIwYmJkNTc0YmQxNy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2ExZTViZWExLTg5MmEtNGUwZi1hNmZlLTIwYmJkNTc0YmQxNy5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2ExZTViZWExLTg5MmEtNGUwZi1hNmZlLTIwYmJkNTc0YmQxNy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2ExZTViZWExLTg5MmEtNGUwZi1hNmZlLTIwYmJkNTc0YmQxNy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2RmODA4NDBmLWMwODYtNDM2ZS1hMjM0LTIyYzEwZTRiYmYzYi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2RmODA4NDBmLWMwODYtNDM2ZS1hMjM0LTIyYzEwZTRiYmYzYi5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2RmODA4NDBmLWMwODYtNDM2ZS1hMjM0LTIyYzEwZTRiYmYzYi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2RmODA4NDBmLWMwODYtNDM2ZS1hMjM0LTIyYzEwZTRiYmYzYi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzAwZDZjZDQyLWViZjEtNDgyZC04MzU4LWFkZjk4YzE4ZTY2Ni5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzAwZDZjZDQyLWViZjEtNDgyZC04MzU4LWFkZjk4YzE4ZTY2Ni5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzAwZDZjZDQyLWViZjEtNDgyZC04MzU4LWFkZjk4YzE4ZTY2Ni5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzAwZDZjZDQyLWViZjEtNDgyZC04MzU4LWFkZjk4YzE4ZTY2Ni5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1LzRiZGRlMDY5LWQ5ZTYtNDg4Yy1iZmRjLWI0ODUxZTg1ZTkwMi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zOTA1L2VhMzc5ZDM3LTQ3OGMtNDVhZC04OGYzLWQ4NDcxMjYyMzA3YS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia T3 Espertal com piscina, Aljezur." src="https://media.ximo.pt/images/CERTIFICACAO/64/6.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T3 Espertal com piscina, Aljezur."></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">418.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3905">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3905">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/" title="Moradia T3 Espertal com piscina, Aljezur." class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T3 Espertal com piscina, Aljezur.</span></a>
+                        <span title="Aljezur, Espartal" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Espartal</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">3</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">3</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-garagem_premium "></span></span>
+                    <span class="lbl_valor">1</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">166 m²</span><span class="tooltip"> A. Útil</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 80.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/"/>
+        <updated>2025-03-15T17:35:44.679Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/terreno-agricola-em-rogil_3854/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2RhYmE3N2RiLTE1MTItNDdlZi05N2RmLTA1ZTM5ZjI1ZWYyYi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2RhYmE3N2RiLTE1MTItNDdlZi05N2RmLTA1ZTM5ZjI1ZWYyYi5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2RhYmE3N2RiLTE1MTItNDdlZi05N2RmLTA1ZTM5ZjI1ZWYyYi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2RhYmE3N2RiLTE1MTItNDdlZi05N2RmLTA1ZTM5ZjI1ZWYyYi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2MxMjk5Y2M3LTQyZDMtNGQ5Yy05Y2YzLTc0NzQ0NjQ0MDgyMy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2MxMjk5Y2M3LTQyZDMtNGQ5Yy05Y2YzLTc0NzQ0NjQ0MDgyMy5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2MxMjk5Y2M3LTQyZDMtNGQ5Yy05Y2YzLTc0NzQ0NjQ0MDgyMy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0L2MxMjk5Y2M3LTQyZDMtNGQ5Yy05Y2YzLTc0NzQ0NjQ0MDgyMy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzMzN2JiYjQ5LWE1ZTktNDVhNC1iYzUzLWM5NDNlYjgzMjQxNy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzMzN2JiYjQ5LWE1ZTktNDVhNC1iYzUzLWM5NDNlYjgzMjQxNy5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzMzN2JiYjQ5LWE1ZTktNDVhNC1iYzUzLWM5NDNlYjgzMjQxNy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzMzN2JiYjQ5LWE1ZTktNDVhNC1iYzUzLWM5NDNlYjgzMjQxNy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0Lzk3NGUzNDJlLWQxOTAtNGIzMy1hOGMyLTZjMDlhYjIzMWY1MC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODU0LzhjZWUwYTZmLTBmY2ItNDU1Yy1hNWQyLTRmYTY0NzY1OGMxYy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Terreno Agrícola em Rogil" src="https://media.ximo.pt/images/CERTIFICACAO/64/0.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=39&amp;es=&amp;ct=00000001&amp;or=30" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Terreno Agrícola em Rogil"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">80.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3854">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3854">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/terreno-agricola-em-rogil_3854/" title="Terreno Agrícola em Rogil" class="card-imovel_titulo"><span class="titulo ma-font-06">Terreno Agrícola em Rogil</span></a>
+                        <span title="Aljezur" class="subtitulo card-imovel_localidade ma-font-01">Aljezur</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">11640 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 585.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/"/>
+        <updated>2025-03-15T17:35:44.680Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia 5 Quartos em Vale da Telha" src="https://media.ximo.pt/images/CERTIFICACAO/64/4.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=26&amp;es=&amp;ct=00000001&amp;or=30" title="Karel van_der_A" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/26.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/26.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/26.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">585.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3806">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3806">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/" title="Moradia 5 Quartos em Vale da Telha" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia 5 Quartos em Vale da Telha</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">5</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">2</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">200 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">1140 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 1.399.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/"/>
+        <updated>2025-03-15T17:35:44.683Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzE1ZDliYjYwLTk2ZjctNDU1YS1iNjYzLTYyNDFhMmIzY2VhZS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzE1ZDliYjYwLTk2ZjctNDU1YS1iNjYzLTYyNDFhMmIzY2VhZS5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzE1ZDliYjYwLTk2ZjctNDU1YS1iNjYzLTYyNDFhMmIzY2VhZS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzE1ZDliYjYwLTk2ZjctNDU1YS1iNjYzLTYyNDFhMmIzY2VhZS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2Q2NmEzMjdmLTk3Y2UtNDhmZi1hMzJmLWE0ZTJlYjhmMGM0ZS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2Q2NmEzMjdmLTk3Y2UtNDhmZi1hMzJmLWE0ZTJlYjhmMGM0ZS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2Q2NmEzMjdmLTk3Y2UtNDhmZi1hMzJmLWE0ZTJlYjhmMGM0ZS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2Q2NmEzMjdmLTk3Y2UtNDhmZi1hMzJmLWE0ZTJlYjhmMGM0ZS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2U4NDU2YjJiLTE1YzktNDA0ZS1hMzk2LWEyNTAyMzUwMzZjYS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2U4NDU2YjJiLTE1YzktNDA0ZS1hMzk2LWEyNTAyMzUwMzZjYS5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2U4NDU2YjJiLTE1YzktNDA0ZS1hMzk2LWEyNTAyMzUwMzZjYS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3L2U4NDU2YjJiLTE1YzktNDA0ZS1hMzk2LWEyNTAyMzUwMzZjYS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzJjMTkxNjZmLTg4NzgtNGVjNi05NTQwLTExNTVlYzM3ZmUxMC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzQ3LzhiYTNiM2IwLTMyZTYtNDc0Zi05ZjgwLWZiODExOWZjMmYyNS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico" src="https://media.ximo.pt/images/CERTIFICACAO/64/0.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=39&amp;es=&amp;ct=00000001&amp;or=30" title="Nuno Silva" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/39.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/39.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/39.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">1.399.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3747">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3747">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/" title="Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico" class="card-imovel_titulo"><span class="titulo ma-font-06">Quinta Espetacular em Aljezur: Oportunidade de Investimento Turístico</span></a>
+                        <span title="Aljezur, Aljezur" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Aljezur</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">142 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">235500 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 540.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/"/>
+        <updated>2025-03-15T17:35:44.685Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzdmYmQyNmE2LTNjMDQtNGU2My1hNDVlLTczYmNkMmM5MWRlMS5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzdmYmQyNmE2LTNjMDQtNGU2My1hNDVlLTczYmNkMmM5MWRlMS5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzdmYmQyNmE2LTNjMDQtNGU2My1hNDVlLTczYmNkMmM5MWRlMS5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzdmYmQyNmE2LTNjMDQtNGU2My1hNDVlLTczYmNkMmM5MWRlMS5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2Q5ZDg4OGNkLWQxNTAtNGFjYi04N2VkLTk4ZjE1NGY2NmQ1Ni5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2Q5ZDg4OGNkLWQxNTAtNGFjYi04N2VkLTk4ZjE1NGY2NmQ1Ni5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2Q5ZDg4OGNkLWQxNTAtNGFjYi04N2VkLTk4ZjE1NGY2NmQ1Ni5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2Q5ZDg4OGNkLWQxNTAtNGFjYi04N2VkLTk4ZjE1NGY2NmQ1Ni5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2M3NjEzMjQ2LTJmZTItNGM2Ny05NjY1LTg5OTBjNGI2N2Y1MC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2M3NjEzMjQ2LTJmZTItNGM2Ny05NjY1LTg5OTBjNGI2N2Y1MC5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2M3NjEzMjQ2LTJmZTItNGM2Ny05NjY1LTg5OTBjNGI2N2Y1MC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5L2M3NjEzMjQ2LTJmZTItNGM2Ny05NjY1LTg5OTBjNGI2N2Y1MC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUzNTRkODMwLWZkYTUtNDk3Zi05ODhkLTE1MGY1ODJiNDgwZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNzA5LzUxNmNiMjY1LThhM2ItNDVlNi1hMWI3LTJkYTRiN2JkNjFlYi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                </div>
+                <div class="card-imovel_labels_vendido">
+                    <div class="card-imovel_label label_layout_0">
+                        <span class="ma-font-03">
+                            Reservado
+                        </span>
+                    </div>
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia T2+2" src="https://media.ximo.pt/images/CERTIFICACAO/64/5.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=13&amp;es=&amp;ct=00000001&amp;or=30" title="Andre Koning" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/13.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/13.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/13.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T2+2"></a>
+                    <div class="card-imovel_media-label">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">540.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3709">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3709">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/" title="Moradia T2+2" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T2+2</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_premium "></span></span>
+                        <span class="lbl_valor">156 m²</span><span class="tooltip"> A. Bruta</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_bruta_privativa_premium "></span></span>
+                        <span class="lbl_valor">156 m²</span><span class="tooltip"> A. Bruta Privada</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">156 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">730 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
 </feed>
