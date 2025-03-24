@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1</id>
     <title>Marcela Properties</title>
-    <updated>2025-03-24T05:40:19.796Z</updated>
+    <updated>2025-03-24T17:39:33.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.marcelapropriedades.com/Assets/favicon/favicon.ico</icon>
     <entry>
@@ -603,46 +603,51 @@ REF:  RC277">
     </entry>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://www.marcelapropriedades.com/property-for-sale/rural-land-aljezur-ref_n360/24315</id>
-        <link href="https://www.marcelapropriedades.com/property-for-sale/rural-land-aljezur-ref_n360/24315"/>
-        <updated>2024-10-01T17:36:37.572Z</updated>
+        <id>https://www.marcelapropriedades.com/property-for-sale/townhouse-aljezur-ref_c3901/24307</id>
+        <link href="https://www.marcelapropriedades.com/property-for-sale/townhouse-aljezur-ref_c3901/24307"/>
+        <updated>2025-03-24T17:38:04.516Z</updated>
         <content type="html"><![CDATA[<div itemscope="" itemtype="http://schema.org/Product">
     <meta itemprop="brand" content="Marcela Propriedades Lagos">
-    <meta itemprop="name" content="AGRICULTURAL BUSINESS FOR SALE IN THE NATURAL PARK">
-    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/10fa759d-aa92-48ea-b161-ddbe13b7f2a8/24315/5e0efe8b-10d4-4ed7-a126-456c912b04b0.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
-    <meta itemprop="description" content="A rare opportunity to invest in an agricultural business located in the Natural Park on 11 hectares of land  with storage warehouse and all equipment.
+    <meta itemprop="name" content="THREE BEDROOM TOWNHOUSE, ESPARTAL, MONTE CLERIGO">
+    <meta itemprop="image" content="https://cdn.proppy.app/propertyphotos/43/10fa759d-aa92-48ea-b161-ddbe13b7f2a8/24307/625e4b08-fa9d-4aee-9ef1-ce51294483c2.jpg?quality=70&amp;width=650&amp;height=448&amp;mode=crop">
+    <meta itemprop="description" content="An attractive three bedroom 160m2 two storey townhouse in a small condominium within walking distance of the beaches at Monte Clerigo and Amoreira in the Costa Vicentina Natural Park.
 
-The business grows tropical plants in plastic tunnels for export. There is comprehensive infrastructure of access roads throughout the land and irrigation system from the canal water (from the Santa Clara dam). The storage warehouse includes a large refrigerated room where the plants are stored after harvesting and before exportation.
+The property comprises of: 
 
-There is a temporary dwelling where the owners live (not registered).
+Ground Floor - entrance hallway; open plan dining/ living area with terrace doors to front; attractive fully equipped kitchen with patio doors to rear terrace; double bedroom; guest bathroom; storage/ utility under stairs.
 
-An impressive set up for a new buyer to take over a running enterprise, complete with order book.
+Upper Level - two double en-suite bedrooms each with private balcony, one at front overlooking the pool and one at rear, both with private balconies.
 
-REF:  N360
+The property benefits from a pellet burner in the living room which fuels the central heating, double glazed tilt &amp; turn patio doors and windows. Shared facilities include an underground garage with dedicated parking and swimming pool. The property enjoys all day sunshine, at the front in the morning and at the rear in the afternoon.
+
+Being sold unfurnished. Recently painted outside.
+
+A perfect lock up &amp; go holiday home with excellent potential for renting.
+
+REF:  C3901
 ">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
-        <meta itemprop="price" content="850000">
+        <meta itemprop="price" content="418000">
     </div>
 </div>
 
 
 <div class="prop">
-    <a class="prop__link" href="/property-for-sale/rural-land-aljezur-ref_n360/24315"></a>
-
-        <span class="prop__stamp">PRICE REDUCED</span>
+    <a class="prop__link" href="/property-for-sale/townhouse-aljezur-ref_c3901/24307"></a>
 
 
 
 
 
-    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/10fa759d-aa92-48ea-b161-ddbe13b7f2a8/24315/5e0efe8b-10d4-4ed7-a126-456c912b04b0.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
+
+    <div class="prop__img" style="background-image: url(https://cdn.proppy.app/propertyphotos/43/10fa759d-aa92-48ea-b161-ddbe13b7f2a8/24307/625e4b08-fa9d-4aee-9ef1-ce51294483c2.jpg?quality=80&amp;width=650&amp;height=448&amp;mode=crop);" role="img" aria-label="Photo"></div>
     <div class="prop__panel">
-        <p class="prop__title">AGRICULTURAL BUSINESS FOR SALE IN THE NATURAL PARK</p>
-            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>850.000 €</strong></span></p>
-        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24315" data-action-text="REF: N360" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
+        <p class="prop__title">THREE BEDROOM TOWNHOUSE, ESPARTAL, MONTE CLERIGO</p>
+            <p><span class="prop__location">Aljezur</span> <span class="prop__price"><strong>418.000 €</strong></span></p>
+        <button class="fa fa-heart-o js-toggleFavorite" type="button" data-prop-id="24307" data-action-text="REF: C3901" title="Add to favorites" data-add-title="Add to favorites" data-remove-title="Remove from favorites"></button>
 
-        <p><span class="prop__reference">Ref: N360</span></p>
+        <p><span class="prop__reference">Ref: C3901</span></p>
     </div>
 </div>]]></content>
     </entry>
