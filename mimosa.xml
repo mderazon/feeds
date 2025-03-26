@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-03-26T05:40:01.719Z</updated>
+    <updated>2025-03-26T17:39:05.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
@@ -704,83 +704,6 @@
     </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 585.000 €]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/"/>
-        <updated>2025-03-16T17:35:55.069Z</updated>
-        <content type="html"><![CDATA[<div class="card-imovel_flex">
-        <div class="card-imovel_inner">
-            <div class="card-imovel_img">
-                <a href="/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/" class="card-imovel_link"></a>
-                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
-                    <div class="swiper-pagination"></div>
-                    <div class="swiper-navigation-holder">
-                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
-                            <span class="icon-ma icon-nav_swiper"></span>
-                        </div>
-                    </div>
-                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2M4NTFiYTdkLTc0ZTgtNDNlZS1iMmEwLTdiY2Q3OGM5M2Q1ZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp 800w, https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr4.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzc0NzA4ZmQyLTU1NDgtNDNhOC05MzIyLWE1NTRlNzY5MmQ3Yi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2LzhhNGEwZDM3LTU4YTItNGRjZS05MDA3LTA3NzVmMzlkOWE3Mi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2Lzk1NzYzOGZmLTg2N2MtNGExNi1iZmUyLWYyY2RmMGQ3MDBhZC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zODA2L2FkMTIwMGY5LTg1MDUtNGRjYS1hYzNlLTQwNGNkZDU1MjlhMy5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></li></ul>
-                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-                <div class="card-imovel_labels">
-                </div>
-                <div class="card-imovel_labels_vendido">
-                </div>
-                <div class="card-imovel_ce">
-                    <img alt="Moradia 5 Quartos em Vale da Telha" src="https://media.ximo.pt/images/CERTIFICACAO/64/4.png">
-                </div>
-                <div class="card-imovel_info-top">
-                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=26&amp;es=&amp;ct=00000001&amp;or=30" title="Karel van_der_A" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/26.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/26.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/26.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia 5 Quartos em Vale da Telha"></a>
-                    <div class="card-imovel_media-label">
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="card-imovel_holder-texts">
-            <div class="card-imovel_info">
-                <div class="card-imovel_info-right">
-                    <div class="card-imovel_preco">
-                        <div class="precos-wrapper ma-font-00">
-                            <span class="preco_actual ma-font-17">585.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
-                        </div>
-
-                        <div class="card-imovel_btns-holder">
-                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3806">
-                                <i class="icon-ma icon-pedido-info-dark"></i>
-                            </span>
-                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3806">
-                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
-                            </span>
-                        </div>
-
-                    </div>
-                </div>
-                <div class="card-imovel_info-left">
-                    <header class="card-imovel_titles">
-                        <a href="/pt/imoveis/moradia-5-quartos-em-vale-da-telha_3806/" title="Moradia 5 Quartos em Vale da Telha" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia 5 Quartos em Vale da Telha</span></a>
-                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
-                    </header>
-                </div>
-
-            </div>
-            <div class="card-imovel_caracteristicas ma-font-02 mobile">
-                <div class="card-imovel_caracteristicas_scroll js-scroll">
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
-                    <span class="lbl_valor">5</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
-                    <span class="lbl_valor">2</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
-                        <span class="lbl_valor">200 m²</span><span class="tooltip"> A. Útil</span></div>
-                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
-                        <span class="lbl_valor">1140 m²</span><span class="tooltip"> A. Terreno</span></div>
-                </div>
-            </div>
-        </div>
-    </div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ 1.399.000 €]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/</id>
         <link href="https://www.mimosaproperties.com/pt/imoveis/quinta-espetacular-em-aljezur-oportunidade-de-investimento-turistico_3747/"/>
@@ -932,6 +855,92 @@
                         <span class="lbl_valor">156 m²</span><span class="tooltip"> A. Útil</span></div>
                     <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
                         <span class="lbl_valor">730 m²</span><span class="tooltip"> A. Terreno</span></div>
+                </div>
+            </div>
+        </div>
+    </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 670.000 €]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/"/>
+        <updated>2025-03-26T17:38:13.519Z</updated>
+        <content type="html"><![CDATA[<div class="card-imovel_flex">
+        <div class="card-imovel_inner">
+            <div class="card-imovel_img">
+                <a href="/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/" class="card-imovel_link"></a>
+                <div class="swiper-container js-swiper-imovel-card swiper-container-initialized swiper-container-horizontal">
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-navigation-holder">
+                        <div class="swiper-button swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                        <div class="swiper-button swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+                            <span class="icon-ma icon-nav_swiper"></span>
+                        </div>
+                    </div>
+                    <ul class="swiper-wrapper" style="transition-duration: 0ms; transform: translate3d(-367px, 0px, 0px);"><li class="swiper-slide swiper-slide-duplicate swiper-slide-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></li><li class="swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></li><li class="swiper-slide swiper-slide-next" data-swiper-slide-index="1" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzI4ZGQ5Y2E5LTYyNGUtNDQ0ZC1hMzAyLWU1MTNiMGM2MDg5MC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzI4ZGQ5Y2E5LTYyNGUtNDQ0ZC1hMzAyLWU1MTNiMGM2MDg5MC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzI4ZGQ5Y2E5LTYyNGUtNDQ0ZC1hMzAyLWU1MTNiMGM2MDg5MC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzI4ZGQ5Y2E5LTYyNGUtNDQ0ZC1hMzAyLWU1MTNiMGM2MDg5MC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></li><li class="swiper-slide" data-swiper-slide-index="2" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwL2IwNDRjNTA5LTIzYjYtNDczNC1hMzQ0LWU0YTY1MTgyODA2MC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwL2IwNDRjNTA5LTIzYjYtNDczNC1hMzQ0LWU0YTY1MTgyODA2MC5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwL2IwNDRjNTA5LTIzYjYtNDczNC1hMzQ0LWU0YTY1MTgyODA2MC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwL2IwNDRjNTA5LTIzYjYtNDczNC1hMzQ0LWU0YTY1MTgyODA2MC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></li><li class="swiper-slide" data-swiper-slide-index="3" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzYxZDgwZWRlLWM1NWEtNGUxOC05NGFlLThjZmRiY2M4ZGMxYi5qcGdfaWNvLmpwZw.webp 1920w,https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzYxZDgwZWRlLWM1NWEtNGUxOC05NGFlLThjZmRiY2M4ZGMxYi5qcGdfaWNvLmpwZw.webp 800w, https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzYxZDgwZWRlLWM1NWEtNGUxOC05NGFlLThjZmRiY2M4ZGMxYi5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr3.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzYxZDgwZWRlLWM1NWEtNGUxOC05NGFlLThjZmRiY2M4ZGMxYi5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></li><li class="swiper-slide swiper-slide-duplicate-prev" data-swiper-slide-index="4" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp 1920w,https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp 800w, https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr2.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzk3YTExNTRlLTBlZDctNDZiOC04MDNiLTAzMzk2MzA2ZWQ3My5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></li><li class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 367px;"><img class="js-imagescale lazy " data-align="center" data-scale="best-fill" srcset="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp 1920w,https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp 800w, https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp 480w" data-src="https://cdr1.ximocrm.com/image-optimizer/resize:fit:480:360:0/aHR0cHM6Ly9tZWRpYW1pbW9zYXZlbnR1cmUueGltby5wdC8vaW1vdmVpcy8zNjQwLzBmZDcxMjNlLTczNjAtNGYxYS1iYmU2LWJhZDZiYmE4MzM0OC5qcGdfaWNvLmpwZw.webp" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></li></ul>
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+                <div class="card-imovel_labels">
+                    <div class="card-imovel_label  baixa-lbl-color" style="">
+                        <span class="ma-font-03">
+                            Baixa de preço
+                        </span>
+                    </div>
+                </div>
+                <div class="card-imovel_labels_vendido">
+                </div>
+                <div class="card-imovel_ce">
+                    <img alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade" src="https://media.ximo.pt/images/CERTIFICACAO/64/5.png">
+                </div>
+                <div class="card-imovel_info-top">
+                    <a href="/pt/imoveis/?pg=1&amp;o=&amp;g=&amp;e=&amp;pp=&amp;dd=&amp;cc=&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=3&amp;es=&amp;ct=00000001&amp;or=30" title="Erik Heijselaar" class="card-imovel_consultor"><img class="js-imagescale loaded img-angariador lazy " data-src="https://mediamimosaventure.ximo.pt//angariadores/3.jpg" data-imagemzero="https://mediamimosaventure.ximo.pt//angariadores/0.jpg" onerror="master.imagemZero(this);" srcset="https://mediamimosaventure.ximo.pt//angariadores/3.jpg 600w, https://mediamimosaventure.ximo.pt//angariadores/3.jpg 1920w" sizes="(max-width: 980px) 100vw, 1920px" src="https://mediamimosaventure.ximo.pt//imoveis/0.jpg" alt="Moradia T4 no Vale da Telha - Natureza e tranquilidade"></a>
+                    <div class="card-imovel_media-label">
+                        
+                                <div class="card-imovel_video rounded">
+                                    <i class="icon-ma icon-videos_premium"></i>
+                                </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-imovel_holder-texts">
+            <div class="card-imovel_info">
+                <div class="card-imovel_info-right">
+                    <div class="card-imovel_preco">
+                        <div class="precos-wrapper ma-font-00">
+                            <span class="preco_actual ma-font-17">670.000 €</span><span class="preco_antigo"></span><span class="price-percent"></span>
+                        </div>
+
+                        <div class="card-imovel_btns-holder">
+                            <span class="card-imovel_pedido-holder js-pedido-info card-imovel_btn" data-id="3640">
+                                <i class="icon-ma icon-pedido-info-dark"></i>
+                            </span>
+                            <span class="card-imovel_fav-holder js-add-favoritos card-imovel_btn" data-id="3640">
+                                <i class="icon-ma icon-fav-off card-imovel_fav_add "></i>
+                            </span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="card-imovel_info-left">
+                    <header class="card-imovel_titles">
+                        <a href="/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/" title="Moradia T4 no Vale da Telha - Natureza e tranquilidade" class="card-imovel_titulo"><span class="titulo ma-font-06">Moradia T4 no Vale da Telha - Natureza e tranquilidade</span></a>
+                        <span title="Aljezur, Vale da Telha" class="subtitulo card-imovel_localidade ma-font-01">Aljezur, Vale da Telha</span>
+                    </header>
+                </div>
+
+            </div>
+            <div class="card-imovel_caracteristicas ma-font-02 mobile">
+                <div class="card-imovel_caracteristicas_scroll js-scroll">
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-quartos_premium "></span></span>
+                    <span class="lbl_valor">4</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-wc_premium "></span></span>
+                    <span class="lbl_valor">3</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-area_premium "></span></span>
+                        <span class="lbl_valor">182 m²</span><span class="tooltip"> A. Útil</span></div>
+                    <div class="js-tooltip"><span class="icone"><span class="ico icon-ma icon-terreno_premium "></span></span>
+                        <span class="lbl_valor">850 m²</span><span class="tooltip"> A. Terreno</span></div>
                 </div>
             </div>
         </div>
