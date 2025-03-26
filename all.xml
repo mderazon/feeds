@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-25T17:38:58.060Z</updated>
+    <updated>2025-03-26T05:40:01.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (Marcela Properties)]]></title>
@@ -88,7 +88,9 @@ To the side of the house there is a separate access to a store room which could 
 The house has newly fitted photovoltaic solar panels for increased efficiency and convenience.
 The house has been very well maintained and would make a perfect family home or investment for holiday lettings.
 
-BOOK YOUR VISIT TODAY!">
+BOOK YOUR VISIT TODAY!
+
+REF: C4003">
     <div itemprop="offers" itemscope="" itemtype="http://schema.org/Offer">
         <meta itemprop="priceCurrency" content="EUR">
         <meta itemprop="price" content="575000">
