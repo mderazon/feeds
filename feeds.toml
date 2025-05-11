@@ -19,11 +19,11 @@ contentSelector = ["img", "p"]
 [mimosa]
 title = "Mimosa"
 url = "https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&o=1&g=&e=&pp=176&dd=08&cc=03&ff=&ml=&z=&nq=&p=&a=&c=&es=&ct=00000001&or=30&idioma=pt1"
-entrySelector = ".card-imovel"
+entrySelector = ".card-imovel_flex"
 waitUntil = "networkidle"
-titleSelector = ["h1.ma-font-00", "span.preco_actual"]
-linkSelector = "header.card-imovel_titles > a[href]"
-contentSelector = "h2.card-imovel_localidade"
+titleSelector = [".preco_actual", ".card-imovel_titulo .titulo"]
+linkSelector = ".card-imovel_titulo[href]"
+contentSelector = [".card-imovel_img img", ".card-imovel_localidade"]
 
 [century21]
 title = "Century 21"
