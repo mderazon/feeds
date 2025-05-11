@@ -64,7 +64,8 @@ contentSelector = [".carousel-item.active img", ".listing_details.the_grid_view"
 [swplaces]
 title = "SW-Places"
 url = "https://sw-places.com/properties?location=%7B%22620%22:%7B%221%22:%7B%228%22:%7B%223%22:%7B%7D%7D%7D%7D%7D"
-entrySelector = ".row.property-area.ng-star-inserted"
+entrySelector = ".row.property-area"
 waitUntil = "load"
-titleSelector = ".property-title"
-linkSelector = ".property-data a[href]"
+titleSelector = [".property-title", ".title.mt-3"]
+linkSelector = ".property-title a[href]"
+contentSelector = [".homes-img img", ".preview-description", ".homes-list", ".title.mt-3"]
