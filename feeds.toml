@@ -78,3 +78,12 @@ titleSelector = [".propertyItemStyle3__panel__title", ".propertyItemStyle3__pane
 linkSelector = "a.propertyItemStyle3[href]"
 contentSelector = [".propertyItemStyle3__img", ".propertyItemStyle3__panel__title", ".propertyItemStyle3__panel__price", ".propertyItemStyle3__panel__info"]
 waitUntil = "networkidle"
+
+[cosmos]
+title = "Cosmos"
+url = "https://www.cosmosportugal.com/en-gb/properties/aljezur"
+entrySelector = ".propertyItem[data-type='PropertyListItem']"
+titleSelector = [".propertyTitle", ".propertyPrice"]
+linkSelector = ".propertyItemWrap.propertyItemInner[href]"
+contentSelector = [".propertyImage", ".propertyTitle", ".propertyDescription", ".propertyReference", ".detailWrapper", ".propertyPrice"]
+waitUntil = "networkidle"
