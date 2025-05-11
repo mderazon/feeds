@@ -3,8 +3,9 @@ title = "Marcela Properties"
 url = "https://www.marcelapropriedades.com/properties-for-sale/-1/-1/-1/-1/-1/720/-/0/0/0/0/0/0/-/-1"
 entrySelector = "li.propsList__col"
 waitUntil = "networkidle"
-titleSelector = "meta[itemprop=name][content]"
-linkSelector = "a.prop__link[href]"
+titleSelector = ["p:first-of-type", "p:nth-of-type(2) strong"]
+linkSelector = "a[href]:first-of-type"
+contentSelector = ["img", "p:first-of-type"]
 
 [remax]
 title = "Remax Aljezur"
