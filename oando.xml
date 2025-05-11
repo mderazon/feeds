@@ -1,8 +1,293 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://oando.pt/westalgarve/properties/?search_location=&amp;mscbo_city%5B%5D=city-aljezur&amp;mscbo_locality%5B%5D=locality-aljezur&amp;location_zone%5B%5D=Aljezur&amp;location_zone%5B%5D=Espartal&amp;location_zone%5B%5D=Paisagem+Oceano&amp;location_zone%5B%5D=Vale+Da+Telha&amp;mscbo_locality%5B%5D=locality-bordeira&amp;location_zone%5B%5D=Carrapateira&amp;mscbo_locality%5B%5D=locality-rogil&amp;location_zone%5B%5D=Rogil&amp;property_price_min=-1&amp;property_price_max=-1&amp;property_reference=</id>
+    <id>https://oando.pt/westalgarve/advanced-search/?lang=en&amp;advanced_city%5B%5D=aljezur&amp;bedrooms=&amp;wcs=&amp;price_low=No+Value&amp;price_max=No+Value&amp;price_label_component=&amp;reference=&amp;submit=Search+Properties&amp;wpestate_regular_search_nonce=d73ae0a8d0&amp;_wp_http_referer=%2Fwestalgarve%2Fproperties%2F%3Fsearch_location%26mscbo_city%255B0%255D%3Dcity-aljezur%26mscbo_locality%255B0%255D%3Dlocality-aljezur%26mscbo_locality%255B1%255D%3Dlocality-bordeira%26mscbo_locality%255B2%255D%3Dlocality-rogil%26location_zone%255B0%255D%3DAljezur%26location_zone%255B1%255D%3DEspartal%26location_zone%255B2%255D%3DPaisagem%2BOceano%26location_zone%255B3%255D%3DVale%2BDa%2BTelha%26location_zone%255B4%255D%3DCarrapateira%26location_zone%255B5%255D%3DRogil%26property_price_min%3D-1%26property_price_max%3D-1%26property_reference</id>
     <title>Oando</title>
-    <updated>2025-05-11T22:19:59.637Z</updated>
+    <updated>2025-05-11T22:28:40.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://oando.pt/westalgarve/wp-content/uploads/2025/03/logo-36x36.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SPACIOUS  3 BEDROOM VILLA WITH POOL AND ... 749,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/spacious-3-bedroom-villa-with-pool-and-annex/</id>
+        <link href="https://oando.pt/westalgarve/property/spacious-3-bedroom-villa-with-pool-and-annex/"/>
+        <updated>2025-05-11T22:28:34.965Z</updated>
+        <content type="html"><![CDATA[ This spacious and well maintained three bedroom villa, located in the heart of the Costa V  ... 4
+    
+    3
+    
+    264 
+
+
+
+
+
+      
+1194details RSV100-1089]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVELY THREE BEDROOM VILLA WITH POOL, VA... 599,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/lovely-three-bedroom-villa-with-pool-vale-da-telha/</id>
+        <link href="https://oando.pt/westalgarve/property/lovely-three-bedroom-villa-with-pool-vale-da-telha/"/>
+        <updated>2025-05-11T22:28:34.975Z</updated>
+        <content type="html"><![CDATA[ Located on the superb Algarvian West coast just a few minutes from the charming town of Al  ... 3
+    
+    2
+    
+    185 
+
+
+
+
+
+      
+1280details RSV100-1088]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIQUE MONTE CLERIGO BEACH PROPERTY FOR ... 195,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/unique-monte-clerigo-beach-property-for-renovation/</id>
+        <link href="https://oando.pt/westalgarve/property/unique-monte-clerigo-beach-property-for-renovation/"/>
+        <updated>2025-05-11T22:28:34.977Z</updated>
+        <content type="html"><![CDATA[ O&O Real Estate would like to present a rare opportunity to acquire a beach property, for   ... 2
+    
+    1
+    
+    36 
+
+
+
+
+
+      
+100details RSV100-1083]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plot of Land for Construction 195,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/plot-of-land-for-construction/</id>
+        <link href="https://oando.pt/westalgarve/property/plot-of-land-for-construction/"/>
+        <updated>2025-05-11T22:28:34.980Z</updated>
+        <content type="html"><![CDATA[ Discover this wonderful plot in the charming urbanisation of Espartal with an approved pro  ... 5
+    
+    5
+    
+    267,5 
+
+
+
+
+
+      
+583,89details PH100-122]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEAUTIFUL 4 BEDROOM VILLA WITH POOL IN V... 799,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/beautiful-4-bedroom-villa-with-pool-in-vale-da-telha/</id>
+        <link href="https://oando.pt/westalgarve/property/beautiful-4-bedroom-villa-with-pool-in-vale-da-telha/"/>
+        <updated>2025-05-11T22:28:34.981Z</updated>
+        <content type="html"><![CDATA[ It gives us great pleasure here at O&O Portugal to offer to the most discerning buyers a v  ... 4
+    
+    2
+    
+    258 
+
+
+
+
+
+      
+1244details RSV100-1079]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excellent Opportunity in Aljezur 990,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/excellent-opportunity-in-aljezur/</id>
+        <link href="https://oando.pt/westalgarve/property/excellent-opportunity-in-aljezur/"/>
+        <updated>2025-05-11T22:28:34.983Z</updated>
+        <content type="html"><![CDATA[ O&O Portugal is pleased and privileged to bring to the market a beautiful property that of  ... 4
+    
+    4
+    
+    292 
+
+
+
+
+
+      
+31160details RSV100-1073]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BEAUTIFUL DETACHED VILLA WITH POOL 499,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/beautiful-detached-villa-with-pool/</id>
+        <link href="https://oando.pt/westalgarve/property/beautiful-detached-villa-with-pool/"/>
+        <updated>2025-05-11T22:28:34.984Z</updated>
+        <content type="html"><![CDATA[ O&O Has the pleasure to present you with this beautifully finished villa in Paisagem Ocean  ... 4
+    
+    2
+    
+    180 
+
+
+
+
+
+      
+648details RSV100-1069]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[*SOLD SUBJECT TO CONTRACT* Incredible 5 ... 850,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/sold-subject-to-contract-incredible-5-bedroom-villa-with-pool-vale-da-telha/</id>
+        <link href="https://oando.pt/westalgarve/property/sold-subject-to-contract-incredible-5-bedroom-villa-with-pool-vale-da-telha/"/>
+        <updated>2025-05-11T22:28:34.986Z</updated>
+        <content type="html"><![CDATA[ O&O Properties, Portugal, are privileged to bring to the international market and to the a  ... 5
+    
+    4
+    
+    296 
+
+
+
+
+
+      
+970details RSV100-1067]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T2 + 1 Villa in Vales, Aljezur 399,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/t2-1-villa-in-vales-aljezur/</id>
+        <link href="https://oando.pt/westalgarve/property/t2-1-villa-in-vales-aljezur/"/>
+        <updated>2025-05-11T22:28:34.988Z</updated>
+        <content type="html"><![CDATA[ The opportunity has risen for a buyer seeking a sunshine Algarvean home in an area surroun  ... 2
+    
+    2
+    
+    120 
+
+
+
+
+
+      
+500details RSV100-1065]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern 3 bedroom Villa Under Constructio... ]]></title>
+        <id>https://oando.pt/westalgarve/property/modern-3-bedroom-villa-under-construction/</id>
+        <link href="https://oando.pt/westalgarve/property/modern-3-bedroom-villa-under-construction/"/>
+        <updated>2025-05-11T22:28:34.989Z</updated>
+        <content type="html"><![CDATA[ For those people who desire coastal living but wish to avoid areas of mass tourism, O&O ha  ... 3
+    
+    4
+    
+    262 
+
+
+
+
+
+      
+794details D23E]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aljezur Land For Investment 2,600,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/aljezur-land-for-investment/</id>
+        <link href="https://oando.pt/westalgarve/property/aljezur-land-for-investment/"/>
+        <updated>2025-05-11T22:28:34.990Z</updated>
+        <content type="html"><![CDATA[ O&O Portugal are pleased to announce that an amazing opportunity has arisen for a person w  ... 380250details PH100-114]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONTEMPORARY NEWLY COMPLETED 4 BEDROOM V... 874,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/contemporary-newly-completed-4-bedroom-villa/</id>
+        <link href="https://oando.pt/westalgarve/property/contemporary-newly-completed-4-bedroom-villa/"/>
+        <updated>2025-05-11T22:28:34.992Z</updated>
+        <content type="html"><![CDATA[ O&O Portugal is proud to offer to the marketand to the most discerning buyersone of the mo  ... 4
+    
+    5
+    
+    495 
+
+
+
+
+
+      
+495details RSV100-1042]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Bedroom Villa With Pool, Vale da Telha ]]></title>
+        <id>https://oando.pt/westalgarve/property/4-bedroom-villa-with-pool-vale-da-telha/</id>
+        <link href="https://oando.pt/westalgarve/property/4-bedroom-villa-with-pool-vale-da-telha/"/>
+        <updated>2025-05-11T22:28:34.993Z</updated>
+        <content type="html"><![CDATA[ We are proud and privileged to offer to the discerning buyer a beautiful villa that enjoys  ... 4
+    
+    3 
+
+
+
+
+
+      
+910details RSV100-1034]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXCLUSIVE  AND IMMACULATE THREE BEDROOM ... ]]></title>
+        <id>https://oando.pt/westalgarve/property/exclusive-and-immaculate-three-bedroom-villa-aljezur/</id>
+        <link href="https://oando.pt/westalgarve/property/exclusive-and-immaculate-three-bedroom-villa-aljezur/"/>
+        <updated>2025-05-11T22:28:34.995Z</updated>
+        <content type="html"><![CDATA[ We are proud to offer to the market, and in particular to the discerning buyer seeking an   ... 3
+    
+    2 
+
+
+
+
+
+      
+790details RSV100-1030]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPERB, NEW, TWO BEDROOM APARTMENTS ESPA... ]]></title>
+        <id>https://oando.pt/westalgarve/property/superb-new-two-bedroom-apartments-espartal-aljezur/</id>
+        <link href="https://oando.pt/westalgarve/property/superb-new-two-bedroom-apartments-espartal-aljezur/"/>
+        <updated>2025-05-11T22:28:34.997Z</updated>
+        <content type="html"><![CDATA[ O&O are offering for sale to the investor or holiday-home seeker a choice of two-bedroom a  ... 2
+    
+    2 
+
+
+
+
+
+      
+128,45details D23d]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Villa and Restaurant in Rogil, Aljezur 700,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/villa-and-restaurant-in-rogil-aljezur/</id>
+        <link href="https://oando.pt/westalgarve/property/villa-and-restaurant-in-rogil-aljezur/"/>
+        <updated>2025-05-11T22:28:34.998Z</updated>
+        <content type="html"><![CDATA[ O&O have been chosen to offer buyers a rare opportunity to purchase a popular traditional   ... 5
+    
+    6 
+
+
+
+
+
+      
+570,27details RSV100-1012]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPERB INVESTMENT OPPORTUNITY algarve 1,300,000 €]]></title>
+        <id>https://oando.pt/westalgarve/property/superb-investment-opportunity-algarve/</id>
+        <link href="https://oando.pt/westalgarve/property/superb-investment-opportunity-algarve/"/>
+        <updated>2025-05-11T22:28:35.000Z</updated>
+        <content type="html"><![CDATA[ O&O are privileged to offer buyers a rare opportunity to purchase a dual-purpose property   ... 8
+    
+    9 
+
+
+
+
+
+      
+1500details RSV100-975]]></content>
+    </entry>
 </feed>
