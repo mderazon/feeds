@@ -63,8 +63,8 @@ contentSelector = [".carousel-item.active img", ".listing_details.the_grid_view"
 
 [swplaces]
 title = "SW-Places"
-url = "https://sw-places.com/properties?location=%7B%22620%22:%7B%221%22:%7B%228%22:%7B%223%22:%7B%7D%7D%7D%7D%7D"
-entrySelector = ".row.property-area"
+url = "https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D"
+entrySelector = "div.row.property-area:has(.property-title)"
 waitUntil = "load"
 titleSelector = [".property-title", ".title.mt-3"]
 linkSelector = ".property-title a[href]"
