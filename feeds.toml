@@ -105,3 +105,12 @@ titleSelector = [".titulo-4", ".paginacion-ficha-tituloprecio-4"]
 linkSelector = ".irAfichaPropiedad[href]"
 contentSelector = [".paginacion-ficha-bloque1-4", ".titulo-4", ".paginacion-ficha-tituloprecio-4", ".paginacion-ficha-masdatos-4", ".paginacion-referencia"]
 waitUntil = "networkidle"
+
+[guthrie]
+title = "Guthrie Rocha Properties"
+url = "https://www.guthrierochaproperties.com/imoveis?limit=18&sort=1&distrito=18&concelho=266&tipologia-min=T0&tipologia-max=T6%20ou%20Superior&"
+entrySelector = ".card-container"
+titleSelector = [".card-title a", ".card-price"]
+linkSelector = ".card-title a[href]"
+contentSelector = [".card-photo", ".card-title", ".card-price", ".card-location", ".card-ref", ".card-icon-container"]
+waitUntil = "networkidle"
