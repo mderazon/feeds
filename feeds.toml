@@ -87,3 +87,12 @@ titleSelector = [".propertyTitle", ".propertyPrice"]
 linkSelector = ".propertyItemWrap.propertyItemInner[href]"
 contentSelector = [".propertyImage", ".propertyTitle", ".propertyDescription", ".propertyReference", ".detailWrapper", ".propertyPrice"]
 waitUntil = "networkidle"
+
+[costa]
+title = "Costa Properties"
+url = "https://www.costaproperties.pt/en-gb/properties/aljezur"
+entrySelector = ".propertyItem[data-type='PropertyListItem']"
+titleSelector = [".propertyTitle", ".propertyPrice"]
+linkSelector = ".propertyItemWrap.propertyItemInner[href]"
+contentSelector = [".propertyImage", ".propertyTitle", ".propertyDescription", ".propertyReference", ".detailWrapper", ".propertyPrice"]
+waitUntil = "networkidle"
