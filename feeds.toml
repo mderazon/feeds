@@ -69,3 +69,12 @@ waitUntil = "load"
 titleSelector = [".property-title", ".title.mt-3"]
 linkSelector = ".property-title a[href]"
 contentSelector = [".homes-img img", ".preview-description", ".homes-list", ".title.mt-3"]
+
+[mikasa]
+title = "Mikasa"
+url = "https://www.mikasainvest.pt/en/lista-propriedades?city=720&order=0"
+entrySelector = "a.propertyItemStyle3"
+titleSelector = [".propertyItemStyle3__panel__title", ".propertyItemStyle3__panel__price"]
+linkSelector = "a.propertyItemStyle3[href]"
+contentSelector = [".propertyItemStyle3__img", ".propertyItemStyle3__panel__title", ".propertyItemStyle3__panel__price", ".propertyItemStyle3__panel__info"]
+waitUntil = "networkidle"
