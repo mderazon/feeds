@@ -27,11 +27,12 @@ contentSelector = [".card-imovel_img img", ".card-imovel_localidade"]
 
 [century21]
 title = "Century 21"
-url = "https://www.century21global.com/en/l/homes-for-sale/Portugal,Faro-%28Algarve%29,Aljezur-%28Algarve%29?max=100&sort=PRICE&order=ASC"
-entrySelector = ".listings-item"
+url = "https://www.century21global.com/en/l/homes-for-sale/portugal,faro,aljezur?sort=PRICE&order=ASC"
+entrySelector = "site-property-thumbnail"
 waitUntil = "networkidle"
-titleSelector = "address"
-linkSelector = "site-property-thumbnail a[href]"
+titleSelector = [".mat-display-1", ".fw-semibold.mb-0"]
+linkSelector = "a[href^='/en/p/']"
+contentSelector = ["img", ".fw-semibold.mb-0"]
 
 [provenda]
 title = "Provenda"
