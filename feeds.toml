@@ -96,3 +96,12 @@ titleSelector = [".propertyTitle", ".propertyPrice"]
 linkSelector = ".propertyItemWrap.propertyItemInner[href]"
 contentSelector = [".propertyImage", ".propertyTitle", ".propertyDescription", ".propertyReference", ".detailWrapper", ".propertyPrice"]
 waitUntil = "networkidle"
+
+[westcoast]
+title = "West Coast Realty Aljezur"
+url = "https://www.westcoastrealtyaljezur.com/index.php?areas=24075_id&buscador=1&idio=2&res=48&pag=1&orden=5#modulo-paginacion"
+entrySelector = "article.propiedad"
+titleSelector = [".titulo-4", ".paginacion-ficha-tituloprecio-4"]
+linkSelector = ".irAfichaPropiedad[href]"
+contentSelector = [".paginacion-ficha-bloque1-4", ".titulo-4", ".paginacion-ficha-tituloprecio-4", ".paginacion-ficha-masdatos-4", ".paginacion-referencia"]
+waitUntil = "networkidle"
