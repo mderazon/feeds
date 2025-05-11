@@ -39,8 +39,9 @@ title = "Provenda"
 url = "https://www.provenda.net/en/properties/"
 entrySelector = ".listw"
 waitUntil = "networkidle"
-titleSelector = ".lptitle"
-linkSelector = "a.lptitle[href]"
+titleSelector = [".lpprice", ".lptitle"]
+linkSelector = ".lptitle[href]"
+contentSelector = [".limg img", ".lptext"]
 
 [era]
 title = "ERA Aljezur"
