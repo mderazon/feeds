@@ -48,24 +48,18 @@ title = "ERA Aljezur"
 url = "https://www.era.pt/en/buy?ob=1&tp=1,2&lc=08-03&page=1&ord=3"
 entrySelector = ".card"
 waitUntil = "networkidle"
-titleSelector = "div.content > a > span"
+titleSelector = [".price-value", ".location"]
 linkSelector = "a.card__gallery[href]"
+contentSelector = [".slide[style*='background-image: url']", ".location", ".property-type", ".property-details"]
 
 [oando]
 title = "Oando"
-url = "https://oando.pt/westalgarve/properties/?search_location=&mscbo_city%5B%5D=city-aljezur&mscbo_locality%5B%5D=locality-aljezur&location_zone%5B%5D=Aljezur&location_zone%5B%5D=Espartal&location_zone%5B%5D=Paisagem+Oceano&location_zone%5B%5D=Vale+Da+Telha&mscbo_locality%5B%5D=locality-bordeira&location_zone%5B%5D=Carrapateira&mscbo_locality%5B%5D=locality-rogil&location_zone%5B%5D=Rogil&property_price_min=-1&property_price_max=-1&property_reference="
-entrySelector = ".card-item"
+url = "https://oando.pt/westalgarve/advanced-search/?lang=en&advanced_city%5B%5D=aljezur&bedrooms=&wcs=&price_low=No+Value&price_max=No+Value&price_label_component=&reference=&submit=Search+Properties&wpestate_regular_search_nonce=d73ae0a8d0&_wp_http_referer=%2Fwestalgarve%2Fproperties%2F%3Fsearch_location%26mscbo_city%255B0%255D%3Dcity-aljezur%26mscbo_locality%255B0%255D%3Dlocality-aljezur%26mscbo_locality%255B1%255D%3Dlocality-bordeira%26mscbo_locality%255B2%255D%3Dlocality-rogil%26location_zone%255B0%255D%3DAljezur%26location_zone%255B1%255D%3DEspartal%26location_zone%255B2%255D%3DPaisagem%2BOceano%26location_zone%255B3%255D%3DVale%2BDa%2BTelha%26location_zone%255B4%255D%3DCarrapateira%26location_zone%255B5%255D%3DRogil%26property_price_min%3D-1%26property_price_max%3D-1%26property_reference"
+entrySelector = ".listing_wrapper"
 waitUntil = "networkidle"
-titleSelector = ".card-item h2"
-linkSelector = "a[href]"
-
-# [century21-pt]
-# title = "Century 21 Portugal"
-# url = "https://www.century21.pt/comprar?q=Portugal%2C%20Faro%20%28Algarve%29%2C%20Aljezur%20%28Algarve%29&page=1&numberOfElements=12&ord=date-desc"
-# entrySelector = "div.card-property"
-# waitUntil = "networkidle"
-# titleSelector = ".c21card__address"
-# linkSelector = "a.c21card__photo[href]"
+titleSelector = [".property-unit-information-wrapper h4 a", ".listing_unit_price_wrapper"]
+linkSelector = ".property-unit-information-wrapper h4 a[href]"
+contentSelector = [".carousel-item.active img", ".listing_details.the_grid_view", ".property_listing_details", ".property-ref"]
 
 [swplaces]
 title = "SW-Places"
