@@ -1,8 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.century21global.com/en/l/homes-for-sale/Portugal,Faro-%28Algarve%29,Aljezur-%28Algarve%29?max=100&amp;sort=PRICE&amp;order=ASC</id>
+    <id>https://www.century21global.com/en/l/homes-for-sale/portugal,faro,aljezur?sort=PRICE&amp;order=ASC</id>
     <title>Century 21</title>
-    <updated>2025-05-11T22:09:00.273Z</updated>
+    <updated>2025-05-11T22:15:03.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://assets.xomio.com/documents/507</icon>
+    <entry>
+        <title type="html"><![CDATA[$392,751 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-088-portugal--rl-133011028</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-088-portugal--rl-133011028"/>
+        <updated>2025-05-11T22:14:24.996Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$403,442 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-014-portugal--rl-133509885</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-014-portugal--rl-133509885"/>
+        <updated>2025-05-11T22:14:24.997Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$774,248 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-320-portugal--rl-134061971</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-320-portugal--rl-134061971"/>
+        <updated>2025-05-11T22:14:24.999Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$983,565 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-119-portugal--rl-134620241</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-119-portugal--rl-134620241"/>
+        <updated>2025-05-11T22:14:25.001Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$1,069,093 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-119-portugal--rl-134620240</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-119-portugal--rl-134620240"/>
+        <updated>2025-05-11T22:14:25.002Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$1,237,897 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-211-portugal--rl-134466396</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-211-portugal--rl-134466396"/>
+        <updated>2025-05-11T22:14:25.004Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$2,813,402 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-211-portugal--rl-135513298</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-211-portugal--rl-135513298"/>
+        <updated>2025-05-11T22:14:25.007Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$15,642,513 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-138-portugal--rl-133818326</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-138-portugal--rl-133818326"/>
+        <updated>2025-05-11T22:14:25.007Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$0 USD Aljezur, Faro, Portugal]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-013-portugal--rl-132788067</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-013-portugal--rl-132788067"/>
+        <updated>2025-05-11T22:14:25.009Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Faro, Portugal]]></content>
+    </entry>
 </feed>
