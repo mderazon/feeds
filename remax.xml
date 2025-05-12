@@ -2,91 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
     <title>Remax Aljezur</title>
-    <updated>2025-05-11T23:06:23.412Z</updated>
+    <updated>2025-05-12T05:42:44.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://remax.pt/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[495 000 € Odeceixe, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.624Z</updated>
+        <updated>2025-05-12T05:40:48.894Z</updated>
         <content type="html"><![CDATA[ Odeceixe, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[349 000 € Odeceixe, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.625Z</updated>
+        <updated>2025-05-12T05:40:48.895Z</updated>
         <content type="html"><![CDATA[ Odeceixe, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1 399 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.626Z</updated>
+        <updated>2025-05-12T05:40:48.897Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[820 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.627Z</updated>
+        <updated>2025-05-12T05:40:48.899Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[950 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.629Z</updated>
+        <updated>2025-05-12T05:40:48.900Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[999 000 € Rogil, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.632Z</updated>
+        <updated>2025-05-12T05:40:48.902Z</updated>
         <content type="html"><![CDATA[ Rogil, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1 400 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.633Z</updated>
+        <updated>2025-05-12T05:40:48.903Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[359 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.636Z</updated>
+        <updated>2025-05-12T05:40:48.905Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[874 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.637Z</updated>
+        <updated>2025-05-12T05:40:48.906Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[850 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.638Z</updated>
+        <updated>2025-05-12T05:40:48.907Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[750 000 € Bordeira, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.640Z</updated>
+        <updated>2025-05-12T05:40:48.909Z</updated>
         <content type="html"><![CDATA[ Bordeira, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[95 000 € Aljezur, Aljezur]]></title>
         <id>https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}</id>
         <link href="https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,%22businessType%22:1,%22listingClass%22:1,%22page%22:1,%22regionID%22:%22357%22,%22regionType%22:%22Region2ID%22,%22sort%22:{%22fieldToSort%22:%22ContractDate%22,%22order%22:1},%22mapIsOpen%22:false,%22regionCoordinates%22:{%22latitude%22:37.301601324483805,%22longitude%22:-8.811593597050145},%22regionZoom%22:12,%22prn%22:%22Aljezur,%20Faro%22}"/>
-        <updated>2025-05-11T23:04:43.641Z</updated>
+        <updated>2025-05-12T05:40:48.910Z</updated>
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
 </feed>
