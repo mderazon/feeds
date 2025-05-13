@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2025-05-13T05:42:10.174Z</updated>
+    <updated>2025-05-13T17:41:22.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[290.000 € Odeceixe, Faro]]></title>
+        <id>https://www.era.pt/en/property/house-t2-aljezur-odeceixe-411250014</id>
+        <link href="https://www.era.pt/en/property/house-t2-aljezur-odeceixe-411250014"/>
+        <updated>2025-05-13T17:40:05.973Z</updated>
+        <content type="html"><![CDATA[House T2 Aljezur, Odeceixe - 1465432 - 10 Odeceixe, Faro House 228570189]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[850.000 € Aljezur, Faro]]></title>
         <id>https://www.era.pt/en/property/house-t4-aljezur-411250013</id>
@@ -102,12 +109,5 @@
         <link href="https://www.era.pt/en/property/semi-detached-house-t2-aljezur-bordeira-411240035"/>
         <updated>2025-04-04T17:37:52.899Z</updated>
         <content type="html"><![CDATA[Apartment Floor Dwelling T2 Aljezur, Bordeira - 1424113 - 2 Bordeira, Faro Semi-Detached House 229898]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[260.000 € Odeceixe, Faro]]></title>
-        <id>https://www.era.pt/en/property/house-t3-aljezur-odeceixe-411240031</id>
-        <link href="https://www.era.pt/en/property/house-t3-aljezur-odeceixe-411240031"/>
-        <updated>2025-04-04T17:37:52.901Z</updated>
-        <content type="html"><![CDATA[House T3 Aljezur, Odeceixe - 1418252 - 1 Odeceixe, Faro House 317070105]]></content>
     </entry>
 </feed>
