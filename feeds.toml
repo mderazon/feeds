@@ -32,7 +32,12 @@ entrySelector = "site-property-thumbnail"
 waitUntil = "networkidle"
 titleSelector = [".mat-display-1", ".fw-semibold.mb-0"]
 linkSelector = "a[href^='/en/p/']"
-contentSelector = ["img", ".fw-semibold.mb-0"]
+contentSelector = [
+    "div.listing-item-image > img",
+    "div[aria-label='Listing type']",
+    "div[aria-label='Size']",
+    ".fw-semibold.mb-0",
+]
 
 [provenda]
 title = "Provenda"
@@ -50,16 +55,29 @@ entrySelector = ".card"
 waitUntil = "networkidle"
 titleSelector = [".price-value", ".location"]
 linkSelector = "a.card__gallery[href]"
-contentSelector = [".slide[style*='background-image: url']", ".location", ".property-type", ".property-details"]
+contentSelector = [
+    ".slide[style*='background-image: url']",
+    ".location",
+    ".property-type",
+    ".property-details",
+]
 
 [oando]
 title = "Oando"
 url = "https://oando.pt/westalgarve/advanced-search/?lang=en&advanced_city%5B%5D=aljezur&bedrooms=&wcs=&price_low=No+Value&price_max=No+Value&price_label_component=&reference=&submit=Search+Properties&wpestate_regular_search_nonce=d73ae0a8d0&_wp_http_referer=%2Fwestalgarve%2Fproperties%2F%3Fsearch_location%26mscbo_city%255B0%255D%3Dcity-aljezur%26mscbo_locality%255B0%255D%3Dlocality-aljezur%26mscbo_locality%255B1%255D%3Dlocality-bordeira%26mscbo_locality%255B2%255D%3Dlocality-rogil%26location_zone%255B0%255D%3DAljezur%26location_zone%255B1%255D%3DEspartal%26location_zone%255B2%255D%3DPaisagem%2BOceano%26location_zone%255B3%255D%3DVale%2BDa%2BTelha%26location_zone%255B4%255D%3DCarrapateira%26location_zone%255B5%255D%3DRogil%26property_price_min%3D-1%26property_price_max%3D-1%26property_reference"
 entrySelector = ".listing_wrapper"
 waitUntil = "networkidle"
-titleSelector = [".property-unit-information-wrapper h4 a", ".listing_unit_price_wrapper"]
+titleSelector = [
+    ".property-unit-information-wrapper h4 a",
+    ".listing_unit_price_wrapper",
+]
 linkSelector = ".property-unit-information-wrapper h4 a[href]"
-contentSelector = [".carousel-item.active img", ".listing_details.the_grid_view", ".property_listing_details", ".property-ref"]
+contentSelector = [
+    ".carousel-item.active img",
+    ".listing_details.the_grid_view",
+    ".property_listing_details",
+    ".property-ref",
+]
 
 [swplaces]
 title = "SW-Places"
@@ -68,15 +86,28 @@ entrySelector = "div.row.property-area:has(.property-title)"
 waitUntil = "load"
 titleSelector = [".property-title", ".title.mt-3"]
 linkSelector = ".property-title a[href]"
-contentSelector = [".homes-img img", ".preview-description", ".homes-list", ".title.mt-3"]
+contentSelector = [
+    ".homes-img img",
+    ".preview-description",
+    ".homes-list",
+    ".title.mt-3",
+]
 
 [mikasa]
 title = "Mikasa"
 url = "https://www.mikasainvest.pt/en/lista-propriedades?city=720&order=0"
 entrySelector = "a.propertyItemStyle3"
-titleSelector = [".propertyItemStyle3__panel__title", ".propertyItemStyle3__panel__price"]
+titleSelector = [
+    ".propertyItemStyle3__panel__title",
+    ".propertyItemStyle3__panel__price",
+]
 linkSelector = "a.propertyItemStyle3[href]"
-contentSelector = [".propertyItemStyle3__img", ".propertyItemStyle3__panel__title", ".propertyItemStyle3__panel__price", ".propertyItemStyle3__panel__info"]
+contentSelector = [
+    ".propertyItemStyle3__img",
+    ".propertyItemStyle3__panel__title",
+    ".propertyItemStyle3__panel__price",
+    ".propertyItemStyle3__panel__info",
+]
 waitUntil = "networkidle"
 
 [cosmos]
@@ -85,7 +116,14 @@ url = "https://www.cosmosportugal.com/en-gb/properties/aljezur"
 entrySelector = ".propertyItem[data-type='PropertyListItem']"
 titleSelector = [".propertyTitle", ".propertyPrice"]
 linkSelector = ".propertyItemWrap.propertyItemInner[href]"
-contentSelector = [".propertyImage", ".propertyTitle", ".propertyDescription", ".propertyReference", ".detailWrapper", ".propertyPrice"]
+contentSelector = [
+    ".propertyImage",
+    ".propertyTitle",
+    ".propertyDescription",
+    ".propertyReference",
+    ".detailWrapper",
+    ".propertyPrice",
+]
 waitUntil = "networkidle"
 
 [costa]
@@ -94,7 +132,14 @@ url = "https://www.costaproperties.pt/en-gb/properties/aljezur"
 entrySelector = ".propertyItem[data-type='PropertyListItem']"
 titleSelector = [".propertyTitle", ".propertyPrice"]
 linkSelector = ".propertyItemWrap.propertyItemInner[href]"
-contentSelector = [".propertyImage", ".propertyTitle", ".propertyDescription", ".propertyReference", ".detailWrapper", ".propertyPrice"]
+contentSelector = [
+    ".propertyImage",
+    ".propertyTitle",
+    ".propertyDescription",
+    ".propertyReference",
+    ".detailWrapper",
+    ".propertyPrice",
+]
 waitUntil = "networkidle"
 
 [westcoast]
@@ -103,7 +148,13 @@ url = "https://www.westcoastrealtyaljezur.com/index.php?areas=24075_id&buscador=
 entrySelector = "article.propiedad"
 titleSelector = [".titulo-4", ".paginacion-ficha-tituloprecio-4"]
 linkSelector = ".irAfichaPropiedad[href]"
-contentSelector = [".paginacion-ficha-bloque1-4", ".titulo-4", ".paginacion-ficha-tituloprecio-4", ".paginacion-ficha-masdatos-4", ".paginacion-referencia"]
+contentSelector = [
+    ".paginacion-ficha-bloque1-4",
+    ".titulo-4",
+    ".paginacion-ficha-tituloprecio-4",
+    ".paginacion-ficha-masdatos-4",
+    ".paginacion-referencia",
+]
 waitUntil = "networkidle"
 
 [guthrie]
@@ -112,5 +163,12 @@ url = "https://www.guthrierochaproperties.com/imoveis?limit=18&sort=1&distrito=1
 entrySelector = ".card-container"
 titleSelector = [".card-title a", ".card-price"]
 linkSelector = ".card-title a[href]"
-contentSelector = [".card-photo", ".card-title", ".card-price", ".card-location", ".card-ref", ".card-icon-container"]
+contentSelector = [
+    ".card-photo",
+    ".card-title",
+    ".card-price",
+    ".card-location",
+    ".card-ref",
+    ".card-icon-container",
+]
 waitUntil = "networkidle"
