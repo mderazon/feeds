@@ -13,8 +13,8 @@ url = "https://remax.pt/en/buy?searchQueryState={%22regionName%22:%22Aljezur%22,
 entrySelector = "a[data-id='listing-card-link']"
 waitUntil = "networkidle"
 titleSelector = ["b span", "p"]
-linkSelector = "a[data-id='listing-card-link']"
-contentSelector = ["img", "p"]
+linkSelector = "*"
+contentSelector = ["div.aspect-w-6.aspect-h-4 img", "p"]
 
 [mimosa]
 title = "Mimosa"
