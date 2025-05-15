@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2025-05-15T05:42:47.180Z</updated>
+    <updated>2025-05-15T17:39:36.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Unique restaurant opportunity on N120 near Aljezur, primed for your success! 800 000 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/unique-restaurant-opportunity-on-n120-near-aljezur-primed-for-your-success/8094370</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/unique-restaurant-opportunity-on-n120-near-aljezur-primed-for-your-success/8094370"/>
+        <updated>2025-05-15T17:39:12.203Z</updated>
+        <content type="html"><![CDATA[ Unique restaurant opportunity on N120 near Aljezur, primed for your success! This exceptional, fully operational restaurant is perfectly located along the bustling N120, just before reaching the charming town of Aljezur. Boasting excellent passing trade, this thriving establi... Ref. C-0020 230 m²                                                                                                                                                                                                                                                                                                                                                                        300 m² 800 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHARMING VILLA NEAR ARRIFANA BEACH 597 000 €]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/charming-villa-near-arrifana-beach/22980954</id>
@@ -83,12 +90,5 @@ This fully... Ref. M-0115 3                                                     
         <link href="https://www.cosmosportugal.com/en-gb/property/charming-t1-1-terrace-house-in-the-heart-of-rogil/21684722"/>
         <updated>2025-05-11T22:44:45.369Z</updated>
         <content type="html"><![CDATA[ Charming T1+1 terrace house in the Heart of Rogil Nestled in the vibrant seaside town of Rogil, this delightful 1-bedroom townhouse with a bonus attic room offers the perfect blend of comfort and convenience. Located only a few steps from local amen... Ref. M-0223 1                                                                                                                                                                                                                                                                                                                                                                        1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        110.75 m²                                                                                                                                                                                                                                                                                                                                                                        150 m² 266 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secluded 65-Hectare Nature Retreat with Agroforestry & Rebuilding Potential 369 000 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/secluded-65-hectare-nature-retreat-with-agroforestry-rebuilding-potential/21385280</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/secluded-65-hectare-nature-retreat-with-agroforestry-rebuilding-potential/21385280"/>
-        <updated>2025-05-11T22:44:45.374Z</updated>
-        <content type="html"><![CDATA[ Secluded 65-Hectare Nature Retreat with Agroforestry & Rebuilding Potential Offering 65 hectares of lush native forest, this unique property is a serene retreat just 10 minutes from the charming town of Aljezur. The land features a rich variety of cork and medronho trees, of... Ref. T-0203 55.5 m²                                                                                                                                                                                                                                                                                                                                                                         657500 m² 369 000 €]]></content>
     </entry>
 </feed>
