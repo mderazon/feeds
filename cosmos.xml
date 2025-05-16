@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2025-05-16T05:42:36.862Z</updated>
+    <updated>2025-05-16T17:41:06.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Immaculate 3 bed Villa in Vale da Telha 530 000 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/immaculate-3-bed-villa-in-vale-da-telha/22684239</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/immaculate-3-bed-villa-in-vale-da-telha/22684239"/>
+        <updated>2025-05-11T22:44:45.362Z</updated>
+        <content type="html"><![CDATA[ Immaculate 3 bed Villa in Vale da Telha This beautifully maintained 3 bedroom, 2 bathroom villa in Vale da Telha is move-in ready, offering an abundance of space, comfort, and natural light. Nestled on a quiet road and just a short walk fr... Ref. M-0224 3                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 197 m² 530 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unique restaurant opportunity on N120 near Aljezur, primed for your success! 800 000 €]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/unique-restaurant-opportunity-on-n120-near-aljezur-primed-for-your-success/8094370</id>
@@ -62,13 +69,6 @@ This fully... Ref. M-0115 3                                                     
         <link href="https://www.cosmosportugal.com/en-gb/property/serene-rustic-retreat-in-aljezur/21652027"/>
         <updated>2025-05-11T22:44:45.360Z</updated>
         <content type="html"><![CDATA[ Serene Rustic Retreat in Aljezur Nestled in the serene countryside of Aljezur, this 1 hectare of rustic land offers an opportunity to own a peaceful retreat surrounded by nature. Accessed via a charming stream crossing, the land has... Ref. T-0221 4250 m² 65 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immaculate 3 bed Villa in Vale da Telha 530 000 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/immaculate-3-bed-villa-in-vale-da-telha/22684239</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/immaculate-3-bed-villa-in-vale-da-telha/22684239"/>
-        <updated>2025-05-11T22:44:45.362Z</updated>
-        <content type="html"><![CDATA[ Immaculate 3 bed Villa in Vale da Telha This beautifully maintained 3 bedroom, 2 bathroom villa in Vale da Telha is move-in ready, offering an abundance of space, comfort, and natural light. Nestled on a quiet road and just a short walk fr... Ref. M-0224 3                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 197 m² 530 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Attractive 3 bed villa with pool in Vale da Telha 660 000 €]]></title>
