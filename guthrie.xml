@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guthrierochaproperties.com/imoveis?limit=18&amp;sort=1&amp;distrito=18&amp;concelho=266&amp;tipologia-min=T0&amp;tipologia-max=T6%20ou%20Superior&amp;</id>
     <title>Guthrie Rocha Properties</title>
-    <updated>2025-05-20T05:42:16.799Z</updated>
+    <updated>2025-05-20T17:42:21.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.guthrierochaproperties.com/imgs/favicon/favicon-32x32.png</icon>
     <entry>
@@ -127,31 +127,6 @@
                 N / A]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Appartement de 81 m² à partir de 2023 à Espartal avec deux...​.. 319.000€]]></title>
-        <id>https://www.guthrierochaproperties.com/imovel-a-vendre-appartement-t2-aljezur-6175549</id>
-        <link href="https://www.guthrierochaproperties.com/imovel-a-vendre-appartement-t2-aljezur-6175549"/>
-        <updated>2025-05-11T22:57:30.908Z</updated>
-        <content type="html"><![CDATA[Appartement
-                    
-
-                    
-                    À Vendre                
-                VENDU Appartement de 81 m² à partir de 2023 à Espartal avec deux...​.. 319.000€ Faro / Aljezur / Aljezur Réf.: GR-K1010 81m2                                
-                                                                    
-                                    
-                                        
-                                            
-                                        
-                                        2
-                                    
-                                                                    
-                                    
-                                        
-                                            
-                                        
-                                        2]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ferme à côté de la plage d'Odeceixe 590.000€]]></title>
         <id>https://www.guthrierochaproperties.com/imovel-a-vendre-ferme-t2-1-aljezur-6174328</id>
         <link href="https://www.guthrierochaproperties.com/imovel-a-vendre-ferme-t2-1-aljezur-6174328"/>
@@ -237,24 +212,6 @@
                     
                     À Vendre                
                 EAU DE RUE ET ACCÈS À LA RIBEIRA TERRAIN RUSTIQUE AVEC ENTREPÔT AGRICOLE 135.000€ Faro / Aljezur / Aljezur Réf.: GR-S996 19m2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maison de 3 chambres entièrement rénovée 665.000€]]></title>
-        <id>https://www.guthrierochaproperties.com/imovel-a-vendre-maison-t3-aljezur-6169821</id>
-        <link href="https://www.guthrierochaproperties.com/imovel-a-vendre-maison-t3-aljezur-6169821"/>
-        <updated>2025-05-11T22:57:30.918Z</updated>
-        <content type="html"><![CDATA[Maison
-                    
-
-                    
-                    À Vendre                
-                VENDU Maison de 3 chambres entièrement rénovée 665.000€ Faro / Aljezur / Aljezur Réf.: GR-J1005 125,45m2                                
-                                                                    
-                                    
-                                        
-                                            
-                                        
-                                        3]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FERME DE 3 CHAMBRES avec de belles vues 980.000€]]></title>
@@ -448,5 +405,56 @@
                                             
                                         
                                         2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terrain à Vale da Telha avec 1 270 m² 90.000€]]></title>
+        <id>https://www.guthrierochaproperties.com/imovel-a-vendre-terrain-aljezur-6137818</id>
+        <link href="https://www.guthrierochaproperties.com/imovel-a-vendre-terrain-aljezur-6137818"/>
+        <updated>2025-05-20T17:42:21.021Z</updated>
+        <content type="html"><![CDATA[Terrain
+                    
+
+                    
+                    À Vendre Terrain à Vale da Telha avec 1 270 m² 90.000€ Faro / Aljezur / Aljezur Réf.: GR-K969 250m2                                
+                                                                    
+                                                
+            
+        
+        
+            
+                N / A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T3 AVEC PISCINE ET GARAGE 597.000€]]></title>
+        <id>https://www.guthrierochaproperties.com/imovel-a-vendre-maison-t3-aljezur-6137813</id>
+        <link href="https://www.guthrierochaproperties.com/imovel-a-vendre-maison-t3-aljezur-6137813"/>
+        <updated>2025-05-20T17:42:21.023Z</updated>
+        <content type="html"><![CDATA[Maison
+                    
+
+                    
+                    À Vendre                
+                AVEC VUE MER T3 AVEC PISCINE ET GARAGE 597.000€ Faro / Aljezur / Aljezur Réf.: GR-J967 121,5m2                                
+                                                                    
+                                    
+                                        
+                                            
+                                        
+                                        3
+                                    
+                                                                    
+                                    
+                                        
+                                            
+                                        
+                                        2
+                                    
+                                                                        
+                                    
+                                        
+                                            
+                                        
+                                        
+                                            Oui]]></content>
     </entry>
 </feed>
