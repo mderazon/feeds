@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2025-05-22T05:43:13.625Z</updated>
+    <updated>2025-05-22T17:40:22.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[Apartment T1 Aljezur, Odeceixe - 1451568 - 10 Odeceixe, Aljezur Apartment 11565620]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[760.000 € Vale da Telha, Aljezur]]></title>
+        <title type="html"><![CDATA[750.000 € Vale da Telha, Aljezur]]></title>
         <id>https://www.era.pt/en/property/house-t6-swimming-pool-aljezur-vale-da-telha-411250001</id>
         <link href="https://www.era.pt/en/property/house-t6-swimming-pool-aljezur-vale-da-telha-411250001"/>
         <updated>2025-03-03T17:37:51.510Z</updated>
