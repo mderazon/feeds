@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2025-05-29T05:43:26.355Z</updated>
+    <updated>2025-05-29T17:41:02.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 1.016.000 House 3 bedrooms Vale da Telha Aljezur - garden, terraces, terrace, sea view, plenty of natural light, central heating, fireplace, balcony, solar panels, swimming pool]]></title>
+        <id>https://www.provenda.net/en/house-3-bedrooms-vale-da-telha-aljezur-garden-terraces-terrace-sea-view-plenty-of-natural-light-central-heating-fireplace-balcony-solar-panels-swimming-pool+1000019877.html</id>
+        <link href="https://www.provenda.net/en/house-3-bedrooms-vale-da-telha-aljezur-garden-terraces-terrace-sea-view-plenty-of-natural-light-central-heating-fireplace-balcony-solar-panels-swimming-pool+1000019877.html"/>
+        <updated>2025-05-29T17:39:47.382Z</updated>
+        <content type="html"><![CDATA[ SaleIf you are looking for a house ready to inhabit, with sea view and good finishes, this voucher voucher can be exactly what you are looking for . inserted in a large lot with 1,280sqm and a built area of 206sqm, this house is distributed by two floors and offers the ideal balance between comfort, privacy and contact with nature. It is turned to west and has an open view of the sea and the protected landscape of the Costa Vicentina Natural Park. On the top floor, it finds three spacious bedrooms, all with built -in wardrobes and private bathroom. Each room also has a balcony, with relief views of the surrounding nature. On the bottom floor, there is a large room with fireplace (with hot recovery), a meal zone with a lot of natural light, and a fully equipped kitchen with Miele appliances, and pantry. The garden, with mature trees and several quiet nooks, is perfect for those who like to relax outdoors. The house also has jacuzzi, laundry, technical areas, central heating and thermal solar panels. additional details: - 45sqm pool - terraces and technical areas with about 130sqm - furnished - Solar panels and central heating an excellent choice for those looking for a cared for dwelling, with everything essential, in one of the most sought after aljezur- ideal for the whole year and to live the year and home to vacation or investment with guaranteed return.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 545.000 Farm Corte de Sobro Rogil Aljezur - electricity, water]]></title>
         <id>https://www.provenda.net/en/farm-corte-de-sobro-rogil-aljezur-electricity-water+1000019759.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html"/>
         <updated>2024-08-16T17:36:28.898Z</updated>
         <content type="html"><![CDATA[ SaleProperty with great agricultural potential, comprising two adjoining rustic articles, very well located in Várzea de Aljezur, with direct access from Rua Capitão Salgueiro Maia, with a total area of 3250.00m² and well]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 535.000 Farm 1 bedrooms Arrifana - Monte Branco Aljezur - cork oaks]]></title>
-        <id>https://www.provenda.net/en/farm-1-bedrooms-arrifana-monte-branco-aljezur-cork-oaks+1000019295.html</id>
-        <link href="https://www.provenda.net/en/farm-1-bedrooms-arrifana-monte-branco-aljezur-cork-oaks+1000019295.html"/>
-        <updated>2024-08-16T17:36:28.900Z</updated>
-        <content type="html"><![CDATA[ SaleThis property is composed by two pieces of land, with 27 HA. Located in a privileged area of the Costa Vicentina Natural Park, offers a peaceful and serene atmosphere. Monte Clérigo Beach and the villa of Aljezur, are at 3.5 km away from the property. With an old house with around 190 m² to rebuild, it is harmoniously surrounded by the most varied vegetation, including cork trees. Close to shore but still a bit off the grid."]]></content>
     </entry>
 </feed>
