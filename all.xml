@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-05-31T05:41:04.591Z</updated>
+    <updated>2025-05-31T17:37:54.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2-BEDROOM TOWNHOUSE WITH POOL IN THE PICTURESQUE VILLAGE OF CARRAPATEIRA, ALJEZUR 655.000 € (Marcela Properties)]]></title>
@@ -269,6 +269,13 @@
         <link href="https://www.century21global.com/en/p/aljezur-faro-8670-014-portugal--rl-133509885"/>
         <updated>2025-05-11T22:14:24.997Z</updated>
         <content type="html"><![CDATA[ Single Family Home for Sale 97m² Aljezur, Faro, Portugal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[$441,988 USD Aljezur, Faro, Portugal (Century 21)]]></title>
+        <id>https://www.century21global.com/en/p/aljezur-faro-8670-portugal--rl-135659298</id>
+        <link href="https://www.century21global.com/en/p/aljezur-faro-8670-portugal--rl-135659298"/>
+        <updated>2025-05-31T17:36:40.574Z</updated>
+        <content type="html"><![CDATA[ Single Family Home for Sale 143m² Aljezur, Faro, Portugal]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[$780,714 USD Aljezur, Faro, Portugal (Century 21)]]></title>
@@ -797,7 +804,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.378Z</updated>
+        <updated>2025-05-31T17:37:21.821Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € 3
                                 
                                 
@@ -816,7 +823,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Ruin - Faro - For sale - M158 545 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.380Z</updated>
+        <updated>2025-05-31T17:37:21.840Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Ruin - Faro - For sale - M158 545 000 € 1
                                 
                                 
@@ -835,7 +842,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 570 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.380Z</updated>
+        <updated>2025-05-31T17:37:21.844Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 570 000 € 3
                                 
                                 
@@ -854,7 +861,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 725 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.381Z</updated>
+        <updated>2025-05-31T17:37:21.855Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 725 000 € 4
                                 
                                 
@@ -873,7 +880,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T5 - Faro - For sale - M139 550 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.383Z</updated>
+        <updated>2025-05-31T17:37:21.856Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T5 - Faro - For sale - M139 550 000 € 5
                                 
                                 
@@ -892,7 +899,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T2 - Faro - For sale - M138 399 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.384Z</updated>
+        <updated>2025-05-31T17:37:21.859Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T2 - Faro - For sale - M138 399 000 € 2
                                 
                                 
@@ -911,7 +918,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.386Z</updated>
+        <updated>2025-05-31T17:37:21.862Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -930,7 +937,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.387Z</updated>
+        <updated>2025-05-31T17:37:21.863Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -945,7 +952,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 675 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.388Z</updated>
+        <updated>2025-05-31T17:37:21.864Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 675 000 € 3
                                 
                                 
@@ -964,7 +971,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.389Z</updated>
+        <updated>2025-05-31T17:37:21.865Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € 240 m2
                                 
                                 
@@ -975,7 +982,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.390Z</updated>
+        <updated>2025-05-31T17:37:21.866Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € 250 m2
                                 
                                 
@@ -986,7 +993,7 @@
         <title type="html"><![CDATA[Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:28.392Z</updated>
+        <updated>2025-05-31T17:37:21.867Z</updated>
         <content type="html"><![CDATA[ Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € 49840 m2]]></content>
     </entry>
     <entry>
@@ -1129,7 +1136,7 @@ This space is suitable for families with children, couples, group of friends, or
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-05-31T05:40:52.429Z</updated>
+        <updated>2025-05-31T17:37:44.518Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
