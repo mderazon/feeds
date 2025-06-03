@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-06-02T05:44:52.378Z</updated>
+    <updated>2025-06-03T05:45:05.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[750.000 € Moradia T6]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t6-aljezur-vale-da-telha-venda_4214/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t6-aljezur-vale-da-telha-venda_4214/"/>
+        <updated>2025-06-03T05:42:20.161Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[900.000 € Bonita moradia T4 com piscina e vista mar perto de Vale da Telha]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/bonita-moradia-t4-com-piscina-e-vista-mar-perto-de-vale-da-telha_4129/</id>
@@ -45,13 +52,6 @@
         <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/</id>
         <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/"/>
         <updated>2025-05-11T22:08:13.583Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[589.000 € Moradia T4 com piscina em Vale Da Telha, Aljezur.]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-com-piscina-em-vale-da-telha-aljezur_3910/"/>
-        <updated>2025-05-11T22:08:13.585Z</updated>
         <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
