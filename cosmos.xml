@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2025-06-06T17:43:10.712Z</updated>
+    <updated>2025-06-07T05:41:14.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Modern A+ Rated Home with Garage & Courtyard in Central Aljezur 485 000 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/modern-a-rated-home-with-garage-courtyard-in-central-aljezur/23145517</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/modern-a-rated-home-with-garage-courtyard-in-central-aljezur/23145517"/>
+        <updated>2025-06-07T05:40:42.950Z</updated>
+        <content type="html"><![CDATA[ Modern A+ Rated Home with Garage & Courtyard in Central Aljezur A stylish and energy-efficient semi-detached home located in the heart of Aljezur and walking distance to all amenities. Built in 2022 and maintained in excellent condition, this modern property offe... Ref. M-0230 3                                                                                                                                                                                                                                                                                                                                                                        3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 148 m² 485 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHARMING VILLA NEAR ARRIFANA BEACH 597 000 €]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/charming-villa-near-arrifana-beach/22980954</id>
@@ -83,12 +90,5 @@ This fully... Ref. M-0115 3                                                     
         <link href="https://www.cosmosportugal.com/en-gb/property/renovated-1-bed-cottage-in-aljezur-historical-centre/20222354"/>
         <updated>2025-06-03T05:44:39.886Z</updated>
         <content type="html"><![CDATA[ Renovated 1 bed cottage in Aljezur historical centre Quint cottage located in the hilltop of Aljezur old town moments away from the castle and high street. The property has been completely remodelled and has one bedroom and a large yard with views over... Ref. M-0163 1                                                                                                                                                                                                                                                                                                                                                                        1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                57 m² 285 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serene Rustic Retreat in Aljezur 65 000 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/serene-rustic-retreat-in-aljezur/21652027</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/serene-rustic-retreat-in-aljezur/21652027"/>
-        <updated>2025-06-03T05:44:39.889Z</updated>
-        <content type="html"><![CDATA[ Serene Rustic Retreat in Aljezur Nestled in the serene countryside of Aljezur, this 1 hectare of rustic land offers an opportunity to own a peaceful retreat surrounded by nature. Accessed via a charming stream crossing, the land has... Ref. T-0221 4250 m² 65 000 €]]></content>
     </entry>
 </feed>
