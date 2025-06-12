@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-06-12T05:43:57.379Z</updated>
+    <updated>2025-06-12T17:41:33.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[250 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
@@ -89,10 +89,31 @@
         <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[750.000 € Moradia T6 (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t6-aljezur-vale-da-telha-venda_4214/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t6-aljezur-vale-da-telha-venda_4214/"/>
-        <updated>2025-06-03T05:42:20.161Z</updated>
+        <title type="html"><![CDATA[899.000 € Oportunidade Negocio: Restaurante com Propriedade em Aljezur (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/oportunidade-negocio-restaurante-com-propriedade-em-aljezur_4200/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/oportunidade-negocio-restaurante-com-propriedade-em-aljezur_4200/"/>
+        <updated>2025-06-12T17:40:11.480Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[750.000 € Moradia T6 com Piscina na Costa Vicentina – Vale da Telha, Aljezur (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t6-com-piscina-na-costa-vicentina-vale-da-telha-aljezur_4214/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t6-com-piscina-na-costa-vicentina-vale-da-telha-aljezur_4214/"/>
+        <updated>2025-06-12T17:40:11.482Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[650.000 € Moradia T3 em Vale da Telha, oportunidade de investimento (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-em-vale-da-telha-oportunidade-de-investimento_4177/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-em-vale-da-telha-oportunidade-de-investimento_4177/"/>
+        <updated>2025-06-12T17:40:11.484Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[160.000 € Terreno Urbano de 1.100 m² em Vale da Telha - Aljezur (Mimosa)]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-de-1100-m-em-vale-da-telha-aljezur_4178/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-de-1100-m-em-vale-da-telha-aljezur_4178/"/>
+        <updated>2025-06-12T17:40:11.485Z</updated>
         <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
@@ -150,27 +171,6 @@
         <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/"/>
         <updated>2025-05-11T22:08:13.589Z</updated>
         <content type="html"><![CDATA[ Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[540.000 € Moradia T2+2 (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/"/>
-        <updated>2025-05-11T22:08:13.592Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[670.000 € Moradia T4 no Vale da Telha - Natureza e tranquilidade (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/"/>
-        <updated>2025-05-11T22:08:13.594Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[875.000 € Moradia T4 (Mimosa)]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/"/>
-        <updated>2025-05-27T17:37:48.454Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[$401,662 USD Aljezur, Faro, Portugal (Century 21)]]></title>
@@ -320,6 +320,13 @@
         <content type="html"><![CDATA[ SaleThis property is composed by two pieces of land, with 27 HA. Located in a privileged area of the Costa Vicentina Natural Park, offers a peaceful and serene atmosphere. Monte Clérigo Beach and the villa of Aljezur, are at 3.5 km away from the property. With an old house with around 190 m² to rebuild, it is harmoniously surrounded by the most varied vegetation, including cork trees. Close to shore but still a bit off the grid."]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[875.000 € Espartal, Aljezur (ERA Aljezur)]]></title>
+        <id>https://www.era.pt/en/property/house-t4-luxury-aljezur-espartal-411250018</id>
+        <link href="https://www.era.pt/en/property/house-t4-luxury-aljezur-espartal-411250018"/>
+        <updated>2025-06-12T17:40:34.583Z</updated>
+        <content type="html"><![CDATA[House T4 Aljezur, Espartal - 1475424 - 25 Espartal, Aljezur House 441542024601]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[290.000 € Odeceixe, Faro (ERA Aljezur)]]></title>
         <id>https://www.era.pt/en/property/house-t2-aljezur-odeceixe-411250014</id>
         <link href="https://www.era.pt/en/property/house-t2-aljezur-odeceixe-411250014"/>
@@ -416,13 +423,6 @@
         <link href="https://www.era.pt/en/property/semi-detached-house-t2-aljezur-bordeira-411240035"/>
         <updated>2025-04-04T17:37:52.899Z</updated>
         <content type="html"><![CDATA[Apartment Floor Dwelling T2 Aljezur, Bordeira - 1424113 - 2 Bordeira, Faro Semi-Detached House 229898]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[260.000 € Odeceixe, Faro (ERA Aljezur)]]></title>
-        <id>https://www.era.pt/en/property/house-t3-aljezur-odeceixe-411240031</id>
-        <link href="https://www.era.pt/en/property/house-t3-aljezur-odeceixe-411240031"/>
-        <updated>2025-06-02T05:43:35.308Z</updated>
-        <content type="html"><![CDATA[House T3 Aljezur, Odeceixe - 1418252 - 1 Odeceixe, Faro House 317070105]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SPACIOUS  3 BEDROOM VILLA WITH POOL AND ... 749,000 € (Oando)]]></title>
@@ -713,7 +713,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.757Z</updated>
+        <updated>2025-06-12T17:40:57.022Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € 3
                                 
                                 
@@ -732,7 +732,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Ruin - Faro - For sale - M158 545 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.761Z</updated>
+        <updated>2025-06-12T17:40:57.024Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Ruin - Faro - For sale - M158 545 000 € 1
                                 
                                 
@@ -751,7 +751,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 570 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.762Z</updated>
+        <updated>2025-06-12T17:40:57.025Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 570 000 € 3
                                 
                                 
@@ -770,7 +770,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 725 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.763Z</updated>
+        <updated>2025-06-12T17:40:57.028Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 725 000 € 4
                                 
                                 
@@ -789,7 +789,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T5 - Faro - For sale - M139 550 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.768Z</updated>
+        <updated>2025-06-12T17:40:57.028Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T5 - Faro - For sale - M139 550 000 € 5
                                 
                                 
@@ -808,7 +808,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T2 - Faro - For sale - M138 399 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.770Z</updated>
+        <updated>2025-06-12T17:40:57.030Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T2 - Faro - For sale - M138 399 000 € 2
                                 
                                 
@@ -827,7 +827,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.771Z</updated>
+        <updated>2025-06-12T17:40:57.031Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -846,7 +846,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.772Z</updated>
+        <updated>2025-06-12T17:40:57.032Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -861,7 +861,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 675 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.773Z</updated>
+        <updated>2025-06-12T17:40:57.034Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 675 000 € 3
                                 
                                 
@@ -880,7 +880,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.775Z</updated>
+        <updated>2025-06-12T17:40:57.035Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € 240 m2
                                 
                                 
@@ -891,7 +891,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.776Z</updated>
+        <updated>2025-06-12T17:40:57.036Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € 250 m2
                                 
                                 
@@ -902,7 +902,7 @@
         <title type="html"><![CDATA[Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:19.777Z</updated>
+        <updated>2025-06-12T17:40:57.037Z</updated>
         <content type="html"><![CDATA[ Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € 49840 m2]]></content>
     </entry>
     <entry>
@@ -1045,7 +1045,7 @@ This space is suitable for families with children, couples, group of friends, or
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-06-12T05:43:47.235Z</updated>
+        <updated>2025-06-12T17:41:23.267Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
@@ -1750,7 +1750,7 @@ This space is suitable for families with children, couples, group of friends, or
 
                                           
                                           
-                                              8
+                                              4
                                           
                                       
                                   
@@ -1983,31 +1983,6 @@ This space is suitable for families with children, couples, group of friends, or
         
             
                 N/A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traditional 4 bedroom house in Rogil to be restored. 220.000€ (Guthrie Rocha Properties)]]></title>
-        <id>https://www.guthrierochaproperties.com/imovel-selling-villa-t4-aljezur-6170553</id>
-        <link href="https://www.guthrierochaproperties.com/imovel-selling-villa-t4-aljezur-6170553"/>
-        <updated>2025-05-26T17:39:59.578Z</updated>
-        <content type="html"><![CDATA[Villa
-                    
-
-                    
-                    Selling                
-                GARDEN AND 2 ACCESS STREETS Traditional 4 bedroom house in Rogil to be restored. 220.000€ Faro / Aljezur / Rogil Ref: GR-S1004 69m2                                
-                                                                    
-                                    
-                                        
-                                            
-                                        
-                                        4
-                                    
-                                                                    
-                                    
-                                        
-                                            
-                                        
-                                        1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RUIN TO RECOVER WITH ARCHITECTURAL PROJECT.​. 118.000€ (Guthrie Rocha Properties)]]></title>
@@ -2256,5 +2231,38 @@ This space is suitable for families with children, couples, group of friends, or
         
             
                 N/A]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[T3 WITH POOL AND GARAGE 597.000€ (Guthrie Rocha Properties)]]></title>
+        <id>https://www.guthrierochaproperties.com/imovel-selling-villa-t3-aljezur-6137813</id>
+        <link href="https://www.guthrierochaproperties.com/imovel-selling-villa-t3-aljezur-6137813"/>
+        <updated>2025-06-12T17:41:32.339Z</updated>
+        <content type="html"><![CDATA[Villa
+                    
+
+                    
+                    Selling                
+                WITH SEA VIEW T3 WITH POOL AND GARAGE 597.000€ Faro / Aljezur / Aljezur Ref: GR-J967 121.5m2                                
+                                                                    
+                                    
+                                        
+                                            
+                                        
+                                        3
+                                    
+                                                                    
+                                    
+                                        
+                                            
+                                        
+                                        2
+                                    
+                                                                        
+                                    
+                                        
+                                            
+                                        
+                                        
+                                            Yes]]></content>
     </entry>
 </feed>

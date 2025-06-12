@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-06-12T05:43:57.369Z</updated>
+    <updated>2025-06-12T17:41:33.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[750.000 € Moradia T6]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t6-aljezur-vale-da-telha-venda_4214/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t6-aljezur-vale-da-telha-venda_4214/"/>
-        <updated>2025-06-03T05:42:20.161Z</updated>
+        <title type="html"><![CDATA[899.000 € Oportunidade Negocio: Restaurante com Propriedade em Aljezur]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/oportunidade-negocio-restaurante-com-propriedade-em-aljezur_4200/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/oportunidade-negocio-restaurante-com-propriedade-em-aljezur_4200/"/>
+        <updated>2025-06-12T17:40:11.480Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[750.000 € Moradia T6 com Piscina na Costa Vicentina – Vale da Telha, Aljezur]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t6-com-piscina-na-costa-vicentina-vale-da-telha-aljezur_4214/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t6-com-piscina-na-costa-vicentina-vale-da-telha-aljezur_4214/"/>
+        <updated>2025-06-12T17:40:11.482Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[650.000 € Moradia T3 em Vale da Telha, oportunidade de investimento]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-em-vale-da-telha-oportunidade-de-investimento_4177/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-em-vale-da-telha-oportunidade-de-investimento_4177/"/>
+        <updated>2025-06-12T17:40:11.484Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[160.000 € Terreno Urbano de 1.100 m² em Vale da Telha - Aljezur]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-de-1100-m-em-vale-da-telha-aljezur_4178/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-de-1100-m-em-vale-da-telha-aljezur_4178/"/>
+        <updated>2025-06-12T17:40:11.485Z</updated>
         <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
@@ -67,26 +88,5 @@
         <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/"/>
         <updated>2025-05-11T22:08:13.589Z</updated>
         <content type="html"><![CDATA[ Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[540.000 € Moradia T2+2]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t2-2-aljezur-vale-da-telha-venda_3709/"/>
-        <updated>2025-05-11T22:08:13.592Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[670.000 € Moradia T4 no Vale da Telha - Natureza e tranquilidade]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-no-vale-da-telha-natureza-e-tranquilidade_3640/"/>
-        <updated>2025-05-11T22:08:13.594Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[875.000 € Moradia T4]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t4-aljezur-espartal-venda_3632/"/>
-        <updated>2025-05-27T17:37:48.454Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
     </entry>
 </feed>
