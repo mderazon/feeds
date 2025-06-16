@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.westcoastrealtyaljezur.com/index.php?areas=24075_id&amp;buscador=1&amp;idio=2&amp;res=48&amp;pag=1&amp;orden=5#modulo-paginacion</id>
     <title>West Coast Realty Aljezur</title>
-    <updated>2025-06-14T17:38:26.579Z</updated>
+    <updated>2025-06-16T17:41:42.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.westcoastrealtyaljezur.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[ ]]></title>
         <id>https://www.westcoastrealtyaljezur.com/index.php?areas=24075_id&amp;buscador=1&amp;idio=2&amp;res=48&amp;pag=1&amp;orden=5#modulo-paginacion</id>
         <link href="https://www.westcoastrealtyaljezur.com/index.php?areas=24075_id&amp;buscador=1&amp;idio=2&amp;res=48&amp;pag=1&amp;orden=5#modulo-paginacion"/>
-        <updated>2025-06-14T17:38:16.997Z</updated>
+        <updated>2025-06-16T17:41:32.438Z</updated>
         <content type="html"><![CDATA[    ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rustic Land - Aljezur (Rogil) For sale 55.000 €]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/rustic-land/aljezur/rogil/12513/25809880/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/rustic-land/aljezur/rogil/12513/25809880/en/"/>
+        <updated>2025-06-16T17:41:32.882Z</updated>
+        <content type="html"><![CDATA[ Rustic Land - Aljezur (Rogil) For sale 55.000 € WCRH141 WCRH141]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 690.000 €]]></title>
