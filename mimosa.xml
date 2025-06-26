@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-06-26T05:44:58.900Z</updated>
+    <updated>2025-06-26T17:42:00.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[485.000 € Moradia Geminada T3 Nova em Aljezur]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-geminada-t3-nova-em-aljezur_4233/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-geminada-t3-nova-em-aljezur_4233/"/>
+        <updated>2025-06-26T17:40:29.635Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[899.000 € Oportunidade Negocio: Restaurante com Propriedade em Aljezur]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/oportunidade-negocio-restaurante-com-propriedade-em-aljezur_4200/</id>
@@ -81,12 +88,5 @@
         <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/"/>
         <updated>2025-05-11T22:08:13.587Z</updated>
         <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80.000 € Terreno Agrícola em Rogil]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/"/>
-        <updated>2025-05-11T22:08:13.589Z</updated>
-        <content type="html"><![CDATA[ Aljezur]]></content>
     </entry>
 </feed>
