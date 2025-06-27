@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2025-06-27T05:46:23.162Z</updated>
+    <updated>2025-06-27T17:41:36.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -104,7 +104,7 @@
         <content type="html"><![CDATA[Detached House T2 Aljezur, Odeceixe - 1426814 - 5   218080200]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[275.000 € ]]></title>
+        <title type="html"><![CDATA[265.000 € ]]></title>
         <id>https://www.era.pt/en/property/semi-detached-house-t2-aljezur-bordeira-411240035</id>
         <link href="https://www.era.pt/en/property/semi-detached-house-t2-aljezur-bordeira-411240035"/>
         <updated>2025-04-04T17:37:52.899Z</updated>
