@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2025-07-14T05:48:34.541Z</updated>
+    <updated>2025-07-14T17:45:07.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
     <entry>
@@ -69,13 +69,6 @@
         <content type="html"><![CDATA[ CHARMING RETREAT NEAR ALJEZUR Escape to nature with this unique property, ideal for those seeking a tranquil, self-sufficient lifestyle away from the hustle and bustle of city life. Just 15 minutes from the centre of the pictures... Ref. T-0228 37 m²                                                                                                                                                                                                                                                                                                                                                                         40000 m² 430 000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spacious 4 bed Villa with Private Garden & Pool Backing onto Rustic Land 685 000 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/spacious-4-bed-villa-with-private-garden-pool-backing-onto-rustic-land/22903070</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/spacious-4-bed-villa-with-private-garden-pool-backing-onto-rustic-land/22903070"/>
-        <updated>2025-05-11T22:44:45.358Z</updated>
-        <content type="html"><![CDATA[ Spacious 4 bed Villa with Private Garden & Pool Backing onto Rustic Land Located in the popular urbanisation of Vale da Telha, this spacious and well-kept villa offers a great balance of privacy, comfort, and indoor-outdoor living. Surrounded by nature on two sides and wi... Ref. M-0226 4                                                                                                                                                                                                                                                                                                                                                                        4                                                                                                                                                                                                                                                                                                                                                                                                                                 Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                210 m² 685 000 €]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Luxurious 4-Bedroom Villa in Vale da Telha 1 275 000 €]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/luxurious-4-bedroom-villa-in-vale-da-telha/21484641</id>
         <link href="https://www.cosmosportugal.com/en-gb/property/luxurious-4-bedroom-villa-in-vale-da-telha/21484641"/>
@@ -90,5 +83,12 @@
         <content type="html"><![CDATA[ 2+1 bedroom Country house with natural swimming pool in Aljezur Perfectly located countryside house just 5 minutes drive from Aljezur town centre and 10 minutes from Amoreira beach. The local restaurant/bar is only 5 minutes walk from the property. 
 
 This fully... Ref. M-0115 3                                                                                                                                                                                                                                                                                                                                                                        3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                152 m² 550 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renovated 1 bed cottage in Aljezur historical centre 285 000 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/renovated-1-bed-cottage-in-aljezur-historical-centre/20222354</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/renovated-1-bed-cottage-in-aljezur-historical-centre/20222354"/>
+        <updated>2025-07-14T17:44:33.350Z</updated>
+        <content type="html"><![CDATA[ Renovated 1 bed cottage in Aljezur historical centre Quint cottage located in the hilltop of Aljezur old town moments away from the castle and high street. The property has been completely remodelled and has one bedroom and a large yard with views over... Ref. M-0163 1                                                                                                                                                                                                                                                                                                                                                                        1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                57 m² 285 000 €]]></content>
     </entry>
 </feed>
