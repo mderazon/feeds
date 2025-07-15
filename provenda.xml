@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2025-07-15T05:49:03.716Z</updated>
+    <updated>2025-07-15T17:47:31.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 1.050.000 House Bordeira Aljezur - swimming pool, garden]]></title>
+        <id>https://www.provenda.net/en/house-bordeira-aljezur-swimming-pool-garden+1000019927.html</id>
+        <link href="https://www.provenda.net/en/house-bordeira-aljezur-swimming-pool-garden+1000019927.html"/>
+        <updated>2025-07-15T17:46:21.794Z</updated>
+        <content type="html"><![CDATA[ SaleSet of 3 Houses with Pool and Land Single Opportunity Ideal for tourist investment or housing its own performance In the heart of the Vincentina coast in Tremel (Bordeira), it finds this exclusive set of 3 independent houses, inserted on 2,326sqm with pool and large outdoor spaces. Surrounded by the tranquility of the natural park and a few minutes of the most beautiful beaches in the region, this is the perfect place for those looking for a refuge in nature or an investment project or an investment Versatile. Property Characteristics Total Terrain Area: 2,326sqm 3 Housing License Housing: House A - Private Land: 229.88sqm - built area: 72sqm mezzanine 60sqm (2 floors) House B - Private Land: 186sqm - built area: 72sqm mezzanine 60sqm (2 floors) House C - Private Land: 143.4sqm (2 floors) Common areas: - Shared Pool - Outdoor parking - Garden and Evorming Patios (approx. 1,500sqm) Premium Location: - 10 min from the beaches of Arrifana, Mulberry and Monte Clérigo - In the heart of the natural park of the Vicentina - A 15 min from Aljezur (supermarkets, schools,) Potential: - Investment in Local Accommodation / Rural Tourism - Own residence with possibility of performance (renting other houses) - House for families or groups seeking quality of life and nature Contact us for more information and to schedule your visit! This is a rare property in the region-don't miss the opportunity!]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 1.016.000 House 3 bedrooms Vale da Telha Aljezur - central heating, garden, terraces, terrace, fireplace, plenty of natural light, balcony, sea view, balconies, solar panels, swimming pool]]></title>
         <id>https://www.provenda.net/en/house-3-bedrooms-vale-da-telha-aljezur-central-heating-garden-terraces-terrace-fireplace-plenty-of-natural-light-balcony-sea-view-balconies-solar-panels-swimming-pool+1000019877.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html"/>
         <updated>2024-08-16T17:36:28.898Z</updated>
         <content type="html"><![CDATA[ SaleProperty with great agricultural potential, comprising two adjoining rustic articles, very well located in Várzea de Aljezur, with direct access from Rua Capitão Salgueiro Maia, with a total area of 3250.00m² and well]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 535.000 Farm 1 bedrooms Arrifana - Monte Branco Aljezur - cork oaks]]></title>
-        <id>https://www.provenda.net/en/farm-1-bedrooms-arrifana-monte-branco-aljezur-cork-oaks+1000019295.html</id>
-        <link href="https://www.provenda.net/en/farm-1-bedrooms-arrifana-monte-branco-aljezur-cork-oaks+1000019295.html"/>
-        <updated>2025-06-12T05:42:42.538Z</updated>
-        <content type="html"><![CDATA[ SaleThis property is composed by two pieces of land, with 27 HA. Located in a privileged area of the Costa Vicentina Natural Park, offers a peaceful and serene atmosphere. Monte Clérigo Beach and the villa of Aljezur, are at 3.5 km away from the property. With an old house with around 190 m² to rebuild, it is harmoniously surrounded by the most varied vegetation, including cork trees. Close to shore but still a bit off the grid."]]></content>
     </entry>
 </feed>

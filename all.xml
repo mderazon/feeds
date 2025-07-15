@@ -2,92 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-07-15T05:49:03.743Z</updated>
+    <updated>2025-07-15T17:47:31.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[170 000 € Bordeira, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t2-aljezur-bordeira/124471045-71</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t2-aljezur-bordeira/124471045-71"/>
-        <updated>2025-07-15T05:46:15.817Z</updated>
-        <content type="html"><![CDATA[ Bordeira, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[250 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-aljezur/123301123-268</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-aljezur/123301123-268"/>
-        <updated>2025-07-15T05:46:15.818Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[330 000 € Odeceixe, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-odeceixe/126001015-26</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-odeceixe/126001015-26"/>
-        <updated>2025-07-15T05:46:15.819Z</updated>
-        <content type="html"><![CDATA[ Odeceixe, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[820 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t6-aljezur-aljezur/126001015-20</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t6-aljezur-aljezur/126001015-20"/>
-        <updated>2025-07-15T05:46:15.821Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[950 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t7-aljezur-aljezur/126001015-12</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t7-aljezur-aljezur/126001015-12"/>
-        <updated>2025-07-15T05:46:15.822Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[999 000 € Rogil, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-terreno-taljezur-rogil/121661094-385</id>
-        <link href="https://remax.pt/en/imoveis/venda-terreno-taljezur-rogil/121661094-385"/>
-        <updated>2025-07-15T05:46:15.823Z</updated>
-        <content type="html"><![CDATA[ Rogil, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1 400 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-aljezur/126001015-19</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-aljezur/126001015-19"/>
-        <updated>2025-07-15T05:46:15.825Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[874 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t4-aljezur-aljezur/124471126-7</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t4-aljezur-aljezur/124471126-7"/>
-        <updated>2025-07-15T05:46:15.826Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[850 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t4-aljezur-aljezur/124471126-6</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t4-aljezur-aljezur/124471126-6"/>
-        <updated>2025-07-15T05:46:15.827Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[750 000 € Bordeira, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t4-aljezur-bordeira/124471126-4</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t4-aljezur-bordeira/124471126-4"/>
-        <updated>2025-07-15T05:46:15.828Z</updated>
-        <content type="html"><![CDATA[ Bordeira, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[85 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-terreno-taljezur-aljezur/126931001-2</id>
-        <link href="https://remax.pt/en/imoveis/venda-terreno-taljezur-aljezur/126931001-2"/>
-        <updated>2025-07-15T05:46:15.833Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-apartamento-t1-aljezur-aljezur/120521498-44</id>
-        <link href="https://remax.pt/en/imoveis/venda-apartamento-t1-aljezur-aljezur/120521498-44"/>
-        <updated>2025-07-15T05:46:15.834Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Aljezur]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[899.000 € Oportunidade Negocio: Restaurante com Propriedade em Aljezur (Mimosa)]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/oportunidade-negocio-restaurante-com-propriedade-em-aljezur_4200/</id>
@@ -173,6 +89,13 @@
         <content type="html"><![CDATA[ Aljezur]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[€ 1.050.000 House Bordeira Aljezur - swimming pool, garden (Provenda)]]></title>
+        <id>https://www.provenda.net/en/house-bordeira-aljezur-swimming-pool-garden+1000019927.html</id>
+        <link href="https://www.provenda.net/en/house-bordeira-aljezur-swimming-pool-garden+1000019927.html"/>
+        <updated>2025-07-15T17:46:21.794Z</updated>
+        <content type="html"><![CDATA[ SaleSet of 3 Houses with Pool and Land Single Opportunity Ideal for tourist investment or housing its own performance In the heart of the Vincentina coast in Tremel (Bordeira), it finds this exclusive set of 3 independent houses, inserted on 2,326sqm with pool and large outdoor spaces. Surrounded by the tranquility of the natural park and a few minutes of the most beautiful beaches in the region, this is the perfect place for those looking for a refuge in nature or an investment project or an investment Versatile. Property Characteristics Total Terrain Area: 2,326sqm 3 Housing License Housing: House A - Private Land: 229.88sqm - built area: 72sqm mezzanine 60sqm (2 floors) House B - Private Land: 186sqm - built area: 72sqm mezzanine 60sqm (2 floors) House C - Private Land: 143.4sqm (2 floors) Common areas: - Shared Pool - Outdoor parking - Garden and Evorming Patios (approx. 1,500sqm) Premium Location: - 10 min from the beaches of Arrifana, Mulberry and Monte Clérigo - In the heart of the natural park of the Vicentina - A 15 min from Aljezur (supermarkets, schools,) Potential: - Investment in Local Accommodation / Rural Tourism - Own residence with possibility of performance (renting other houses) - House for families or groups seeking quality of life and nature Contact us for more information and to schedule your visit! This is a rare property in the region-don't miss the opportunity!]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[€ 1.016.000 House 3 bedrooms Vale da Telha Aljezur - central heating, garden, terraces, terrace, fireplace, plenty of natural light, balcony, sea view, balconies, solar panels, swimming pool (Provenda)]]></title>
         <id>https://www.provenda.net/en/house-3-bedrooms-vale-da-telha-aljezur-central-heating-garden-terraces-terrace-fireplace-plenty-of-natural-light-balcony-sea-view-balconies-solar-panels-swimming-pool+1000019877.html</id>
         <link href="https://www.provenda.net/en/house-3-bedrooms-vale-da-telha-aljezur-central-heating-garden-terraces-terrace-fireplace-plenty-of-natural-light-balcony-sea-view-balconies-solar-panels-swimming-pool+1000019877.html"/>
@@ -248,13 +171,6 @@
         <link href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html"/>
         <updated>2024-08-16T17:36:28.898Z</updated>
         <content type="html"><![CDATA[ SaleProperty with great agricultural potential, comprising two adjoining rustic articles, very well located in Várzea de Aljezur, with direct access from Rua Capitão Salgueiro Maia, with a total area of 3250.00m² and well]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 535.000 Farm 1 bedrooms Arrifana - Monte Branco Aljezur - cork oaks (Provenda)]]></title>
-        <id>https://www.provenda.net/en/farm-1-bedrooms-arrifana-monte-branco-aljezur-cork-oaks+1000019295.html</id>
-        <link href="https://www.provenda.net/en/farm-1-bedrooms-arrifana-monte-branco-aljezur-cork-oaks+1000019295.html"/>
-        <updated>2025-06-12T05:42:42.538Z</updated>
-        <content type="html"><![CDATA[ SaleThis property is composed by two pieces of land, with 27 HA. Located in a privileged area of the Costa Vicentina Natural Park, offers a peaceful and serene atmosphere. Monte Clérigo Beach and the villa of Aljezur, are at 3.5 km away from the property. With an old house with around 190 m² to rebuild, it is harmoniously surrounded by the most varied vegetation, including cork trees. Close to shore but still a bit off the grid."]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[399.000 €  (ERA Aljezur)]]></title>
@@ -614,7 +530,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - NM144 570 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.909Z</updated>
+        <updated>2025-07-15T17:46:56.150Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - NM144 570 000 € 3
                                 
                                 
@@ -633,7 +549,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.910Z</updated>
+        <updated>2025-07-15T17:46:56.152Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € 3
                                 
                                 
@@ -652,7 +568,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Ruin - Faro - For sale - M158 545 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.912Z</updated>
+        <updated>2025-07-15T17:46:56.153Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Ruin - Faro - For sale - M158 545 000 € 1
                                 
                                 
@@ -671,7 +587,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.913Z</updated>
+        <updated>2025-07-15T17:46:56.154Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA 4
                                 
                                 
@@ -690,7 +606,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T5 - Faro - For sale - M139 550 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.916Z</updated>
+        <updated>2025-07-15T17:46:56.155Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T5 - Faro - For sale - M139 550 000 € 5
                                 
                                 
@@ -709,7 +625,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T2 - Faro - For sale - M138 399 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.917Z</updated>
+        <updated>2025-07-15T17:46:56.157Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T2 - Faro - For sale - M138 399 000 € 2
                                 
                                 
@@ -728,7 +644,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.918Z</updated>
+        <updated>2025-07-15T17:46:56.158Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -747,7 +663,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.918Z</updated>
+        <updated>2025-07-15T17:46:56.159Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -762,7 +678,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 675 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.920Z</updated>
+        <updated>2025-07-15T17:46:56.160Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 675 000 € 3
                                 
                                 
@@ -781,7 +697,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.921Z</updated>
+        <updated>2025-07-15T17:46:56.162Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € 240 m2
                                 
                                 
@@ -792,7 +708,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.922Z</updated>
+        <updated>2025-07-15T17:46:56.163Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € 250 m2
                                 
                                 
@@ -803,7 +719,7 @@
         <title type="html"><![CDATA[Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:47:51.923Z</updated>
+        <updated>2025-07-15T17:46:56.165Z</updated>
         <content type="html"><![CDATA[ Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € 49840 m2]]></content>
     </entry>
     <entry>
@@ -939,8 +855,62 @@ This space is suitable for families with children, couples, group of friends, or
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-07-15T05:48:34.978Z</updated>
+        <updated>2025-07-15T17:47:21.599Z</updated>
         <content type="html"><![CDATA[    ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Village house - Aljezur (Odeceixe) For sale 215.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/odeceixe/12513/25995347/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/odeceixe/12513/25995347/en/"/>
+        <updated>2025-07-15T17:47:22.095Z</updated>
+        <content type="html"><![CDATA[ Village house - Aljezur (Odeceixe) For sale 215.000 € WCR-H153
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              1
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       56.85 m2 WCR-H153]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[House - Aljezur (Aljezur) For sale 550.000 € (West Coast Realty Aljezur)]]></title>
@@ -1001,7 +971,7 @@ This space is suitable for families with children, couples, group of friends, or
         <id>https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/25391030/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/25391030/en/"/>
         <updated>2025-06-17T17:43:11.814Z</updated>
-        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 950.000 € WCRH146
+        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 950.000 € WCR-H146
                                
                            
                            
@@ -1048,21 +1018,21 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       235.5 m2 WCRH146]]></content>
+                                       235.5 m2 WCR-H146]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rustic Land - Aljezur (Rogil) For sale 55.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/rustic-land/aljezur/rogil/12513/25809880/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/rustic-land/aljezur/rogil/12513/25809880/en/"/>
         <updated>2025-06-16T17:41:32.882Z</updated>
-        <content type="html"><![CDATA[ Rustic Land - Aljezur (Rogil) For sale 55.000 € WCRH141 WCRH141]]></content>
+        <content type="html"><![CDATA[ Rustic Land - Aljezur (Rogil) For sale 55.000 € WCR-H141 WCR-H141]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 690.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/25410539/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/25410539/en/"/>
         <updated>2025-06-10T05:42:59.025Z</updated>
-        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 690.000 € WCRH140
+        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 690.000 € WCR-H140
                                
                            
                            
@@ -1109,14 +1079,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       164.5 m2 WCRH140]]></content>
+                                       164.5 m2 WCR-H140]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 680.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/25398212/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/25398212/en/"/>
         <updated>2025-06-07T17:38:16.718Z</updated>
-        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 680.000 € WCRH139
+        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 680.000 € WCR-H139
                                
                            
                            
@@ -1163,14 +1133,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       154 m2 WCRH139]]></content>
+                                       154 m2 WCR-H139]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rustic property - Aljezur (Aljezur) For sale 1.450.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/rustic-property/aljezur/aljezur/12513/25431801/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/rustic-property/aljezur/aljezur/12513/25431801/en/"/>
         <updated>2025-06-03T17:43:05.898Z</updated>
-        <content type="html"><![CDATA[ Rustic property - Aljezur (Aljezur) For sale 1.450.000 € WCRH149
+        <content type="html"><![CDATA[ Rustic property - Aljezur (Aljezur) For sale 1.450.000 € WCR-H149
                                
                            
                            
@@ -1217,7 +1187,7 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       281 m2 WCRH149]]></content>
+                                       281 m2 WCR-H149]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 874.000 € (West Coast Realty Aljezur)]]></title>
@@ -1278,7 +1248,7 @@ This space is suitable for families with children, couples, group of friends, or
         <id>https://www.westcoastrealtyaljezur.com/ficha/rustic-property/aljezur/aljezur/12513/25317350/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/rustic-property/aljezur/aljezur/12513/25317350/en/"/>
         <updated>2025-05-31T05:40:52.783Z</updated>
-        <content type="html"><![CDATA[ Rustic property - Aljezur (Aljezur) For sale 2.500.000 € WCRH151
+        <content type="html"><![CDATA[ Rustic property - Aljezur (Aljezur) For sale 2.500.000 € WCR-H151
                                
                            
                            
@@ -1325,14 +1295,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       298 m2 WCRH151]]></content>
+                                       298 m2 WCR-H151]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Village house - Aljezur (Aljezur) For sale 118.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/aljezur/12513/24397567/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/aljezur/12513/24397567/en/"/>
         <updated>2025-05-31T05:40:52.788Z</updated>
-        <content type="html"><![CDATA[ Village house - Aljezur (Aljezur) For sale 118.000 € WCRH117
+        <content type="html"><![CDATA[ Village house - Aljezur (Aljezur) For sale 118.000 € WCR-H117
                                
                            
                            
@@ -1379,14 +1349,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       212.24 m2 WCRH117]]></content>
+                                       212.24 m2 WCR-H117]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Village house - Aljezur (Aljezur) For sale 180.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/aljezur/12513/24942225/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/aljezur/12513/24942225/en/"/>
         <updated>2025-05-13T17:41:10.460Z</updated>
-        <content type="html"><![CDATA[ Village house - Aljezur (Aljezur) For sale 180.000 € WCRH128
+        <content type="html"><![CDATA[ Village house - Aljezur (Aljezur) For sale 180.000 € WCR-H128
                                
                            
                            
@@ -1433,14 +1403,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       29 m2 WCRH128]]></content>
+                                       29 m2 WCR-H128]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Urban Plot of land - Aljezur (Aljezur) For sale 295.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24811422/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24811422/en/"/>
         <updated>2025-05-11T22:55:16.795Z</updated>
-        <content type="html"><![CDATA[ Urban Plot of land - Aljezur (Aljezur) For sale 295.000 € WCRH136
+        <content type="html"><![CDATA[ Urban Plot of land - Aljezur (Aljezur) For sale 295.000 € WCR-H136
                                
                            
                            
@@ -1461,14 +1431,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       185 m2 WCRH136]]></content>
+                                       185 m2 WCR-H136]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Urban Plot of land - Aljezur (Aljezur) For sale 318.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24744562/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24744562/en/"/>
         <updated>2025-05-11T22:55:16.797Z</updated>
-        <content type="html"><![CDATA[ Urban Plot of land - Aljezur (Aljezur) For sale 318.000 € WCRH133
+        <content type="html"><![CDATA[ Urban Plot of land - Aljezur (Aljezur) For sale 318.000 € WCR-H133
                                
                            
                            
@@ -1489,14 +1459,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       400 m2 WCRH133]]></content>
+                                       400 m2 WCR-H133]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 597.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/24616006/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/24616006/en/"/>
         <updated>2025-05-11T22:55:16.799Z</updated>
-        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 597.000 € WCRH135
+        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 597.000 € WCR-H135
                                
                            
                            
@@ -1543,14 +1513,14 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       161.5 m2 WCRH135]]></content>
+                                       161.5 m2 WCR-H135]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Urban Plot of land - Aljezur (Aljezur) For sale 163.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24598252/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24598252/en/"/>
         <updated>2025-05-11T22:55:16.801Z</updated>
-        <content type="html"><![CDATA[ Urban Plot of land - Aljezur (Aljezur) For sale 163.000 € WCRH132
+        <content type="html"><![CDATA[ Urban Plot of land - Aljezur (Aljezur) For sale 163.000 € WCR-H132
                                
                            
                            
@@ -1571,7 +1541,7 @@ This space is suitable for families with children, couples, group of friends, or
 
                                    
                                    
-                                       257.5 m2 WCRH132]]></content>
+                                       257.5 m2 WCR-H132]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[House - Aljezur (Aljezur) For sale 499.950 € (West Coast Realty Aljezur)]]></title>
@@ -1819,6 +1789,24 @@ This space is suitable for families with children, couples, group of friends, or
                                    
                                    
                                        587 m2 WCR-H119]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New development in Espartal with several ti... 195.000€ (Guthrie Rocha Properties)]]></title>
+        <id>https://www.guthrierochaproperties.com/imovel-selling-apartment-aljezur-6191544</id>
+        <link href="https://www.guthrierochaproperties.com/imovel-selling-apartment-aljezur-6191544"/>
+        <updated>2025-07-15T17:47:30.652Z</updated>
+        <content type="html"><![CDATA[Apartment
+                    
+
+                    
+                    Selling                
+                Next to the beach New development in Espartal with several ti... 195.000€ Faro / Aljezur / Aljezur Ref: GR-J1045 809.2m2                                
+                                                                    
+                                    
+                                        
+                                            
+                                        
+                                        1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Farm with 8hectares just south of Aljezur 899.000€ (Guthrie Rocha Properties)]]></title>
@@ -2253,17 +2241,5 @@ This space is suitable for families with children, couples, group of friends, or
                                         
                                         
                                             Yes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAREHOUSE - ALJEZUR 389.000€ (Guthrie Rocha Properties)]]></title>
-        <id>https://www.guthrierochaproperties.com/imovel-selling-warehouse-aljezur-6136190</id>
-        <link href="https://www.guthrierochaproperties.com/imovel-selling-warehouse-aljezur-6136190"/>
-        <updated>2025-07-14T17:45:06.338Z</updated>
-        <content type="html"><![CDATA[Warehouse
-                    
-
-                    
-                    Selling                
-                YOUR SURFBOARD FACTORY? WAREHOUSE - ALJEZUR 389.000€ Faro / Aljezur / Rogil Ref: GR-J944 261.7m2]]></content>
     </entry>
 </feed>
