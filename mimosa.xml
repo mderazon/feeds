@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-07-16T05:49:06.494Z</updated>
+    <updated>2025-07-16T17:46:30.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[250.000 € Nova Loja com 95,10 m² no centro da Aldeia da Carrapateira]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/nova-loja-com-9510-m-no-centro-da-aldeia-da-carrapateira_4241/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/nova-loja-com-9510-m-no-centro-da-aldeia-da-carrapateira_4241/"/>
+        <updated>2025-07-16T17:44:43.456Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[520.000 € Nova Moradia T2+1 Duplex com Vista Mar na Aldeia da Carrapateira]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/nova-moradia-t21-duplex-com-vista-mar-na-aldeia-da-carrapateira_4242/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/nova-moradia-t21-duplex-com-vista-mar-na-aldeia-da-carrapateira_4242/"/>
+        <updated>2025-07-16T17:44:43.458Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[384.000 € Novo Apartamento T2 com Vista Mar na Aldeia da Carrapateira]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/novo-apartamento-t2-com-vista-mar-na-aldeia-da-carrapateira_4244/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/novo-apartamento-t2-com-vista-mar-na-aldeia-da-carrapateira_4244/"/>
+        <updated>2025-07-16T17:44:43.460Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[384.000 € Novo Apartamento T1+1 com Vista Mar na Aldeia da Carrapateira]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/novo-apartamento-t11-com-vista-mar-na-aldeia-da-carrapateira_4245/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/novo-apartamento-t11-com-vista-mar-na-aldeia-da-carrapateira_4245/"/>
+        <updated>2025-07-16T17:44:43.461Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Carrapateira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[497.000 € Herdade com 7,1 hectares com Potencial Turístico em Aljezur]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/herdade-com-71-hectares-com-potencial-turistico-em-aljezur_4246/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/herdade-com-71-hectares-com-potencial-turistico-em-aljezur_4246/"/>
+        <updated>2025-07-16T17:44:43.462Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Carrascalinho]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[899.000 € Oportunidade Negocio: Restaurante com Propriedade em Aljezur]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/oportunidade-negocio-restaurante-com-propriedade-em-aljezur_4200/</id>
@@ -53,40 +88,5 @@
         <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-aljezur-espartal-venda_4050/"/>
         <updated>2025-05-11T22:08:13.581Z</updated>
         <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1.100.000 € Espaçosa Moradia T5 na Carrapateira, Costa Vicentina]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/espacosa-moradia-t5-na-carrapateira-costa-vicentina_3995/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/espacosa-moradia-t5-na-carrapateira-costa-vicentina_3995/"/>
-        <updated>2025-05-11T22:08:13.581Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Carrapateira]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[850.000 € Moderna Moradia T4 em Construção na Paisagem Oceano]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moderna-moradia-t4-em-construcao-na-paisagem-oceano_3999/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moderna-moradia-t4-em-construcao-na-paisagem-oceano_3999/"/>
-        <updated>2025-05-11T22:08:13.581Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[499.000 € Moradia T3 + 1 em Vale da Telha]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-1-em-vale-da-telha_3982/"/>
-        <updated>2025-05-11T22:08:13.583Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[418.000 € Moradia T3 Espertal com piscina, Aljezur.]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-espertal-com-piscina-aljezur_3905/"/>
-        <updated>2025-05-11T22:08:13.587Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[80.000 € Terreno Agrícola em Rogil]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-agricola-em-rogil_3854/"/>
-        <updated>2025-07-02T17:41:36.739Z</updated>
-        <content type="html"><![CDATA[ Aljezur]]></content>
     </entry>
 </feed>
