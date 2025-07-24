@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2025-07-24T05:49:05.099Z</updated>
+    <updated>2025-07-24T17:45:29.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[Detached House T3 Aljezur, Espartal - 1495626 - 4   32324653]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[91.150 € ]]></title>
+        <title type="html"><![CDATA[95.000 € ]]></title>
         <id>https://www.era.pt/en/property/country-house-aljezur-411250030</id>
         <link href="https://www.era.pt/en/property/country-house-aljezur-411250030"/>
         <updated>2025-07-18T17:46:15.310Z</updated>
