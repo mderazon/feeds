@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-07-27T17:43:46.410Z</updated>
+    <updated>2025-07-28T05:52:21.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[299.000 € Apartamento T1+1]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/apartamento-t1-1-aljezur-espartal-venda_4251/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/apartamento-t1-1-aljezur-espartal-venda_4251/"/>
+        <updated>2025-07-28T05:50:38.798Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[195.000 € Apartamento T0]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/apartamento-t0-aljezur-espartal-venda_4250/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/apartamento-t0-aljezur-espartal-venda_4250/"/>
+        <updated>2025-07-28T05:50:38.799Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[250.000 € Nova Loja com 95,10 m² no centro da Aldeia da Carrapateira]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/nova-loja-com-9510-m-no-centro-da-aldeia-da-carrapateira_4241/</id>
@@ -74,19 +88,5 @@
         <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-com-jardim-piscina-e-sauna-em-vale-da-telha_4120/"/>
         <updated>2025-07-17T17:42:21.589Z</updated>
         <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[900.000 € Bonita moradia T4 com piscina e vista mar perto de Vale da Telha]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/bonita-moradia-t4-com-piscina-e-vista-mar-perto-de-vale-da-telha_4129/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/bonita-moradia-t4-com-piscina-e-vista-mar-perto-de-vale-da-telha_4129/"/>
-        <updated>2025-05-11T22:08:13.571Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Arrifana]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[209.000 € Terreno com Projeto Aprovado e Vista Mar no Espartal, Aljezur]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-com-projeto-aprovado-e-vista-mar-no-espartal-aljezur_4051/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-com-projeto-aprovado-e-vista-mar-no-espartal-aljezur_4051/"/>
-        <updated>2025-07-18T17:45:49.742Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
     </entry>
 </feed>
