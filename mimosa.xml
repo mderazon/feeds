@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/conteudos/imoveis/default.aspx?pg=1&amp;o=1&amp;g=&amp;e=&amp;pp=176&amp;dd=08&amp;cc=03&amp;ff=&amp;ml=&amp;z=&amp;nq=&amp;p=&amp;a=&amp;c=&amp;es=&amp;ct=00000001&amp;or=30&amp;idioma=pt1</id>
     <title>Mimosa</title>
-    <updated>2025-08-05T05:53:10.219Z</updated>
+    <updated>2025-08-05T17:45:00.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/favicons/601069b7-222b-44ff-bf7f-296da5dbd7fa/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[420.000 € Apartamento T2+1]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/apartamento-t2-1-aljezur-espartal-venda_4252/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/apartamento-t2-1-aljezur-espartal-venda_4252/"/>
+        <updated>2025-08-05T17:43:32.106Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[570.000 € Apartamento T3+1]]></title>
+        <id>https://www.mimosaproperties.com/pt/imoveis/apartamento-t3-1-aljezur-espartal-venda_4253/</id>
+        <link href="https://www.mimosaproperties.com/pt/imoveis/apartamento-t3-1-aljezur-espartal-venda_4253/"/>
+        <updated>2025-08-05T17:43:32.107Z</updated>
+        <content type="html"><![CDATA[ Aljezur, Espartal]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[299.000 € Apartamento T1+1]]></title>
         <id>https://www.mimosaproperties.com/pt/imoveis/apartamento-t1-1-aljezur-espartal-venda_4251/</id>
@@ -73,20 +87,6 @@
         <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t41-renovada-no-coracao-do-vale-da-telha_4199/</id>
         <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t41-renovada-no-coracao-do-vale-da-telha_4199/"/>
         <updated>2025-06-25T05:43:45.550Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[160.000 € Terreno Urbano de 1.100 m² em Vale da Telha, Aljezur]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-de-1100-m-em-vale-da-telha-aljezur_4178/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/terreno-urbano-de-1100-m-em-vale-da-telha-aljezur_4178/"/>
-        <updated>2025-06-12T17:40:11.485Z</updated>
-        <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[465.000 € Moradia T3 com Jardim, Piscina e Sauna em Vale da Telha]]></title>
-        <id>https://www.mimosaproperties.com/pt/imoveis/moradia-t3-com-jardim-piscina-e-sauna-em-vale-da-telha_4120/</id>
-        <link href="https://www.mimosaproperties.com/pt/imoveis/moradia-t3-com-jardim-piscina-e-sauna-em-vale-da-telha_4120/"/>
-        <updated>2025-07-17T17:42:21.589Z</updated>
         <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
     </entry>
 </feed>
