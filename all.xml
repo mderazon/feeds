@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-01T17:37:02.852Z</updated>
+    <updated>2025-09-02T05:41:18.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[500 000 € Odeceixe, Aljezur (Remax Aljezur)]]></title>
@@ -257,6 +257,13 @@
         <content type="html"><![CDATA[ SaleOld house, located in Marmelete, a quiet and peaceful parish in the municipality of Monchique. With excellent sun exposure, this space to be remodeled, with great potential, which will easily transform into a welcoming home. Come and discover this future Recanto de Charme - Charming corner.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[120.000 €  (ERA Aljezur)]]></title>
+        <id>https://www.era.pt/en/property/house-t2-aljezur-aldeia-antiga-castelo-411250036</id>
+        <link href="https://www.era.pt/en/property/house-t2-aljezur-aldeia-antiga-castelo-411250036"/>
+        <updated>2025-09-02T05:40:02.040Z</updated>
+        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1501322 - 9   2146490]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[750.000 €  (ERA Aljezur)]]></title>
         <id>https://www.era.pt/en/property/detached-house-t3-swimming-pool-aljezur-vale-da-telha-411250034</id>
         <link href="https://www.era.pt/en/property/detached-house-t3-swimming-pool-aljezur-vale-da-telha-411250034"/>
@@ -353,13 +360,6 @@
         <link href="https://www.era.pt/en/property/house-t6-swimming-pool-aljezur-vale-da-telha-411250001"/>
         <updated>2025-03-03T17:37:51.510Z</updated>
         <content type="html"><![CDATA[House T6 Aljezur, Vale da Telha - 1451804 - 20   6425025012503]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[287.000 €  (ERA Aljezur)]]></title>
-        <id>https://www.era.pt/en/property/house-t2-aljezur-odeceixe-411240076</id>
-        <link href="https://www.era.pt/en/property/house-t2-aljezur-odeceixe-411240076"/>
-        <updated>2025-08-25T17:42:25.988Z</updated>
-        <content type="html"><![CDATA[House T2 Aljezur, Odeceixe - 1439080 - 2   21847642]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SPACIOUS  3 BEDROOM VILLA WITH POOL AND ...  (Oando)]]></title>
@@ -614,7 +614,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.274Z</updated>
+        <updated>2025-09-02T05:40:31.173Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 475 000 € 3
                                 
                                 
@@ -633,7 +633,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Ruin - Faro - For sale - M158 497 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.276Z</updated>
+        <updated>2025-09-02T05:40:31.174Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Ruin - Faro - For sale - M158 497 000 € 1
                                 
                                 
@@ -652,7 +652,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 570 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.277Z</updated>
+        <updated>2025-09-02T05:40:31.181Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 570 000 € 3
                                 
                                 
@@ -671,7 +671,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.279Z</updated>
+        <updated>2025-09-02T05:40:31.181Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA 4
                                 
                                 
@@ -690,7 +690,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.280Z</updated>
+        <updated>2025-09-02T05:40:31.183Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -709,7 +709,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.281Z</updated>
+        <updated>2025-09-02T05:40:31.184Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -724,7 +724,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.282Z</updated>
+        <updated>2025-09-02T05:40:31.187Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA 3
                                 
                                 
@@ -743,7 +743,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.283Z</updated>
+        <updated>2025-09-02T05:40:31.188Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € 240 m2
                                 
                                 
@@ -754,7 +754,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.285Z</updated>
+        <updated>2025-09-02T05:40:31.189Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € 250 m2
                                 
                                 
@@ -765,7 +765,7 @@
         <title type="html"><![CDATA[Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:29.286Z</updated>
+        <updated>2025-09-02T05:40:31.191Z</updated>
         <content type="html"><![CDATA[ Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € 49840 m2]]></content>
     </entry>
     <entry>
@@ -783,13 +783,6 @@
         <content type="html"><![CDATA[ CHARMING VILLA NEAR ARRIFANA BEACH Charming Villa Ideal for Holidays or Investment. Nestled in the serene surroundings of Vale da Telha, just minutes from the stunning Arrifana Beach, this well-maintained and low-maintenance villa off... Ref. M-0227 3                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         161 m²                                                                                                                                                                                                                                                                                                                                                                        166 m² 597 000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unique property consisting of a restaurant, a T2 family home and 1 ha land in the Serra de Monchique, Monchique - Algarve 260 000 € (Cosmos)]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/unique-property-consisting-of-a-restaurant-a-t2-family-home-and-1-ha-land-in-the-serra-de-monchique-monchique-algarve/21537989</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/unique-property-consisting-of-a-restaurant-a-t2-family-home-and-1-ha-land-in-the-serra-de-monchique-monchique-algarve/21537989"/>
-        <updated>2025-09-01T17:36:37.813Z</updated>
-        <content type="html"><![CDATA[ Unique property consisting of a restaurant, a T2 family home and 1 ha land in the Serra de Monchique, Monchique - Algarve For sale is this gorgeous and well maintained mixed property with views over the countryside of the Algarve and Alentejo measuring 3640 m2 and a neighbouring plot of rustic land measuring 1 hectare. ... Ref. M-0213 2                                                                                                                                                                                                                                                                                                                                                                        3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                206 m² 260 000 €]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Exceptional Countryside Retreat in Aljezur 1 625 000 € (Cosmos)]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/exceptional-countryside-retreat-in-aljezur/21563464</id>
         <link href="https://www.cosmosportugal.com/en-gb/property/exceptional-countryside-retreat-in-aljezur/21563464"/>
@@ -802,22 +795,6 @@
         <link href="https://www.cosmosportugal.com/en-gb/property/modern-a-rated-home-with-garage-courtyard-in-central-aljezur/23145517"/>
         <updated>2025-09-01T05:41:54.745Z</updated>
         <content type="html"><![CDATA[ Modern A+ Rated Home with Garage & Courtyard in Central Aljezur A stylish and energy-efficient semi-detached home located in the heart of Aljezur and walking distance to all amenities. Built in 2022 and maintained in excellent condition, this modern property offe... Ref. M-0230 3                                                                                                                                                                                                                                                                                                                                                                        3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 148 m² 485 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4-bed semi-detached house with garden Price upon request (Cosmos)]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/4-bed-semi-detached-house-with-garden/20122723</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/4-bed-semi-detached-house-with-garden/20122723"/>
-        <updated>2025-09-01T17:36:37.819Z</updated>
-        <content type="html"><![CDATA[ 4-bed semi-detached house with garden Spacious 4-bed semi-detached house with driveway, front and back gardens and BBQ.
-
-The property is located in a quiet area of Porto near to the City Golf, main road networks, supermarkets and beach... Ref. M-0179 4                                                                                                                                                                                                                                                                                                                                                                        5                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         250 m²                                                                                                                                                                                                                                                                                                                                                                        412 m² Price upon request]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raposeira Hideaway: 2 Detached Houses & pool on 4880m2 plot 850 000 € (Cosmos)]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/raposeira-hideaway-2-detached-houses-pool-on-4880m2-plot/23420872</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/raposeira-hideaway-2-detached-houses-pool-on-4880m2-plot/23420872"/>
-        <updated>2025-09-01T17:36:37.820Z</updated>
-        <content type="html"><![CDATA[ Raposeira Hideaway: 2 Detached Houses & pool on 4880m2 plot Just moments from the charming village of Raposeira, this country property is full of charm and packed with potential. With two detached houses, a swimming pool, and a detached gym/games room, it off... Ref. M-0233 4                                                                                                                                                                                                                                                                                                                                                                        3                                                                                                                                                                                                                                                                                                                                                                                                                                 Heated                                                                                                                                                                                                                                                                                                                                                                                                                                374 m² 850 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Charming 2-Bedroom Villa with Garden in Vale da Telha 399 000 € (Cosmos)]]></title>
@@ -853,6 +830,27 @@ The property is located in a quiet area of Porto near to the City Golf, main roa
         <link href="https://www.cosmosportugal.com/en-gb/property/secluded-65-hectare-nature-retreat-with-agroforestry-rebuilding-potential/21385280"/>
         <updated>2025-09-01T05:41:54.753Z</updated>
         <content type="html"><![CDATA[ Secluded 65-Hectare Nature Retreat with Agroforestry & Rebuilding Potential Offering 65 hectares of lush native forest, this unique property is a serene retreat just 10 minutes from the charming town of Aljezur. The land features a rich variety of cork and medronho trees, of... Ref. T-0203 55.5 m²                                                                                                                                                                                                                                                                                                                                                                         657500 m² 369 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 bed house in Aljezur old town 265 000 € (Cosmos)]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/2-bed-house-in-aljezur-old-town/20222371</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/2-bed-house-in-aljezur-old-town/20222371"/>
+        <updated>2025-09-02T05:40:43.898Z</updated>
+        <content type="html"><![CDATA[ 2 bed house in Aljezur old town Only 5 minutes walk from Aljezur castle this cute cottage is located on a quiet road and has beautiful views over the town and countryside. The house has been recently remodelled yet retaining its au... Ref. M-0164 2                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                84.74 m² 265 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Immaculate 3 bed Villa in Vale da Telha Price upon request (Cosmos)]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/immaculate-3-bed-villa-in-vale-da-telha/22684239</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/immaculate-3-bed-villa-in-vale-da-telha/22684239"/>
+        <updated>2025-09-02T05:40:43.900Z</updated>
+        <content type="html"><![CDATA[ Immaculate 3 bed Villa in Vale da Telha This beautifully maintained 3 bedroom, 2 bathroom villa in Vale da Telha is move-in ready, offering an abundance of space, comfort, and natural light. Nestled on a quiet road and just a short walk fr... Ref. M-0224 3                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 197 m² Price upon request]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unique restaurant opportunity on N120 near Aljezur, primed for your success! 899 000 € (Cosmos)]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/unique-restaurant-opportunity-on-n120-near-aljezur-primed-for-your-success/8094370</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/unique-restaurant-opportunity-on-n120-near-aljezur-primed-for-your-success/8094370"/>
+        <updated>2025-09-02T05:40:43.901Z</updated>
+        <content type="html"><![CDATA[ Unique restaurant opportunity on N120 near Aljezur, primed for your success! This exceptional, fully operational restaurant is perfectly located along the bustling N120, just before reaching the charming town of Aljezur. Boasting excellent passing trade, this thriving establi... Ref. C-0020 230 m²                                                                                                                                                                                                                                                                                                                                                                        300 m² 899 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3 bedroom villa with terrace, solerengo 125 €  / 140 € (Costa Properties)]]></title>
@@ -901,7 +899,7 @@ This space is suitable for families with children, couples, group of friends, or
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-01T17:36:53.905Z</updated>
+        <updated>2025-09-02T05:41:08.079Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
