@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2025-09-09T05:39:52.653Z</updated>
+    <updated>2025-09-09T17:35:06.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Impressive villa with lake views Price upon request]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/impressive-villa-with-lake-views/20205749</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/impressive-villa-with-lake-views/20205749"/>
+        <updated>2025-09-09T17:34:39.497Z</updated>
+        <content type="html"><![CDATA[ Impressive villa with lake views Superb villa with lake and distant sea views, nestled in the quietest area of this very sought after urbanisation. This beautifully presented villa is very well maintained and comes fully equipped ma... Ref. M-0156 3                                                                                                                                                                                                                                                                                                                                                                        3                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         194.35 m²                                                                                                                                                                                                                                                                                                                                                                        194.35 m² Price upon request]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spacious 4 bed Villa with Private Garden & Pool Backing onto Rustic Land 685 000 €]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/spacious-4-bed-villa-with-private-garden-pool-backing-onto-rustic-land/22903070</id>
@@ -81,12 +88,5 @@
         <link href="https://www.cosmosportugal.com/en-gb/property/secluded-65-hectare-nature-retreat-with-agroforestry-rebuilding-potential/21385280"/>
         <updated>2025-09-01T05:41:54.753Z</updated>
         <content type="html"><![CDATA[ Secluded 65-Hectare Nature Retreat with Agroforestry & Rebuilding Potential Offering 65 hectares of lush native forest, this unique property is a serene retreat just 10 minutes from the charming town of Aljezur. The land features a rich variety of cork and medronho trees, of... Ref. T-0203 55.5 m²                                                                                                                                                                                                                                                                                                                                                                         657500 m² 369 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 bed house in Aljezur old town 265 000 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/2-bed-house-in-aljezur-old-town/20222371</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/2-bed-house-in-aljezur-old-town/20222371"/>
-        <updated>2025-09-02T05:40:43.898Z</updated>
-        <content type="html"><![CDATA[ 2 bed house in Aljezur old town Only 5 minutes walk from Aljezur castle this cute cottage is located on a quiet road and has beautiful views over the town and countryside. The house has been recently remodelled yet retaining its au... Ref. M-0164 2                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                84.74 m² 265 000 €]]></content>
     </entry>
 </feed>
