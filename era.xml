@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2025-09-15T05:41:52.000Z</updated>
+    <updated>2025-09-15T17:38:11.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -41,7 +41,7 @@
         <content type="html"><![CDATA[House T2 Aljezur, Vales - 1492360 - 22   221201205001]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[215.000 € ]]></title>
+        <title type="html"><![CDATA[200.000 € ]]></title>
         <id>https://www.era.pt/en/property/terraced-house-t2-aljezur-odeceixe-411250022</id>
         <link href="https://www.era.pt/en/property/terraced-house-t2-aljezur-odeceixe-411250022"/>
         <updated>2025-07-11T17:42:26.133Z</updated>
