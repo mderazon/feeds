@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2025-09-22T17:38:09.789Z</updated>
+    <updated>2025-09-23T17:37:28.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 650.000 Farm 5 bedrooms Chaparral Bordeira Aljezur - cork oaks]]></title>
+        <id>https://www.provenda.net/en/farm-5-bedrooms-chaparral-bordeira-aljezur-cork-oaks+1000020029.html</id>
+        <link href="https://www.provenda.net/en/farm-5-bedrooms-chaparral-bordeira-aljezur-cork-oaks+1000020029.html"/>
+        <updated>2025-09-23T17:36:18.484Z</updated>
+        <content type="html"><![CDATA[ SaleProperty located in the middle of Costa Vicentina Natural Park, about 2.3 km from Vale Figueiras beach in Aljezur. With 2 ruins to rebuild, one with approved architecture project for a 200sqm housing. This property benefits from an exceptional landscape framed, naturally attractive for its unique forest diversity - pines, corners, meddroes, orchards and vegetable gardens.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[€ 260.000 Farm 0 bedrooms Cercas São Teotónio Odemira]]></title>
+        <id>https://www.provenda.net/en/farm-0-bedrooms-cercas-sao-teotonio-odemira+1000020027.html</id>
+        <link href="https://www.provenda.net/en/farm-0-bedrooms-cercas-sao-teotonio-odemira+1000020027.html"/>
+        <updated>2025-09-23T17:36:18.484Z</updated>
+        <content type="html"><![CDATA[ SaleProperty located in Alentejo - Costa Vicentina, about 15 minutes from São Miguel village. With 9.4 hectares, a ruin with 150sqm for reconstruction, in a private, quiet and excellent landscape frame. This property has great potential to develop agricultural activities, also the possibility of implementing a forest project, contributing to local biodiversity.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 1.050.000 House Tramelo Bordeira Aljezur - swimming pool, garden]]></title>
         <id>https://www.provenda.net/en/house-tramelo-bordeira-aljezur-swimming-pool-garden+1000019927.html</id>
@@ -74,19 +88,5 @@
         <link href="https://www.provenda.net/en/land-rustic-with-43960sqm-rogil-aljezur-electricity-water+1000019489.html"/>
         <updated>2024-08-16T17:36:28.898Z</updated>
         <content type="html"><![CDATA[ SaleRustic land with pine forest and great location. It offers great potential for agriculture and forestry. It has access to water and electricity next to the land.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 400.000 House Old to recover 2 bedrooms Aldeia Nova Aljezur]]></title>
-        <id>https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html</id>
-        <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
-        <updated>2025-08-05T17:43:47.641Z</updated>
-        <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 42.500 House Old 2 bedrooms Marmelete Monchique]]></title>
-        <id>https://www.provenda.net/en/house-old-2-bedrooms-marmelete-monchique+1000019461.html</id>
-        <link href="https://www.provenda.net/en/house-old-2-bedrooms-marmelete-monchique+1000019461.html"/>
-        <updated>2024-08-16T17:36:28.898Z</updated>
-        <content type="html"><![CDATA[ SaleOld house, located in Marmelete, a quiet and peaceful parish in the municipality of Monchique. With excellent sun exposure, this space to be remodeled, with great potential, which will easily transform into a welcoming home. Come and discover this future Recanto de Charme - Charming corner.]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-09-22T17:38:09.811Z</updated>
+    <updated>2025-09-23T17:37:28.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[170 000 € Aljezur, Aljezur (Remax Aljezur)]]></title>
@@ -173,6 +173,20 @@
         <content type="html"><![CDATA[ Aljezur, Vale da Telha]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[€ 650.000 Farm 5 bedrooms Chaparral Bordeira Aljezur - cork oaks (Provenda)]]></title>
+        <id>https://www.provenda.net/en/farm-5-bedrooms-chaparral-bordeira-aljezur-cork-oaks+1000020029.html</id>
+        <link href="https://www.provenda.net/en/farm-5-bedrooms-chaparral-bordeira-aljezur-cork-oaks+1000020029.html"/>
+        <updated>2025-09-23T17:36:18.484Z</updated>
+        <content type="html"><![CDATA[ SaleProperty located in the middle of Costa Vicentina Natural Park, about 2.3 km from Vale Figueiras beach in Aljezur. With 2 ruins to rebuild, one with approved architecture project for a 200sqm housing. This property benefits from an exceptional landscape framed, naturally attractive for its unique forest diversity - pines, corners, meddroes, orchards and vegetable gardens.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[€ 260.000 Farm 0 bedrooms Cercas São Teotónio Odemira (Provenda)]]></title>
+        <id>https://www.provenda.net/en/farm-0-bedrooms-cercas-sao-teotonio-odemira+1000020027.html</id>
+        <link href="https://www.provenda.net/en/farm-0-bedrooms-cercas-sao-teotonio-odemira+1000020027.html"/>
+        <updated>2025-09-23T17:36:18.484Z</updated>
+        <content type="html"><![CDATA[ SaleProperty located in Alentejo - Costa Vicentina, about 15 minutes from São Miguel village. With 9.4 hectares, a ruin with 150sqm for reconstruction, in a private, quiet and excellent landscape frame. This property has great potential to develop agricultural activities, also the possibility of implementing a forest project, contributing to local biodiversity.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[€ 1.050.000 House Tramelo Bordeira Aljezur - swimming pool, garden (Provenda)]]></title>
         <id>https://www.provenda.net/en/house-tramelo-bordeira-aljezur-swimming-pool-garden+1000019927.html</id>
         <link href="https://www.provenda.net/en/house-tramelo-bordeira-aljezur-swimming-pool-garden+1000019927.html"/>
@@ -241,20 +255,6 @@
         <link href="https://www.provenda.net/en/land-rustic-with-43960sqm-rogil-aljezur-electricity-water+1000019489.html"/>
         <updated>2025-09-22T05:38:58.420Z</updated>
         <content type="html"><![CDATA[ SaleRustic land with pine forest and great location. It offers great potential for agriculture and forestry. It has access to water and electricity next to the land.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 400.000 House Old to recover 2 bedrooms Aldeia Nova Aljezur (Provenda)]]></title>
-        <id>https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html</id>
-        <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
-        <updated>2025-09-22T05:38:58.422Z</updated>
-        <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 42.500 House Old 2 bedrooms Marmelete Monchique (Provenda)]]></title>
-        <id>https://www.provenda.net/en/house-old-2-bedrooms-marmelete-monchique+1000019461.html</id>
-        <link href="https://www.provenda.net/en/house-old-2-bedrooms-marmelete-monchique+1000019461.html"/>
-        <updated>2025-09-22T05:38:58.423Z</updated>
-        <content type="html"><![CDATA[ SaleOld house, located in Marmelete, a quiet and peaceful parish in the municipality of Monchique. With excellent sun exposure, this space to be remodeled, with great potential, which will easily transform into a welcoming home. Come and discover this future Recanto de Charme - Charming corner.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[750.000 €  (ERA Aljezur)]]></title>
@@ -614,7 +614,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 399 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.970Z</updated>
+        <updated>2025-09-23T17:36:50.399Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 399 000 € 3
                                 
                                 
@@ -633,7 +633,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Ruin - Faro - For sale - M158 497 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.972Z</updated>
+        <updated>2025-09-23T17:36:50.400Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Ruin - Faro - For sale - M158 497 000 € 1
                                 
                                 
@@ -652,7 +652,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.972Z</updated>
+        <updated>2025-09-23T17:36:50.403Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 € 3
                                 
                                 
@@ -671,7 +671,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.973Z</updated>
+        <updated>2025-09-23T17:36:50.404Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA 4
                                 
                                 
@@ -690,7 +690,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.974Z</updated>
+        <updated>2025-09-23T17:36:50.405Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -709,7 +709,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.977Z</updated>
+        <updated>2025-09-23T17:36:50.406Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -724,7 +724,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.978Z</updated>
+        <updated>2025-09-23T17:36:50.408Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA 3
                                 
                                 
@@ -743,7 +743,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.979Z</updated>
+        <updated>2025-09-23T17:36:50.409Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L121 199 000 € 240 m2
                                 
                                 
@@ -754,7 +754,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.981Z</updated>
+        <updated>2025-09-23T17:36:50.410Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € 250 m2
                                 
                                 
@@ -765,7 +765,7 @@
         <title type="html"><![CDATA[Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:32.981Z</updated>
+        <updated>2025-09-23T17:36:50.412Z</updated>
         <content type="html"><![CDATA[ Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € 49840 m2]]></content>
     </entry>
     <entry>
@@ -901,8 +901,347 @@ This space is suitable for families with children, couples, group of friends, or
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2025-09-22T17:37:59.384Z</updated>
+        <updated>2025-09-23T17:37:18.345Z</updated>
         <content type="html"><![CDATA[    ]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Semi-detached house - Aljezur (Rogil) For sale 250.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/semi-detached-house/aljezur/rogil/12513/26573108/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/semi-detached-house/aljezur/rogil/12513/26573108/en/"/>
+        <updated>2025-09-23T17:37:19.207Z</updated>
+        <content type="html"><![CDATA[ Semi-detached house - Aljezur (Rogil) For sale 250.000 € WCR-H188
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              2
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       79.4 m2 WCR-H188]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hotel - Odemira (São Teotónio) For sale 3.700.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/hotel/odemira/sao-teotonio/12513/26445208/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/hotel/odemira/sao-teotonio/12513/26445208/en/"/>
+        <updated>2025-09-23T17:37:19.208Z</updated>
+        <content type="html"><![CDATA[ Hotel - Odemira (São Teotónio) For sale 3.700.000 € WCR-D189
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T27
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              27
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       1748.96 m2 WCR-D189]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Village house - Vila do Bispo (Sagres) For sale 299.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/village-house/vila-do-bispo/sagres/12513/26444904/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/village-house/vila-do-bispo/sagres/12513/26444904/en/"/>
+        <updated>2025-09-23T17:37:19.209Z</updated>
+        <content type="html"><![CDATA[ Village house - Vila do Bispo (Sagres) For sale 299.000 € WCR-S190
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              1
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       81.71 m2 WCR-S190]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban Plot of land - Aljezur (Aljezur) For sale 255.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/26118908/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/26118908/en/"/>
+        <updated>2025-09-23T17:37:19.215Z</updated>
+        <content type="html"><![CDATA[ Urban Plot of land - Aljezur (Aljezur) For sale 255.000 € WCR-H180
+                               
+                           
+                           
+
+                       
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       270 m2 WCR-H180]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plot of land - Aljezur (Aljezur) For sale 280.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/plot-of-land/aljezur/aljezur/12513/26119016/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/plot-of-land/aljezur/aljezur/12513/26119016/en/"/>
+        <updated>2025-09-23T17:37:19.217Z</updated>
+        <content type="html"><![CDATA[ Plot of land - Aljezur (Aljezur) For sale 280.000 € WCR-H179
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T0
+                                       
+                                   
+                               
+                               
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       300 m2 WCR-H179]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 850.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/26224381/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/26224381/en/"/>
+        <updated>2025-09-23T17:37:19.219Z</updated>
+        <content type="html"><![CDATA[ Single family house - Aljezur (Aljezur) For sale 850.000 € WCR-H185
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T3
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              4
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       260 m2 WCR-H185]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House - Aljezur (Aljezur) For sale 195.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/house/aljezur/aljezur/12513/26205912/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/house/aljezur/aljezur/12513/26205912/en/"/>
+        <updated>2025-09-23T17:37:19.221Z</updated>
+        <content type="html"><![CDATA[ House - Aljezur (Aljezur) For sale 195.000 € WCR-C186
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T1
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              1
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       139.51 m2 WCR-C186]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plot of land - Aljezur (Aljezur) For sale 497.000 € (West Coast Realty Aljezur)]]></title>
@@ -944,6 +1283,307 @@ This space is suitable for families with children, couples, group of friends, or
                                    
                                    
                                        66 m2 WCR-C155]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraced house - Lagos (Luz) For sale 585.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/terraced-house/lagos/luz/12513/26186442/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/terraced-house/lagos/luz/12513/26186442/en/"/>
+        <updated>2025-09-23T17:37:19.224Z</updated>
+        <content type="html"><![CDATA[ Terraced house - Lagos (Luz) For sale 585.000 € WCR-C183
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T3
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              3
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       202 m2 WCR-C183]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luxury Villa - Vila do Bispo (Sagres) For sale 1.100.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/luxury-villa/vila-do-bispo/sagres/12513/26117985/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/luxury-villa/vila-do-bispo/sagres/12513/26117985/en/"/>
+        <updated>2025-09-23T17:37:19.226Z</updated>
+        <content type="html"><![CDATA[ Luxury Villa - Vila do Bispo (Sagres) For sale 1.100.000 € WCR-C177
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T3
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              3
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       238.65 m2 WCR-C177]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartment - Aljezur (Aljezur) For sale 195.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/apartment/aljezur/aljezur/12513/26028112/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/apartment/aljezur/aljezur/12513/26028112/en/"/>
+        <updated>2025-09-23T17:37:19.228Z</updated>
+        <content type="html"><![CDATA[Reserved
+                       BANNER VENIDO-ALQUILADO Apartment - Aljezur (Aljezur) For sale 195.000 € WCR-H165
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T0
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              1
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       38.68 m2 WCR-H165]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Village house - Vila do Bispo (Vila do Bispo e Raposeira) For sale 280.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/village-house/vila-do-bispo/vila-do-bispo-e-raposeira/12513/25962817/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/village-house/vila-do-bispo/vila-do-bispo-e-raposeira/12513/25962817/en/"/>
+        <updated>2025-09-23T17:37:19.229Z</updated>
+        <content type="html"><![CDATA[ Village house - Vila do Bispo (Vila do Bispo e Raposeira) For sale 280.000 € WCR-H154
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2+2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              2
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       115 m2 WCR-H154]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 575.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/26021345/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/single-family-house/aljezur/aljezur/12513/26021345/en/"/>
+        <updated>2025-09-23T17:37:19.231Z</updated>
+        <content type="html"><![CDATA[Reserved
+                       BANNER VENIDO-ALQUILADO Single family house - Aljezur (Aljezur) For sale 575.000 € WCR-C157
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T3
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              2
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       185.34 m2 WCR-C157]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Urban Plot of land - Aljezur (Aljezur) For sale 172.500 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/25996164/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/25996164/en/"/>
+        <updated>2025-09-23T17:37:19.232Z</updated>
+        <content type="html"><![CDATA[Reserved
+                       BANNER VENIDO-ALQUILADO Urban Plot of land - Aljezur (Aljezur) For sale 172.500 € WCR-H161
+                               
+                           
+                           
+
+                       
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       300 m2 WCR-H161]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Village house - Aljezur (Odeceixe) For sale 200.000 € (West Coast Realty Aljezur)]]></title>
@@ -998,6 +1638,224 @@ This space is suitable for families with children, couples, group of friends, or
                                    
                                    
                                        56.85 m2 WCR-H153]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luxury Villa - Aljezur (Aljezur) Rental 4.500 €/month (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/luxury-villa/aljezur/aljezur/12513/25936794/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/luxury-villa/aljezur/aljezur/12513/25936794/en/"/>
+        <updated>2025-09-23T17:37:19.235Z</updated>
+        <content type="html"><![CDATA[ Luxury Villa - Aljezur (Aljezur) Rental 4.500 €/month WCR-H159
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T3
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              4
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       194.5 m2 WCR-H159]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Village house - Vila do Bispo (Budens) For sale 429.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/village-house/vila-do-bispo/budens/12513/25929813/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/village-house/vila-do-bispo/budens/12513/25929813/en/"/>
+        <updated>2025-09-23T17:37:19.236Z</updated>
+        <content type="html"><![CDATA[Reserved
+                       BANNER VENIDO-ALQUILADO Village house - Vila do Bispo (Budens) For sale 429.000 € WCR-C158
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              2
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       116 m2 WCR-C158]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Luxury Villa - Aljezur (Aljezur) For sale 850.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/luxury-villa/aljezur/aljezur/12513/25922197/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/luxury-villa/aljezur/aljezur/12513/25922197/en/"/>
+        <updated>2025-09-23T17:37:19.238Z</updated>
+        <content type="html"><![CDATA[ Luxury Villa - Aljezur (Aljezur) For sale 850.000 € WCR-H145
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T4
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              5
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       277.9 m2 WCR-H145]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Village house - Aljezur (Aljezur) For sale 190.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/aljezur/12513/25909363/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/village-house/aljezur/aljezur/12513/25909363/en/"/>
+        <updated>2025-09-23T17:37:19.240Z</updated>
+        <content type="html"><![CDATA[Reserved
+                       BANNER VENIDO-ALQUILADO Village house - Aljezur (Aljezur) For sale 190.000 € WCR-C160
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              1
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       50 m2 WCR-C160]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 950.000 € (West Coast Realty Aljezur)]]></title>
@@ -1439,6 +2297,60 @@ This space is suitable for families with children, couples, group of friends, or
                                        29 m2 WCR-H128]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Single family house - Monchique (Marmelete) For sale 1.395.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/single-family-house/monchique/marmelete/12513/24911556/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/single-family-house/monchique/marmelete/12513/24911556/en/"/>
+        <updated>2025-09-23T17:37:19.255Z</updated>
+        <content type="html"><![CDATA[ Single family house - Monchique (Marmelete) For sale 1.395.000 € WCR-CH138
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              1
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       232 m2 WCR-CH138]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Urban Plot of land - Aljezur (Aljezur) For sale 318.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24744562/en/</id>
         <link href="https://www.westcoastrealtyaljezur.com/ficha/urban-plot-of-land/aljezur/aljezur/12513/24744562/en/"/>
@@ -1465,6 +2377,60 @@ This space is suitable for families with children, couples, group of friends, or
                                    
                                    
                                        400 m2 WCR-H133]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House - Vila do Bispo (Vila do Bispo e Raposeira) For sale 695.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/house/vila-do-bispo/vila-do-bispo-e-raposeira/12513/24744649/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/house/vila-do-bispo/vila-do-bispo-e-raposeira/12513/24744649/en/"/>
+        <updated>2025-09-23T17:37:19.258Z</updated>
+        <content type="html"><![CDATA[ House - Vila do Bispo (Vila do Bispo e Raposeira) For sale 695.000 € WCR-C120
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T3
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              2
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       223 m2 WCR-C120]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Single family house - Aljezur (Aljezur) For sale 597.000 € (West Coast Realty Aljezur)]]></title>
@@ -1519,6 +2485,61 @@ This space is suitable for families with children, couples, group of friends, or
                                    
                                    
                                        161.5 m2 WCR-H135]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duplex Penthouse - Vila Real de Santo António (Vila Real de Santo António) For sale 350.000 € (West Coast Realty Aljezur)]]></title>
+        <id>https://www.westcoastrealtyaljezur.com/ficha/duplex-penthouse/vila-real-de-santo-antonio/vila-real-de-santo-antonio/12513/24565109/en/</id>
+        <link href="https://www.westcoastrealtyaljezur.com/ficha/duplex-penthouse/vila-real-de-santo-antonio/vila-real-de-santo-antonio/12513/24565109/en/"/>
+        <updated>2025-09-23T17:37:19.260Z</updated>
+        <content type="html"><![CDATA[Reserved
+                       BANNER VENIDO-ALQUILADO Duplex Penthouse - Vila Real de Santo António (Vila Real de Santo António) For sale 350.000 € WCR-H134
+                               
+                           
+                           
+
+                       
+                               
+                                   
+                                       
+                                           
+
+
+                                       
+                                       
+                                           T2
+                                       
+                                   
+                               
+                               
+                                  
+                                      
+                                          
+                                              
+
+
+                                          
+                                          
+                                              2
+                                          
+                                      
+                                  
+                                  
+
+                       
+                           
+                               
+
+                                   
+                                       
+
+
+
+
+
+
+                                   
+                                   
+                                       83.69 m2 WCR-H134]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Urban Plot of land - Aljezur (Aljezur) For sale 163.000 € (West Coast Realty Aljezur)]]></title>
