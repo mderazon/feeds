@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2025-10-02T05:38:43.128Z</updated>
+    <updated>2025-10-02T17:37:15.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 840.000 Farm 2+1 bedrooms Perdigão Rogil Aljezur - electricity, equipped, water, terrace, terraces, air conditioning, kitchen, water hole, garden]]></title>
+        <id>https://www.provenda.net/en/farm-2+1-bedrooms-perdigao-rogil-aljezur-electricity-equipped-water-terrace-terraces-air-conditioning-kitchen-water-hole-garden+1000020043.html</id>
+        <link href="https://www.provenda.net/en/farm-2+1-bedrooms-perdigao-rogil-aljezur-electricity-equipped-water-terrace-terraces-air-conditioning-kitchen-water-hole-garden+1000020043.html"/>
+        <updated>2025-10-02T17:35:56.742Z</updated>
+        <content type="html"><![CDATA[ SaleProperty with a housing, located in the middle of nature, in a quiet and private zone, surrounded by pine trees and also many other tree species, as well as a garden. It is easily accessible, with private path, parking zone, terraces and pérgulas, providing various leisure zones. House in a position to be inhabited, with equipped kitchen, heating, air conditioning, electricity and water from the network and borehole. Possibility of expanding the construction area.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 650.000 Farm 5 bedrooms Chaparral Bordeira Aljezur - cork oaks]]></title>
         <id>https://www.provenda.net/en/farm-5-bedrooms-chaparral-bordeira-aljezur-cork-oaks+1000020029.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
         <updated>2025-09-29T17:35:51.474Z</updated>
         <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 42.500 House Old 2 bedrooms Marmelete Monchique]]></title>
-        <id>https://www.provenda.net/en/house-old-2-bedrooms-marmelete-monchique+1000019461.html</id>
-        <link href="https://www.provenda.net/en/house-old-2-bedrooms-marmelete-monchique+1000019461.html"/>
-        <updated>2025-10-02T05:37:14.562Z</updated>
-        <content type="html"><![CDATA[ SaleOld house, located in Marmelete, a quiet and peaceful parish in the municipality of Monchique. With excellent sun exposure, this space to be remodeled, with great potential, which will easily transform into a welcoming home. Come and discover this future Recanto de Charme - Charming corner.]]></content>
     </entry>
 </feed>
