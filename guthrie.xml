@@ -2,9 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.guthrierochaproperties.com/imoveis?limit=18&amp;sort=1&amp;distrito=18&amp;concelho=266&amp;tipologia-min=T0&amp;tipologia-max=T6%20ou%20Superior&amp;</id>
     <title>Guthrie Rocha Properties</title>
-    <updated>2025-10-10T05:42:10.807Z</updated>
+    <updated>2025-10-10T17:41:37.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.guthrierochaproperties.com/imgs/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Luxury apartment walking distance to the beach 384.000€]]></title>
+        <id>https://www.guthrierochaproperties.com/imovel-selling-apartment-t2-aljezur-6197214</id>
+        <link href="https://www.guthrierochaproperties.com/imovel-selling-apartment-t2-aljezur-6197214"/>
+        <updated>2025-10-10T17:41:36.387Z</updated>
+        <content type="html"><![CDATA[Apartment
+                    
+
+                    
+                    Selling                
+                Premium Luxury apartment walking distance to the beach 384.000€ Faro / Aljezur / Aljezur Ref: GR-M1081 80m2                                
+                                                                    
+                                    
+                                        
+                                            
+                                        
+                                        2
+                                    
+                                                                    
+                                    
+                                        
+                                            
+                                        
+                                        2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful Countryside House with pool on a 10.​.. 1.490.000€]]></title>
         <id>https://www.guthrierochaproperties.com/imovel-selling-farm-t4-aljezur-6196521</id>
@@ -127,15 +152,7 @@
                                         
                                             
                                         
-                                        1
-                                    
-                                                                        
-                                                
-            
-        
-        
-            
-                Running]]></content>
+                                        1]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Urban lot for construction in Espartal 255.000€]]></title>
@@ -407,30 +424,5 @@
         
             
                 N/A]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUIN TO RECOVER WITH ARCHITECTURAL PROJECT.​.. 118.000€]]></title>
-        <id>https://www.guthrierochaproperties.com/imovel-selling-villa-t4-aljezur-6170421</id>
-        <link href="https://www.guthrierochaproperties.com/imovel-selling-villa-t4-aljezur-6170421"/>
-        <updated>2025-09-30T17:41:16.395Z</updated>
-        <content type="html"><![CDATA[Villa
-                    
-
-                    
-                    Selling                
-                SPECIAL VIEW OF THE TOWN AND CASTLE OF ALJEZUR RUIN TO RECOVER WITH ARCHITECTURAL PROJECT.​.. 118.000€ Faro / Aljezur / Aljezur Ref: GR-J1036 111.24m2                                
-                                                                    
-                                    
-                                        
-                                            
-                                        
-                                        4
-                                    
-                                                                    
-                                    
-                                        
-                                            
-                                        
-                                        1]]></content>
     </entry>
 </feed>
