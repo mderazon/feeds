@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2025-11-04T05:42:24.700Z</updated>
+    <updated>2025-11-04T17:40:06.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 350.000 House 1 bedrooms Bordeira Aljezur]]></title>
+        <id>https://www.provenda.net/en/house-1-bedrooms-bordeira-aljezur+1000020091.html</id>
+        <link href="https://www.provenda.net/en/house-1-bedrooms-bordeira-aljezur+1000020091.html"/>
+        <updated>2025-11-04T17:39:03.569Z</updated>
+        <content type="html"><![CDATA[ SaleThis house combines authentic Algarve charm with a modern, relaxed touch. Completely rebuilt, the property is spread over three floors connected by a stone staircase and features whitewashed interiors, custom-made wooden furniture and natural textiles that create a serene and bright atmosphere. With a bedroom, a bathroom and a living room, a fully equipped kitchen and a patio facing the street, it is the perfect refuge for those who appreciate the simplicity of village life. Here, time slows down and every detail invites you to relax. Just 10 minutes from the wild beaches of the Costa Vicentina, such as Praia da Bordeira and Carrapateira. Close to Aljezur and around 30 km from Sagres and Lagos, it offers the perfect balance between rural tranquility and easy access to the coast.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 840.000 Farm 2+1 bedrooms Perdigão Rogil Aljezur - electricity, equipped, water, terrace, terraces, air conditioning, kitchen, water hole, garden]]></title>
         <id>https://www.provenda.net/en/farm-2+1-bedrooms-perdigao-rogil-aljezur-electricity-equipped-water-terrace-terraces-air-conditioning-kitchen-water-hole-garden+1000020043.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/land-rustic-with-43960sqm-rogil-aljezur-electricity-water+1000019489.html"/>
         <updated>2024-08-16T17:36:28.898Z</updated>
         <content type="html"><![CDATA[ SaleRustic land with pine forest and great location. It offers great potential for agriculture and forestry. It has access to water and electricity next to the land.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 400.000 House Old to recover 2 bedrooms Aldeia Nova Aljezur]]></title>
-        <id>https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html</id>
-        <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
-        <updated>2025-09-29T17:35:51.474Z</updated>
-        <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
     </entry>
 </feed>
