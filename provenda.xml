@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2025-11-27T05:42:56.254Z</updated>
+    <updated>2025-11-27T17:38:41.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 890.000 Farm 3 bedrooms Bordeira Aljezur - furnished, alarm, equipped, terrace, fireplace, store room]]></title>
+        <id>https://www.provenda.net/en/farm-3-bedrooms-bordeira-aljezur-furnished-alarm-equipped-terrace-fireplace-store-room+1000020123.html</id>
+        <link href="https://www.provenda.net/en/farm-3-bedrooms-bordeira-aljezur-furnished-alarm-equipped-terrace-fireplace-store-room+1000020123.html"/>
+        <updated>2025-11-27T17:37:36.465Z</updated>
+        <content type="html"><![CDATA[ SaleProperty consisting of three bedrooms, two bathrooms, cozy living room, functional kitchen and fireplace. It is furnished and equipped with underfloor heating, alarm system and storage. Outside it has a well-kept garden area, terrace, pergola and dining area, ideal for leisure moments. The property also includes a small ruin with potential for reconstruction, offering an additional opportunity for valorization. This house was completely rebuilt by an interior architect, designed with a focus on comfort, simplicity and a welcoming atmosphere, creating a space where the rhythm of life becomes naturally calmer and more harmonious.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(350.000) € 345.000 House 1 bedrooms Bordeira Aljezur]]></title>
         <id>https://www.provenda.net/en/house-1-bedrooms-bordeira-aljezur+1000020091.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html"/>
         <updated>2024-09-13T17:34:39.027Z</updated>
         <content type="html"><![CDATA[ SaleLocated in a beautiful area with easy access, approximately 8 km from Aljezur, this property is ideal for a nature retreat. It has prior approval for the construction of a resort-style hotel with dispersed units, comprising: 20 buildings, of which 15 are accommodation units/houses with a total area of ​​675sqm (45sqm/unit); 3 buildings for staff accommodation with a total area of ​​120sqm; 1 building for common areas and services with 400sqm; 1 building for laundry, technical area and storage with 150sqm. The project also includes a biological swimming pool, solar park and parking. Areas can be adjusted according to a new plan. The property has a wide variety of trees. Water is supplied via the public network and a borehole, and electricity and telecommunications are located close to the property. It is approximately 15 minutes from the beaches of Vale dos Homens and Amoreira, a 40-minute drive from Palmares Golf Course and approximately 90 minutes by car from Faro Airport.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 120.000 Land Rustic with 43960sqm Rogil Aljezur - electricity, water]]></title>
-        <id>https://www.provenda.net/en/land-rustic-with-43960sqm-rogil-aljezur-electricity-water+1000019489.html</id>
-        <link href="https://www.provenda.net/en/land-rustic-with-43960sqm-rogil-aljezur-electricity-water+1000019489.html"/>
-        <updated>2024-08-16T17:36:28.898Z</updated>
-        <content type="html"><![CDATA[ SaleRustic land with pine forest and great location. It offers great potential for agriculture and forestry. It has access to water and electricity next to the land.]]></content>
     </entry>
 </feed>
