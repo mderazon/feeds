@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.costaproperties.pt/en-gb/properties/aljezur</id>
     <title>Costa Properties</title>
-    <updated>2026-01-26T05:53:37.037Z</updated>
+    <updated>2026-01-26T17:57:10.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.costaproperties.pt/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Old Haystack for Reconstruction in Bordeira 129 999 €]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/old-haystack-for-reconstruction-in-bordeira/21167012</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/old-haystack-for-reconstruction-in-bordeira/21167012"/>
+        <updated>2026-01-21T05:51:00.601Z</updated>
+        <content type="html"><![CDATA[ Old Haystack for Reconstruction in Bordeira Unique opportunity to transform an old haystack into your new home in the stunning Aldeia da Bordeira, just a few minutes from the magnificent beache... Ref. CP-R2402 Area                                57.6 m²                                                                                                                                                                                                                                            Land area                                57.6  m² 129 999 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land for Construction a few minutes from Bordeira beach 549 000 €]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/land-for-construction-a-few-minutes-from-bordeira-beach/21603604</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/land-for-construction-a-few-minutes-from-bordeira-beach/21603604"/>
+        <updated>2026-01-21T05:51:00.599Z</updated>
+        <content type="html"><![CDATA[ Land for Construction a few minutes from Bordeira beach Opportunity to invest. Land with 5970 m2, with a buildable surface of 700 m2 + Ruin prior to 1970 that can be rebuilt with about 50m2. Possibility of... Ref. CP-R2412 Area                                700 m²                                                                                                                                                                                    Covered Area                                5970 m²                                                                                                                                                                                     Land area                                5970  m²                                                                                                                                                                                    Land area                                5970  m² 549 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rustic land with access in Rogil 80 000 €]]></title>
         <id>https://www.costaproperties.pt/en-gb/property/rustic-land-with-access-in-rogil/22700745</id>
@@ -25,19 +39,5 @@
         <link href="https://www.costaproperties.pt/en-gb/property/villa-in-carrapateira-with-panoramic-view-perfect-for-living-or-investment/22965239"/>
         <updated>2026-01-21T05:51:00.594Z</updated>
         <content type="html"><![CDATA[ Villa in Carrapateira with Panoramic View - Perfect for Living or Investment Perched atop the charming village of Carrapateira, this unique two-storey villa offers a breathtaking 180º panoramic view over the surrounding landsc... Ref. CP-M2505 Bedrooms                                3                                                                                                                                                                                    Bathroom                                3                                                                                                                                                                                                                                                                        Area                                151 m²                                                                                                                                                                                    Covered Area                                210 m²                                                                                                                                                                                                                                                                         Energy class                                E 600 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Land for Construction a few minutes from Bordeira beach 549 000 €]]></title>
-        <id>https://www.costaproperties.pt/en-gb/property/land-for-construction-a-few-minutes-from-bordeira-beach/21603604</id>
-        <link href="https://www.costaproperties.pt/en-gb/property/land-for-construction-a-few-minutes-from-bordeira-beach/21603604"/>
-        <updated>2026-01-21T05:51:00.599Z</updated>
-        <content type="html"><![CDATA[ Land for Construction a few minutes from Bordeira beach Opportunity to invest. Land with 5970 m2, with a buildable surface of 700 m2 + Ruin prior to 1970 that can be rebuilt with about 50m2. Possibility of... Ref. CP-R2412 Area                                700 m²                                                                                                                                                                                    Covered Area                                5970 m²                                                                                                                                                                                     Land area                                5970  m²                                                                                                                                                                                    Land area                                5970  m² 549 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Haystack for Reconstruction in Bordeira 129 999 €]]></title>
-        <id>https://www.costaproperties.pt/en-gb/property/old-haystack-for-reconstruction-in-bordeira/21167012</id>
-        <link href="https://www.costaproperties.pt/en-gb/property/old-haystack-for-reconstruction-in-bordeira/21167012"/>
-        <updated>2026-01-21T05:51:00.601Z</updated>
-        <content type="html"><![CDATA[ Old Haystack for Reconstruction in Bordeira Unique opportunity to transform an old haystack into your new home in the stunning Aldeia da Bordeira, just a few minutes from the magnificent beache... Ref. CP-R2402 Area                                57.6 m²                                                                                                                                                                                                                                            Land area                                57.6  m² 129 999 €]]></content>
     </entry>
 </feed>
