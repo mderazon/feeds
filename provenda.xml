@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties/</id>
     <title>Provenda</title>
-    <updated>2026-02-09T18:11:04.559Z</updated>
+    <updated>2026-02-10T18:17:20.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[ SaleLocated on the Vicentina coast, with a total area of 7.09 hectares, it includes an old housing, a natural lake, a pond, panoramic views of the sea and the saw, just 4.5 km from Rogil, 7 km from Aljezur and 8 km from the beach. Electricity and water supply network are available on site, ensuring all essential conditions for housing or project development. The existing house has an implementation area of 195.8sqm and a useful area of 140.31sqm. There is a possibility of renewing, expansion or construction of a rural tourism project up to 2000sqm. With great agricultural potential is an opportunity to create a quiet refuge, a sustainable project or a lucrative rural business, this property offers what you are looking for!]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[€ 369.000 Farm Barranco da Figueira Aljezur - well, water, tank, cork oaks]]></title>
+        <id>https://www.provenda.net/en/farm-barranco-da-figueira-aljezur-well-water-tank-cork-oaks+1000019740.html</id>
+        <link href="https://www.provenda.net/en/farm-barranco-da-figueira-aljezur-well-water-tank-cork-oaks+1000019740.html"/>
+        <updated>2026-02-10T18:15:58.942Z</updated>
+        <content type="html"><![CDATA[ SaleDiscover a unique 65-hectare property in the Costa Vicentina Natural Park, just 10 minutes from Aljezur, featuring landscapes of valleys and hills covered with native cork oak and strawberry trees, abundant water resources (two wells, a stream, and a water tank), and a 55.5 m² ruin with approved plans for reconstruction. Equipped with a 6 kW solar system it offers energy independence and is ideal for agroforestry, permaculture projects, or as a private retreat, combining privacy, sustainability, and proximity to the beaches and the town.]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[€ 560.000 House in the countryside 3 bedrooms Valinhos Aljezur - equipped kitchen, garden, barbecue]]></title>
         <id>https://www.provenda.net/en/house-in-the-countryside-3-bedrooms-valinhos-aljezur-equipped-kitchen-garden-barbecue+1000019725.html</id>
         <link href="https://www.provenda.net/en/house-in-the-countryside-3-bedrooms-valinhos-aljezur-equipped-kitchen-garden-barbecue+1000019725.html"/>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html"/>
         <updated>2024-09-13T17:34:39.027Z</updated>
         <content type="html"><![CDATA[ SaleLocated in a beautiful area with easy access, approximately 8 km from Aljezur, this property is ideal for a nature retreat. It has prior approval for the construction of a resort-style hotel with dispersed units, comprising: 20 buildings, of which 15 are accommodation units/houses with a total area of ​​675sqm (45sqm/unit); 3 buildings for staff accommodation with a total area of ​​120sqm; 1 building for common areas and services with 400sqm; 1 building for laundry, technical area and storage with 150sqm. The project also includes a biological swimming pool, solar park and parking. Areas can be adjusted according to a new plan. The property has a wide variety of trees. Water is supplied via the public network and a borehole, and electricity and telecommunications are located close to the property. It is approximately 15 minutes from the beaches of Vale dos Homens and Amoreira, a 40-minute drive from Palmares Golf Course and approximately 90 minutes by car from Faro Airport.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 400.000 House Old to recover 2 bedrooms Aldeia Nova Aljezur]]></title>
-        <id>https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html</id>
-        <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
-        <updated>2026-01-14T05:46:33.091Z</updated>
-        <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
     </entry>
 </feed>
