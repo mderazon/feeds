@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2026-02-18T06:37:39.025Z</updated>
+    <updated>2026-02-19T18:12:48.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[Apartment T2 Aljezur, Aldeia Antiga (Castelo) - 1529649 - 5   2277772]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[210.000 € ]]></title>
+        <title type="html"><![CDATA[199.000 € ]]></title>
         <id>https://www.era.pt/en/property/apartment-t1-sea-view-aljezur-vale-da-telha-411260001</id>
         <link href="https://www.era.pt/en/property/apartment-t1-sea-view-aljezur-vale-da-telha-411260001"/>
         <updated>2026-01-09T17:44:20.451Z</updated>
