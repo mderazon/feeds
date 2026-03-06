@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2026-03-04T18:02:29.108Z</updated>
+    <updated>2026-03-06T06:04:20.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -80,7 +80,7 @@
         <id>https://www.era.pt/en/property/terraced-house-t2-aljezur-odeceixe-411250020</id>
         <link href="https://www.era.pt/en/property/terraced-house-t2-aljezur-odeceixe-411250020"/>
         <updated>2025-06-30T05:43:42.263Z</updated>
-        <content type="html"><![CDATA[Terraced House T2 Aljezur, Odeceixe - 1487509 - 16   2150910]]></content>
+        <content type="html"><![CDATA[Terraced House T2 Aljezur, Odeceixe - 1487509 - 5   2150910]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[130.000 € ]]></title>
@@ -94,7 +94,7 @@
         <id>https://www.era.pt/en/property/house-t4-luxury-aljezur-espartal-411250018</id>
         <link href="https://www.era.pt/en/property/house-t4-luxury-aljezur-espartal-411250018"/>
         <updated>2025-06-12T17:40:34.583Z</updated>
-        <content type="html"><![CDATA[House T4 Aljezur, Espartal - 1475424 - 21   441542024601]]></content>
+        <content type="html"><![CDATA[House T4 Aljezur, Espartal - 1475424 - 17   441542024601]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[265.000 € ]]></title>
