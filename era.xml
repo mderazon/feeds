@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2026-03-20T06:14:03.358Z</updated>
+    <updated>2026-03-20T17:59:01.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[675.000 € ]]></title>
+        <id>https://www.era.pt/en/property/terraced-house-t4-annex-aljezur-rogil-411260013</id>
+        <link href="https://www.era.pt/en/property/terraced-house-t4-annex-aljezur-rogil-411260013"/>
+        <updated>2026-03-20T17:57:47.179Z</updated>
+        <content type="html"><![CDATA[Terraced House T4 com Annex Aljezur, Rogil - 1544662 - 25   4410610638650]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[250.000 € ]]></title>
         <id>https://www.era.pt/en/property/house-t1-kitchen-garden-aljezur-aljezur-411260012</id>
@@ -102,12 +109,5 @@
         <link href="https://www.era.pt/en/property/house-t4-luxury-aljezur-espartal-411250018"/>
         <updated>2025-06-12T17:40:34.583Z</updated>
         <content type="html"><![CDATA[House T4 Aljezur, Espartal - 1475424 - 17   441542024601]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[265.000 € ]]></title>
-        <id>https://www.era.pt/en/property/house-t2-kitchen-garden-aljezur-odeceixe-411250014</id>
-        <link href="https://www.era.pt/en/property/house-t2-kitchen-garden-aljezur-odeceixe-411250014"/>
-        <updated>2026-02-23T18:44:37.986Z</updated>
-        <content type="html"><![CDATA[House T2 Aljezur, Odeceixe - 1465432 - 10   22189]]></content>
     </entry>
 </feed>
