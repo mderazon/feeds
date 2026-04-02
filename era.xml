@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
     <title>ERA Aljezur</title>
-    <updated>2026-04-01T06:59:00.396Z</updated>
+    <updated>2026-04-02T06:52:16.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -108,6 +108,6 @@
         <id>https://www.era.pt/en/property/terraced-house-t3-aljezur-bordeira-411250019</id>
         <link href="https://www.era.pt/en/property/terraced-house-t3-aljezur-bordeira-411250019"/>
         <updated>2025-06-20T17:39:44.853Z</updated>
-        <content type="html"><![CDATA[Terraced House T3 Aljezur, Bordeira - 1458632 - 11   377129]]></content>
+        <content type="html"><![CDATA[Terraced House T3 Aljezur, Bordeira - 1458632 - 2   377129]]></content>
     </entry>
 </feed>
