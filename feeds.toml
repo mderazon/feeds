@@ -169,3 +169,99 @@ contentSelector = [
     ".card-ref",
     ".card-icon-container",
 ]
+
+[portugal_best_invest]
+title = "Portugal Best Invest"
+url = "https://www.portugal-best-invest.net/imoveis?loc=Aljezur&dst=8&mun=104"
+entrySelector = ".propertyItem[data-type='PropertyListItem']"
+waitUntil = "networkidle"
+titleSelector = [".propertyTitle", ".propertyPrice"]
+linkSelector = ".propertyItemWrap.propertyItemInner[href]"
+contentSelector = [
+    ".imgWrapper img",
+    ".propertyTitle",
+    ".propertyDescription",
+    ".propertyPrice",
+]
+
+[livealgarve]
+title = "Live Algarve"
+url = "https://livealgarve.com/properties/aljezur"
+entrySelector = ".listing-prop__item"
+waitUntil = "networkidle"
+titleSelector = ["h2.listing-prop__item--name", ".listing-prop__item--price"]
+linkSelector = "a[href*='/property/']"
+contentSelector = [
+    ".listing-prop__item--slider img",
+    "h2.listing-prop__item--name",
+    ".listing-prop__item--price",
+]
+
+[lusoland]
+title = "Lusoland"
+url = "https://lusoland.pt/en/property-for-sale/?search=search&textTowns=&zonas=&host_dominio=https%3A%2F%2Flusoland.pt&empresa=lusoland.pt&town%5B%5D=Aljezur&price-min=&price-max=&ref=&habs-min=0&habs-max=20&baths-min=0&baths-max=20&m_cons-min=&m_cons-max="
+entrySelector = ".row.property-item"
+waitUntil = "networkidle"
+titleSelector = [".info-plus.custom-info-plus .type", "a.precio-listado"]
+linkSelector = "a.precio-listado[href]"
+contentSelector = [
+    ".property-mini-carousel img.imagen",
+    ".info-plus.custom-info-plus .type",
+    ".type.ciudad",
+    "a.precio-listado",
+]
+
+[maximoproperties]
+title = "Maximo Properties"
+url = "https://www.maximoproperties.pt/en-gb/properties/faro-dst/aljezur?srt=1"
+entrySelector = ".propertyItem[data-type='PropertyListItem']"
+waitUntil = "networkidle"
+titleSelector = [".propertyTitle", ".propertyPrice"]
+linkSelector = ".propertyItemWrap.propertyItemInner[href]"
+contentSelector = [
+    ".imgWrapper img",
+    ".propertyTitle",
+    ".propertyDescription",
+    ".propertyPrice",
+]
+
+[algarvhome]
+title = "AlgarvHome"
+url = "https://www.algarvhome.pt/venda/venda/faro-dst/aljezur?srt=1"
+entrySelector = ".propertyItem[data-type='PropertyListItem']"
+waitUntil = "networkidle"
+titleSelector = [".propertyTitle", ".propertyPrice"]
+linkSelector = ".propertyItemWrap.propertyItemInner[href]"
+contentSelector = [
+    ".imgWrapper img",
+    ".propertyTitle",
+    ".propertyDescription",
+    ".propertyPrice",
+]
+
+[lagosalgarve]
+title = "Lagos Algarve Real Estate"
+url = "https://www.lagosalgarverealestate.com/en/list?city=720&order=0"
+entrySelector = "a.propertyItemStyle3"
+waitUntil = "networkidle"
+titleSelector = [".propertyItemStyle3__panel__title", ".propertyItemStyle3__panel__price"]
+linkSelector = "a.propertyItemStyle3[href]"
+contentSelector = [
+    ".propertyItemStyle3__imgWrap img",
+    ".propertyItemStyle3__panel__title",
+    ".propertyItemStyle3__panel__price",
+    ".propertyItemStyle3__panel__info",
+]
+
+[luzvillasales]
+title = "Luz Villa Sales"
+url = "https://www.luzvillasales.com/en/list?city=720&order=2&max=12"
+entrySelector = "a.propertyItemStyle4"
+waitUntil = "networkidle"
+titleSelector = ["h5.title", "h5.price"]
+linkSelector = "a.propertyItemStyle4[href]"
+contentSelector = [
+    ".propertyItemStyle4__img",
+    "h5.title",
+    "h5.price",
+]
