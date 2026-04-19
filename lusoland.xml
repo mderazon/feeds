@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lusoland.pt/en/property-for-sale/?search=search&amp;textTowns=&amp;zonas=&amp;host_dominio=https%3A%2F%2Flusoland.pt&amp;empresa=lusoland.pt&amp;town%5B%5D=Aljezur&amp;price-min=&amp;price-max=&amp;ref=&amp;habs-min=0&amp;habs-max=20&amp;baths-min=0&amp;baths-max=20&amp;m_cons-min=&amp;m_cons-max=</id>
+    <title>Lusoland</title>
+    <updated>2026-04-19T20:39:49.995Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://lusoland.pt/wp-content/uploads/2024/02/cropped-favicon-lusoland-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Country House 590.000€]]></title>
+        <id>https://lusoland.pt/en/property/country-house-aljezur-refr0005826-809613/</id>
+        <link href="https://lusoland.pt/en/property/country-house-aljezur-refr0005826-809613/"/>
+        <updated>2026-04-19T20:39:05.931Z</updated>
+        <content type="html"><![CDATA[ Country House Aljezur 590.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land 200.000€]]></title>
+        <id>https://lusoland.pt/en/property/land-aljezur-refu00014-23-268270/</id>
+        <link href="https://lusoland.pt/en/property/land-aljezur-refu00014-23-268270/"/>
+        <updated>2026-04-19T20:39:05.932Z</updated>
+        <content type="html"><![CDATA[ Land Aljezur 200.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Villa 700.000€]]></title>
+        <id>https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00028-25-670303/</id>
+        <link href="https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00028-25-670303/"/>
+        <updated>2026-04-19T20:39:05.934Z</updated>
+        <content type="html"><![CDATA[ Villa Aljezur 700.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terraced Houses 418.000€]]></title>
+        <id>https://lusoland.pt/en/property/terraced-houses-aljezur-vale-da-telha-refu00026-25-652467/</id>
+        <link href="https://lusoland.pt/en/property/terraced-houses-aljezur-vale-da-telha-refu00026-25-652467/"/>
+        <updated>2026-04-19T20:39:05.934Z</updated>
+        <content type="html"><![CDATA[ Terraced Houses Aljezur 418.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartment 405.000€]]></title>
+        <id>https://lusoland.pt/en/property/apartment-aljezur-refu0003325-743860/</id>
+        <link href="https://lusoland.pt/en/property/apartment-aljezur-refu0003325-743860/"/>
+        <updated>2026-04-19T20:39:05.945Z</updated>
+        <content type="html"><![CDATA[ Apartment Aljezur 405.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Villa 597.000€]]></title>
+        <id>https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/</id>
+        <link href="https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/"/>
+        <updated>2026-04-19T20:39:05.948Z</updated>
+        <content type="html"><![CDATA[ Villa Aljezur 597.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Farmhouse 399.000€]]></title>
+        <id>https://lusoland.pt/en/property/farmhouse-aljezur-alfambras-refr00036_24-273415/</id>
+        <link href="https://lusoland.pt/en/property/farmhouse-aljezur-alfambras-refr00036_24-273415/"/>
+        <updated>2026-04-19T20:39:05.950Z</updated>
+        <content type="html"><![CDATA[ Farmhouse Aljezur 399.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Villa 874.000€]]></title>
+        <id>https://lusoland.pt/en/property/villa-aljezur-refu0012-23-242501/</id>
+        <link href="https://lusoland.pt/en/property/villa-aljezur-refu0012-23-242501/"/>
+        <updated>2026-04-19T20:39:05.953Z</updated>
+        <content type="html"><![CDATA[ Villa Aljezur 874.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Country House 830.000€]]></title>
+        <id>https://lusoland.pt/en/property/country-house-aljezur-refr00045-24-493173/</id>
+        <link href="https://lusoland.pt/en/property/country-house-aljezur-refr00045-24-493173/"/>
+        <updated>2026-04-19T20:39:05.953Z</updated>
+        <content type="html"><![CDATA[ Country House Aljezur 830.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Land 87.470€]]></title>
+        <id>https://lusoland.pt/en/property/land-aljezur-refr00049-24-594875/</id>
+        <link href="https://lusoland.pt/en/property/land-aljezur-refr00049-24-594875/"/>
+        <updated>2026-04-19T20:39:05.957Z</updated>
+        <content type="html"><![CDATA[ Land Aljezur 87.470€]]></content>
+    </entry>
+</feed>
