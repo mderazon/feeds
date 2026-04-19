@@ -265,3 +265,15 @@ contentSelector = [
     "h5.title",
     "h5.price",
 ]
+
+[kwportugal]
+title = "KW Portugal Aljezur"
+url = "https://www.kwportugal.pt/en/imoveis?business=1%2C4%2C5&orderBy=11&viewType=grid&priceMin=80&priceMax=36000000&rooms=all&bathrooms=all&parkings=all&district=8&council=803"
+entrySelector = "div[data-property-id]"
+waitUntil = "networkidle"
+titleSelector = ["a[href*='/en/Imovel/'] span.sr-only"]
+linkSelector = "a[href*='/en/Imovel/'][href]"
+contentSelector = [
+    "img[alt='Enterprise']",
+    "a[href*='/en/Imovel/'] span.sr-only",
+]
