@@ -1,0 +1,7 @@
+{
+  "name": "feeds",
+  "private": true,
+  "dependencies": {
+    "feed-me-up-scotty": "1.10.0"
+  }
+}

@@ -18,6 +18,15 @@ jobs:
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v5
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: npm
+      - run: npm ci
+      - uses: actions/cache@v5
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-firefox-${{ hashFiles('package-lock.json') }}
       - run: npx playwright install --with-deps firefox
       # GitHub Actions unfortunately does not support retries;
       # this is a cumbersome method of retrying twice in case of errors:
