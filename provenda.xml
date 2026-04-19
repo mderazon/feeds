@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.provenda.net/en/properties/</id>
+    <id>https://www.provenda.net/en/properties-county-aljezur/</id>
     <title>Provenda</title>
-    <updated>2026-04-18T17:58:20.966Z</updated>
+    <updated>2026-04-19T13:44:34.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.provenda.net/en/properties/favicon.ico</icon>
+    <icon>https://www.provenda.net/en/properties-county-aljezur/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[€ 900.000 Homestead 3 bedrooms Alfaçal Aljezur - electricity, terrace, equipped, kitchen, cork oaks, water]]></title>
         <id>https://www.provenda.net/en/homestead-3-bedrooms-alfacal-aljezur-electricity-terrace-equipped-kitchen-cork-oaks-water+1000020256.html</id>
@@ -39,13 +39,6 @@
         <link href="https://www.provenda.net/en/farm-5-bedrooms-chaparral-bordeira-aljezur-cork-oaks+1000020029.html"/>
         <updated>2026-04-12T17:57:18.740Z</updated>
         <content type="html"><![CDATA[ SaleProperty located in a Natural Park, about 2.3 km from Vale Figueiras Beach in Aljezur. With two ruins to rebuild, one of which has an approved architectural project for a 200 m² semi-detached house. This property benefits from an exceptional landscape setting, naturally attractive for its unique forest diversity – pine trees, cork oaks, arbutus trees, orchards and vegetable gardens. Property with diverse natural attractions, including a lake and/or potential for a tourism project.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 260.000 Farm 0 bedrooms Cercas São Teotónio Odemira]]></title>
-        <id>https://www.provenda.net/en/farm-0-bedrooms-cercas-sao-teotonio-odemira+1000020027.html</id>
-        <link href="https://www.provenda.net/en/farm-0-bedrooms-cercas-sao-teotonio-odemira+1000020027.html"/>
-        <updated>2026-04-12T17:57:18.742Z</updated>
-        <content type="html"><![CDATA[ SaleProperty located in Alentejo - Costa Vicentina, about 15 minutes from São Miguel village. With 9.4 hectares, a ruin with 150sqm for reconstruction, in a private, quiet and excellent landscape frame. This property has great potential to develop agricultural activities, also the possibility of implementing a forest project, contributing to local biodiversity.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[€ 1.050.000 House Tramelo Bordeira Aljezur - swimming pool, garden]]></title>
@@ -88,5 +81,12 @@
         <link href="https://www.provenda.net/en/land-with-59000sqm-aljezur-cork-oaks-electricity-water+1000019562.html"/>
         <updated>2026-04-12T17:57:18.751Z</updated>
         <content type="html"><![CDATA[ SaleThis land is located in Aljezur, close to Cerca dos Pomares. With 5.9 hectares of abundant nature, it has a riverbed, cork oaks, bush and fertile soil for agriculture. The electricity supply network is located next to the land.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[€ 550.000 Hotel Aljezur - laundry]]></title>
+        <id>https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html</id>
+        <link href="https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html"/>
+        <updated>2026-04-19T13:43:00.738Z</updated>
+        <content type="html"><![CDATA[ SaleLocated in a beautiful area with easy access, approximately 8 km from Aljezur, this property is ideal for a nature retreat. It has prior approval for the construction of a resort-style hotel with dispersed units, comprising: 20 buildings, of which 15 are accommodation units/houses with a total area of ​​675sqm (45sqm/unit); 3 buildings for staff accommodation with a total area of ​​120sqm; 1 building for common areas and services with 400sqm; 1 building for laundry, technical area and storage with 150sqm. The project also includes a biological swimming pool, solar park and parking. Areas can be adjusted according to a new plan. The property has a wide variety of trees. Water is supplied via the public network and a borehole, and electricity and telecommunications are located close to the property. It is approximately 15 minutes from the beaches of Vale dos Homens and Amoreira, a 40-minute drive from Palmares Golf Course and approximately 90 minutes by car from Faro Airport.]]></content>
     </entry>
 </feed>

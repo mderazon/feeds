@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;page=1&amp;ord=3</id>
+    <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;ord=3&amp;ir=1&amp;nr=0&amp;dt=08&amp;co=08-03-00-0&amp;page=1</id>
     <title>ERA Aljezur</title>
-    <updated>2026-04-18T17:58:20.964Z</updated>
+    <updated>2026-04-19T13:44:34.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
-        <title type="html"><![CDATA[250.000 € ]]></title>
+        <title type="html"><![CDATA[250.000 € Terraced House]]></title>
         <id>https://www.era.pt/en/property/terraced-house-t2-aljezur-centro-historico-411260016</id>
         <link href="https://www.era.pt/en/property/terraced-house-t2-aljezur-centro-historico-411260016"/>
         <updated>2026-04-08T18:45:50.201Z</updated>
-        <content type="html"><![CDATA[Terraced House  Aljezur, Centro Histórico - 1548891 - 8   2213084]]></content>
+        <content type="html"><![CDATA[Terraced House  Aljezur, Centro Histórico - 1548891 - 8 Terraced House Centro Histórico, Aljezur 250.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[675.000 € ]]></title>
+        <title type="html"><![CDATA[675.000 € Terraced House]]></title>
         <id>https://www.era.pt/en/property/terraced-house-t4-annex-aljezur-rogil-411260013</id>
         <link href="https://www.era.pt/en/property/terraced-house-t4-annex-aljezur-rogil-411260013"/>
         <updated>2026-03-20T17:57:47.179Z</updated>
-        <content type="html"><![CDATA[Terraced House T4 com Annex Aljezur, Rogil - 1544662 - 30   4410610638650]]></content>
+        <content type="html"><![CDATA[Terraced House T4 com Annex Aljezur, Rogil - 1544662 - 30 Terraced House Rogil, Aljezur 675.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[250.000 € ]]></title>
+        <title type="html"><![CDATA[250.000 € House]]></title>
         <id>https://www.era.pt/en/property/house-t1-kitchen-garden-aljezur-aljezur-411260012</id>
         <link href="https://www.era.pt/en/property/house-t1-kitchen-garden-aljezur-aljezur-411260012"/>
         <updated>2026-03-18T18:16:33.127Z</updated>
-        <content type="html"><![CDATA[House T1 Aljezur - 1543702 - 22   116780136]]></content>
+        <content type="html"><![CDATA[House T1 Aljezur - 1543702 - 22 House Aljezur, Aljezur 250.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[240.000 € ]]></title>
+        <title type="html"><![CDATA[240.000 € Apartment]]></title>
         <id>https://www.era.pt/en/property/apartment-t1-furnished-aljezur-odeceixe-411260011</id>
         <link href="https://www.era.pt/en/property/apartment-t1-furnished-aljezur-odeceixe-411260011"/>
         <updated>2026-03-28T06:15:28.285Z</updated>
-        <content type="html"><![CDATA[Apartment T1 Aljezur, Odeceixe - 1542525 - 14   11616211]]></content>
+        <content type="html"><![CDATA[Apartment T1 Aljezur, Odeceixe - 1542525 - 14 Apartment Odeceixe, Aljezur 240.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[345.000 € ]]></title>
+        <title type="html"><![CDATA[345.000 € Apartment]]></title>
         <id>https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260004</id>
         <link href="https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260004"/>
         <updated>2026-01-21T18:08:29.669Z</updated>
-        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1530873 - 9   22760]]></content>
+        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1530873 - 9 Apartment Centro Histórico, Aljezur 345.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[364.000 € ]]></title>
+        <title type="html"><![CDATA[364.000 € Apartment]]></title>
         <id>https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260003</id>
         <link href="https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260003"/>
         <updated>2026-01-21T18:08:29.672Z</updated>
-        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1530751 - 11   2271711]]></content>
+        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1530751 - 11 Apartment Centro Histórico, Aljezur 364.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[382.000 € ]]></title>
+        <title type="html"><![CDATA[382.000 € Apartment]]></title>
         <id>https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260002</id>
         <link href="https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260002"/>
         <updated>2026-01-19T17:45:28.485Z</updated>
-        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1529649 - 15   2277772]]></content>
+        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1529649 - 15 Apartment Centro Histórico, Aljezur 382.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[199.000 € ]]></title>
+        <title type="html"><![CDATA[199.000 € Apartment]]></title>
         <id>https://www.era.pt/en/property/apartment-t1-sea-view-aljezur-vale-da-telha-411260001</id>
         <link href="https://www.era.pt/en/property/apartment-t1-sea-view-aljezur-vale-da-telha-411260001"/>
         <updated>2026-01-09T17:44:20.451Z</updated>
-        <content type="html"><![CDATA[Apartment T1 com Sea view Aljezur, Vale da Telha - 1528751 - 16   1144521]]></content>
+        <content type="html"><![CDATA[Apartment T1 com Sea view Aljezur, Vale da Telha - 1528751 - 16 Apartment Vale da Telha, Aljezur 199.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[210.000 € ]]></title>
+        <title type="html"><![CDATA[210.000 € House]]></title>
         <id>https://www.era.pt/en/property/house-t1-aljezur-aljezur-259250097</id>
         <link href="https://www.era.pt/en/property/house-t1-aljezur-aljezur-259250097"/>
         <updated>2025-11-27T05:41:56.998Z</updated>
-        <content type="html"><![CDATA[House T1 Aljezur, Aljezur - 1520434 - 7   11454511]]></content>
+        <content type="html"><![CDATA[House T1 Aljezur, Aljezur - 1520434 - 7 House Aljezur, Aljezur 210.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[215.000 € ]]></title>
+        <title type="html"><![CDATA[215.000 € Apartment]]></title>
         <id>https://www.era.pt/en/property/apartment-t0-aljezur-104250103</id>
         <link href="https://www.era.pt/en/property/apartment-t0-aljezur-104250103"/>
         <updated>2025-11-11T17:40:23.674Z</updated>
-        <content type="html"><![CDATA[Apartment T0 Aljezur - 1518993 - 1   011090]]></content>
+        <content type="html"><![CDATA[Apartment T0 Aljezur - 1518993 - 1 Apartment Aljezur, Faro 215.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[299.000 € ]]></title>
+        <title type="html"><![CDATA[299.000 € Apartment]]></title>
         <id>https://www.era.pt/en/property/apartment-t1-aljezur-104250102</id>
         <link href="https://www.era.pt/en/property/apartment-t1-aljezur-104250102"/>
         <updated>2025-11-11T17:40:23.678Z</updated>
-        <content type="html"><![CDATA[Apartment T1 Aljezur - 1518990 - 1   1139390]]></content>
+        <content type="html"><![CDATA[Apartment T1 Aljezur - 1518990 - 1 Apartment Aljezur, Faro 299.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[225.000 € ]]></title>
+        <title type="html"><![CDATA[225.000 € House]]></title>
         <id>https://www.era.pt/en/property/house-t2-aljezur-centro-historico-castelo-411250040</id>
         <link href="https://www.era.pt/en/property/house-t2-aljezur-centro-historico-castelo-411250040"/>
         <updated>2026-02-17T06:14:52.101Z</updated>
-        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1514600 - 3   21494949]]></content>
+        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1514600 - 3 House Centro Histórico, Aljezur 225.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[120.000 € ]]></title>
+        <title type="html"><![CDATA[120.000 € House]]></title>
         <id>https://www.era.pt/en/property/house-t2-aljezur-centro-historico-castelo-411250036</id>
         <link href="https://www.era.pt/en/property/house-t2-aljezur-centro-historico-castelo-411250036"/>
         <updated>2026-04-17T18:09:56.774Z</updated>
-        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1501322 - 9   214646490]]></content>
+        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1501322 - 9 House Centro Histórico, Aljezur 120.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[950.000 € ]]></title>
+        <title type="html"><![CDATA[950.000 € Detached House]]></title>
         <id>https://www.era.pt/en/property/detached-house-t4-swimming-pool-aljezur-espartal-411250031</id>
         <link href="https://www.era.pt/en/property/detached-house-t4-swimming-pool-aljezur-espartal-411250031"/>
         <updated>2025-07-31T17:44:50.817Z</updated>
-        <content type="html"><![CDATA[Detached House T3 Aljezur, Espartal - 1495626 - 4   452324653]]></content>
+        <content type="html"><![CDATA[Detached House T3 Aljezur, Espartal - 1495626 - 4 Detached House Espartal, Aljezur 950.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[91.500 € ]]></title>
+        <title type="html"><![CDATA[91.500 € Country House]]></title>
         <id>https://www.era.pt/en/property/country-house-aljezur-411250030</id>
         <link href="https://www.era.pt/en/property/country-house-aljezur-411250030"/>
         <updated>2025-07-18T17:46:15.310Z</updated>
-        <content type="html"><![CDATA[Country House  Aljezur - 1494655 - 20   4040]]></content>
+        <content type="html"><![CDATA[Country House  Aljezur - 1494655 - 20 Country House Aljezur, Faro 91.500 €]]></content>
     </entry>
 </feed>

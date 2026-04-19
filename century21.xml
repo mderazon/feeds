@@ -1,8 +1,106 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.century21global.com/en/l/homes-for-sale/portugal,faro,aljezur?sort=PRICE&amp;order=ASC</id>
+    <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-04-18T17:58:20.962Z</updated>
+    <updated>2026-04-19T13:44:34.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.century21global.com/en/l/homes-for-sale/favicon.ico</icon>
+    <icon>https://www.century21.pt/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[450 000 € Terreno com ruina  Aljezur - Carrascalinho]]></title>
+        <id>https://www.century21.pt/comprar/C0492-00109</id>
+        <link href="https://www.century21.pt/comprar/C0492-00109"/>
+        <updated>2026-04-19T13:42:53.474Z</updated>
+        <content type="html"><![CDATA[ 450 000 € Terreno com ruina  Aljezur - Carrascalinho]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[290 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></title>
+        <id>https://www.century21.pt/comprar/C0483-01657</id>
+        <link href="https://www.century21.pt/comprar/C0483-01657"/>
+        <updated>2026-04-19T13:42:53.479Z</updated>
+        <content type="html"><![CDATA[ 290 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[389 500 € Moradia em banda Nova de Dois pisos na Carrapateira,  Aljezur a 1000m da praia]]></title>
+        <id>https://www.century21.pt/comprar/C0442-00578</id>
+        <link href="https://www.century21.pt/comprar/C0442-00578"/>
+        <updated>2026-04-19T13:42:53.479Z</updated>
+        <content type="html"><![CDATA[ 389 500 € Moradia em banda Nova de Dois pisos na Carrapateira,  Aljezur a 1000m da praia]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[220 000 € Terreno Rústico com Ruína em Aljezur – 26,88ha de Natureza Pura com Ribeira]]></title>
+        <id>https://www.century21.pt/comprar/C0263-02003</id>
+        <link href="https://www.century21.pt/comprar/C0263-02003"/>
+        <updated>2026-04-19T13:42:53.480Z</updated>
+        <content type="html"><![CDATA[ 220 000 € Terreno Rústico com Ruína em Aljezur – 26,88ha de Natureza Pura com Ribeira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[850 000 € Negócio de Flores]]></title>
+        <id>https://www.century21.pt/comprar/C0240-03205</id>
+        <link href="https://www.century21.pt/comprar/C0240-03205"/>
+        <updated>2026-04-19T13:42:53.481Z</updated>
+        <content type="html"><![CDATA[ 850 000 € Negócio de Flores]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 300 000 € Hotel de Charme na Costa Vicentina – Investimento Único na Natureza]]></title>
+        <id>https://www.century21.pt/comprar/C0517-00030</id>
+        <link href="https://www.century21.pt/comprar/C0517-00030"/>
+        <updated>2026-04-19T13:42:53.483Z</updated>
+        <content type="html"><![CDATA[ 2 300 000 € Hotel de Charme na Costa Vicentina – Investimento Único na Natureza]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[250 000 € Terreno em Vale da Telha com obra inacabada]]></title>
+        <id>https://www.century21.pt/comprar/C0507-00191</id>
+        <link href="https://www.century21.pt/comprar/C0507-00191"/>
+        <updated>2026-04-19T13:42:53.484Z</updated>
+        <content type="html"><![CDATA[ 250 000 € Terreno em Vale da Telha com obra inacabada]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[35 000 € NÃO PERCA ESTA GRANDE OPORTUNIDADE! TERRENO RÚSTICO COM 1.5 HA COM ACESSO MUITO BEM LOCALIZADO A POUCOS MINUTOS DAS PARADISIACAS PRAIAS DE LAGOS!]]></title>
+        <id>https://www.century21.pt/comprar/C0240-03084</id>
+        <link href="https://www.century21.pt/comprar/C0240-03084"/>
+        <updated>2026-04-19T13:42:53.485Z</updated>
+        <content type="html"><![CDATA[ 35 000 € NÃO PERCA ESTA GRANDE OPORTUNIDADE! TERRENO RÚSTICO COM 1.5 HA COM ACESSO MUITO BEM LOCALIZADO A POUCOS MINUTOS DAS PARADISIACAS PRAIAS DE LAGOS!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[500 000 € 33,6 Hectares de Natureza na Costa Vicentina | Privacidade Absoluta a Minutos do Atlântico]]></title>
+        <id>https://www.century21.pt/comprar/C0384-00248</id>
+        <link href="https://www.century21.pt/comprar/C0384-00248"/>
+        <updated>2026-04-19T13:42:53.487Z</updated>
+        <content type="html"><![CDATA[ 500 000 € 33,6 Hectares de Natureza na Costa Vicentina | Privacidade Absoluta a Minutos do Atlântico]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[950 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></title>
+        <id>https://www.century21.pt/comprar/C0369-00669</id>
+        <link href="https://www.century21.pt/comprar/C0369-00669"/>
+        <updated>2026-04-19T13:42:53.489Z</updated>
+        <content type="html"><![CDATA[ 950 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[874 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></title>
+        <id>https://www.century21.pt/comprar/C0369-00668</id>
+        <link href="https://www.century21.pt/comprar/C0369-00668"/>
+        <updated>2026-04-19T13:42:53.490Z</updated>
+        <content type="html"><![CDATA[ 874 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[188 000 € Terreno com grande potential, perto do Mar, 56750 m2, Aljezur]]></title>
+        <id>https://www.century21.pt/comprar/C0369-00648</id>
+        <link href="https://www.century21.pt/comprar/C0369-00648"/>
+        <updated>2026-04-19T13:42:53.492Z</updated>
+        <content type="html"><![CDATA[ 188 000 € Terreno com grande potential, perto do Mar, 56750 m2, Aljezur]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13 900 000 € Herdade com 700 hectares para venda!]]></title>
+        <id>https://www.century21.pt/comprar/C0506-00113</id>
+        <link href="https://www.century21.pt/comprar/C0506-00113"/>
+        <updated>2026-04-19T13:42:53.494Z</updated>
+        <content type="html"><![CDATA[ 13 900 000 € Herdade com 700 hectares para venda!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
+        <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
+        <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
+        <updated>2026-04-19T13:42:53.471Z</updated>
+        <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
+    </entry>
 </feed>
