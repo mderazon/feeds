@@ -3,9 +3,10 @@ title = "Marcela Properties"
 url = "https://marcela.pt/properties-to-buy/?county=Aljezur&orderby=recent"
 entrySelector = "li.mp-property--listing"
 waitUntil = "networkidle"
+waitForSelector = "li.mp-property--listing"
 titleSelector = ["h4", ".propPrice"]
 linkSelector = "a[href*='/properties-to-buy/']"
-contentSelector = ["img.lazyloaded", "h4", ".propPrice", ".caption.color-black"]
+contentSelector = ["img", "h4", ".propPrice", ".caption.color-black"]
 
 [remax]
 title = "Remax Aljezur"
