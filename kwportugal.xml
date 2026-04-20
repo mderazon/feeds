@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.kwportugal.pt/en/imoveis?business=1%2C4%2C5&amp;orderBy=11&amp;viewType=grid&amp;priceMin=80&amp;priceMax=36000000&amp;rooms=all&amp;bathrooms=all&amp;parkings=all&amp;district=8&amp;council=803</id>
+    <title>KW Portugal Aljezur</title>
+    <updated>2026-04-20T07:28:56.572Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.kwportugal.pt/favicon.ico?5e594d5da6b5456e</icon>
+    <entry>
+        <title type="html"><![CDATA[400.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Moradia/Faro/Aljezur/Aljezur/65349</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Moradia/Faro/Aljezur/Aljezur/65349"/>
+        <updated>2026-04-20T07:28:55.817Z</updated>
+        <content type="html"><![CDATA[ 400.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[400.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Moradia/Faro/Aljezur/Aljezur/65335</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Moradia/Faro/Aljezur/Aljezur/65335"/>
+        <updated>2026-04-20T07:28:55.821Z</updated>
+        <content type="html"><![CDATA[ 400.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[490.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Moradia/Faro/Aljezur/Aljezur/51665</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Moradia/Faro/Aljezur/Aljezur/51665"/>
+        <updated>2026-04-20T07:28:55.821Z</updated>
+        <content type="html"><![CDATA[ 490.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[147.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Armazem/Faro/Aljezur/Aljezur/47310</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Armazem/Faro/Aljezur/Aljezur/47310"/>
+        <updated>2026-04-20T07:28:55.822Z</updated>
+        <content type="html"><![CDATA[ 147.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[247.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Loja/Faro/Aljezur/Aljezur/47635</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Loja/Faro/Aljezur/Aljezur/47635"/>
+        <updated>2026-04-20T07:28:55.824Z</updated>
+        <content type="html"><![CDATA[ 247.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[950.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Quinta/Herdade/Faro/Aljezur/Rogil/42959</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Quinta/Herdade/Faro/Aljezur/Rogil/42959"/>
+        <updated>2026-04-20T07:28:55.825Z</updated>
+        <content type="html"><![CDATA[ 950.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[850.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Quinta/Herdade/Faro/Aljezur/Odeceixe/39502</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Quinta/Herdade/Faro/Aljezur/Odeceixe/39502"/>
+        <updated>2026-04-20T07:28:55.826Z</updated>
+        <content type="html"><![CDATA[ 850.000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[180.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/Venda/Terreno/Faro/Aljezur/Aljezur/18230</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/Venda/Terreno/Faro/Aljezur/Aljezur/18230"/>
+        <updated>2026-04-20T07:28:55.827Z</updated>
+        <content type="html"><![CDATA[ 180.000€]]></content>
+    </entry>
+</feed>
