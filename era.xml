@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;ord=3&amp;ir=1&amp;nr=0&amp;dt=08&amp;co=08-03-00-0&amp;page=1</id>
     <title>ERA Aljezur</title>
-    <updated>2026-04-22T07:12:49.777Z</updated>
+    <updated>2026-04-22T18:42:58.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[575.000 € House]]></title>
+        <id>https://www.era.pt/en/property/house-t2-aljezur-aldeia-velha-184260029</id>
+        <link href="https://www.era.pt/en/property/house-t2-aljezur-aldeia-velha-184260029"/>
+        <updated>2026-04-22T18:39:49.008Z</updated>
+        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Velha - 1552522 - 9 House Aldeia Velha, Aljezur 575.000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[250.000 € Terraced House]]></title>
         <id>https://www.era.pt/en/property/terraced-house-t2-aljezur-centro-historico-411260016</id>
@@ -102,12 +109,5 @@
         <link href="https://www.era.pt/en/property/detached-house-t4-swimming-pool-aljezur-espartal-411250031"/>
         <updated>2025-07-31T17:44:50.817Z</updated>
         <content type="html"><![CDATA[Detached House T3 Aljezur, Espartal - 1495626 - 4 Detached House Espartal, Aljezur 950.000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[91.500 € Country House]]></title>
-        <id>https://www.era.pt/en/property/country-house-aljezur-411250030</id>
-        <link href="https://www.era.pt/en/property/country-house-aljezur-411250030"/>
-        <updated>2025-07-18T17:46:15.310Z</updated>
-        <content type="html"><![CDATA[Country House  Aljezur - 1494655 - 20 Country House Aljezur, Faro 91.500 €]]></content>
     </entry>
 </feed>

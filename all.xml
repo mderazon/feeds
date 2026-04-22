@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-04-22T07:12:49.684Z</updated>
+    <updated>2026-04-22T18:42:58.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HOUSE WITH BEAUTIFUL VIEWS OF THE NATURAL PARK, VALE DA TELHA, ALJEZUR €1,100,000 (Marcela Properties)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://marcela.pt/properties-to-buy/new-modern-t3-1-apartments-espartal-monte-clerigo-24791/"/>
         <updated>2026-04-19T13:42:30.360Z</updated>
         <content type="html"><![CDATA[ NEW MODERN T3+1 APARTMENTS, ESPARTAL/ MONTE CLERIGO €570,000 3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[199 000 € Land (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/imoveis/venda-terreno-taljezur-aljezur/121981474-33</id>
+        <link href="https://remax.pt/en/imoveis/venda-terreno-taljezur-aljezur/121981474-33"/>
+        <updated>2026-04-22T18:39:12.172Z</updated>
+        <content type="html"><![CDATA[ 199 000 € Land Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[550 000 € Farm (Remax Aljezur)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://remax.pt/en/imoveis/venda-apartamento-t2-aljezur-aljezur/124471126-14"/>
         <updated>2025-11-12T17:39:55.572Z</updated>
         <content type="html"><![CDATA[ 405 000 € Apartment Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[480 000 € Apartment (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-apartamento-t2-aljezur-aljezur/124471126-16</id>
-        <link href="https://remax.pt/en/imoveis/venda-apartamento-t2-aljezur-aljezur/124471126-16"/>
-        <updated>2025-11-12T17:39:55.574Z</updated>
-        <content type="html"><![CDATA[ 480 000 € Apartment Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T2 Venda em Aljezur,Aljezur 325 000 € (Mimosa)]]></title>
@@ -339,7 +339,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve (Century 21)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:01.323Z</updated>
+        <updated>2026-04-22T18:39:29.957Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
     <entry>
@@ -392,13 +392,6 @@ With ... 2 000 000 €]]></content>
         <content type="html"><![CDATA[ SaleLocated on the Vicentina coast, with a total area of 7.09 hectares, it includes an old housing, a natural lake, a pond, panoramic views of the sea and the saw, just 4.5 km from Rogil, 7 km from Aljezur and 8 km from the beach. Electricity and water supply network are available on site, ensuring all essential conditions for housing or project development. The existing house has an implementation area of 195.8sqm and a useful area of 140.31sqm. There is a possibility of renewing, expansion or construction of a rural tourism project up to 2000sqm. With great agricultural potential is an opportunity to create a quiet refuge, a sustainable project or a lucrative rural business, this property offers what you are looking for!]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[€ 369.000 Farm Barranco da Figueira Aljezur - well, water, tank, cork oaks (Provenda)]]></title>
-        <id>https://www.provenda.net/en/farm-barranco-da-figueira-aljezur-well-water-tank-cork-oaks+1000019740.html</id>
-        <link href="https://www.provenda.net/en/farm-barranco-da-figueira-aljezur-well-water-tank-cork-oaks+1000019740.html"/>
-        <updated>2026-04-12T17:57:18.746Z</updated>
-        <content type="html"><![CDATA[ SaleDiscover a unique 65-hectare property in the Costa Vicentina Natural Park, just 10 minutes from Aljezur, featuring landscapes of valleys and hills covered with native cork oak and strawberry trees, abundant water resources (two wells, a stream, and a water tank), and a 55.5 m² ruin with approved plans for reconstruction. Equipped with a 6 kW solar system it offers energy independence and is ideal for agroforestry, permaculture projects, or as a private retreat, combining privacy, sustainability, and proximity to the beaches and the town.]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[€ 560.000 House in the countryside 3 bedrooms Valinhos Aljezur - equipped kitchen, garden, barbecue (Provenda)]]></title>
         <id>https://www.provenda.net/en/house-in-the-countryside-3-bedrooms-valinhos-aljezur-equipped-kitchen-garden-barbecue+1000019725.html</id>
         <link href="https://www.provenda.net/en/house-in-the-countryside-3-bedrooms-valinhos-aljezur-equipped-kitchen-garden-barbecue+1000019725.html"/>
@@ -425,6 +418,20 @@ With ... 2 000 000 €]]></content>
         <link href="https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html"/>
         <updated>2026-04-19T13:43:00.738Z</updated>
         <content type="html"><![CDATA[ SaleLocated in a beautiful area with easy access, approximately 8 km from Aljezur, this property is ideal for a nature retreat. It has prior approval for the construction of a resort-style hotel with dispersed units, comprising: 20 buildings, of which 15 are accommodation units/houses with a total area of ​​675sqm (45sqm/unit); 3 buildings for staff accommodation with a total area of ​​120sqm; 1 building for common areas and services with 400sqm; 1 building for laundry, technical area and storage with 150sqm. The project also includes a biological swimming pool, solar park and parking. Areas can be adjusted according to a new plan. The property has a wide variety of trees. Water is supplied via the public network and a borehole, and electricity and telecommunications are located close to the property. It is approximately 15 minutes from the beaches of Vale dos Homens and Amoreira, a 40-minute drive from Palmares Golf Course and approximately 90 minutes by car from Faro Airport.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[€ 400.000 House Old to recover 2 bedrooms Aldeia Nova Aljezur (Provenda)]]></title>
+        <id>https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html</id>
+        <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
+        <updated>2026-04-22T18:39:37.840Z</updated>
+        <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[575.000 € House (ERA Aljezur)]]></title>
+        <id>https://www.era.pt/en/property/house-t2-aljezur-aldeia-velha-184260029</id>
+        <link href="https://www.era.pt/en/property/house-t2-aljezur-aldeia-velha-184260029"/>
+        <updated>2026-04-22T18:39:49.008Z</updated>
+        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Velha - 1552522 - 9 House Aldeia Velha, Aljezur 575.000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[250.000 € Terraced House (ERA Aljezur)]]></title>
@@ -525,13 +532,6 @@ With ... 2 000 000 €]]></content>
         <content type="html"><![CDATA[Detached House T3 Aljezur, Espartal - 1495626 - 4 Detached House Espartal, Aljezur 950.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[91.500 € Country House (ERA Aljezur)]]></title>
-        <id>https://www.era.pt/en/property/country-house-aljezur-411250030</id>
-        <link href="https://www.era.pt/en/property/country-house-aljezur-411250030"/>
-        <updated>2025-09-22T05:39:07.514Z</updated>
-        <content type="html"><![CDATA[Country House  Aljezur - 1494655 - 20 Country House Aljezur, Faro 91.500 €]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Stunning Commercial Property – Aljezur 899,000€ (Oando)]]></title>
         <id>https://oando.pt/property/stunning-commercial-property-aljezur/</id>
         <link href="https://oando.pt/property/stunning-commercial-property-aljezur/"/>
@@ -619,63 +619,63 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Fantastic high-end estate also ideal for retreats € 2 250 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.578Z</updated>
+        <updated>2026-04-22T18:40:14.040Z</updated>
         <content type="html"><![CDATA[ Unbelievable property located in Alfambras with 4,3 hectares of pristine land- giving the feeling of walking in a public nature park. It contains  houses, the main house has additional 2 studios with separate entrances and shared kitchen.It can serve as a family house but it also has high investment potential  for retreats, weddings and so on…The main house has a area of 238m2 including the two studios. It has together 5 bedrooms, 3 of them en-suite and 2 with independent entrances/ studios.There is a full equipped open plan kitchen and living and dining rooms with stunning countryside views towards the pool and deck area.Outside leisure areas include jacuzzi, pool and sunbathing terrace with barbecue area with stunning views to the “nature park”.The house has economical underfloor heating and cooling, a Piazzetta wood burning stove and large windows for the views and lots of natural light.The second house has an area of 60m2 with an equipped kitchen, living room with fire place, bedroom and bathroom. It has been a successful rental property for years with AL license, heating and its own private pool and fire pit.The property has pine and cork forests and numerous fruit trees, mature olive and fig trees, also almond, loquat, quince, medronhos and palm trees.The house will be sold as it is, fully equipped on the highest quality standard.For touristic purposes its possible to build up to 600m2.Aljezur is about 10 minutes away. 5 t-beds6 t-baths3 t-kitchens € 2 250 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T3 Odeceixe € 380 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.579Z</updated>
+        <updated>2026-04-22T18:40:14.043Z</updated>
         <content type="html"><![CDATA[ Em Odeceixe, a 3km da praia, encontramos esta moradia de 2 pisos com área útil superior a 200m2 e um jardim com cerca de 100m2. Com entradas independentes para cada piso encontramos no 1º andar um T3 com acesso ao sótão e no rés-do-chão um amplo espaço a remodelar ambos com acesso ao quintal, esta pode ser a base que procura para habitação própria e alojamento.Agende a sua vista e não deixe passar esta oportunidade. 3 t-beds2 t-baths2 t-kitchens € 380 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Refúgio na Costa Vicentina € 300 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.580Z</updated>
+        <updated>2026-04-22T18:40:14.046Z</updated>
         <content type="html"><![CDATA[ Quintinha com 4,6 hectares perto de Odeceixe, com vista serra, excelente exposição solar e parte habitável (reabilitada com licença), a apenas 12 minutos da praia.Propriedade com 144 m² de construção, inserida em terreno maioritariamente plano e utilizável, com sobreiros, água e eletricidade da rede — ideal para viver, investir ou desenvolver projeto.Situada numa zona tranquila e reservada, esta quintinha oferece um verdadeiro refúgio na Costa Vicentina, combinando natureza, privacidade e proximidade ao mar.A habitação conta com cerca de 144 m², sendo que parte foi reabilitada em 2010 com autorização da Câmara Municipal e encontra-se atualmente habitável. Esta área dispõe de teto alto em madeira, um quarto, uma casa de banho e uma sala, permitindo utilização imediata.Existe ainda potencial para reabilitação ou ampliação da restante área, tornando esta propriedade especialmente interessante para quem procura viver no local enquanto desenvolve o seu projeto.O terreno, com aproximadamente 4,6 hectares, é maioritariamente plano e praticamente utilizável na sua totalidade, ideal para cultivo, lazer ou turismo rural. A presença de sobreiros confere identidade, valor e enquadramento natural à propriedade.Conta com água e eletricidade da rede, garantindo todas as condições essenciais para conforto e funcionalidade.Localizada a cerca de 12 minutos da praia de Odeceixe, uma das 7 Maravilhas de Portugal, e próxima das restantes praias da Costa Vicentina.Ideal para habitação própria, casa de férias ou investimento com elevado potencial. 1 t-kitchens2 t-beds1 t-baths € 300 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fantástica Moradia T4 € 570 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.581Z</updated>
+        <updated>2026-04-22T18:40:14.047Z</updated>
         <content type="html"><![CDATA[ Numa das zonas mais tranquilas e procuradas da Urbanização Vale da Telha, em Aljezur, encontra esta espaçosa moradia T4 com excelentes áreas e grande potencial.Inserida num lote com cerca de 640 m2 e com aproximadamente 231 m² de área de construção distribuídos por dois pisos, esta moradia destaca-se pela luminosidade natural e pelas áreas generosas.A casa dispõe de quatro quartos com boas áreas, sendo um deles em suite com casa de banho privativa, e conta ainda com mais duas casas de banho. A sala de estar é ampla e luminosa, criando um ambiente confortável e acolhedor.A cozinha tem acesso directo ao exterior, onde se encontra uma agradável zona de barbecue, ideal para refeições ao ar livre e momentos de convívio.No exterior, o terreno oferece várias possibilidades de aproveitamento, seja para jardim ou zona de lazer. A moradia conta ainda com um terraço com vistas desafogadas, perfeito para relaxar e desfrutar da tranquilidade da envolvente.Outro destaque é a garagem de grandes dimensões, onde se encontra uma das casas de banho, com potencial para ginásio, zona de bem-estar ou outro espaço de lazer.Situada numa zona muito calma da Urbanização Vale da Telha, próxima da barragem, esta propriedade representa uma excelente oportunidade tanto para habitação própria como para investimento.Características principais:• Moradia T4• 231 m² de área de construção• Lote com cerca de 640 m²• 2 pisos• 3 casas de banho (1 em suite)• Sala ampla com excelente luminosidade natural• Cozinha com acesso directo ao exterior• Zona de barbecue• Terraço com vistas desafogadas• Garagem de grandes dimensões Marque já a sua visita 4 t-beds3 t-baths1 t-kitchens € 570 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T2 Odeceixe € 320 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.582Z</updated>
+        <updated>2026-04-22T18:40:14.047Z</updated>
         <content type="html"><![CDATA[ Moradia localizada na vila de Odeceixe com vistas deslumbrantes.Com uma área dew 57 m2 inserida num lote com 200 m2 esta moradia dispõe de 2 quartos, 1 casa de banho, 1 sala e 2 cozinhas , sendo uma delas chamada de cozinha de fogo.No quintal existe um pequeno jardim , um forno de lenha .Encontra-se situada numa zona bastante tranquila com vistas sobre Odeceixe, uma boa exposição solar.Próximo de vários serviços, nomeadamente, escolas, cafés centro de saúde etc.A praia de Odeceixe fica apenas a 3 quilómetros e a vila de Aljezur a 15 minutos de carro.Marque já a sua visita 1 t-baths2 t-kitchens2 t-beds € 320 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apartamento T3+1 Odeceixe € 335 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.584Z</updated>
+        <updated>2026-04-22T18:40:14.049Z</updated>
         <content type="html"><![CDATA[ Apresentamos este belíssimo apartamento com 126m2 de área util distribuídos por 3 quartos um com casa de banho privativa, um escritório, cozinha com dispensa e marquise, uma sala com 29m2 e uma varanda com 28m2 com vistas sobre a Várzea e os montes alentejanos, tem o espaço ideal para o convivência de uma familia  e amigos em qualquer altura sobretudo nos dias mais quentes, tem ainda dois lugares de garagem privativos. Construído em 2007, encontra-se em bom estado de conservação  dispondo de ar condicionado, janelas com vidros duplos e cozinha equipada. Apenas a 3km de uma das mais belas praias de Portugal, este pode ser a habitação que tanto procurava. Contacte-nos para qualquer esclarecimento  e agende a sua visita. 1 t-kitchens3 t-beds2 t-baths € 335 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T2 Aljezur € 575 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.585Z</updated>
+        <updated>2026-04-22T18:40:14.050Z</updated>
         <content type="html"><![CDATA[ Moradia localizada no centro histórico de Aljezur composta por rés do chão e 1º andar .Com uma área coberta de 118 m2 esta moradia dispõe de 2 quartos, sala com lareira , cozinha equipada , 2 casas de banho.Painéis solares para aquecimento das águas .A moradia tem registo de Alojamento local.Próximos de vários pontos de interesse tais como; museus, castelo.As praias encontram-se apenas a 10 minutos de carro.Marque já a sua visita. 2 t-beds2 t-baths1 t-kitchens € 575 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Propriedade com rentabilidade € 1 250 000 (SW-Places)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:37.586Z</updated>
+        <updated>2026-04-22T18:40:14.052Z</updated>
         <content type="html"><![CDATA[ Propriedade e alojamento• 2 casas Taipa (cerca de 80 m² cada) com terraços privados e vistas panorâmicas• Tenda safari de luxo• Casa de madeira (70 m², 2 quartos – não registada)• Casa de pedra com extensão de madeira (65 m², 1 quarto)• Cabine de escritório (18 m²) e oficina (55 m²)Instalações• Deck de ioga, tipi e cozinha ao ar livre• Sauna a lenha• Piscina de mergulho com água salgada• Estufa, pomar Serviços públicos e infraestrutura• Sistema de energia solar (16 painéis + 4 baterias de lítio)• Dois poços• Capacidade de armazenamento de água de 75.000 litrosMarque já a sua visita 3 t-beds3 t-baths2 t-kitchens € 1 250 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M179 795 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.854Z</updated>
+        <updated>2026-04-22T18:40:23.397Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M179 795 000 € 4
                                 
                                 
@@ -694,7 +694,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M176 1 270 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.855Z</updated>
+        <updated>2026-04-22T18:40:23.398Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M176 1 270 000 € 4
                                 
                                 
@@ -713,7 +713,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T4 - Faro - For sale - M173 375 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.856Z</updated>
+        <updated>2026-04-22T18:40:23.398Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T4 - Faro - For sale - M173 375 000 € 4
                                 
                                 
@@ -732,7 +732,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.857Z</updated>
+        <updated>2026-04-22T18:40:23.399Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 POA 3
                                 
                                 
@@ -748,11 +748,11 @@ With ... 2 000 000 €]]></content>
                                     890 m2]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aljezur - Aljezur - Ruin - Faro - For sale - M158 450 000 € (Mikasa)]]></title>
+        <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M158 450 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.858Z</updated>
-        <content type="html"><![CDATA[ Aljezur - Aljezur - Ruin - Faro - For sale - M158 450 000 € 1
+        <updated>2026-04-22T18:40:23.400Z</updated>
+        <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M158 450 000 € 1
                                 
                                 
                                     
@@ -770,7 +770,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.859Z</updated>
+        <updated>2026-04-22T18:40:23.401Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 € 3
                                 
                                 
@@ -789,7 +789,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.860Z</updated>
+        <updated>2026-04-22T18:40:23.402Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA 4
                                 
                                 
@@ -808,7 +808,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.860Z</updated>
+        <updated>2026-04-22T18:40:23.403Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -827,7 +827,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.861Z</updated>
+        <updated>2026-04-22T18:40:23.404Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -842,7 +842,7 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.865Z</updated>
+        <updated>2026-04-22T18:40:23.405Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA 3
                                 
                                 
@@ -858,11 +858,11 @@ With ... 2 000 000 €]]></content>
                                     1360 m2]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € (Mikasa)]]></title>
+        <title type="html"><![CDATA[Aljezur - Aljezur - Urban land - Faro - For sale - L113 75 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.865Z</updated>
-        <content type="html"><![CDATA[ Aljezur - Aljezur - Land - Faro - For sale - L113 75 000 € 250 m2
+        <updated>2026-04-22T18:40:23.406Z</updated>
+        <content type="html"><![CDATA[ Aljezur - Aljezur - Urban land - Faro - For sale - L113 75 000 € 250 m2
                                 
                                 
                                     
@@ -872,8 +872,15 @@ With ... 2 000 000 €]]></content>
         <title type="html"><![CDATA[Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:10:45.866Z</updated>
+        <updated>2026-04-22T18:40:23.408Z</updated>
         <content type="html"><![CDATA[ Rogil - Aljezur - Land - Faro - For sale - T105 110 000 € 49840 m2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spacious Algarvian Villa with Pool, Terraces & Outbuilding 759 950 € (Cosmos)]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765"/>
+        <updated>2026-04-17T18:10:36.492Z</updated>
+        <content type="html"><![CDATA[ Spacious Algarvian Villa with Pool, Terraces & Outbuilding This charming 4-bedroom, 2-bathroom villa sits on a unique oval-shaped designated green space, used almost exclusively by the surrounding residents, giving it a quiet and private setting. The home co... Ref. M-0237 4                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                 Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                276 m² 759 950 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2+1 bedroom Country house with natural swimming pool in Aljezur 529 000 € (Cosmos)]]></title>
@@ -890,13 +897,6 @@ This fully... Ref. M-0115 3                                                     
         <link href="https://www.cosmosportugal.com/en-gb/property/charming-villa-near-arrifana-beach/22980954"/>
         <updated>2026-04-11T06:36:46.314Z</updated>
         <content type="html"><![CDATA[ CHARMING VILLA NEAR ARRIFANA BEACH Charming Villa Ideal for Holidays or Investment. Nestled in the serene surroundings of Vale da Telha, just minutes from the stunning Arrifana Beach, this well-maintained and low-maintenance villa off... Ref. M-0227 3                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         161 m²                                                                                                                                                                                                                                                                                                                                                                        166 m² 597 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spacious Algarvian Villa with Pool, Terraces & Outbuilding 759 950 € (Cosmos)]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765"/>
-        <updated>2026-04-17T18:10:36.492Z</updated>
-        <content type="html"><![CDATA[ Spacious Algarvian Villa with Pool, Terraces & Outbuilding This charming 4-bedroom, 2-bathroom villa sits on a unique oval-shaped designated green space, used almost exclusively by the surrounding residents, giving it a quiet and private setting. The home co... Ref. M-0237 4                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                 Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                276 m² 759 950 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3 bed villa with pool on 1,450 m² plot 620 000 € (Cosmos)]]></title>
@@ -964,311 +964,377 @@ Situated in a secluded and peaceful area of the urbani... Ref. M-0242 3         
         <content type="html"><![CDATA[ Luxurious 5 bed villa with pool This exceptional 5-bedroom villa with a large heated pool in Vale da Telha, stands out for its outstanding build quality, proven rental income, and privileged coastal location. Built by the current o... Ref. M-0235 5                                                                                                                                                                                                                                                                                                                                                                        4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         305 m²                                                                                                                                                                                                                                                                                                                                                                        1210 m² Price upon request]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Old Haystack for Reconstruction in Bordeira 129 999 € (Costa Properties)]]></title>
-        <id>https://www.costaproperties.pt/en-gb/property/old-haystack-for-reconstruction-in-bordeira/21167012</id>
-        <link href="https://www.costaproperties.pt/en-gb/property/old-haystack-for-reconstruction-in-bordeira/21167012"/>
-        <updated>2026-04-05T06:41:40.164Z</updated>
-        <content type="html"><![CDATA[ Old Haystack for Reconstruction in Bordeira Unique opportunity to transform an old haystack into your new home in the stunning Aldeia da Bordeira, just a few minutes from the magnificent beache... Ref. CP-R2402 Area                                57.6 m²                                                                                                                                                                                                                                            Land area                                57.6  m² 129 999 €]]></content>
+        <title type="html"><![CDATA[Ruin with land in Vila do Bispo 249 000 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/ruin-with-land-in-vila-do-bispo/20939398</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/ruin-with-land-in-vila-do-bispo/20939398"/>
+        <updated>2026-04-22T18:40:45.660Z</updated>
+        <content type="html"><![CDATA[ Ruin with land in Vila do Bispo The ruin is located on a plot of land measuring 5560sqm. Its excellent location near Vila do Bispo, on the way to the beaches of Castelejo, Cordoama ... Ref. CP- R2504 Area                                150 m²                                                                                                                                                                                                                                            Land area                                5560  m² 249 000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rustic Land of 43,500 m² Between Aljezur and Monchique - Nature and Tranquility 125 000 € (Costa Properties)]]></title>
-        <id>https://www.costaproperties.pt/en-gb/property/rustic-land-of-43500-m-between-aljezur-and-monchique-nature-and-tranquility/22738787</id>
-        <link href="https://www.costaproperties.pt/en-gb/property/rustic-land-of-43500-m-between-aljezur-and-monchique-nature-and-tranquility/22738787"/>
-        <updated>2026-04-05T06:41:40.165Z</updated>
-        <content type="html"><![CDATA[ Rustic Land of 43,500 m² Between Aljezur and Monchique - Nature and Tranquility If you are looking for a true retreat in the heart of nature, this 43,500 m² rustic land presents a unique investment opportunity! Nestled in a privi... Ref. CP-T2507 Land area                                43500  m²                                                                                                                                                                                    Land area                                43500  m² 125 000 €]]></content>
+        <title type="html"><![CDATA[2+1 Bedroom Apartment with Large Terrace in an Urbanization in Almádena 425 000 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/2-1-bedroom-apartment-with-large-terrace-in-an-urbanization-in-almadena/25171103</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/2-1-bedroom-apartment-with-large-terrace-in-an-urbanization-in-almadena/25171103"/>
+        <updated>2026-04-22T18:40:45.661Z</updated>
+        <content type="html"><![CDATA[ 2+1 Bedroom Apartment with Large Terrace in an Urbanization in Almádena Discover the perfect balance between comfort, privacy, and quality of life in Almádena.
+
+This spacious 121 sqm two-bedroom apartment, set in a peac... Ref. CP-A2607 Bedrooms                                3                                                                                                                                                                                    Bathroom                                2                                                                                                                                                                                                                                                                        Area                                82 m²                                                                                                                                                                                    Covered Area                                121.5 m²                                                                                                                                                                                                                                                                         Energy class                                C 425 000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rustic land with access in Rogil 80 000 € (Costa Properties)]]></title>
-        <id>https://www.costaproperties.pt/en-gb/property/rustic-land-with-access-in-rogil/22700745</id>
-        <link href="https://www.costaproperties.pt/en-gb/property/rustic-land-with-access-in-rogil/22700745"/>
-        <updated>2026-04-05T06:41:40.166Z</updated>
-        <content type="html"><![CDATA[ Rustic land with access in Rogil Discover the perfect opportunity to invest in your own farm! This rectangular plot of 11,640 m² (1 hectare) is located in charming Rogil, more specif... Ref. CP-T2506 Land area                                11640  m²                                                                                                                                                                                    Land area                                11640  m² 80 000 €]]></content>
+        <title type="html"><![CDATA[Stylish home in a quiet village 180 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/stylish-home-in-a-quiet-village/21084688</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/stylish-home-in-a-quiet-village/21084688"/>
+        <updated>2026-04-22T18:40:45.661Z</updated>
+        <content type="html"><![CDATA[ Stylish home in a quiet village Welcome to Casa da Farinha. 
+Located in the charming village of Barão de São Miguel, this beautiful home is the perfect holiday destination for coup... Ref. AL04VB Bedrooms                                2                                                                                                                                                                                    Bathroom                                3                                                                                                                                                                                                                                                                        Area                                113 m²                                                                                                                                                                                    Covered Area                                130 m²                                                                                                                                                                                                                 Land area                                130  m² 180 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Villa in Carrapateira with Panoramic View - Perfect for Living or Investment 600 000 € (Costa Properties)]]></title>
-        <id>https://www.costaproperties.pt/en-gb/property/villa-in-carrapateira-with-panoramic-view-perfect-for-living-or-investment/22965239</id>
-        <link href="https://www.costaproperties.pt/en-gb/property/villa-in-carrapateira-with-panoramic-view-perfect-for-living-or-investment/22965239"/>
-        <updated>2026-04-05T06:41:40.168Z</updated>
-        <content type="html"><![CDATA[ Villa in Carrapateira with Panoramic View - Perfect for Living or Investment Perched atop the charming village of Carrapateira, this unique two-storey villa offers a breathtaking 180º panoramic view over the surrounding landsc... Ref. CP-M2505 Bedrooms                                3                                                                                                                                                                                    Bathroom                                3                                                                                                                                                                                                                                                                        Area                                151 m²                                                                                                                                                                                    Covered Area                                210 m²                                                                                                                                                                                                                                                                         Energy class                                E 600 000 €]]></content>
+        <title type="html"><![CDATA[Charming 2-Bedroom Villa with Office, Mature Garden & Expansive Grounds Comfort, Light and Nature in Perfect Balance 900 000 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/charming-2-bedroom-villa-with-office-mature-garden-expansive-grounds-comfort-light-and-nature-in-perfect-balance/24377228</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/charming-2-bedroom-villa-with-office-mature-garden-expansive-grounds-comfort-light-and-nature-in-perfect-balance/24377228"/>
+        <updated>2026-04-22T18:40:45.661Z</updated>
+        <content type="html"><![CDATA[ Charming 2-Bedroom Villa with Office, Mature Garden & Expansive Grounds Comfort, Light and Nature in Perfect Balance Charming 2-Bedroom Villa with Office, Mature Garden & Expansive Grounds Comfort, Light and Nature in Perfect Balance
+
+Discover this delightful vill... Ref. CP-M2516 Bedrooms                                3                                                                                                                                                                                    Bathroom                                3                                                                                                                                                                                                                                                                        Area                                160 m²                                                                                                                                                                                    Covered Area                                6000 m²                                                                                                                                                                                                                 Land area                                6000  m²                                                                                                                                                                                                                Energy class                                D 900 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 Bedroom Apartment with Large Balcony and Privileged Location - Lagos 340 000 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/2-bedroom-apartment-with-large-balcony-and-privileged-location-lagos/24669601</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/2-bedroom-apartment-with-large-balcony-and-privileged-location-lagos/24669601"/>
+        <updated>2026-04-22T18:40:45.662Z</updated>
+        <content type="html"><![CDATA[ 2 Bedroom Apartment with Large Balcony and Privileged Location - Lagos Discover this bright 2 bedroom flat, set in a building with a lift, located in one of the most practical areas of Lagos. Just a few minutes from supe... Ref. CP-A2502 Bedrooms                                2                                                                                                                                                                                    Bathroom                                1                                                                                                                                                                                                                                                                        Area                                88.5 m²                                                                                                                                                                                    Covered Area                                104.7 m²                                                                                                                                                                                                                                                                             Elevator                                                                                                                                                                                    Energy class                                C 340 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 Bedroom Townhouse located in the heart of Vila do Bispo 60 €  / 95 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/1-bedroom-townhouse-located-in-the-heart-of-vila-do-bispo/21090740</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/1-bedroom-townhouse-located-in-the-heart-of-vila-do-bispo/21090740"/>
+        <updated>2026-04-22T18:40:45.664Z</updated>
+        <content type="html"><![CDATA[ 1 Bedroom Townhouse located in the heart of Vila do Bispo This space is suitable for couples or business travelers who wish to escape the routine of everyday life and explore, discover, get to know or simply... Ref. AL03VB Bedrooms                                1                                                                                                                                                                                    Bathroom                                1                                                                                                                                                                                                                                                                        Area                                90 m² 60 €  / 95 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Casinha da Raposeira 65 €  / 100 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/casinha-da-raposeira/23022737</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/casinha-da-raposeira/23022737"/>
+        <updated>2026-04-22T18:40:45.667Z</updated>
+        <content type="html"><![CDATA[ Casinha da Raposeira Este espaço é indicado para casais ou viajantes em trabalho que desejem escapar da rotina do dia - a -dia e explorar, descobrir, conhecer ou simplesm... Ref. AL05VB Bedrooms                                1                                                                                                                                                                                    Bathroom                                1                                                                                                                                                                                                                                                                        Area                                47 m²                                                                                                                                                                                    Covered Area                                47 m² 65 €  / 100 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1+1 apartment in Sagres 70 meters from beliche beach 70 €  / 115 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/1-1-apartment-in-sagres-70-meters-from-beliche-beach/21084812</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/1-1-apartment-in-sagres-70-meters-from-beliche-beach/21084812"/>
+        <updated>2026-04-22T18:40:45.668Z</updated>
+        <content type="html"><![CDATA[ 1+1 apartment in Sagres 70 meters from beliche beach Cozy apartment 70 meters from the beach of Beliche, available to book your holiday stay. 
+
+It features a spacious bedroom with built-in wardrobe an... Ref. AL01VB Bedrooms                                1                                                                                                                                                                                    Bathroom                                1                                                                                                                                                                                                                                                                        Area                                64 m² 70 €  / 115 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apartment View 58 Iberlagos 77 €  / 200 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/apartment-view-58-iberlagos/23290428</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/apartment-view-58-iberlagos/23290428"/>
+        <updated>2026-04-22T18:40:45.671Z</updated>
+        <content type="html"><![CDATA[ Apartment View 58 Iberlagos - Para quem se destina o nosso espaço
+Este espaço é indicado para famílias com crianças, casais, grupo de amigos, ou viajantes em trabalho que desej... Ref. AL01LG Bedrooms                                2                                                                                                                                                                                    Bathroom                                2                                                                                                                                                                                                                                                                        Area                                67 m²                                                                                                                                                                                    Covered Area                                31.35 m²                                                                                                                                                                                                                                                                             Elevator 77 €  / 200 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alma - Lagos City Studio 70 €  / 110 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/alma-lagos-city-studio/24437364</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/alma-lagos-city-studio/24437364"/>
+        <updated>2026-04-22T18:40:45.671Z</updated>
+        <content type="html"><![CDATA[ Alma - Lagos City Studio Discover this charming studio recently renovated, perfect for a practical and comfortable stay. The space is open, with a minimalist and functional d... Ref. AL02LG Area                                36 m² 70 €  / 110 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unique Investment Opportunity in the Heart of Espiche 160 000 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/unique-investment-opportunity-in-the-heart-of-espiche/23324258</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/unique-investment-opportunity-in-the-heart-of-espiche/23324258"/>
+        <updated>2026-04-22T18:40:45.672Z</updated>
+        <content type="html"><![CDATA[ Unique Investment Opportunity in the Heart of Espiche Nestled in the centre of the charming and authentic village of Espiche, this property presents a rare and exciting opportunity for forward-thinking i... Ref. CP-R2503 Bedrooms                                1                                                                                                                                                                                                                                                                                                    Area                                67 m²                                                                                                                                                                                    Covered Area                                145 m²                                                                                                                                                                                                                 Land area                                145  m² 160 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cozy 2 Bedroom Villa in the Charming Village of Raposeira 189 000 € (Costa Properties)]]></title>
+        <id>https://www.costaproperties.pt/en-gb/property/cozy-2-bedroom-villa-in-the-charming-village-of-raposeira/21240317</id>
+        <link href="https://www.costaproperties.pt/en-gb/property/cozy-2-bedroom-villa-in-the-charming-village-of-raposeira/21240317"/>
+        <updated>2026-04-22T18:40:45.675Z</updated>
+        <content type="html"><![CDATA[ Cozy 2 Bedroom Villa in the Charming Village of Raposeira Discover the rustic charm and tranquillity of village life with this charming 2 bedroom villa in Raposeira. 
+
+Located in one of the most picturesqu... Ref. CP-M2412 Bedrooms                                1                                                                                                                                                                                    Bathroom                                1                                                                                                                                                                                                                                                                        Area                                56 m²                                                                                                                                                                                    Covered Area                                68 m² 189 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terraced house Aljezur 285.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.510Z</updated>
+        <updated>2026-04-22T18:40:58.118Z</updated>
         <content type="html"><![CDATA[Terraced house Aljezur 285.000 € WCR-H208 T2 63.91 mts]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.041Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.041Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.042Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.043Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.045Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.046Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.048Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.049Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.463Z</updated>
+        <updated>2026-04-22T18:40:58.050Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.464Z</updated>
+        <updated>2026-04-22T18:40:58.052Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.465Z</updated>
+        <updated>2026-04-22T18:40:58.052Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.466Z</updated>
+        <updated>2026-04-22T18:40:58.053Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.470Z</updated>
+        <updated>2026-04-22T18:40:58.055Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.470Z</updated>
+        <updated>2026-04-22T18:40:58.056Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.470Z</updated>
+        <updated>2026-04-22T18:40:58.057Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.471Z</updated>
+        <updated>2026-04-22T18:40:58.058Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.472Z</updated>
+        <updated>2026-04-22T18:40:58.059Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.473Z</updated>
+        <updated>2026-04-22T18:40:58.061Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.473Z</updated>
+        <updated>2026-04-22T18:40:58.062Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.474Z</updated>
+        <updated>2026-04-22T18:40:58.063Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.476Z</updated>
+        <updated>2026-04-22T18:40:58.064Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.476Z</updated>
+        <updated>2026-04-22T18:40:58.065Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.480Z</updated>
+        <updated>2026-04-22T18:40:58.066Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.480Z</updated>
+        <updated>2026-04-22T18:40:58.067Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.480Z</updated>
+        <updated>2026-04-22T18:40:58.072Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.480Z</updated>
+        <updated>2026-04-22T18:40:58.072Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.480Z</updated>
+        <updated>2026-04-22T18:40:58.072Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.480Z</updated>
+        <updated>2026-04-22T18:40:58.075Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.481Z</updated>
+        <updated>2026-04-22T18:40:58.075Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.482Z</updated>
+        <updated>2026-04-22T18:40:58.075Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.482Z</updated>
+        <updated>2026-04-22T18:40:58.076Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.486Z</updated>
+        <updated>2026-04-22T18:40:58.078Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.486Z</updated>
+        <updated>2026-04-22T18:40:58.079Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.487Z</updated>
+        <updated>2026-04-22T18:40:58.081Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.487Z</updated>
+        <updated>2026-04-22T18:40:58.082Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.488Z</updated>
+        <updated>2026-04-22T18:40:58.084Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.488Z</updated>
+        <updated>2026-04-22T18:40:58.084Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.490Z</updated>
+        <updated>2026-04-22T18:40:58.087Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:11:17.490Z</updated>
+        <updated>2026-04-22T18:40:58.087Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
@@ -1925,7 +1991,7 @@ Com uma ár... 135 000 €]]></content>
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - VA107 1 270 000 € (Lagos Algarve Real Estate)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:12:34.477Z</updated>
+        <updated>2026-04-22T18:42:41.436Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - VA107 1 270 000 € 4
                                 
                                 
@@ -1944,7 +2010,7 @@ Com uma ár... 135 000 €]]></content>
         <title type="html"><![CDATA[Espartal - Aljezur - Apartment - T3 - AP082-T3+1 570 000 € (Lagos Algarve Real Estate)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:12:34.478Z</updated>
+        <updated>2026-04-22T18:42:41.437Z</updated>
         <content type="html"><![CDATA[ Espartal - Aljezur - Apartment - T3 - AP082-T3+1 570 000 € 3
                                 
                                 
@@ -1959,7 +2025,7 @@ Com uma ár... 135 000 €]]></content>
         <title type="html"><![CDATA[Espartal - Aljezur - Apartment - T2 - AP082-T2+1 405 000 € (Lagos Algarve Real Estate)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:12:34.478Z</updated>
+        <updated>2026-04-22T18:42:41.439Z</updated>
         <content type="html"><![CDATA[ Espartal - Aljezur - Apartment - T2 - AP082-T2+1 405 000 € 2
                                 
                                 
@@ -1974,7 +2040,7 @@ Com uma ár... 135 000 €]]></content>
         <title type="html"><![CDATA[Espartal - Aljezur - Villa - T4 - VA100 950 000 € (Lagos Algarve Real Estate)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:12:34.479Z</updated>
+        <updated>2026-04-22T18:42:41.440Z</updated>
         <content type="html"><![CDATA[ Espartal - Aljezur - Villa - T4 - VA100 950 000 € 4
                                 
                                 
@@ -1993,7 +2059,7 @@ Com uma ár... 135 000 €]]></content>
         <title type="html"><![CDATA[Espartal - Aljezur - Villa - T4 - VA099 874 000 € (Lagos Algarve Real Estate)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:12:34.480Z</updated>
+        <updated>2026-04-22T18:42:41.441Z</updated>
         <content type="html"><![CDATA[ Espartal - Aljezur - Villa - T4 - VA099 874 000 € 4
                                 
                                 
@@ -2012,7 +2078,7 @@ Com uma ár... 135 000 €]]></content>
         <title type="html"><![CDATA[Farmhouse   -  , Aljezur, for sale 1 250 000 € (Luz Villa Sales)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-04-22T07:12:40.780Z</updated>
+        <updated>2026-04-22T18:42:48.766Z</updated>
         <content type="html"><![CDATA[ Farmhouse   -  , Aljezur, for sale 1 250 000 €]]></content>
     </entry>
     <entry>
