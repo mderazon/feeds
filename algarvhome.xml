@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.algarvhome.pt/venda/venda/faro-dst/aljezur?srt=1</id>
     <title>AlgarvHome</title>
-    <updated>2026-04-22T18:42:58.534Z</updated>
+    <updated>2026-04-23T18:42:57.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.algarvhome.pt/venda/venda/faro-dst/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Moradia Duplex T3 + 1                                                    Moradia em BandaT3 Duplex 450 000 €]]></title>
+        <id>https://www.algarvhome.pt/imovel/moradia-duplex-t3-1/25707544</id>
+        <link href="https://www.algarvhome.pt/imovel/moradia-duplex-t3-1/25707544"/>
+        <updated>2026-04-23T18:42:34.674Z</updated>
+        <content type="html"><![CDATA[ Moradia Duplex T3 + 1                                                    Moradia em BandaT3 Duplex Moradia Duplex em banda, com 140m2 em 2 pisos, sala e cozinha em Open Space, com 3 quartos+1, sendo um dos quartos em suite,. A moradia tem ainda mai... 450 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moradia com Enorme Potencial a 4 km da Praia de Odeceixe - Costa Vicentina                                                    Moradia GeminadaT3 Duplex 380 000 €]]></title>
         <id>https://www.algarvhome.pt/imovel/moradia-com-enorme-potencial-a-4-km-da-praia-de-odeceixe-costa-vicentina/25353023</id>
@@ -94,14 +101,5 @@ Excelente oportunidade para quem procura tranquilidade, contacto com a nature...
         <content type="html"><![CDATA[ Terreno Exclusivo em Aljezur com Elevado Potencial de Construção e Turismo                                                    Terreno Terreno Exclusivo em Aljezur com Elevado Potencial de Construção e Turismo
 
 Apresentamos este extraordinário terreno com 18,5 hectares, localizado ... 590 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lote de Terreno para Moradia                                                    Lote Moradia 135 000 €]]></title>
-        <id>https://www.algarvhome.pt/imovel/lote-de-terreno-para-moradia/22902723</id>
-        <link href="https://www.algarvhome.pt/imovel/lote-de-terreno-para-moradia/22902723"/>
-        <updated>2026-04-19T20:39:30.939Z</updated>
-        <content type="html"><![CDATA[ Lote de Terreno para Moradia                                                    Lote Moradia Terreno Urbano para a construção de uma moradia, localizado no coração da Costa Vicentina, a 2,80km do mar e a 6 Km de diversas praias.
-
-Com uma ár... 135 000 €]]></content>
     </entry>
 </feed>

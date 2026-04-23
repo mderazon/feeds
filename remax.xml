@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://remax.pt/en/comprar/imoveis/h/r/aljezur/r/t?s=%7B%22rg%22%3A%22Aljezur%22%2C%22prn%22%3A%22Aljezur%2C%20Faro%22%2C%22mio%22%3A%22false%22%7D&amp;p=1&amp;o=-PublishDate</id>
     <title>Remax Aljezur</title>
-    <updated>2026-04-22T18:42:58.575Z</updated>
+    <updated>2026-04-23T18:42:57.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://remax.pt/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220 000 € Land]]></title>
+        <id>https://remax.pt/en/imoveis/venda-terreno-taljezur-aljezur/126931012-12</id>
+        <link href="https://remax.pt/en/imoveis/venda-terreno-taljezur-aljezur/126931012-12"/>
+        <updated>2026-04-23T18:39:41.141Z</updated>
+        <content type="html"><![CDATA[ 220 000 € Land Aljezur, Aljezur]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[199 000 € Land]]></title>
         <id>https://remax.pt/en/imoveis/venda-terreno-taljezur-aljezur/121981474-33</id>
@@ -81,12 +88,5 @@
         <link href="https://remax.pt/en/imoveis/venda-apartamento-t2-aljezur-aljezur/124471126-15"/>
         <updated>2025-11-12T17:39:55.568Z</updated>
         <content type="html"><![CDATA[ 495 000 € Apartment Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[405 000 € Apartment]]></title>
-        <id>https://remax.pt/en/imoveis/venda-apartamento-t2-aljezur-aljezur/124471126-14</id>
-        <link href="https://remax.pt/en/imoveis/venda-apartamento-t2-aljezur-aljezur/124471126-14"/>
-        <updated>2025-11-12T17:39:55.572Z</updated>
-        <content type="html"><![CDATA[ 405 000 € Apartment Aljezur, Aljezur]]></content>
     </entry>
 </feed>
