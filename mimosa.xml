@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/en-gb/properties-mimosaproperties?loc=Aljezur&amp;dst=8&amp;mun=104&amp;bus=1</id>
     <title>Mimosa</title>
-    <updated>2026-04-29T07:39:48.653Z</updated>
+    <updated>2026-04-29T18:56:52.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Apartamento T2+1 Venda em Aljezur,Aljezur 405 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartamento-t2-1-venda-em-aljezuraljezur/23614582</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartamento-t2-1-venda-em-aljezuraljezur/23614582"/>
+        <updated>2026-04-19T13:42:47.264Z</updated>
+        <content type="html"><![CDATA[ Apartamento T2+1 Venda em Aljezur,Aljezur Discover an exclusive development located in Espartal Monte Clérigo, one of the most sought-after areas of the Costa Vicentina, in the municipality o... 405 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quinta T4 Venda em Aljezur,Aljezur 1 199 000 €]]></title>
         <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/quinta-t4-venda-em-aljezuraljezur/25123388</id>
@@ -33,13 +40,6 @@ With ... 2 000 000 €]]></content>
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartamento-t3-1-venda-em-aljezuraljezur/23614579"/>
         <updated>2026-04-19T13:42:47.265Z</updated>
         <content type="html"><![CDATA[ Apartamento T3+1 Venda em Aljezur,Aljezur Discover an exclusive development located in Espartal Monte Clérigo, one of the most sought-after areas of the Costa Vicentina, in the municipality o... 570 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartamento T2+1 Venda em Aljezur,Aljezur 405 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartamento-t2-1-venda-em-aljezuraljezur/23614582</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartamento-t2-1-venda-em-aljezuraljezur/23614582"/>
-        <updated>2026-04-19T13:42:47.264Z</updated>
-        <content type="html"><![CDATA[ Apartamento T2+1 Venda em Aljezur,Aljezur Discover an exclusive development located in Espartal Monte Clérigo, one of the most sought-after areas of the Costa Vicentina, in the municipality o... 405 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Apartamento T1+1 Venda em Bordeira,Aljezur 384 000 €]]></title>
