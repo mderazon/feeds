@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-04-29T18:56:52.930Z</updated>
+    <updated>2026-04-30T18:53:07.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[600 000 € Terreno à venda em Bordeira, Aljezur - 56500m² com potencial]]></title>
+        <id>https://www.century21.pt/comprar/C0240-03625</id>
+        <link href="https://www.century21.pt/comprar/C0240-03625"/>
+        <updated>2026-04-30T18:50:24.224Z</updated>
+        <content type="html"><![CDATA[ 600 000 € Terreno à venda em Bordeira, Aljezur - 56500m² com potencial]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[450 000 € Terreno com ruina  Aljezur - Carrascalinho]]></title>
         <id>https://www.century21.pt/comprar/C0492-00109</id>
@@ -100,7 +107,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-04-29T18:54:06.955Z</updated>
+        <updated>2026-04-30T18:50:24.210Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;ord=3&amp;ir=1&amp;nr=0&amp;dt=08&amp;co=08-03-00-0&amp;page=1</id>
     <title>ERA Aljezur</title>
-    <updated>2026-04-29T18:56:52.941Z</updated>
+    <updated>2026-04-30T18:53:07.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -91,9 +91,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[225.000 € House]]></title>
-        <id>https://www.era.pt/en/property/house-t2-aljezur-centro-historico-castelo-411250040</id>
-        <link href="https://www.era.pt/en/property/house-t2-aljezur-centro-historico-castelo-411250040"/>
-        <updated>2026-02-17T06:14:52.101Z</updated>
+        <id>https://www.era.pt/en/property/house-t2-aljezur-centro-historico-411250040</id>
+        <link href="https://www.era.pt/en/property/house-t2-aljezur-centro-historico-411250040"/>
+        <updated>2026-04-30T18:50:43.681Z</updated>
         <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1514600 - 3 House Centro Histórico, Aljezur 225.000 €]]></content>
     </entry>
     <entry>
