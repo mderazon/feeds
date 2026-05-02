@@ -95,7 +95,8 @@ contentSelector = [
 title = "Mikasa"
 url = "https://www.mikasainvest.pt/en/lista-propriedades?city=720&order=0"
 entrySelector = "a.propertyItemStyle3"
-waitUntil = "networkidle"
+waitUntil = "domcontentloaded"
+waitForSelector = "a.propertyItemStyle3"
 titleSelector = [
     ".propertyItemStyle3__panel__title",
     ".propertyItemStyle3__panel__price",
@@ -243,7 +244,8 @@ contentSelector = [
 title = "Lagos Algarve Real Estate"
 url = "https://www.lagosalgarverealestate.com/en/list?city=720&order=0"
 entrySelector = "a.propertyItemStyle3"
-waitUntil = "networkidle"
+waitUntil = "domcontentloaded"
+waitForSelector = "a.propertyItemStyle3"
 titleSelector = [".propertyItemStyle3__panel__title", ".propertyItemStyle3__panel__price"]
 linkSelector = "a.propertyItemStyle3[href]"
 contentSelector = [
@@ -257,7 +259,8 @@ contentSelector = [
 title = "Luz Villa Sales"
 url = "https://www.luzvillasales.com/en/list?city=720&order=2&max=12"
 entrySelector = "a.propertyItemStyle4"
-waitUntil = "networkidle"
+waitUntil = "domcontentloaded"
+waitForSelector = "a.propertyItemStyle4"
 titleSelector = ["h5.title", "h5.price"]
 linkSelector = "a.propertyItemStyle4[href]"
 contentSelector = [
