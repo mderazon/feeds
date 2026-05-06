@@ -2,15 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
     <title>Mikasa</title>
-    <updated>2026-05-04T08:07:21.016Z</updated>
+    <updated>2026-05-06T19:13:32.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://admin.casafaricrm.com/UserFiles/1879/Images/a5919c5a-78b1-4019-9c29-74e0471303c9.png?width=144&amp;height=144</icon>
     <entry>
-        <title type="html"><![CDATA[Rogil - Aljezur - Villa - T3 - Faro - For sale - M187 840 000 €]]></title>
+        <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T5 - Faro - For sale - M183 865 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.689Z</updated>
-        <content type="html"><![CDATA[ Rogil - Aljezur - Villa - T3 - Faro - For sale - M187 840 000 € 3
+        <updated>2026-05-06T19:11:19.016Z</updated>
+        <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T5 - Faro - For sale - M183 865 000 € 5
+                                
+                                
+                                    
+                                    5
+                                
+                                
+                                    
+                                    253 m2
+                                
+                                
+                                    
+                                    1000 m2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rogil - Aljezur - Villa - T2 +1 - Faro - For sale - M187 840 000 €]]></title>
+        <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
+        <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
+        <updated>2026-05-06T19:11:19.017Z</updated>
+        <content type="html"><![CDATA[ Rogil - Aljezur - Villa - T2 +1 - Faro - For sale - M187 840 000 € 2
                                 
                                 
                                     
@@ -28,7 +47,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M184 745 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.689Z</updated>
+        <updated>2026-05-06T19:11:19.018Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M184 745 000 € 3
                                 
                                 
@@ -47,7 +66,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M179 795 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.690Z</updated>
+        <updated>2026-05-06T19:11:19.018Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M179 795 000 € 4
                                 
                                 
@@ -66,7 +85,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M176 1 270 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.691Z</updated>
+        <updated>2026-05-06T19:11:19.020Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M176 1 270 000 € 4
                                 
                                 
@@ -85,7 +104,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T4 - Faro - For sale - M173 375 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.692Z</updated>
+        <updated>2026-05-06T19:11:19.020Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T4 - Faro - For sale - M173 375 000 € 4
                                 
                                 
@@ -104,7 +123,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 POA]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.696Z</updated>
+        <updated>2026-05-06T19:11:19.021Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 POA 3
                                 
                                 
@@ -123,7 +142,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M158 450 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.697Z</updated>
+        <updated>2026-05-06T19:11:19.027Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M158 450 000 € 1
                                 
                                 
@@ -142,7 +161,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.698Z</updated>
+        <updated>2026-05-06T19:11:19.028Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 € 3
                                 
                                 
@@ -161,7 +180,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.712Z</updated>
+        <updated>2026-05-06T19:11:19.028Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA 4
                                 
                                 
@@ -180,7 +199,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.713Z</updated>
+        <updated>2026-05-06T19:11:19.029Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -199,7 +218,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 €]]></title>
         <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
         <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.714Z</updated>
+        <updated>2026-05-06T19:11:19.030Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -209,24 +228,5 @@
                                 
                                     
                                     166,44 m2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA]]></title>
-        <id>https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0</id>
-        <link href="https://www.mikasainvest.pt/en/lista-propriedades?city=720&amp;order=0"/>
-        <updated>2026-05-04T08:05:22.715Z</updated>
-        <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M128 POA 3
-                                
-                                
-                                    
-                                    3
-                                
-                                
-                                    
-                                    189,45 m2
-                                
-                                
-                                    
-                                    1360 m2]]></content>
     </entry>
 </feed>
