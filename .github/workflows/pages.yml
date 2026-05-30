@@ -12,6 +12,7 @@ on:
 
 env:
   CI: true
+  PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: 1
 jobs:
   publish-feeds:
     runs-on: ubuntu-24.04
