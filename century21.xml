@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-05-12T08:09:16.312Z</updated>
+    <updated>2026-05-30T12:14:56.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[250 000 € Terreno Rústico para Cultura arvense em Cabeços, Boredira, Alzejur]]></title>
+        <id>https://www.century21.pt/comprar/C0240-03640</id>
+        <link href="https://www.century21.pt/comprar/C0240-03640"/>
+        <updated>2026-05-30T12:12:18.248Z</updated>
+        <content type="html"><![CDATA[ 250 000 € Terreno Rústico para Cultura arvense em Cabeços, Boredira, Alzejur]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 200 000 € Acorde com vistas deslumbrantes sobre o oceano no seu rancho exclusivo de 8,4 hectares no Algarve, em Aljezur! Inclui uma casa principal ecoeficiente com certificação energética A, perto de praias de surf lendárias. Este é o seu refúgio costeiro definitivo — agarre esta oportunidade rara e agende hoje mesmo a sua visita!]]></title>
+        <id>https://www.century21.pt/comprar/C0205-07132</id>
+        <link href="https://www.century21.pt/comprar/C0205-07132"/>
+        <updated>2026-05-30T12:12:18.250Z</updated>
+        <content type="html"><![CDATA[ 1 200 000 € Acorde com vistas deslumbrantes sobre o oceano no seu rancho exclusivo de 8,4 hectares no Algarve, em Aljezur! Inclui uma casa principal ecoeficiente com certificação energética A, perto de praias de surf lendárias. Este é o seu refúgio costeiro definitivo — agarre esta oportunidade rara e agende hoje mesmo a sua visita!]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[460 000 € Refúgio Costeiro Exclusivo em Aljezur – Natureza, Privacidade e o Autêntico Estilo de Vida da Costa Vicentina]]></title>
+        <id>https://www.century21.pt/comprar/C0369-00862</id>
+        <link href="https://www.century21.pt/comprar/C0369-00862"/>
+        <updated>2026-05-30T12:12:18.252Z</updated>
+        <content type="html"><![CDATA[ 460 000 € Refúgio Costeiro Exclusivo em Aljezur – Natureza, Privacidade e o Autêntico Estilo de Vida da Costa Vicentina]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[600 000 € Terreno à venda em Bordeira, Aljezur - 56500m² com potencial]]></title>
         <id>https://www.century21.pt/comprar/C0240-03625</id>
@@ -41,11 +62,11 @@
         <content type="html"><![CDATA[ 220 000 € Terreno Rústico com Ruína em Aljezur – 26,88ha de Natureza Pura com Ribeira]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[850 000 € Excelente Oportunidade de negócio]]></title>
+        <title type="html"><![CDATA[850 000 € Exploração Agricula - Excelente Oportunidade de Negócio]]></title>
         <id>https://www.century21.pt/comprar/C0240-03205</id>
         <link href="https://www.century21.pt/comprar/C0240-03205"/>
         <updated>2026-04-19T13:42:53.481Z</updated>
-        <content type="html"><![CDATA[ 850 000 € Excelente Oportunidade de negócio]]></content>
+        <content type="html"><![CDATA[ 850 000 € Exploração Agricula - Excelente Oportunidade de Negócio]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2 300 000 € Hotel de Charme na Costa Vicentina – Investimento Único na Natureza]]></title>
@@ -107,7 +128,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-05-12T08:06:50.382Z</updated>
+        <updated>2026-05-30T12:12:18.227Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>

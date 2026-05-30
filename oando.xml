@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oando.pt/properties/?location%5B%5D=aljezur&amp;bedrooms=&amp;bathrooms=&amp;min-area=&amp;max-area=&amp;min-price=&amp;max-price=&amp;property_id=</id>
     <title>Oando</title>
-    <updated>2026-05-12T08:09:16.011Z</updated>
+    <updated>2026-05-30T12:14:56.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://oando.pt/wp-content/uploads/2024/08/cropped-logopurple-e1767697824184-32x32.png</icon>
     <entry>
@@ -13,18 +13,11 @@
         <content type="html"><![CDATA[ Stunning Commercial Property – Aljezur 899,000€]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[T4+1 Villa in highly desirable area in Aljezur 600,000€]]></title>
+        <title type="html"><![CDATA[T4+1 Villa in highly desirable area in Aljezur 595,000€]]></title>
         <id>https://oando.pt/property/t41-villa-in-highly-desirable-area-in-aljezur/</id>
         <link href="https://oando.pt/property/t41-villa-in-highly-desirable-area-in-aljezur/"/>
         <updated>2026-04-19T13:43:19.895Z</updated>
-        <content type="html"><![CDATA[ T4+1 Villa in highly desirable area in Aljezur 600,000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXCEPTIONAL VILLA WITH SEA VIEWS, VALE DA TELHA 925,000€]]></title>
-        <id>https://oando.pt/property/exceptional-villa-with-sea-views-vale-da-telha/</id>
-        <link href="https://oando.pt/property/exceptional-villa-with-sea-views-vale-da-telha/"/>
-        <updated>2026-04-19T13:43:19.897Z</updated>
-        <content type="html"><![CDATA[ EXCEPTIONAL VILLA WITH SEA VIEWS, VALE DA TELHA 925,000€]]></content>
+        <content type="html"><![CDATA[ T4+1 Villa in highly desirable area in Aljezur 595,000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SPACIOUS  3 BEDROOM VILLA WITH POOL AND ANNEX POA]]></title>
@@ -88,5 +81,12 @@
         <link href="https://oando.pt/property/exclusive-and-immaculate-three-bedroom-villa-aljezur/"/>
         <updated>2026-04-22T07:10:27.364Z</updated>
         <content type="html"><![CDATA[ EXCLUSIVE  AND IMMACULATE THREE BEDROOM VILLA, ALJEZUR POA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPERB, NEW, TWO BEDROOM APARTMENTS ESPARTAL, ALJEZUR POA]]></title>
+        <id>https://oando.pt/property/superb-new-two-bedroom-apartments-espartal-aljezur/</id>
+        <link href="https://oando.pt/property/superb-new-two-bedroom-apartments-espartal-aljezur/"/>
+        <updated>2026-05-30T12:12:42.463Z</updated>
+        <content type="html"><![CDATA[ SUPERB, NEW, TWO BEDROOM APARTMENTS ESPARTAL, ALJEZUR POA]]></content>
     </entry>
 </feed>

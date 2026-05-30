@@ -2,14 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.portugal-best-invest.net/imoveis?loc=Aljezur&amp;dst=8&amp;mun=104</id>
     <title>Portugal Best Invest</title>
-    <updated>2026-05-12T08:09:15.855Z</updated>
+    <updated>2026-05-30T12:14:56.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.portugal-best-invest.net/DevGear/Favicon/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Moradia Isolada T4 750 000 €]]></title>
-        <id>https://www.portugal-best-invest.net/imovel/moradia-isolada-com-apartamento-t1-no-rogil-a-5-minutos-da-praia/25522767</id>
-        <link href="https://www.portugal-best-invest.net/imovel/moradia-isolada-com-apartamento-t1-no-rogil-a-5-minutos-da-praia/25522767"/>
-        <updated>2026-05-08T07:05:21.040Z</updated>
-        <content type="html"><![CDATA[ Moradia Isolada T4 Imagine acordar rodeado de natureza, com o som do vento e a tranquilidade absoluta do campo, a poucos minutos de uma das praias mais autênticas da Co... 750 000 €]]></content>
-    </entry>
 </feed>
