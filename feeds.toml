@@ -67,7 +67,8 @@ contentSelector = [
 title = "Oando"
 url = "https://oando.pt/properties/?location%5B%5D=aljezur&bedrooms=&bathrooms=&min-area=&max-area=&min-price=&max-price=&property_id="
 entrySelector = ".item-listing-wrap"
-waitUntil = "networkidle"
+waitUntil = "domcontentloaded"
+waitForSelector = ".item-listing-wrap"
 titleSelector = [".item-title", ".item-price-wrap"]
 linkSelector = ".item-title a[href]"
 contentSelector = [
