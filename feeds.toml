@@ -79,9 +79,9 @@ contentSelector = [
 [swplaces]
 title = "SW-Places"
 url = "https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D"
-entrySelector = "div.row.property-area:has(.property-title)"
+entrySelector = "div.project-single:has(.property-title)"
 waitUntil = "networkidle"
-waitForSelector = "div.row.property-area"
+waitForSelector = "div.project-single"
 titleSelector = [".property-title", ".title.mt-3"]
 linkSelector = "a[href*='/property/']"
 contentSelector = [
