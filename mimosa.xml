@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/en-gb/properties-mimosaproperties?loc=Aljezur&amp;dst=8&amp;mun=104&amp;bus=1</id>
     <title>Mimosa</title>
-    <updated>2026-05-31T18:45:37.878Z</updated>
+    <updated>2026-06-01T10:41:01.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[37-hectare estate on the Costa Vicentina, Aljezur 2 000 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/37-hectare-estate-on-the-costa-vicentina-aljezur/25764795</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/37-hectare-estate-on-the-costa-vicentina-aljezur/25764795"/>
+        <updated>2026-06-01T10:35:17.424Z</updated>
+        <content type="html"><![CDATA[ 37-hectare estate on the Costa Vicentina, Aljezur An exceptional opportunity to acquire a large estate, situated in the heart of one of Portugal's most protected and valued natural environments. With... 2 000 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Urban plot in Espartal and just a few minutes from the beach 199 000 €]]></title>
         <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/urban-plot-in-espartal-and-just-a-few-minutes-from-the-beach/25770678</id>
@@ -81,12 +88,5 @@
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/house-t7-overlooking-the-beach-in-espartal-aljezur/25771186"/>
         <updated>2026-05-30T12:12:07.836Z</updated>
         <content type="html"><![CDATA[ House T7 overlooking the Beach in Espartal, Aljezur This remarkable T7 property is perched on an elevated and privileged position overlooking the natural reserve, offering breathtaking views of Amoreir... 2 200 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urban plot of 1,160 m² in Vale da Telha - Aljezur 100 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/urban-plot-of-1160-m-in-vale-da-telha-aljezur/25771587</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/urban-plot-of-1160-m-in-vale-da-telha-aljezur/25771587"/>
-        <updated>2026-05-30T12:12:07.839Z</updated>
-        <content type="html"><![CDATA[ Urban plot of 1,160 m² in Vale da Telha - Aljezur Urban building plot of 1,160 m² , located in the well-established urbanisation of Vale da Telha , one of the most sought-after locations on the Costa... 100 000 €]]></content>
     </entry>
 </feed>
