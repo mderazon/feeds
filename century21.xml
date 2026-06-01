@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-06-01T10:41:01.227Z</updated>
+    <updated>2026-06-01T21:12:43.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://www.century21.pt/comprar/C0240-03625"/>
         <updated>2026-04-30T18:50:24.224Z</updated>
         <content type="html"><![CDATA[ 600 000 € Terreno à venda em Bordeira, Aljezur - 56500m² com potencial]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[450 000 € Terreno com ruina  Aljezur - Carrascalinho]]></title>
-        <id>https://www.century21.pt/comprar/C0492-00109</id>
-        <link href="https://www.century21.pt/comprar/C0492-00109"/>
-        <updated>2026-04-19T13:42:53.474Z</updated>
-        <content type="html"><![CDATA[ 450 000 € Terreno com ruina  Aljezur - Carrascalinho]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[290 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></title>
@@ -97,20 +90,6 @@
         <content type="html"><![CDATA[ 500 000 € 33,6 Hectares de Natureza na Costa Vicentina | Privacidade Absoluta a Minutos do Atlântico]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[950 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></title>
-        <id>https://www.century21.pt/comprar/C0369-00669</id>
-        <link href="https://www.century21.pt/comprar/C0369-00669"/>
-        <updated>2026-04-19T13:42:53.489Z</updated>
-        <content type="html"><![CDATA[ 950 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[874 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></title>
-        <id>https://www.century21.pt/comprar/C0369-00668</id>
-        <link href="https://www.century21.pt/comprar/C0369-00668"/>
-        <updated>2026-04-19T13:42:53.490Z</updated>
-        <content type="html"><![CDATA[ 874 000 € MORADIA NOVA perto da PRAIA, Espartal, Aljezur]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[188 000 € Terreno com grande potential, perto do Mar, 56750 m2, Aljezur]]></title>
         <id>https://www.century21.pt/comprar/C0369-00648</id>
         <link href="https://www.century21.pt/comprar/C0369-00648"/>
@@ -128,7 +107,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-06-01T10:35:24.118Z</updated>
+        <updated>2026-06-01T21:06:49.498Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>
