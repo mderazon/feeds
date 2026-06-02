@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-06-01T21:12:43.490Z</updated>
+    <updated>2026-06-02T09:47:35.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://sw-places.com/property/quinta-t3-com-1-8-ha-a-15-min-da-praia-em-zona-tranquila/150055"/>
         <updated>2026-05-02T14:45:02.645Z</updated>
         <content type="html"><![CDATA[  1314 € 840 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loja no centro da vila de Odeceixe € 650]]></title>
-        <id>https://sw-places.com/property/loja-no-centro-da-vila-de-odeceixe/149880</id>
-        <link href="https://sw-places.com/property/loja-no-centro-da-vila-de-odeceixe/149880"/>
-        <updated>2026-05-02T14:45:02.647Z</updated>
-        <content type="html"><![CDATA[  1 € 650]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[O Refúgio dos Sonhos: Luxo Tranquilo com Vista Mar e Barragem € 544 000]]></title>
@@ -60,5 +53,12 @@
         <link href="https://sw-places.com/property/moradia-t2-com-piscina/144887"/>
         <updated>2026-05-30T12:12:54.117Z</updated>
         <content type="html"><![CDATA[  2111 € 590 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantástica Moradia T4 € 570 000]]></title>
+        <id>https://sw-places.com/property/fantastica-moradia-t4/142290</id>
+        <link href="https://sw-places.com/property/fantastica-moradia-t4/142290"/>
+        <updated>2026-06-02T09:45:38.237Z</updated>
+        <content type="html"><![CDATA[  1314 € 570 000]]></content>
     </entry>
 </feed>
