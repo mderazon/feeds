@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;ord=3&amp;ir=1&amp;nr=0&amp;dt=08&amp;co=08-03-00-0&amp;page=1</id>
     <title>ERA Aljezur</title>
-    <updated>2026-06-03T10:19:20.097Z</updated>
+    <updated>2026-06-03T20:38:57.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[House T1 Aljezur, Aljezur - 1520434 - 7 House Aljezur, Aljezur 210.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[215.000 € Apartment]]></title>
-        <id>https://www.era.pt/en/property/apartment-t0-aljezur-104250103</id>
-        <link href="https://www.era.pt/en/property/apartment-t0-aljezur-104250103"/>
-        <updated>2025-11-11T17:40:23.674Z</updated>
-        <content type="html"><![CDATA[Apartment T0 Aljezur - 1518993 - 1 Apartment Aljezur, Faro 215.000 €]]></content>
+        <title type="html"><![CDATA[225.000 € House]]></title>
+        <id>https://www.era.pt/en/property/house-t2-aljezur-centro-historico-411250040</id>
+        <link href="https://www.era.pt/en/property/house-t2-aljezur-centro-historico-411250040"/>
+        <updated>2026-06-03T20:33:19.672Z</updated>
+        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1514600 - 3 House Centro Histórico, Aljezur 225.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[299.000 € Apartment]]></title>
-        <id>https://www.era.pt/en/property/apartment-t1-aljezur-104250102</id>
-        <link href="https://www.era.pt/en/property/apartment-t1-aljezur-104250102"/>
-        <updated>2025-11-11T17:40:23.678Z</updated>
-        <content type="html"><![CDATA[Apartment T1 Aljezur - 1518990 - 1 Apartment Aljezur, Faro 299.000 €]]></content>
+        <title type="html"><![CDATA[95.000 € House]]></title>
+        <id>https://www.era.pt/en/property/house-t2-aljezur-centro-historico-411250036</id>
+        <link href="https://www.era.pt/en/property/house-t2-aljezur-centro-historico-411250036"/>
+        <updated>2026-06-03T20:33:19.673Z</updated>
+        <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1501322 - 9 House Centro Histórico, Aljezur 95.000 €]]></content>
     </entry>
 </feed>
