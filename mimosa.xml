@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/en-gb/properties-mimosaproperties?loc=Aljezur&amp;dst=8&amp;mun=104&amp;bus=1</id>
     <title>Mimosa</title>
-    <updated>2026-06-05T08:59:30.056Z</updated>
+    <updated>2026-06-05T19:17:14.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Modern apartment in New Development in Espartal - Aljezur 570 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/modern-apartment-in-new-development-in-espartal-aljezur/25770640</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/modern-apartment-in-new-development-in-espartal-aljezur/25770640"/>
+        <updated>2026-06-05T19:13:51.905Z</updated>
+        <content type="html"><![CDATA[ Modern apartment in New Development in Espartal - Aljezur Discover an exclusive development located in Espartal - Monte Clérigo, one of the most sought-after areas of the Costa Vicentina, in the municipality... 570 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful villa with spacious garden and well-sized pool 785 000 €]]></title>
         <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/beautiful-villa-with-spacious-garden-and-well-sized-pool/25770716</id>
@@ -81,12 +88,5 @@
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/villa-with-pool-and-sea-view-2-minutes-from-amoreira-beach/25770980"/>
         <updated>2026-05-30T12:12:07.833Z</updated>
         <content type="html"><![CDATA[ Villa with Pool and Sea View, 2 Minutes from Amoreira Beach Charming Villa Just 2 Minutes from Monte Clérigo Beach, with Sea View and Pool Access, in the Exclusive Espartal Area Features 	 This delightful two-... 418 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3-bedroom villa in Carrapateira - Dune views & close to the beach 1 300 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/3-bedroom-villa-in-carrapateira-dune-views-close-to-the-beach/25771197</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/3-bedroom-villa-in-carrapateira-dune-views-close-to-the-beach/25771197"/>
-        <updated>2026-05-30T12:12:07.835Z</updated>
-        <content type="html"><![CDATA[ 3-bedroom villa in Carrapateira - Dune views & close to the beach Discover this exclusive 3-bedroom villa with minimalist design, modern and sophisticated lines, located in a quiet residential area in Carrapateira, ... 1 300 000 €]]></content>
     </entry>
 </feed>

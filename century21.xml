@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-06-05T08:59:30.172Z</updated>
+    <updated>2026-06-05T19:17:14.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
     <entry>
@@ -42,9 +42,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[389 500 € Moradia em banda Nova de Dois pisos na Carrapateira,  Aljezur a 1000m da praia]]></title>
-        <id>https://www.century21.pt/comprar/C0442-00578</id>
-        <link href="https://www.century21.pt/comprar/C0442-00578"/>
-        <updated>2026-04-19T13:42:53.479Z</updated>
+        <id>https://www.century21.pt/comprar/C0442-00703</id>
+        <link href="https://www.century21.pt/comprar/C0442-00703"/>
+        <updated>2026-06-05T19:13:58.657Z</updated>
         <content type="html"><![CDATA[ 389 500 € Moradia em banda Nova de Dois pisos na Carrapateira,  Aljezur a 1000m da praia]]></content>
     </entry>
     <entry>
@@ -107,7 +107,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-06-05T08:54:29.256Z</updated>
+        <updated>2026-06-05T19:13:58.635Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>
