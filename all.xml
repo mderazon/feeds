@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-07T18:48:42.439Z</updated>
+    <updated>2026-06-08T10:03:59.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[CHARMING 3-BEDROOM BUNGALOW IN CENTRAL LOCATION OF CARRAPATEIRA - ALJEZUR €550,000 (Marcela Properties)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://marcela.pt/properties-to-buy/urbanised-building-plot-with-full-planning-permission-espartal-aljezur-24795/"/>
         <updated>2026-04-29T18:53:42.144Z</updated>
         <content type="html"><![CDATA[ URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR €255,000 270m2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[300 000 € Land (Remax Aljezur)]]></title>
+        <id>https://remax.pt/en/imoveis/venda-terreno-taljezur-bordeira/127041039-1</id>
+        <link href="https://remax.pt/en/imoveis/venda-terreno-taljezur-bordeira/127041039-1"/>
+        <updated>2026-06-08T09:58:51.325Z</updated>
+        <content type="html"><![CDATA[ 300 000 € Land Bordeira, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[650 000 € House (Remax Aljezur)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://remax.pt/en/imoveis/venda-predio-taljezur-rogil/125911096-11"/>
         <updated>2026-01-27T17:50:42.481Z</updated>
         <content type="html"><![CDATA[ 599 000 € Building Rogil, Aljezur]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[570 000 € Apartment (Remax Aljezur)]]></title>
-        <id>https://remax.pt/en/imoveis/venda-apartamento-t3-aljezur-aljezur/124471126-19</id>
-        <link href="https://remax.pt/en/imoveis/venda-apartamento-t3-aljezur-aljezur/124471126-19"/>
-        <updated>2025-11-12T17:39:55.564Z</updated>
-        <content type="html"><![CDATA[ 570 000 € Apartment Aljezur, Aljezur]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Modern apartment in New Development in Espartal - Aljezur 570 000 € (Mimosa)]]></title>
@@ -344,7 +344,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve (Century 21)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:45:49.420Z</updated>
+        <updated>2026-06-08T09:59:05.994Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
     <entry>
@@ -680,7 +680,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T5 - Faro - For sale - M183 865 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.920Z</updated>
+        <updated>2026-06-08T09:59:43.604Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T5 - Faro - For sale - M183 865 000 € 5
                                 
                                 
@@ -699,7 +699,7 @@
         <title type="html"><![CDATA[Rogil - Aljezur - Villa - T2 +1 - Faro - For sale - M187 840 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.924Z</updated>
+        <updated>2026-06-08T09:59:43.605Z</updated>
         <content type="html"><![CDATA[ Rogil - Aljezur - Villa - T2 +1 - Faro - For sale - M187 840 000 € 2
                                 
                                 
@@ -718,7 +718,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M184 745 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.925Z</updated>
+        <updated>2026-06-08T09:59:43.607Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M184 745 000 € 3
                                 
                                 
@@ -737,7 +737,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M179 795 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.925Z</updated>
+        <updated>2026-06-08T09:59:43.609Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M179 795 000 € 4
                                 
                                 
@@ -756,7 +756,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M176 1 270 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.926Z</updated>
+        <updated>2026-06-08T09:59:43.610Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M176 1 270 000 € 4
                                 
                                 
@@ -775,7 +775,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T4 - Faro - For sale - M173 375 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.927Z</updated>
+        <updated>2026-06-08T09:59:43.611Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T4 - Faro - For sale - M173 375 000 € 4
                                 
                                 
@@ -794,7 +794,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.928Z</updated>
+        <updated>2026-06-08T09:59:43.612Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M161 POA 3
                                 
                                 
@@ -813,7 +813,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M158 450 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.928Z</updated>
+        <updated>2026-06-08T09:59:43.613Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M158 450 000 € 1
                                 
                                 
@@ -832,7 +832,7 @@
         <title type="html"><![CDATA[Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.929Z</updated>
+        <updated>2026-06-08T09:59:43.615Z</updated>
         <content type="html"><![CDATA[ Odeceixe - Aljezur - Villa - T3 - Faro - For sale - M144 549 000 € 3
                                 
                                 
@@ -851,7 +851,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.930Z</updated>
+        <updated>2026-06-08T09:59:43.616Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T4 - Faro - For sale - M141 POA 4
                                 
                                 
@@ -870,7 +870,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.931Z</updated>
+        <updated>2026-06-08T09:59:43.617Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Villa - T3 - Faro - For sale - M137 POA 3
                                 
                                 
@@ -889,7 +889,7 @@
         <title type="html"><![CDATA[Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € (Mikasa)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:14.932Z</updated>
+        <updated>2026-06-08T09:59:43.617Z</updated>
         <content type="html"><![CDATA[ Aljezur - Aljezur - Townhouse - T3 - Faro - For sale - M135 418 000 € 3
                                 
                                 
@@ -985,13 +985,13 @@
         <content type="html"><![CDATA[ Recently Renovated Villa with Ocean Views, Walking Distance to Monte Clérigo Beach This superb detached villa has been recently renovated to a high standard, including new bathrooms and a swimming pool, making it ready to move into or to enjoy as a high-quality rental investment. O... Ref. M-0097 4                                                                                                                                                                                                                                                                                                                                                                        4                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                203 m² 875 000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Joint Selling | Two Houses + Rustic Plots | Lighthouse-Alfambras, Bordeira | A few minutes from the sea 460 000 € (Costa Properties)]]></title>
+        <title type="html"><![CDATA[Joint Selling | Two Houses + Rustic Plots | Lighthouse-Alfambras, Bordeira | A few minutes from the sea 360 000 € (Costa Properties)]]></title>
         <id>https://www.costaproperties.pt/en-gb/property/joint-selling-two-houses-rustic-plots-lighthouse-alfambras-bordeira-a-few-minutes-from-the-sea/25919458</id>
         <link href="https://www.costaproperties.pt/en-gb/property/joint-selling-two-houses-rustic-plots-lighthouse-alfambras-bordeira-a-few-minutes-from-the-sea/25919458"/>
         <updated>2026-05-30T12:13:20.619Z</updated>
         <content type="html"><![CDATA[ Joint Selling | Two Houses + Rustic Plots | Lighthouse-Alfambras, Bordeira | A few minutes from the sea Excellent investment opportunity or multi-family residence on the Costa Vicentina
 
-Located in Farol-Alfambras, Bordeira, in a very quiet area surro... Ref. CP-Q2601 Bedrooms                                3                                                                                                                                                                                    Bathroom                                2                                                                                                                                                                                    Garage                                 1                                                                                                                                                                                                                                                          1                                                                                                                                                                                                                                                  Area                                138 m²                                                                                                                                                                                                                                            Land area                                10448  m²                                                                                                                                                                                                                Energy class                                D 460 000 €]]></content>
+Located in Farol-Alfambras, Bordeira, in a very quiet area surro... Ref. CP-Q2601 Bedrooms                                3                                                                                                                                                                                    Bathroom                                2                                                                                                                                                                                    Garage                                 1                                                                                                                                                                                                                                                          1                                                                                                                                                                                                                                                  Area                                138 m²                                                                                                                                                                                                                                            Land area                                10448  m²                                                                                                                                                                                                                Energy class                                D 360 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rustic Land of 43,500 m² Between Aljezur and Monchique - Nature and Tranquility 99 000 € (Costa Properties)]]></title>
@@ -1025,315 +1025,315 @@ Located in Farol-Alfambras, Bordeira, in a very quiet area surro... Ref. CP-Q260
         <title type="html"><![CDATA[Terraced house Aljezur 285.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.391Z</updated>
+        <updated>2026-06-08T10:00:11.129Z</updated>
         <content type="html"><![CDATA[Terraced house Aljezur 285.000 € WCR-H208 T2 63.91 mts]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.333Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.334Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.337Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.337Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.337Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.337Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.337Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.337Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.338Z</updated>
+        <updated>2026-06-08T10:00:11.054Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.338Z</updated>
+        <updated>2026-06-08T10:00:11.055Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.338Z</updated>
+        <updated>2026-06-08T10:00:11.055Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.339Z</updated>
+        <updated>2026-06-08T10:00:11.057Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.341Z</updated>
+        <updated>2026-06-08T10:00:11.062Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.341Z</updated>
+        <updated>2026-06-08T10:00:11.063Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.342Z</updated>
+        <updated>2026-06-08T10:00:11.065Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.343Z</updated>
+        <updated>2026-06-08T10:00:11.066Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.346Z</updated>
+        <updated>2026-06-08T10:00:11.067Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.346Z</updated>
+        <updated>2026-06-08T10:00:11.068Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.346Z</updated>
+        <updated>2026-06-08T10:00:11.072Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.347Z</updated>
+        <updated>2026-06-08T10:00:11.072Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.348Z</updated>
+        <updated>2026-06-08T10:00:11.072Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.348Z</updated>
+        <updated>2026-06-08T10:00:11.074Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.348Z</updated>
+        <updated>2026-06-08T10:00:11.075Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.349Z</updated>
+        <updated>2026-06-08T10:00:11.076Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.350Z</updated>
+        <updated>2026-06-08T10:00:11.077Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.350Z</updated>
+        <updated>2026-06-08T10:00:11.078Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.351Z</updated>
+        <updated>2026-06-08T10:00:11.079Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.352Z</updated>
+        <updated>2026-06-08T10:00:11.080Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.354Z</updated>
+        <updated>2026-06-08T10:00:11.082Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.354Z</updated>
+        <updated>2026-06-08T10:00:11.083Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.355Z</updated>
+        <updated>2026-06-08T10:00:11.084Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.356Z</updated>
+        <updated>2026-06-08T10:00:11.085Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.356Z</updated>
+        <updated>2026-06-08T10:00:11.086Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.358Z</updated>
+        <updated>2026-06-08T10:00:11.087Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.358Z</updated>
+        <updated>2026-06-08T10:00:11.088Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.361Z</updated>
+        <updated>2026-06-08T10:00:11.089Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.361Z</updated>
+        <updated>2026-06-08T10:00:11.090Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.361Z</updated>
+        <updated>2026-06-08T10:00:11.092Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.362Z</updated>
+        <updated>2026-06-08T10:00:11.093Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.364Z</updated>
+        <updated>2026-06-08T10:00:11.094Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.364Z</updated>
+        <updated>2026-06-08T10:00:11.095Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.364Z</updated>
+        <updated>2026-06-08T10:00:11.096Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.365Z</updated>
+        <updated>2026-06-08T10:00:11.097Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-07T18:47:46.365Z</updated>
+        <updated>2026-06-08T10:00:11.101Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
