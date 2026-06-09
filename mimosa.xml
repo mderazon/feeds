@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/en-gb/properties-mimosaproperties?loc=Aljezur&amp;dst=8&amp;mun=104&amp;bus=1</id>
     <title>Mimosa</title>
-    <updated>2026-06-09T08:51:02.784Z</updated>
+    <updated>2026-06-09T19:35:04.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Apartment in New Development in Espartal - Aljezur 405 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartment-in-new-development-in-espartal-aljezur/25764884</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartment-in-new-development-in-espartal-aljezur/25764884"/>
+        <updated>2026-06-09T19:32:01.924Z</updated>
+        <content type="html"><![CDATA[ Apartment in New Development in Espartal - Aljezur Discover an exclusive development located in Espartal - Monte Clérigo, one of the most sought-after areas of the Costa Vicentina, in the municipality... 405 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern apartment in New Development in Espartal - Aljezur 570 000 €]]></title>
         <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/modern-apartment-in-new-development-in-espartal-aljezur/25770640</id>
@@ -81,12 +88,5 @@
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/71-hectare-estate-with-tourism-potential-in-aljezur/25770683"/>
         <updated>2026-05-08T07:03:42.327Z</updated>
         <content type="html"><![CDATA[ 7.1 hectare estate with tourism potential in Aljezur This is the ideal location for those seeking to live in harmony with nature, develop a sustainable tourism project, or build a family retreat with ea... 450 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villa with Pool and Sea View, 2 Minutes from Amoreira Beach 418 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/villa-with-pool-and-sea-view-2-minutes-from-amoreira-beach/25770980</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/villa-with-pool-and-sea-view-2-minutes-from-amoreira-beach/25770980"/>
-        <updated>2026-05-30T12:12:07.833Z</updated>
-        <content type="html"><![CDATA[ Villa with Pool and Sea View, 2 Minutes from Amoreira Beach Charming Villa Just 2 Minutes from Monte Clérigo Beach, with Sea View and Pool Access, in the Exclusive Espartal Area Features 	 This delightful two-... 418 000 €]]></content>
     </entry>
 </feed>
