@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mderazon.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2026-06-17T10:14:35.780Z</updated>
+    <updated>2026-06-17T19:39:40.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[CHARMING 3-BEDROOM BUNGALOW IN CENTRAL LOCATION OF CARRAPATEIRA - ALJEZUR €550,000 (Marcela Properties)]]></title>
@@ -344,7 +344,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve (Century 21)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:11:23.624Z</updated>
+        <updated>2026-06-17T19:33:51.414Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
     <entry>
@@ -901,6 +901,20 @@
                                     166,44 m2]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Flexible Coastal Property with Private Residence and Independent Guest Accommodation 1 460 000 € (Cosmos)]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/flexible-coastal-property-with-private-residence-and-independent-guest-accommodation/26097846</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/flexible-coastal-property-with-private-residence-and-independent-guest-accommodation/26097846"/>
+        <updated>2026-06-17T19:36:26.715Z</updated>
+        <content type="html"><![CDATA[ Flexible Coastal Property with Private Residence and Independent Guest Accommodation Located in a quiet cul-de-sac in Vale da Telha, this substantial property offers exceptional privacy, scale, and versatility. Surrounded by mature trees, landscaped gardens, lawned areas, and a large... Ref. M-0259 8                                                                                                                                                                                                                                                                                                                                                                        8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                319 m² 1 460 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spacious Algarvian Villa with Pool, Terraces & Outbuilding 759 950 € (Cosmos)]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765"/>
+        <updated>2026-06-09T19:32:55.547Z</updated>
+        <content type="html"><![CDATA[ Spacious Algarvian Villa with Pool, Terraces & Outbuilding This charming 4-bedroom, 2-bathroom villa sits on a unique oval-shaped designated green space, used almost exclusively by the surrounding residents, giving it a quiet and private setting. The home co... Ref. M-0237 4                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                 Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                200 m² 759 950 €]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unique panoramic views of the Atlantic. Pure peace and relaxation. 750 000 € (Cosmos)]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/unique-panoramic-views-of-the-atlantic-pure-peace-and-relaxation/24224663</id>
         <link href="https://www.cosmosportugal.com/en-gb/property/unique-panoramic-views-of-the-atlantic-pure-peace-and-relaxation/24224663"/>
@@ -927,13 +941,6 @@
         <link href="https://www.cosmosportugal.com/en-gb/property/rustic-land-with-water-aljezur/26006990"/>
         <updated>2026-06-10T19:46:40.344Z</updated>
         <content type="html"><![CDATA[ Rustic Land with Water - Aljezur Rustic land inserted in a quiet and preserved natural environment, composed of a diversity of tree species characteristic of the region. The property has a vast area of woods, including eucalyptus, s... Ref. T-0256 37030 m² 130 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spacious Algarvian Villa with Pool, Terraces & Outbuilding 759 950 € (Cosmos)]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765"/>
-        <updated>2026-06-09T19:32:55.547Z</updated>
-        <content type="html"><![CDATA[ Spacious Algarvian Villa with Pool, Terraces & Outbuilding This charming 4-bedroom, 2-bathroom villa sits on a unique oval-shaped designated green space, used almost exclusively by the surrounding residents, giving it a quiet and private setting. The home co... Ref. M-0237 4                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                 Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                200 m² 759 950 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[House with 3 bedrooms, swimming pool and garden in Vale da Telha 640 000 € (Cosmos)]]></title>
@@ -978,13 +985,6 @@
         <content type="html"><![CDATA[ 2 bed 2 bath villa in Vale da Telha Set on a generous 950 m² plot in the popular Vale da Telha community, this single-storey house offers a mature garden and a convenient location close to the mini-market and local cafés. Centrally pos... Ref. M-0241 2                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                96 m² 480 000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coastal Home with 2 beds + Studio, Panoramic Sea Views in Arrifana 678 000 € (Cosmos)]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/coastal-home-with-2-beds-studio-panoramic-sea-views-in-arrifana/25884229</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/coastal-home-with-2-beds-studio-panoramic-sea-views-in-arrifana/25884229"/>
-        <updated>2026-05-30T12:13:10.600Z</updated>
-        <content type="html"><![CDATA[ Coastal Home with 2 beds + Studio, Panoramic Sea Views in Arrifana Positioned on a quiet side road in Arrifana, this detached coastal home enjoys stunning sea views and is within easy walking distance of the beach, cafés, restaurants, and local amenities. Set within... Ref. M-0253 2                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                149 m² 678 000 €]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Joint Selling | Two Houses + Rustic Plots | Lighthouse-Alfambras, Bordeira | A few minutes from the sea 360 000 € (Costa Properties)]]></title>
         <id>https://www.costaproperties.pt/en-gb/property/joint-selling-two-houses-rustic-plots-lighthouse-alfambras-bordeira-a-few-minutes-from-the-sea/25919458</id>
         <link href="https://www.costaproperties.pt/en-gb/property/joint-selling-two-houses-rustic-plots-lighthouse-alfambras-bordeira-a-few-minutes-from-the-sea/25919458"/>
@@ -1025,315 +1025,315 @@ Located in Farol-Alfambras, Bordeira, in a very quiet area surro... Ref. CP-Q260
         <title type="html"><![CDATA[Terraced house Aljezur 285.000 € (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.967Z</updated>
+        <updated>2026-06-17T19:36:47.916Z</updated>
         <content type="html"><![CDATA[Terraced house Aljezur 285.000 € WCR-H208 T2 63.91 mts]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.892Z</updated>
+        <updated>2026-06-17T19:36:47.830Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.892Z</updated>
+        <updated>2026-06-17T19:36:47.830Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.892Z</updated>
+        <updated>2026-06-17T19:36:47.830Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.892Z</updated>
+        <updated>2026-06-17T19:36:47.830Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.893Z</updated>
+        <updated>2026-06-17T19:36:47.832Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.893Z</updated>
+        <updated>2026-06-17T19:36:47.833Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.894Z</updated>
+        <updated>2026-06-17T19:36:47.834Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.895Z</updated>
+        <updated>2026-06-17T19:36:47.834Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.896Z</updated>
+        <updated>2026-06-17T19:36:47.836Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.897Z</updated>
+        <updated>2026-06-17T19:36:47.836Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.897Z</updated>
+        <updated>2026-06-17T19:36:47.837Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.897Z</updated>
+        <updated>2026-06-17T19:36:47.843Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.898Z</updated>
+        <updated>2026-06-17T19:36:47.844Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.899Z</updated>
+        <updated>2026-06-17T19:36:47.845Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.900Z</updated>
+        <updated>2026-06-17T19:36:47.846Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.901Z</updated>
+        <updated>2026-06-17T19:36:47.847Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.902Z</updated>
+        <updated>2026-06-17T19:36:47.849Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.903Z</updated>
+        <updated>2026-06-17T19:36:47.850Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.905Z</updated>
+        <updated>2026-06-17T19:36:47.851Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.906Z</updated>
+        <updated>2026-06-17T19:36:47.854Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.907Z</updated>
+        <updated>2026-06-17T19:36:47.857Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.908Z</updated>
+        <updated>2026-06-17T19:36:47.857Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.909Z</updated>
+        <updated>2026-06-17T19:36:47.859Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.914Z</updated>
+        <updated>2026-06-17T19:36:47.859Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.914Z</updated>
+        <updated>2026-06-17T19:36:47.862Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.914Z</updated>
+        <updated>2026-06-17T19:36:47.862Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.915Z</updated>
+        <updated>2026-06-17T19:36:47.863Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.916Z</updated>
+        <updated>2026-06-17T19:36:47.864Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.917Z</updated>
+        <updated>2026-06-17T19:36:47.868Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.919Z</updated>
+        <updated>2026-06-17T19:36:47.868Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.920Z</updated>
+        <updated>2026-06-17T19:36:47.869Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.921Z</updated>
+        <updated>2026-06-17T19:36:47.870Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.922Z</updated>
+        <updated>2026-06-17T19:36:47.871Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.923Z</updated>
+        <updated>2026-06-17T19:36:47.872Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.924Z</updated>
+        <updated>2026-06-17T19:36:47.873Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.925Z</updated>
+        <updated>2026-06-17T19:36:47.874Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.927Z</updated>
+        <updated>2026-06-17T19:36:47.875Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.928Z</updated>
+        <updated>2026-06-17T19:36:47.876Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.929Z</updated>
+        <updated>2026-06-17T19:36:47.877Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.930Z</updated>
+        <updated>2026-06-17T19:36:47.878Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.931Z</updated>
+        <updated>2026-06-17T19:36:47.879Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.932Z</updated>
+        <updated>2026-06-17T19:36:47.880Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.933Z</updated>
+        <updated>2026-06-17T19:36:47.881Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[  (West Coast Realty Aljezur)]]></title>
         <id>https://mderazon.github.io/feeds/all.xml</id>
         <link href="https://mderazon.github.io/feeds/all.xml"/>
-        <updated>2026-06-17T10:12:48.934Z</updated>
+        <updated>2026-06-17T19:36:47.882Z</updated>
         <content type="html"><![CDATA[    ]]></content>
     </entry>
     <entry>
@@ -1721,83 +1721,6 @@ Located in Farol-Alfambras, Bordeira, in a very quiet area surro... Ref. CP-Q260
         <link href="https://livealgarve.com/property/first-line-amazing-27-ha-sea-view-estate-on-the-algarve-silver-coast-at-odeceixe-for-sale-aljezur-827"/>
         <updated>2026-04-19T20:38:37.222Z</updated>
         <content type="html"><![CDATA[ FIRST LINE | Amazing 27 ha Sea View Estate on the Algarve Silver Coast at Odeceixe for Sale – Aljezur ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Land 200.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/land-aljezur-refu00014-23-268270/</id>
-        <link href="https://lusoland.pt/en/property/land-aljezur-refu00014-23-268270/"/>
-        <updated>2026-06-17T10:14:01.372Z</updated>
-        <content type="html"><![CDATA[ Land Aljezur 200.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraced Houses 418.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/terraced-houses-aljezur-vale-da-telha-refu00026-25-652467/</id>
-        <link href="https://lusoland.pt/en/property/terraced-houses-aljezur-vale-da-telha-refu00026-25-652467/"/>
-        <updated>2026-06-17T10:14:01.372Z</updated>
-        <content type="html"><![CDATA[ Terraced Houses Aljezur 418.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Country House 590.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/country-house-aljezur-refr0005826-809613/</id>
-        <link href="https://lusoland.pt/en/property/country-house-aljezur-refr0005826-809613/"/>
-        <updated>2026-06-17T10:14:01.372Z</updated>
-        <content type="html"><![CDATA[ Country House Aljezur 590.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villa 588.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/villa-aljezur-refu00036-26-799167/</id>
-        <link href="https://lusoland.pt/en/property/villa-aljezur-refu00036-26-799167/"/>
-        <updated>2026-06-17T10:14:01.373Z</updated>
-        <content type="html"><![CDATA[ Villa Aljezur 588.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villa 700.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00028-25-670303/</id>
-        <link href="https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00028-25-670303/"/>
-        <updated>2026-06-17T10:14:01.375Z</updated>
-        <content type="html"><![CDATA[ Villa Aljezur 700.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apartment 405.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/apartment-aljezur-refu0003325-743860/</id>
-        <link href="https://lusoland.pt/en/property/apartment-aljezur-refu0003325-743860/"/>
-        <updated>2026-06-17T10:14:01.377Z</updated>
-        <content type="html"><![CDATA[ Apartment Aljezur 405.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villa 597.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/</id>
-        <link href="https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/"/>
-        <updated>2026-06-17T10:14:01.392Z</updated>
-        <content type="html"><![CDATA[ Villa Aljezur 597.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farmhouse 399.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/farmhouse-aljezur-alfambras-refr00036_24-273415/</id>
-        <link href="https://lusoland.pt/en/property/farmhouse-aljezur-alfambras-refr00036_24-273415/"/>
-        <updated>2026-06-17T10:14:01.392Z</updated>
-        <content type="html"><![CDATA[ Farmhouse Aljezur 399.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villa 874.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/villa-aljezur-refu0012-23-242501/</id>
-        <link href="https://lusoland.pt/en/property/villa-aljezur-refu0012-23-242501/"/>
-        <updated>2026-06-17T10:14:01.394Z</updated>
-        <content type="html"><![CDATA[ Villa Aljezur 874.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Country House 830.000€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/country-house-aljezur-refr00045-24-493173/</id>
-        <link href="https://lusoland.pt/en/property/country-house-aljezur-refr00045-24-493173/"/>
-        <updated>2026-06-17T10:14:01.394Z</updated>
-        <content type="html"><![CDATA[ Country House Aljezur 830.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Land 87.470€ (Lusoland)]]></title>
-        <id>https://lusoland.pt/en/property/land-aljezur-refr00049-24-594875/</id>
-        <link href="https://lusoland.pt/en/property/land-aljezur-refr00049-24-594875/"/>
-        <updated>2026-06-17T10:14:01.400Z</updated>
-        <content type="html"><![CDATA[ Land Aljezur 87.470€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2-bedroom house in Odeceixe with views over the Seixe river 249 000 € (Maximo Properties)]]></title>
