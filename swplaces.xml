@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-06-19T10:02:24.795Z</updated>
+    <updated>2026-06-19T19:15:01.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Moradia T3 Perto da Arrifana € 890 000]]></title>
+        <id>https://sw-places.com/property/moradia-t3-perto-da-arrifana/167945</id>
+        <link href="https://sw-places.com/property/moradia-t3-perto-da-arrifana/167945"/>
+        <updated>2026-06-19T19:13:06.993Z</updated>
+        <content type="html"><![CDATA[  3131 € 890 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T3 Rogil € 400 000]]></title>
         <id>https://sw-places.com/property/moradia-t3-rogil/154616</id>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/fantastica-moradia-t4/142290"/>
         <updated>2026-06-02T09:45:38.237Z</updated>
         <content type="html"><![CDATA[  1314 € 570 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moradia T2 Odeceixe € 300 000]]></title>
-        <id>https://sw-places.com/property/moradia-t2-odeceixe/134273</id>
-        <link href="https://sw-places.com/property/moradia-t2-odeceixe/134273"/>
-        <updated>2026-06-18T19:45:58.596Z</updated>
-        <content type="html"><![CDATA[  1221 € 300 000]]></content>
     </entry>
 </feed>
