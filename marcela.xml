@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-06-19T19:15:01.581Z</updated>
+    <updated>2026-06-20T08:36:03.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
     <entry>
@@ -62,17 +62,17 @@
         <content type="html"><![CDATA[ MODERN THREE BEDROOM VILLA WITH SWIMMING POOL & FABULOUS VIEWS €815,000 3]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SPACIOUS URBANISED BUILDING PLOT IN A QUIET LOCATION, VALE DA TELHA €116,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/spacious-urbanised-building-plot-in-a-quiet-location-vale-da-telha-24847/</id>
-        <link href="https://marcela.pt/properties-to-buy/spacious-urbanised-building-plot-in-a-quiet-location-vale-da-telha-24847/"/>
-        <updated>2026-04-29T18:53:42.144Z</updated>
-        <content type="html"><![CDATA[ SPACIOUS URBANISED BUILDING PLOT IN A QUIET LOCATION, VALE DA TELHA €116,000 225m2]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR €255,000]]></title>
         <id>https://marcela.pt/properties-to-buy/urbanised-building-plot-with-full-planning-permission-espartal-aljezur-24795/</id>
         <link href="https://marcela.pt/properties-to-buy/urbanised-building-plot-with-full-planning-permission-espartal-aljezur-24795/"/>
         <updated>2026-04-29T18:53:42.144Z</updated>
         <content type="html"><![CDATA[ URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR €255,000 270m2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW MODERN T3+1 APARTMENTS, ESPARTAL/ MONTE CLERIGO €570,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/new-modern-t3-1-apartments-espartal-monte-clerigo-24791/</id>
+        <link href="https://marcela.pt/properties-to-buy/new-modern-t3-1-apartments-espartal-monte-clerigo-24791/"/>
+        <updated>2026-06-20T08:29:51.594Z</updated>
+        <content type="html"><![CDATA[ NEW MODERN T3+1 APARTMENTS, ESPARTAL/ MONTE CLERIGO €570,000 3]]></content>
     </entry>
 </feed>
