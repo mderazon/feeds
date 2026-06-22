@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-06-22T11:16:09.396Z</updated>
+    <updated>2026-06-22T20:21:48.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://sw-places.com/property/moradia-t3-perto-da-arrifana/167945</id>
         <link href="https://sw-places.com/property/moradia-t3-perto-da-arrifana/167945"/>
         <updated>2026-06-19T19:13:06.993Z</updated>
-        <content type="html"><![CDATA[  3131 € 890 000]]></content>
+        <content type="html"><![CDATA[  1313 € 890 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T3 Rogil € 400 000]]></title>
@@ -25,6 +25,13 @@
         <link href="https://sw-places.com/property/moradia-t3-rogil/154616"/>
         <updated>2026-05-30T12:12:54.106Z</updated>
         <content type="html"><![CDATA[  3111 € 400 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Edificio São Sebastião Aljezur € 950 000]]></title>
+        <id>https://sw-places.com/property/edificio-sao-sebastiao-aljezur/150466</id>
+        <link href="https://sw-places.com/property/edificio-sao-sebastiao-aljezur/150466"/>
+        <updated>2026-06-22T20:19:43.368Z</updated>
+        <content type="html"><![CDATA[  233 € 950 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Quinta T3 com 1,8 ha a 15 min da Praia em Zona Tranquila € 840 000]]></title>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/refugio-na-costa-vicentina/145578"/>
         <updated>2026-05-02T14:45:02.649Z</updated>
         <content type="html"><![CDATA[  1211 € 300 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moradia T2 com Piscina € 590 000]]></title>
-        <id>https://sw-places.com/property/moradia-t2-com-piscina/144887</id>
-        <link href="https://sw-places.com/property/moradia-t2-com-piscina/144887"/>
-        <updated>2026-05-30T12:12:54.117Z</updated>
-        <content type="html"><![CDATA[  2111 € 590 000]]></content>
     </entry>
 </feed>
