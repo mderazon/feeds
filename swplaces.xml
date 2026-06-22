@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-06-21T18:59:39.226Z</updated>
+    <updated>2026-06-22T11:16:09.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Terreno com 2,4 Hectares e PIP Aprovado | Aljezur € 430 000]]></title>
+        <id>https://sw-places.com/property/terreno-com-2-4-hectares-e-pip-aprovado-aljezur/167972</id>
+        <link href="https://sw-places.com/property/terreno-com-2-4-hectares-e-pip-aprovado-aljezur/167972"/>
+        <updated>2026-06-22T11:11:01.918Z</updated>
+        <content type="html"><![CDATA[   € 430 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T3 Perto da Arrifana € 890 000]]></title>
         <id>https://sw-places.com/property/moradia-t3-perto-da-arrifana/167945</id>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/moradia-t2-com-piscina/144887"/>
         <updated>2026-05-30T12:12:54.117Z</updated>
         <content type="html"><![CDATA[  2111 € 590 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantástica Moradia T4 € 570 000]]></title>
-        <id>https://sw-places.com/property/fantastica-moradia-t4/142290</id>
-        <link href="https://sw-places.com/property/fantastica-moradia-t4/142290"/>
-        <updated>2026-06-02T09:45:38.237Z</updated>
-        <content type="html"><![CDATA[  1314 € 570 000]]></content>
     </entry>
 </feed>
