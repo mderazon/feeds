@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-06-29T10:08:22.417Z</updated>
+    <updated>2026-06-29T19:24:32.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[2 900 000 € Vivenda com propriedade em Bordeira]]></title>
+        <id>https://www.century21.pt/comprar/C0556-00010</id>
+        <link href="https://www.century21.pt/comprar/C0556-00010"/>
+        <updated>2026-06-29T19:19:37.508Z</updated>
+        <content type="html"><![CDATA[ 2 900 000 € Vivenda com propriedade em Bordeira]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[250 000 € Terreno Rústico para Cultura arvense em Cabeços, Boredira, Alzejur]]></title>
         <id>https://www.century21.pt/comprar/C0240-03640</id>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[ 290 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[389 500 € Moradia em banda Nova de Dois pisos na Carrapateira,  Aljezur a 1000m da praia]]></title>
-        <id>https://www.century21.pt/comprar/C0442-00703</id>
-        <link href="https://www.century21.pt/comprar/C0442-00703"/>
-        <updated>2026-06-05T19:13:58.657Z</updated>
-        <content type="html"><![CDATA[ 389 500 € Moradia em banda Nova de Dois pisos na Carrapateira,  Aljezur a 1000m da praia]]></content>
+        <title type="html"><![CDATA[389 500 € Moradia T2 localizada na Costa Vicentina, Bordeira, Aljezur - Perto da Praia]]></title>
+        <id>https://www.century21.pt/comprar/C0442-00713</id>
+        <link href="https://www.century21.pt/comprar/C0442-00713"/>
+        <updated>2026-06-29T19:19:37.519Z</updated>
+        <content type="html"><![CDATA[ 389 500 € Moradia T2 localizada na Costa Vicentina, Bordeira, Aljezur - Perto da Praia]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[220 000 € Terreno Rústico com Ruína em Aljezur – 26,88ha de Natureza Pura com Ribeira]]></title>
@@ -107,7 +114,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-06-29T10:03:11.261Z</updated>
+        <updated>2026-06-29T19:19:37.497Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>

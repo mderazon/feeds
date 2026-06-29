@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;ord=3&amp;ir=1&amp;nr=0&amp;dt=08&amp;co=08-03-00-0&amp;page=1</id>
     <title>ERA Aljezur</title>
-    <updated>2026-06-29T10:08:22.428Z</updated>
+    <updated>2026-06-29T19:24:32.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -70,10 +70,10 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[364.000 € Apartment]]></title>
-        <id>https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260003</id>
-        <link href="https://www.era.pt/en/property/apartment-t2-aljezur-aldeia-antiga-castelo-411260003"/>
-        <updated>2026-01-21T18:08:29.672Z</updated>
-        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1530751 - 11 Apartment Centro Histórico, Aljezur 364.000 €]]></content>
+        <id>https://www.era.pt/en/property/apartment-t2-aljezur-centro-historico-411260003</id>
+        <link href="https://www.era.pt/en/property/apartment-t2-aljezur-centro-historico-411260003"/>
+        <updated>2026-06-29T19:19:53.148Z</updated>
+        <content type="html"><![CDATA[Apartment T2 Aljezur, Centro Histórico - 1530751 - 19 Apartment Centro Histórico, Aljezur 364.000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[382.000 € Apartment]]></title>
