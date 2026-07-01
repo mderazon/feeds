@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-07-01T08:59:49.010Z</updated>
+    <updated>2026-07-01T19:20:19.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Moradia T2+1 Renovada  Vale da Telha € 560 000]]></title>
+        <id>https://sw-places.com/property/moradia-t2-1-renovada-vale-da-telha/168748</id>
+        <link href="https://sw-places.com/property/moradia-t2-1-renovada-vale-da-telha/168748"/>
+        <updated>2026-07-01T19:16:27.057Z</updated>
+        <content type="html"><![CDATA[  2131 € 560 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terreno com 2,4 Hectares e PIP Aprovado | Aljezur € 430 000]]></title>
         <id>https://sw-places.com/property/terreno-com-2-4-hectares-e-pip-aprovado-aljezur/167972</id>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/moradia-t3-odeceixe/145661"/>
         <updated>2026-05-02T14:45:02.648Z</updated>
         <content type="html"><![CDATA[  3122 € 380 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refúgio na Costa Vicentina € 300 000]]></title>
-        <id>https://sw-places.com/property/refugio-na-costa-vicentina/145578</id>
-        <link href="https://sw-places.com/property/refugio-na-costa-vicentina/145578"/>
-        <updated>2026-05-02T14:45:02.649Z</updated>
-        <content type="html"><![CDATA[  1211 € 300 000]]></content>
     </entry>
 </feed>
