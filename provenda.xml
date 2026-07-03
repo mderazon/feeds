@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties-county-aljezur/</id>
     <title>Provenda</title>
-    <updated>2026-07-03T08:34:43.315Z</updated>
+    <updated>2026-07-03T18:47:15.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties-county-aljezur/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 299.000 Building Commercial 3+1 bedrooms Aljezur - terrace, privileged location]]></title>
+        <id>https://www.provenda.net/en/building-commercial-3+1-bedrooms-aljezur-terrace-privileged-location+1000020412.html</id>
+        <link href="https://www.provenda.net/en/building-commercial-3+1-bedrooms-aljezur-terrace-privileged-location+1000020412.html"/>
+        <updated>2026-07-03T18:44:51.715Z</updated>
+        <content type="html"><![CDATA[ SaleLocated on Aljezur’s main street, this building is registered as a residential property, but its prime location also makes it suitable for commercial use. It is spread over two floors with separate entrances. The ground floor is currently used as an office and includes a bathroom. The upper floor has three bedrooms, a living room, a kitchen and a bathroom. An external staircase leads up to a terrace. Fun fact: this building, constructed in 1913, was Aljezur’s first registered guesthouse, a true historical landmark of the town. Just a 10-minute drive away are some of the wildest and most unspoilt beaches on the Costa Vicentina, with golden sand, dramatic cliffs and hidden coves where nature takes centre stage. Praia da Amoreira is about 5 km from the house, and the neighbouring Praia da Arrifana and Monte Clérigo, favourites with surfers, are right next to it. This village offers all the essential amenities, including supermarkets, local cafés and restaurants, a health centre, a school, banks and a post office, as well as a medieval castle and charming cobbled streets. The lively towns of Sagres and Lagos are about 30 km away, and Faro Airport is approximately 125 km away. Perfect for those seeking an authentic experience surrounded by nature, away from the crowds, this house is a serene retreat where the Algarve reveals its most genuine and timeless side.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 890.000 Farm 3 bedrooms Bordeira Aljezur - furnished, alarm, equipped, terrace, fireplace, store room]]></title>
         <id>https://www.provenda.net/en/farm-3-bedrooms-bordeira-aljezur-furnished-alarm-equipped-terrace-fireplace-store-room+1000020123.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
         <updated>2026-04-22T18:39:37.840Z</updated>
         <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 21.000 Land Rustic with 3250sqm Palheirinho-Varzea Aljezur - well]]></title>
-        <id>https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html</id>
-        <link href="https://www.provenda.net/en/land-rustic-with-3250sqm-palheirinho-varzea-aljezur-well+1000019454.html"/>
-        <updated>2026-06-05T19:14:06.511Z</updated>
-        <content type="html"><![CDATA[ SaleProperty with great agricultural potential, comprising two adjoining rustic articles, very well located in Várzea de Aljezur, with direct access from Rua Capitão Salgueiro Maia, with a total area of 3250.00m² and well]]></content>
     </entry>
 </feed>
