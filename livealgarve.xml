@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livealgarve.com/properties/aljezur</id>
     <title>Live Algarve</title>
-    <updated>2026-07-03T18:47:15.320Z</updated>
+    <updated>2026-07-04T08:11:13.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://livealgarve.com/properties/favicon.ico</icon>
     <entry>
@@ -22,6 +22,15 @@
         <updated>2026-04-19T20:38:37.218Z</updated>
         <content type="html"><![CDATA[ OPPORTUNITY | Modern Refurbished T2 Apartments in Historic Center of Aljezur for Sale - Aljezur €
                                         345,000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEA VIEW | Firstline Oceanfront T4 Villa at Arrifana for Sale - Aljezur €
+                                        1,800,000]]></title>
+        <id>https://livealgarve.com/property/sea-view-firstline-oceanfront-t4-villa-at-arrifana-for-sale-aljezur-1064</id>
+        <link href="https://livealgarve.com/property/sea-view-firstline-oceanfront-t4-villa-at-arrifana-for-sale-aljezur-1064"/>
+        <updated>2026-07-04T08:10:41.176Z</updated>
+        <content type="html"><![CDATA[ SEA VIEW | Firstline Oceanfront T4 Villa at Arrifana for Sale - Aljezur €
+                                        1,800,000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NEW DEVELOPMENT | Modern T4 Villa with Pool  in Espartal for Sale - Aljezur €
