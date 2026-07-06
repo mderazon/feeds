@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-07-06T09:17:55.751Z</updated>
+    <updated>2026-07-06T19:15:21.430Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://www.century21.pt/comprar/C0556-00010"/>
         <updated>2026-06-29T19:19:37.508Z</updated>
         <content type="html"><![CDATA[ 2 900 000 € Vivenda com propriedade em Bordeira]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1 300 000 € Oportunidade Única com Vista Mar na Praia da Arrifana (Aljezur)]]></title>
+        <id>https://www.century21.pt/comprar/C0369-00874</id>
+        <link href="https://www.century21.pt/comprar/C0369-00874"/>
+        <updated>2026-07-06T19:12:25.349Z</updated>
+        <content type="html"><![CDATA[ 1 300 000 € Oportunidade Única com Vista Mar na Praia da Arrifana (Aljezur)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[250 000 € Terreno Rústico para Cultura arvense em Cabeços, Boredira, Alzejur]]></title>
@@ -114,7 +121,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-07-06T09:14:43.827Z</updated>
+        <updated>2026-07-06T19:12:25.332Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>
