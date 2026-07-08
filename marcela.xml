@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-07-07T19:21:29.304Z</updated>
+    <updated>2026-07-08T07:47:05.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[URBAN PLOT FOR THE CONSTRUCTION IN IGREJA NOVA, ALJEZUR €180,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/urban-plot-for-the-construction-in-igreja-nova-aljezur-26007/</id>
+        <link href="https://marcela.pt/properties-to-buy/urban-plot-for-the-construction-in-igreja-nova-aljezur-26007/"/>
+        <updated>2026-07-08T07:43:26.554Z</updated>
+        <content type="html"><![CDATA[ URBAN PLOT FOR THE CONSTRUCTION IN IGREJA NOVA, ALJEZUR €180,000 254m2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHARMING 3-BEDROOM BUNGALOW IN CENTRAL LOCATION OF CARRAPATEIRA - ALJEZUR €550,000]]></title>
         <id>https://marcela.pt/properties-to-buy/charming-3-bedroom-bungalow-in-central-location-of-carrapateira-aljezur-24967/</id>
@@ -67,12 +74,5 @@
         <link href="https://marcela.pt/properties-to-buy/urbanised-building-plot-with-full-planning-permission-espartal-aljezur-24795/"/>
         <updated>2026-04-29T18:53:42.144Z</updated>
         <content type="html"><![CDATA[ URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR €255,000 270m2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW MODERN T3+1 APARTMENTS, ESPARTAL/ MONTE CLERIGO €570,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/new-modern-t3-1-apartments-espartal-monte-clerigo-24791/</id>
-        <link href="https://marcela.pt/properties-to-buy/new-modern-t3-1-apartments-espartal-monte-clerigo-24791/"/>
-        <updated>2026-06-20T08:29:51.594Z</updated>
-        <content type="html"><![CDATA[ NEW MODERN T3+1 APARTMENTS, ESPARTAL/ MONTE CLERIGO €570,000 3]]></content>
     </entry>
 </feed>
