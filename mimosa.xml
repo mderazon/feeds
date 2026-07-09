@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/en-gb/properties-mimosaproperties?loc=Aljezur&amp;dst=8&amp;mun=104&amp;bus=1</id>
     <title>Mimosa</title>
-    <updated>2026-07-09T08:59:39.405Z</updated>
+    <updated>2026-07-09T19:06:36.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/DevGear/Favicon/android-icon-192x192.png</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/contemporary-3-bedroom-villa-with-view-aljezur/26026254"/>
         <updated>2026-06-21T18:56:50.672Z</updated>
         <content type="html"><![CDATA[ Contemporary 3 Bedroom Villa with View, Aljezur Signed by the renowned architect Mário Martins, this distinguished villa stands out for its contemporary architecture, elegant lines and the way natu... 798 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beach House on the Vicentine Coast 100m from the Sea 315 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/beach-house-on-the-vicentine-coast-100m-from-the-sea/26234824</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/beach-house-on-the-vicentine-coast-100m-from-the-sea/26234824"/>
+        <updated>2026-07-09T19:02:54.835Z</updated>
+        <content type="html"><![CDATA[ Beach House on the Vicentine Coast 100m from the Sea Beach house to recover, located just 100 meters from Praia da Bordeira and 1 km from Praia do Amado, in one of the most valued and sought after areas... 315 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[37-hectare estate on the Costa Vicentina, Aljezur 2 000 000 €]]></title>
@@ -81,12 +88,5 @@
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-2-bedroom-apartment-with-sea-view-in-carrapateira/25770633"/>
         <updated>2026-06-21T18:56:50.685Z</updated>
         <content type="html"><![CDATA[ New 2 Bedroom Apartment with Sea View in Carrapateira We present this charming 2 bedroom flat, set in a contemporary residential building in the final stages of construction, located in the picturesque v... 384 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 2+1 Bedroom Duplex Villa with Sea View in Carrapateira 520 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-2-1-bedroom-duplex-villa-with-sea-view-in-carrapateira/25770632</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-2-1-bedroom-duplex-villa-with-sea-view-in-carrapateira/25770632"/>
-        <updated>2026-06-21T18:56:50.687Z</updated>
-        <content type="html"><![CDATA[ New 2+1 Bedroom Duplex Villa with Sea View in Carrapateira We present this charming 2+1 bedroom villa, set in a contemporary residential building in the final stages of construction, located in the picturesqu... 520 000 €]]></content>
     </entry>
 </feed>
