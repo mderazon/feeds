@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-07-08T18:55:30.415Z</updated>
+    <updated>2026-07-09T08:59:39.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://marcela.pt/properties-to-buy/urban-plot-for-the-construction-in-igreja-nova-aljezur-26007/"/>
         <updated>2026-07-08T07:43:26.554Z</updated>
         <content type="html"><![CDATA[ URBAN PLOT FOR THE CONSTRUCTION IN IGREJA NOVA, ALJEZUR €180,000 254m2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A CHARMING TERRACED HOUSE IN THE CENTRE OF ALJEZUR €300,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/a-charming-terraced-house-in-the-centre-of-aljezur-26000/</id>
+        <link href="https://marcela.pt/properties-to-buy/a-charming-terraced-house-in-the-centre-of-aljezur-26000/"/>
+        <updated>2026-07-09T08:54:41.530Z</updated>
+        <content type="html"><![CDATA[ A CHARMING TERRACED HOUSE IN THE CENTRE OF ALJEZUR €300,000 2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[CHARMING 3-BEDROOM BUNGALOW IN CENTRAL LOCATION OF CARRAPATEIRA - ALJEZUR €550,000]]></title>
@@ -67,12 +74,5 @@
         <link href="https://marcela.pt/properties-to-buy/modern-three-bedroom-villa-with-swimming-pool-fabulous-views-24848/"/>
         <updated>2026-04-29T18:53:42.140Z</updated>
         <content type="html"><![CDATA[ MODERN THREE BEDROOM VILLA WITH SWIMMING POOL & FABULOUS VIEWS €815,000 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR €255,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/urbanised-building-plot-with-full-planning-permission-espartal-aljezur-24795/</id>
-        <link href="https://marcela.pt/properties-to-buy/urbanised-building-plot-with-full-planning-permission-espartal-aljezur-24795/"/>
-        <updated>2026-04-29T18:53:42.144Z</updated>
-        <content type="html"><![CDATA[ URBANISED BUILDING PLOT WITH FULL PLANNING PERMISSION, ESPARTAL - ALJEZUR €255,000 270m2]]></content>
     </entry>
 </feed>
