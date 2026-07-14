@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-07-14T07:26:12.531Z</updated>
+    <updated>2026-07-14T18:37:16.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[120 000 € Terreno Urbano para Construção em Vale da Telha | Aljezur]]></title>
+        <id>https://www.century21.pt/comprar/C0240-03661</id>
+        <link href="https://www.century21.pt/comprar/C0240-03661"/>
+        <updated>2026-07-14T18:34:54.408Z</updated>
+        <content type="html"><![CDATA[ 120 000 € Terreno Urbano para Construção em Vale da Telha | Aljezur]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2 900 000 € Vivenda com propriedade em Bordeira]]></title>
         <id>https://www.century21.pt/comprar/C0556-00010</id>
@@ -128,7 +135,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-07-14T07:23:30.268Z</updated>
+        <updated>2026-07-14T18:34:54.390Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>
