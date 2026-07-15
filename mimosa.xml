@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/en-gb/properties-mimosaproperties?loc=Aljezur&amp;dst=8&amp;mun=104&amp;bus=1</id>
     <title>Mimosa</title>
-    <updated>2026-07-15T07:29:29.495Z</updated>
+    <updated>2026-07-15T18:38:12.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Urban Land of 890 m² in Vale da Telha, Aljezur 110 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/urban-land-of-890-m-in-vale-da-telha-aljezur/26251843</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/urban-land-of-890-m-in-vale-da-telha-aljezur/26251843"/>
+        <updated>2026-07-15T18:35:26.436Z</updated>
+        <content type="html"><![CDATA[ Urban Land of 890 m² in Vale da Telha, Aljezur We present this plot of urban land with 890 m², located in the prestigious urbanisation of Vale da Telha, one of the most sought after and valued are... 110 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Farm with 7 Bedrooms, Annex and Business License in Aljezur 850 000 €]]></title>
         <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/farm-with-7-bedrooms-annex-and-business-license-in-aljezur/26215408</id>
@@ -81,12 +88,5 @@
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-1-1-bedroom-flat-500m-from-carrapateira-beach/25770638"/>
         <updated>2026-07-12T18:14:18.901Z</updated>
         <content type="html"><![CDATA[ New 1+1 bedroom flat 500m from Carrapateira beach We present this charming 1+1 bedroom flat, set in a contemporary residential building in the final stages of construction, located in the picturesque... 384 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 2 Bedroom Apartment with Sea View in Carrapateira 384 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-2-bedroom-apartment-with-sea-view-in-carrapateira/25770633</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-2-bedroom-apartment-with-sea-view-in-carrapateira/25770633"/>
-        <updated>2026-07-12T18:14:18.902Z</updated>
-        <content type="html"><![CDATA[ New 2 Bedroom Apartment with Sea View in Carrapateira We present this charming 2 bedroom flat, set in a contemporary residential building in the final stages of construction, located in the picturesque v... 384 000 €]]></content>
     </entry>
 </feed>
