@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2026-07-23T07:57:48.430Z</updated>
+    <updated>2026-07-23T18:44:37.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Prime development land in Rogil 399 990 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/prime-development-land-in-rogil/19576870</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/prime-development-land-in-rogil/19576870"/>
+        <updated>2026-07-23T18:42:57.314Z</updated>
+        <content type="html"><![CDATA[ Prime development land in Rogil Don't miss out on an exceptional opportunity to secure a substantial parcel of land situated in the popular town center of Rogil.
+
+Positioned just moments away from Rogil's high street, the land bo... Ref. T-0108 3974 m² 399 990 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luxurious villa with ocean views located - West Coast 925 000 €]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/luxurious-villa-with-ocean-views-located-west-coast/25434218</id>
@@ -83,12 +92,5 @@ Situated in a secluded and peaceful area of the urbani... Ref. M-0242 3         
         <link href="https://www.cosmosportugal.com/en-gb/property/flexible-coastal-property-with-private-residence-and-independent-guest-accommodation/26097846"/>
         <updated>2026-07-22T18:39:01.820Z</updated>
         <content type="html"><![CDATA[ Flexible Coastal Property with Private Residence and Independent Guest Accommodation Located in a quiet cul-de-sac in Vale da Telha, this substantial property offers exceptional privacy, scale, and versatility. Surrounded by mature trees, landscaped gardens, lawned areas, and a large... Ref. M-0259 8                                                                                                                                                                                                                                                                                                                                                                        8                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                319 m² 1 460 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spacious Algarvian Villa with Pool, Terraces & Outbuilding 759 950 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765"/>
-        <updated>2026-07-22T18:39:01.822Z</updated>
-        <content type="html"><![CDATA[ Spacious Algarvian Villa with Pool, Terraces & Outbuilding This charming 4-bedroom, 2-bathroom villa sits on a unique oval-shaped designated green space, used almost exclusively by the surrounding residents, giving it a quiet and private setting. The home co... Ref. M-0237 4                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                 Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                200 m² 759 950 €]]></content>
     </entry>
 </feed>
