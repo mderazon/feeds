@@ -2,9 +2,7 @@
   "name": "feeds",
   "private": true,
   "dependencies": {
-    "feed-me-up-scotty": "1.10.0"
-  },
-  "overrides": {
+    "feed-me-up-scotty": "1.10.0",
     "playwright-firefox": "1.59.1"
   }
 }
