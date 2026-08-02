@@ -270,3 +270,18 @@ contentSelector = [
     "img[alt='Enterprise']",
     "a[href*='/en/Imovel/'] span.sr-only",
 ]
+
+[casasapo]
+title = "CASA SAPO Aljezur"
+url = "https://casa.sapo.pt/en-gb/houses/aljezur/"
+entrySelector = "div.property"
+waitUntil = "domcontentloaded"
+titleSelector = [".property-type", ".property-location"]
+linkSelector = "a.property-info[href]"
+contentSelector = [
+    ".property-media img",
+    ".property-type",
+    ".property-location",
+    ".property-features-text",
+    ".property-price-value",
+]
