@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.algarvhome.pt/venda/venda/faro-dst/aljezur?srt=1</id>
+    <id>https://www.algarvhome.pt/imoveis?loc=Aljezur&amp;dst=8&amp;mun=104</id>
     <title>AlgarvHome</title>
-    <updated>2026-08-02T07:45:57.274Z</updated>
+    <updated>2026-08-02T10:37:16.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.algarvhome.pt/venda/venda/faro-dst/favicon.ico</icon>
+    <icon>https://www.algarvhome.pt/favicon.ico</icon>
 </feed>
