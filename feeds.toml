@@ -175,20 +175,6 @@ contentSelector = [
     ".card-icon-container",
 ]
 
-[portugal_best_invest]
-title = "Portugal Best Invest"
-url = "https://www.portugal-best-invest.net/imoveis?loc=Aljezur&dst=8&mun=104"
-entrySelector = ".propertyItem[data-type='PropertyListItem']"
-waitUntil = "networkidle"
-titleSelector = [".propertyTitle", ".propertyPrice"]
-linkSelector = ".propertyItemWrap.propertyItemInner[href]"
-contentSelector = [
-    ".imgWrapper img",
-    ".propertyTitle",
-    ".propertyDescription",
-    ".propertyPrice",
-]
-
 [livealgarve]
 title = "Live Algarve"
 url = "https://livealgarve.com/properties/aljezur"
@@ -232,7 +218,7 @@ contentSelector = [
 
 [algarvhome]
 title = "AlgarvHome"
-url = "https://www.algarvhome.pt/venda/venda/faro-dst/aljezur?srt=1"
+url = "https://www.algarvhome.pt/imoveis?loc=Aljezur&dst=8&mun=104"
 entrySelector = ".propertyItem[data-type='PropertyListItem']"
 waitUntil = "networkidle"
 titleSelector = [".propertyTitle", ".propertyPrice"]
@@ -266,7 +252,7 @@ entrySelector = "a.propertyItemStyle4"
 waitUntil = "domcontentloaded"
 waitForSelector = "a.propertyItemStyle4"
 titleSelector = ["h5.title", "h5.price"]
-linkSelector = "a.propertyItemStyle4[href]"
+linkSelector = "*"
 contentSelector = [
     ".propertyItemStyle4__img",
     "h5.title",
