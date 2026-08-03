@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oando.pt/properties/?location%5B%5D=aljezur&amp;bedrooms=&amp;bathrooms=&amp;min-area=&amp;max-area=&amp;min-price=&amp;max-price=&amp;property_id=</id>
     <title>Oando</title>
-    <updated>2026-08-03T08:47:53.591Z</updated>
+    <updated>2026-08-03T19:03:14.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://oando.pt/wp-content/uploads/2024/08/cropped-logopurple-e1767697824184-32x32.png</icon>
     <entry>
         <title type="html"><![CDATA[Stunning Commercial Property – Aljezur 899,000€]]></title>
-        <id>https://oando.pt/property/stunning-commercial-property-aljezur/</id>
-        <link href="https://oando.pt/property/stunning-commercial-property-aljezur/"/>
-        <updated>2026-04-19T13:43:19.892Z</updated>
+        <id>https://oando.pt/property/stunning-commercial-property-aljezur-2/</id>
+        <link href="https://oando.pt/property/stunning-commercial-property-aljezur-2/"/>
+        <updated>2026-08-03T19:01:10.005Z</updated>
         <content type="html"><![CDATA[ Stunning Commercial Property – Aljezur 899,000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUPERB INVESTMENT OPPORTUNITY algarve 1,460,000€]]></title>
+        <id>https://oando.pt/property/superb-investment-opportunity-algarve-2/</id>
+        <link href="https://oando.pt/property/superb-investment-opportunity-algarve-2/"/>
+        <updated>2026-08-03T19:01:10.005Z</updated>
+        <content type="html"><![CDATA[ SUPERB INVESTMENT OPPORTUNITY algarve 1,460,000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SPACIOUS  3 BEDROOM VILLA WITH POOL AND ANNEX POA]]></title>
@@ -74,12 +81,5 @@
         <link href="https://oando.pt/property/superb-new-two-bedroom-apartments-espartal-aljezur/"/>
         <updated>2026-07-16T18:38:04.112Z</updated>
         <content type="html"><![CDATA[ SUPERB, NEW, TWO BEDROOM APARTMENTS ESPARTAL, ALJEZUR POA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUPERB INVESTMENT OPPORTUNITY algarve 1,460,000€]]></title>
-        <id>https://oando.pt/property/superb-investment-opportunity-algarve/</id>
-        <link href="https://oando.pt/property/superb-investment-opportunity-algarve/"/>
-        <updated>2026-07-23T18:42:32.346Z</updated>
-        <content type="html"><![CDATA[ SUPERB INVESTMENT OPPORTUNITY algarve 1,460,000€]]></content>
     </entry>
 </feed>
