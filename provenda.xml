@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties-county-aljezur/</id>
     <title>Provenda</title>
-    <updated>2026-08-06T08:01:14.110Z</updated>
+    <updated>2026-08-07T06:42:34.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties-county-aljezur/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 270.000 House 1+1 bedrooms Tramelo Bordeira Aljezur - excellent location]]></title>
+        <id>https://www.provenda.net/en/house-1+1-bedrooms-tramelo-bordeira-aljezur-excellent-location+1000020441.html</id>
+        <link href="https://www.provenda.net/en/house-1+1-bedrooms-tramelo-bordeira-aljezur-excellent-location+1000020441.html"/>
+        <updated>2026-08-07T06:40:05.658Z</updated>
+        <content type="html"><![CDATA[ SaleThe property comprises a house and outdoor area, with an approved plan for the completion of a house consisting of an open-plan living area with a kitchenette, a sitting room, a bathroom, a bedroom and a mezzanine. Situated in a peaceful area, this property enjoys an excellent location, just a few minutes from some of the most beautiful beaches on the Costa Vicentina, offering the perfect balance between the tranquillity of the countryside and proximity to the sea. An excellent opportunity for a permanent home, holiday home or investment. Translated with DeepL. com (free version)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 299.000 Building Commercial 3+1 bedrooms Aljezur - terrace, privileged location]]></title>
         <id>https://www.provenda.net/en/building-commercial-3+1-bedrooms-aljezur-terrace-privileged-location+1000020412.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html"/>
         <updated>2026-04-19T13:43:00.738Z</updated>
         <content type="html"><![CDATA[ SaleLocated in a beautiful area with easy access, approximately 8 km from Aljezur, this property is ideal for a nature retreat. It has prior approval for the construction of a resort-style hotel with dispersed units, comprising: 20 buildings, of which 15 are accommodation units/houses with a total area of ​​675sqm (45sqm/unit); 3 buildings for staff accommodation with a total area of ​​120sqm; 1 building for common areas and services with 400sqm; 1 building for laundry, technical area and storage with 150sqm. The project also includes a biological swimming pool, solar park and parking. Areas can be adjusted according to a new plan. The property has a wide variety of trees. Water is supplied via the public network and a borehole, and electricity and telecommunications are located close to the property. It is approximately 15 minutes from the beaches of Vale dos Homens and Amoreira, a 40-minute drive from Palmares Golf Course and approximately 90 minutes by car from Faro Airport.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 400.000 House Old to recover 2 bedrooms Aldeia Nova Aljezur]]></title>
-        <id>https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html</id>
-        <link href="https://www.provenda.net/en/house-old-to-recover-2-bedrooms-aldeia-nova-aljezur+1000019480.html"/>
-        <updated>2026-04-22T18:39:37.840Z</updated>
-        <content type="html"><![CDATA[ SaleProperty with an old house with 2 outbuildings, to be restored, located in a quiet, green area, easily accessible, close to the urban area of ​​Aljezur (about 800 m). In addition to the wonderful surrounding landscape, panoramic views over the floodplain, hillside and Aljezur Castle, this property offers the opportunity to develop the most varied practices - agricultural, horticultural, gardening. A special place to idealize and realize your dream on the Costa Vicentina.]]></content>
     </entry>
 </feed>
