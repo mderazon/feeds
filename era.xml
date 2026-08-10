@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;ord=3&amp;ir=1&amp;nr=0&amp;dt=08&amp;co=08-03-00-0&amp;page=1</id>
     <title>ERA Aljezur</title>
-    <updated>2026-08-10T06:50:59.177Z</updated>
+    <updated>2026-08-10T18:13:10.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[320.000 € House]]></title>
+        <id>https://www.era.pt/en/property/house-t4-aljezur-odeceixe-184260059</id>
+        <link href="https://www.era.pt/en/property/house-t4-aljezur-odeceixe-184260059"/>
+        <updated>2026-08-10T18:11:03.576Z</updated>
+        <content type="html"><![CDATA[House T4 Aljezur, Odeceixe - 1555393 - 1 House Odeceixe, Aljezur 320.000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[675.000 € House]]></title>
         <id>https://www.era.pt/en/property/house-t2-swimming-pool-aljezur-espartal-411260025</id>
@@ -102,12 +109,5 @@
         <link href="https://www.era.pt/en/property/house-t2-aljezur-centro-historico-411250036"/>
         <updated>2026-07-18T18:13:54.744Z</updated>
         <content type="html"><![CDATA[House T2 Aljezur, Aldeia Antiga (Castelo) - 1501322 - 9 House Centro Histórico, Aljezur Upon Request]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[950.000 € Detached House]]></title>
-        <id>https://www.era.pt/en/property/detached-house-t4-swimming-pool-aljezur-espartal-411250031</id>
-        <link href="https://www.era.pt/en/property/detached-house-t4-swimming-pool-aljezur-espartal-411250031"/>
-        <updated>2026-06-05T08:54:44.665Z</updated>
-        <content type="html"><![CDATA[Detached House T3 Aljezur, Espartal - 1495626 - 4 Detached House Espartal, Aljezur 950.000 €]]></content>
     </entry>
 </feed>
