@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-08-14T06:54:24.352Z</updated>
+    <updated>2026-08-14T18:14:52.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
     <entry>
@@ -111,17 +111,10 @@
         <content type="html"><![CDATA[ 188 000 € Terreno com grande potential, perto do Mar, 56750 m2, Aljezur]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13 900 000 € Herdade com 700 hectares para venda!]]></title>
-        <id>https://www.century21.pt/comprar/C0506-00113</id>
-        <link href="https://www.century21.pt/comprar/C0506-00113"/>
-        <updated>2026-04-19T13:42:53.494Z</updated>
-        <content type="html"><![CDATA[ 13 900 000 € Herdade com 700 hectares para venda!]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-08-14T06:50:38.182Z</updated>
+        <updated>2026-08-14T18:12:19.532Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>
