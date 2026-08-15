@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-08-14T18:14:52.629Z</updated>
+    <updated>2026-08-15T05:50:59.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Terreno rústico no Parque Natural € 50 000]]></title>
+        <id>https://sw-places.com/property/terreno-rustico-no-parque-natural/187868</id>
+        <link href="https://sw-places.com/property/terreno-rustico-no-parque-natural/187868"/>
+        <updated>2026-08-15T05:48:18.744Z</updated>
+        <content type="html"><![CDATA[   € 50 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dois predios pelo preço de um € 70 000]]></title>
+        <id>https://sw-places.com/property/dois-predios-pelo-preco-de-um/187862</id>
+        <link href="https://sw-places.com/property/dois-predios-pelo-preco-de-um/187862"/>
+        <updated>2026-08-15T05:48:18.746Z</updated>
+        <content type="html"><![CDATA[   € 70 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Quintinha perto do mar- Valor Negociável ! € 980 000]]></title>
         <id>https://sw-places.com/property/quintinha-perto-do-mar-valor-negociavel/184501</id>
@@ -46,19 +60,5 @@
         <link href="https://sw-places.com/property/moradia-t3-rogil/154616"/>
         <updated>2026-05-30T12:12:54.106Z</updated>
         <content type="html"><![CDATA[  3111 € 400 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edificio São Sebastião Aljezur € 950 000]]></title>
-        <id>https://sw-places.com/property/edificio-sao-sebastiao-aljezur/150466</id>
-        <link href="https://sw-places.com/property/edificio-sao-sebastiao-aljezur/150466"/>
-        <updated>2026-06-22T20:19:43.368Z</updated>
-        <content type="html"><![CDATA[  233 € 950 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quinta T3 com 1,8 ha a 15 min da Praia em Zona Tranquila € 840 000]]></title>
-        <id>https://sw-places.com/property/quinta-t3-com-1-8-ha-a-15-min-da-praia-em-zona-tranquila/150055</id>
-        <link href="https://sw-places.com/property/quinta-t3-com-1-8-ha-a-15-min-da-praia-em-zona-tranquila/150055"/>
-        <updated>2026-05-02T14:45:02.645Z</updated>
-        <content type="html"><![CDATA[  1314 € 840 000]]></content>
     </entry>
 </feed>
