@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lusoland.pt/en/property-for-sale/?search=search&amp;textTowns=&amp;zonas=&amp;host_dominio=https%3A%2F%2Flusoland.pt&amp;empresa=lusoland.pt&amp;town%5B%5D=Aljezur&amp;price-min=&amp;price-max=&amp;ref=&amp;habs-min=0&amp;habs-max=20&amp;baths-min=0&amp;baths-max=20&amp;m_cons-min=&amp;m_cons-max=</id>
     <title>Lusoland</title>
-    <updated>2026-08-17T17:54:12.781Z</updated>
+    <updated>2026-08-18T05:54:55.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://lusoland.pt/wp-content/uploads/2024/02/cropped-favicon-lusoland-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Villa 597.000€]]></title>
+        <id>https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/</id>
+        <link href="https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/"/>
+        <updated>2026-08-15T05:49:50.543Z</updated>
+        <content type="html"><![CDATA[ Villa Aljezur 597.000€]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terraced Houses 495.000€]]></title>
         <id>https://lusoland.pt/en/property/terraced-houses-aljezur-refu00045-26-849205/</id>
@@ -39,13 +46,6 @@
         <link href="https://lusoland.pt/en/property/apartment-aljezur-refu0003325-743860/"/>
         <updated>2026-08-15T05:49:50.541Z</updated>
         <content type="html"><![CDATA[ Apartment Aljezur 405.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villa 597.000€]]></title>
-        <id>https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/</id>
-        <link href="https://lusoland.pt/en/property/villa-aljezur-vale-da-telha-refu00022-24-494759/"/>
-        <updated>2026-08-15T05:49:50.543Z</updated>
-        <content type="html"><![CDATA[ Villa Aljezur 597.000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Farmhouse 399.000€]]></title>
