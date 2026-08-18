@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-08-18T05:54:55.612Z</updated>
+    <updated>2026-08-18T17:58:27.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://sw-places.com/property/quintinha-perto-do-mar-valor-negociavel/184501"/>
         <updated>2026-07-29T18:30:46.191Z</updated>
         <content type="html"><![CDATA[  3312 € 980 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exclusiva Quinta junto ao paraíso do surf na Carrapateira € 2 100 000]]></title>
+        <id>https://sw-places.com/property/exclusiva-quinta-junto-ao-paraiso-do-surf-na-carrapateira/169166</id>
+        <link href="https://sw-places.com/property/exclusiva-quinta-junto-ao-paraiso-do-surf-na-carrapateira/169166"/>
+        <updated>2026-08-18T17:56:33.390Z</updated>
+        <content type="html"><![CDATA[  6323 € 2 100 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moradia T2+1 Renovada  Vale da Telha € 560 000]]></title>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/moradia-t3-perto-da-arrifana/167945"/>
         <updated>2026-06-19T19:13:06.993Z</updated>
         <content type="html"><![CDATA[  1313 € 890 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moradia T3 Rogil € 400 000]]></title>
-        <id>https://sw-places.com/property/moradia-t3-rogil/154616</id>
-        <link href="https://sw-places.com/property/moradia-t3-rogil/154616"/>
-        <updated>2026-05-30T12:12:54.106Z</updated>
-        <content type="html"><![CDATA[  3111 € 400 000]]></content>
     </entry>
 </feed>
