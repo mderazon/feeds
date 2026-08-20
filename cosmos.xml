@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2026-08-20T05:55:37.168Z</updated>
+    <updated>2026-08-20T17:56:41.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Serene Rustic Retreat in Aljezur 65 000 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/serene-rustic-retreat-in-aljezur/21652027</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/serene-rustic-retreat-in-aljezur/21652027"/>
+        <updated>2026-08-20T17:54:34.813Z</updated>
+        <content type="html"><![CDATA[ Serene Rustic Retreat in Aljezur Nestled in the serene countryside of Aljezur, this rustic land offers an opportunity to own a peaceful retreat surrounded by nature. Accessed via a charming stream crossing, the land has been lovingl... Ref. T-0221 3750 m² 65 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6 Bed Villa with Pool, Including a Separate 2 Bed Living Area 700 000 €]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/6-bed-villa-with-pool-including-a-separate-2-bed-living-area/26438048</id>
@@ -87,12 +94,5 @@ Situated in a secluded and peaceful area of the urbani... Ref. M-0242 3         
         <link href="https://www.cosmosportugal.com/en-gb/property/2-bed-2-bath-villa-in-vale-da-telha/25498012"/>
         <updated>2026-08-20T05:53:46.430Z</updated>
         <content type="html"><![CDATA[ 2 bed 2 bath villa in Vale da Telha Set on a generous 950 m² plot in the popular Vale da Telha community, this single-storey house offers a mature garden and a convenient location close to the mini-market and local cafés. Centrally pos... Ref. M-0241 2                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                96 m² 480 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Historic freehold building Aljezur 299 000 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/historic-freehold-building-aljezur/26179768</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/historic-freehold-building-aljezur/26179768"/>
-        <updated>2026-08-20T05:53:46.432Z</updated>
-        <content type="html"><![CDATA[ Historic freehold building Aljezur Set in the vibrant heart of Aljezur on the main road, this historic freehold building, once the town's first guesthouse, exudes charm and character. Registered as a residential building, the property... Ref. M-0300 108 m² 299 000 €]]></content>
     </entry>
 </feed>
