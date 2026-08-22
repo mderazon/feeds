@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.algarvhome.pt/imoveis?loc=Aljezur&amp;dst=8&amp;mun=104</id>
     <title>AlgarvHome</title>
-    <updated>2026-08-22T05:53:13.747Z</updated>
+    <updated>2026-08-22T17:45:37.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.algarvhome.pt/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Moradia Duplex T3 + 1 450 000 €]]></title>
+        <id>https://www.algarvhome.pt/imovel/moradia-duplex-t3-1/25707544</id>
+        <link href="https://www.algarvhome.pt/imovel/moradia-duplex-t3-1/25707544"/>
+        <updated>2026-08-22T05:52:48.546Z</updated>
+        <content type="html"><![CDATA[ Moradia Duplex T3 + 1 Moradia Duplex em banda, com 140m2 em 2 pisos, sala e cozinha em Open Space, com 3 quartos+1, sendo um dos quartos em suite,. A moradia tem ainda mai... 450 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terreno com 1.577 m² e Ruína para Recuperação | Excelente Localização | Rogil, Aljezur - Costa Vicentina 330 000 €]]></title>
         <id>https://www.algarvhome.pt/imovel/terreno-com-1577-m-e-ruina-para-recuperacao-excelente-localizacao-rogil-aljezur-costa-vicentina/26346071</id>
@@ -109,13 +116,6 @@ Este terreno situado numa zona muito calma e com excelente exposição so... 69�
         <link href="https://www.algarvhome.pt/imovel/quintinha-com-vista-mar-na-costa-vicentina/26239638"/>
         <updated>2026-08-22T05:52:48.545Z</updated>
         <content type="html"><![CDATA[ Quintinha com vista mar na Costa Vicentina Com vista para o mar, descubra esta magnífica quintinha situada junto à Praia de Vale dos Homens, na freguesia do Rogil, inserida num cenário de natu... 325 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moradia Duplex T3 + 1 450 000 €]]></title>
-        <id>https://www.algarvhome.pt/imovel/moradia-duplex-t3-1/25707544</id>
-        <link href="https://www.algarvhome.pt/imovel/moradia-duplex-t3-1/25707544"/>
-        <updated>2026-08-22T05:52:48.546Z</updated>
-        <content type="html"><![CDATA[ Moradia Duplex T3 + 1 Moradia Duplex em banda, com 140m2 em 2 pisos, sala e cozinha em Open Space, com 3 quartos+1, sendo um dos quartos em suite,. A moradia tem ainda mai... 450 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terreno Rústico com água situado no Rogil - Costa Vicentina 135 000 €]]></title>
