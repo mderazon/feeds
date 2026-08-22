@@ -2,7 +2,186 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://casa.sapo.pt/en-gb/houses/aljezur/</id>
     <title>CASA SAPO Aljezur</title>
-    <updated>2026-08-21T17:57:24.584Z</updated>
+    <updated>2026-08-22T05:53:13.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://casa.sapo.pt/en-gb/houses/aljezur/favicon.ico</icon>
+    <icon>https://casa.sapo.pt/Images/Logos/icon-casasapo-512x512.png</icon>
+    <entry>
+        <title type="html"><![CDATA[House 2 Bedrooms Bordeira, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-bordeira-6d00e637-5bec-11f1-ba38-060000000058.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-bordeira-6d00e637-5bec-11f1-ba38-060000000058.html"/>
+        <updated>2026-08-22T05:53:12.905Z</updated>
+        <content type="html"><![CDATA[ House 2 Bedrooms Bordeira, Aljezur, Distrito de Faro Used  ·  94m² 420.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 1 Bedroom Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-ab02bd14-a133-4537-9f0e-79fe51cdced5.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-ab02bd14-a133-4537-9f0e-79fe51cdced5.html"/>
+        <updated>2026-08-22T05:53:12.905Z</updated>
+        <content type="html"><![CDATA[ House 1 Bedroom Aljezur, Distrito de Faro Used  ·  40m² 91.500 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 4 Bedrooms Triplex Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-b97561dd-e955-11ef-9e61-060000000056.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-b97561dd-e955-11ef-9e61-060000000056.html"/>
+        <updated>2026-08-22T05:53:12.905Z</updated>
+        <content type="html"><![CDATA[ House 4 Bedrooms Triplex Aljezur, Distrito de Faro New  ·  197m² 950.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 2 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-c7896759-c04a-4574-8f6d-7598a0272480.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-c7896759-c04a-4574-8f6d-7598a0272480.html"/>
+        <updated>2026-08-22T05:53:12.906Z</updated>
+        <content type="html"><![CDATA[ House 2 Bedrooms Aljezur, Distrito de Faro Used  ·  40m² 91.500 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 1 Bedroom Centro, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-centro-38c696fb-f4bf-11ed-adb9-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-centro-38c696fb-f4bf-11ed-adb9-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.910Z</updated>
+        <content type="html"><![CDATA[ House 1 Bedroom Centro, Aljezur, Distrito de Faro Used  ·  67m² 285.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-494843f8-7db4-11f1-90a1-060000000056.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-494843f8-7db4-11f1-90a1-060000000056.html"/>
+        <updated>2026-08-22T05:53:12.910Z</updated>
+        <content type="html"><![CDATA[ House 3 Bedrooms Aljezur, Distrito de Faro Used  ·  108m² 550.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms Odeceixe, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-odeceixe-0e90831a-34d3-11f1-9aaf-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-odeceixe-0e90831a-34d3-11f1-9aaf-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.910Z</updated>
+        <content type="html"><![CDATA[ House 3 Bedrooms Odeceixe, Aljezur, Distrito de Faro Used  ·  200m² 380.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Country house 4 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-country-house-4-bedrooms-aljezur-fbd797b6-8fbc-11ef-9e0e-060000000057.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-country-house-4-bedrooms-aljezur-fbd797b6-8fbc-11ef-9e0e-060000000057.html"/>
+        <updated>2026-08-22T05:53:12.911Z</updated>
+        <content type="html"><![CDATA[ Country house 4 Bedrooms Aljezur, Distrito de Faro Used  ·  310m² 1.450.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Town House 1 Bedroom Rogil, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-town-house-1-bedroom-aljezur-rogil-5a556439-c9d1-11ef-9e0e-060000000057.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-town-house-1-bedroom-aljezur-rogil-5a556439-c9d1-11ef-9e0e-060000000057.html"/>
+        <updated>2026-08-22T05:53:12.917Z</updated>
+        <content type="html"><![CDATA[ Town House 1 Bedroom Rogil, Aljezur, Distrito de Faro Used  ·  110m² 255.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 4 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-ed7c886a-e914-11ef-9e61-060000000056.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-ed7c886a-e914-11ef-9e61-060000000056.html"/>
+        <updated>2026-08-22T05:53:12.918Z</updated>
+        <content type="html"><![CDATA[ House 4 Bedrooms Aljezur, Distrito de Faro Used  ·  197m² 950.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms Vale da Telha, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-vale-da-telha-9bca334f-2988-11ef-8add-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-vale-da-telha-9bca334f-2988-11ef-8add-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.918Z</updated>
+        <content type="html"><![CDATA[ House 3 Bedrooms Vale da Telha, Aljezur, Distrito de Faro Used  ·  161m² 597.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms Vale da Telha, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-vale-da-telha-8da0dab5-6be2-11f1-9aaf-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-vale-da-telha-8da0dab5-6be2-11f1-9aaf-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.935Z</updated>
+        <content type="html"><![CDATA[ House 3 Bedrooms Vale da Telha, Aljezur, Distrito de Faro Used  ·  325m² 890.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 4 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-9ddef955-229b-11f1-af0f-060000000056.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-9ddef955-229b-11f1-af0f-060000000056.html"/>
+        <updated>2026-08-22T05:53:12.936Z</updated>
+        <content type="html"><![CDATA[ House 4 Bedrooms Aljezur, Distrito de Faro Used  ·  62m² 265.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-0f83ad46-41f3-11f0-8add-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-0f83ad46-41f3-11f0-8add-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.938Z</updated>
+        <content type="html"><![CDATA[ House 3 Bedrooms Aljezur, Distrito de Faro Used  ·  77m² 550.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 2 Bedrooms Odeceixe, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-odeceixe-93c185b6-162f-11f1-8add-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-odeceixe-93c185b6-162f-11f1-8add-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.939Z</updated>
+        <content type="html"><![CDATA[ House 2 Bedrooms Odeceixe, Aljezur, Distrito de Faro Used  ·  57m² 300.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 2 Bedrooms Centro, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-centro-4788c4ac-f091-11f0-8add-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-centro-4788c4ac-f091-11f0-8add-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.940Z</updated>
+        <content type="html"><![CDATA[ House 2 Bedrooms Centro, Aljezur, Distrito de Faro Used  ·  66m² 575.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 1 Bedroom Odeceixe, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-odeceixe-cf5a9754-8d8d-11f1-9aaf-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-odeceixe-cf5a9754-8d8d-11f1-9aaf-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.941Z</updated>
+        <content type="html"><![CDATA[ House 1 Bedroom Odeceixe, Aljezur, Distrito de Faro Used  ·  34m² 165.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detached House 4 Bedrooms Rogil, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-detached-house-4-bedrooms-aljezur-rogil-683b7a88-714c-11f1-bc59-060000000052.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-detached-house-4-bedrooms-aljezur-rogil-683b7a88-714c-11f1-bc59-060000000052.html"/>
+        <updated>2026-08-22T05:53:12.942Z</updated>
+        <content type="html"><![CDATA[ Detached House 4 Bedrooms Rogil, Aljezur, Distrito de Faro Used  ·  200m² 699.000 €
+                                    
+                                        750.000 €
+                                        
+                                        -6.8%]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms Rogil, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-rogil-9eb233c1-5a89-11f1-9aaf-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-rogil-9eb233c1-5a89-11f1-9aaf-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.944Z</updated>
+        <content type="html"><![CDATA[ House 3 Bedrooms Rogil, Aljezur, Distrito de Faro Used  ·  125m² 400.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 4 Bedrooms Carrapateira, Bordeira, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-bordeira-carrapateira-758931c0-1b9b-11f0-8add-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-4-bedrooms-aljezur-bordeira-carrapateira-758931c0-1b9b-11f0-8add-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.945Z</updated>
+        <content type="html"><![CDATA[ House 4 Bedrooms Carrapateira, Bordeira, Aljezur, Distrito de Faro Used  ·  123m² 600.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 2 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-ea411cb7-43b9-11f1-9a8d-060000000057.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-ea411cb7-43b9-11f1-9a8d-060000000057.html"/>
+        <updated>2026-08-22T05:53:12.946Z</updated>
+        <content type="html"><![CDATA[ House 2 Bedrooms Aljezur, Distrito de Faro For refurbishment  ·  66m² 250.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 3 Bedrooms Duplex Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-f6cf8457-6c0e-11ee-a521-060000000056.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-3-bedrooms-aljezur-f6cf8457-6c0e-11ee-a521-060000000056.html"/>
+        <updated>2026-08-22T05:53:12.947Z</updated>
+        <content type="html"><![CDATA[ House 3 Bedrooms Duplex Aljezur, Distrito de Faro Used  ·  163m² 1.400.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 9 Bedrooms Bordeira, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-6-or-more-bedrooms-aljezur-bordeira-0338f13a-f438-11f0-b3d3-060000000057.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-6-or-more-bedrooms-aljezur-bordeira-0338f13a-f438-11f0-b3d3-060000000057.html"/>
+        <updated>2026-08-22T05:53:12.952Z</updated>
+        <content type="html"><![CDATA[ House 9 Bedrooms Bordeira, Aljezur, Distrito de Faro Used  ·  149m² 2.500.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 1 Bedroom Centro, Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-centro-daf14bff-2744-11f0-8add-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-1-bedroom-aljezur-centro-daf14bff-2744-11f0-8add-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.955Z</updated>
+        <content type="html"><![CDATA[ House 1 Bedroom Centro, Aljezur, Distrito de Faro Used  ·  42m² 195.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House 2 Bedrooms Aljezur, Distrito de Faro]]></title>
+        <id>https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-894c9db1-4a1d-11f1-9aaf-060000000054.html</id>
+        <link href="https://casa.sapo.pt/en-gb/buy-house-2-bedrooms-aljezur-894c9db1-4a1d-11f1-9aaf-060000000054.html"/>
+        <updated>2026-08-22T05:53:12.957Z</updated>
+        <content type="html"><![CDATA[ House 2 Bedrooms Aljezur, Distrito de Faro Used  ·  106m² 590.000 €]]></content>
+    </entry>
 </feed>
