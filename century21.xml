@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
     <title>Century 21</title>
-    <updated>2026-08-31T11:47:10.317Z</updated>
+    <updated>2026-08-31T22:00:46.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.century21.pt/favicon.svg</icon>
     <entry>
@@ -41,11 +41,11 @@
         <content type="html"><![CDATA[ 600 000 € Terreno à venda em Bordeira, Aljezur - 56500m² com potencial]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[290 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></title>
+        <title type="html"><![CDATA[249 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></title>
         <id>https://www.century21.pt/comprar/C0483-01657</id>
         <link href="https://www.century21.pt/comprar/C0483-01657"/>
         <updated>2026-07-25T07:30:40.455Z</updated>
-        <content type="html"><![CDATA[ 290 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></content>
+        <content type="html"><![CDATA[ 249 000 € Encantador Terreno em Aljezur, Faro com Vista Mar]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[389 500 € Moradia T2 localizada na Costa Vicentina, Bordeira, Aljezur - Perto da Praia]]></title>
@@ -107,7 +107,7 @@
         <title type="html"><![CDATA[115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></title>
         <id>https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell</id>
         <link href="https://www.century21.pt/comprar?addresses=0803&amp;address_names=Aljezur&amp;ad_type=sell"/>
-        <updated>2026-08-31T11:43:05.805Z</updated>
+        <updated>2026-08-31T21:57:46.388Z</updated>
         <content type="html"><![CDATA[ 115 000 € Terreno Urbano -1170 M2 -  Construção - Vale da Telha-Aljezur -Algarve]]></content>
     </entry>
 </feed>
