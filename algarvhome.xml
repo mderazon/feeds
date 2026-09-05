@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.algarvhome.pt/imoveis?loc=Aljezur&amp;dst=8&amp;mun=104</id>
     <title>AlgarvHome</title>
-    <updated>2026-09-04T19:46:46.446Z</updated>
+    <updated>2026-09-05T09:14:11.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.algarvhome.pt/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Terreno agrícola para Turismo 330 000 €]]></title>
+        <id>https://www.algarvhome.pt/imovel/terreno-agricola-para-turismo/22830153</id>
+        <link href="https://www.algarvhome.pt/imovel/terreno-agricola-para-turismo/22830153"/>
+        <updated>2026-09-01T20:03:08.751Z</updated>
+        <content type="html"><![CDATA[ Terreno agrícola para Turismo Terreno com 6,3 hectares com capacidade de construção de moradia até 300 m2 ou até 2.000 m2 para Turismo Rural, caso desenvolva actividade agrícola n... 330 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apartamento T2 | Rogil | Zona Tranquila | Excelente Oportunidade 290 000 €]]></title>
         <id>https://www.algarvhome.pt/imovel/apartamento-t2-rogil-zona-tranquila-excelente-oportunidade/25372787</id>
@@ -39,13 +46,6 @@ Procura tranquilidade, contacto com a natureza e um espaço perfeito para um pro
         <link href="https://www.algarvhome.pt/imovel/quintinha-com-vista-mar-na-costa-vicentina/26239638"/>
         <updated>2026-09-01T20:03:08.749Z</updated>
         <content type="html"><![CDATA[ Quintinha com vista mar na Costa Vicentina Com vista para o mar, descubra esta magnífica quintinha situada junto à Praia de Vale dos Homens, na freguesia do Rogil, inserida num cenário de natu... 325 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terreno agrícola para Turismo 390 000 €]]></title>
-        <id>https://www.algarvhome.pt/imovel/terreno-agricola-para-turismo/22830153</id>
-        <link href="https://www.algarvhome.pt/imovel/terreno-agricola-para-turismo/22830153"/>
-        <updated>2026-09-01T20:03:08.751Z</updated>
-        <content type="html"><![CDATA[ Terreno agrícola para Turismo Terreno com 6,3 hectares com capacidade de construção de moradia até 300 m2 ou até 2.000 m2 para Turismo Rural, caso desenvolva actividade agrícola n... 390 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Terreno Rústico no Carrascalinho 69 000 €]]></title>
