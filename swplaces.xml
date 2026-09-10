@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-09-10T09:56:50.189Z</updated>
+    <updated>2026-09-10T19:56:15.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
+    <entry>
+        <title type="html"><![CDATA[23 hectares de natureza pura em Carrascalinho, com 2 ruínas € 800 000]]></title>
+        <id>https://sw-places.com/property/23-hectares-de-natureza-pura-em-carrascalinho-com-2-ruinas/189166</id>
+        <link href="https://sw-places.com/property/23-hectares-de-natureza-pura-em-carrascalinho-com-2-ruinas/189166"/>
+        <updated>2026-09-10T19:54:08.192Z</updated>
+        <content type="html"><![CDATA[   € 800 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Espaço Comercial na Rua 25 de Abril | Centro de Aljezur € 365 000]]></title>
         <id>https://sw-places.com/property/espaco-comercial-na-rua-25-de-abril-centro-de-aljezur/188258</id>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/moradia-t2-1-renovada-vale-da-telha/168748"/>
         <updated>2026-07-01T19:16:27.057Z</updated>
         <content type="html"><![CDATA[  2131 € 560 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Refúgio Natural no Interior de Aljezur: Propriedade com 19 Hectares e Ruínas € 398 000]]></title>
-        <id>https://sw-places.com/property/refugio-natural-no-interior-de-aljezur-propriedade-com-19-hectares-e-ruinas/168168</id>
-        <link href="https://sw-places.com/property/refugio-natural-no-interior-de-aljezur-propriedade-com-19-hectares-e-ruinas/168168"/>
-        <updated>2026-07-03T08:32:50.824Z</updated>
-        <content type="html"><![CDATA[   € 398 000]]></content>
     </entry>
 </feed>
