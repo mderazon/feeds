@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-09-11T19:56:25.440Z</updated>
+    <updated>2026-09-12T09:31:13.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[SEMI-DETACHED HOUSE TO RENOVATE, CARRASCALINHO - ALJEZUR €259,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/semi-detached-house-to-renovate-carrascalinho-aljezur-26040/</id>
+        <link href="https://marcela.pt/properties-to-buy/semi-detached-house-to-renovate-carrascalinho-aljezur-26040/"/>
+        <updated>2026-09-12T09:28:17.519Z</updated>
+        <content type="html"><![CDATA[ SEMI-DETACHED HOUSE TO RENOVATE, CARRASCALINHO - ALJEZUR €259,000 1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ONE BEDROOM EYRIE LOOKING OVER THE ODECEIXE VALLEY €385,000]]></title>
         <id>https://marcela.pt/properties-to-buy/one-bedroom-eyrie-looking-over-the-odeceixe-valley-26016/</id>
@@ -67,12 +74,5 @@
         <link href="https://marcela.pt/properties-to-buy/ruin-with-project-submitted-for-t2-housing-carrapateira-24894/"/>
         <updated>2026-04-29T18:53:42.138Z</updated>
         <content type="html"><![CDATA[ RUIN WITH PROJECT SUBMITTED FOR T2 HOUSING, CARRAPATEIRA €149,000 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MODERN THREE BEDROOM VILLA WITH SWIMMING POOL & FABULOUS VIEWS €815,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/modern-three-bedroom-villa-with-swimming-pool-fabulous-views-24849/</id>
-        <link href="https://marcela.pt/properties-to-buy/modern-three-bedroom-villa-with-swimming-pool-fabulous-views-24849/"/>
-        <updated>2026-04-29T18:53:42.139Z</updated>
-        <content type="html"><![CDATA[ MODERN THREE BEDROOM VILLA WITH SWIMMING POOL & FABULOUS VIEWS €815,000 3]]></content>
     </entry>
 </feed>
