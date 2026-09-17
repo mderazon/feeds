@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://oando.pt/properties/?location%5B%5D=aljezur&amp;bedrooms=&amp;bathrooms=&amp;min-area=&amp;max-area=&amp;min-price=&amp;max-price=&amp;property_id=</id>
     <title>Oando</title>
-    <updated>2026-09-17T10:13:29.991Z</updated>
+    <updated>2026-09-17T20:28:01.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://oando.pt/wp-content/uploads/2024/08/cropped-logopurple-e1767697824184-32x32.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://oando.pt/property/superb-investment-opportunity-algarve-2/"/>
         <updated>2026-08-03T19:01:10.005Z</updated>
         <content type="html"><![CDATA[ SUPERB INVESTMENT OPPORTUNITY algarve 1,460,000€]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXCEPTIONAL LARGE VILLA WITH SEA VIEWS, VALE DA TELHA 925,000€]]></title>
+        <id>https://oando.pt/property/exceptional-villa-with-sea-views-vale-da-telha/</id>
+        <link href="https://oando.pt/property/exceptional-villa-with-sea-views-vale-da-telha/"/>
+        <updated>2026-09-17T20:26:03.182Z</updated>
+        <content type="html"><![CDATA[ EXCEPTIONAL LARGE VILLA WITH SEA VIEWS, VALE DA TELHA 925,000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SPACIOUS  3 BEDROOM VILLA WITH POOL AND ANNEX POA]]></title>
