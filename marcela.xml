@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-09-18T09:59:11.963Z</updated>
+    <updated>2026-09-18T19:51:53.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[SEMI-DETACHED HOUSE IN NEED OF RESTORATION IN CARRAPATEIRA, ALJEZUR €240,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/semi-detached-house-in-need-of-restoration-in-carrapateira-aljezur-26045/</id>
+        <link href="https://marcela.pt/properties-to-buy/semi-detached-house-in-need-of-restoration-in-carrapateira-aljezur-26045/"/>
+        <updated>2026-09-18T19:47:35.701Z</updated>
+        <content type="html"><![CDATA[ SEMI-DETACHED HOUSE IN NEED OF RESTORATION IN CARRAPATEIRA, ALJEZUR €240,000 3]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEMI-DETACHED HOUSE TO RENOVATE, CARRASCALINHO - ALJEZUR €259,000]]></title>
         <id>https://marcela.pt/properties-to-buy/semi-detached-house-to-renovate-carrascalinho-aljezur-26040/</id>
@@ -34,6 +41,13 @@
         <content type="html"><![CDATA[ A CHARMING TERRACED HOUSE IN THE CENTRE OF ALJEZUR €300,000 2]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RURAL LAND WITH 10 HECTARE IN ALJEZUR €129,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/rural-land-with-10-hectare-in-aljezur-25990/</id>
+        <link href="https://marcela.pt/properties-to-buy/rural-land-with-10-hectare-in-aljezur-25990/"/>
+        <updated>2026-09-18T19:47:35.716Z</updated>
+        <content type="html"><![CDATA[ RURAL LAND WITH 10 HECTARE IN ALJEZUR €129,000 100000m2]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CHARMING 3-BEDROOM BUNGALOW IN CENTRAL LOCATION OF CARRAPATEIRA - ALJEZUR €550,000]]></title>
         <id>https://marcela.pt/properties-to-buy/charming-3-bedroom-bungalow-in-central-location-of-carrapateira-aljezur-24967/</id>
         <link href="https://marcela.pt/properties-to-buy/charming-3-bedroom-bungalow-in-central-location-of-carrapateira-aljezur-24967/"/>
@@ -60,19 +74,5 @@
         <link href="https://marcela.pt/properties-to-buy/traditional-house-in-the-historic-centre-of-aljezur-24909/"/>
         <updated>2026-04-29T18:53:42.135Z</updated>
         <content type="html"><![CDATA[ TRADITIONAL HOUSE IN THE HISTORIC CENTRE OF ALJEZUR €199,500 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONTEMPORARY 3-BEDROOM HOUSE IN THE CENTER OF ALJEZUR WITH COUNTRYSIDE VIEWS €798,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/contemporary-3-bedroom-house-in-the-center-of-aljezur-with-countryside-views-24896/</id>
-        <link href="https://marcela.pt/properties-to-buy/contemporary-3-bedroom-house-in-the-center-of-aljezur-with-countryside-views-24896/"/>
-        <updated>2026-04-29T18:53:42.136Z</updated>
-        <content type="html"><![CDATA[ CONTEMPORARY 3-BEDROOM HOUSE IN THE CENTER OF ALJEZUR WITH COUNTRYSIDE VIEWS €798,000 3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RUIN WITH PROJECT SUBMITTED FOR T2 HOUSING, CARRAPATEIRA €149,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/ruin-with-project-submitted-for-t2-housing-carrapateira-24894/</id>
-        <link href="https://marcela.pt/properties-to-buy/ruin-with-project-submitted-for-t2-housing-carrapateira-24894/"/>
-        <updated>2026-04-29T18:53:42.138Z</updated>
-        <content type="html"><![CDATA[ RUIN WITH PROJECT SUBMITTED FOR T2 HOUSING, CARRAPATEIRA €149,000 2]]></content>
     </entry>
 </feed>
