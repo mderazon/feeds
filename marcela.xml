@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-09-22T10:11:48.060Z</updated>
+    <updated>2026-09-22T20:21:03.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://marcela.pt/properties-to-buy/semi-detached-house-in-need-of-restoration-in-carrapateira-aljezur-26045/"/>
         <updated>2026-09-18T19:47:35.701Z</updated>
         <content type="html"><![CDATA[ SEMI-DETACHED HOUSE IN NEED OF RESTORATION IN CARRAPATEIRA, ALJEZUR €240,000 3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOWN HOUSE IN THE HISTORIC CENTRE OF ALJEZUR €440,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/town-house-in-the-historic-centre-of-aljezur-26044/</id>
+        <link href="https://marcela.pt/properties-to-buy/town-house-in-the-historic-centre-of-aljezur-26044/"/>
+        <updated>2026-09-22T20:17:16.128Z</updated>
+        <content type="html"><![CDATA[ TOWN HOUSE IN THE HISTORIC CENTRE OF ALJEZUR €440,000 3]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SEMI-DETACHED HOUSE TO RENOVATE, CARRASCALINHO - ALJEZUR €259,000]]></title>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[ ONE BEDROOM EYRIE LOOKING OVER THE ODECEIXE VALLEY €385,000 1]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[URBAN PLOT FOR THE CONSTRUCTION IN IGREJA NOVA, ALJEZUR €180,000]]></title>
+        <title type="html"><![CDATA[URBAN PLOT FOR THE CONSTRUCTION IN IGREJA NOVA, ALJEZUR €140,000]]></title>
         <id>https://marcela.pt/properties-to-buy/urban-plot-for-the-construction-in-igreja-nova-aljezur-26007/</id>
         <link href="https://marcela.pt/properties-to-buy/urban-plot-for-the-construction-in-igreja-nova-aljezur-26007/"/>
         <updated>2026-07-08T07:43:26.554Z</updated>
-        <content type="html"><![CDATA[ URBAN PLOT FOR THE CONSTRUCTION IN IGREJA NOVA, ALJEZUR €180,000 254m2]]></content>
+        <content type="html"><![CDATA[ URBAN PLOT FOR THE CONSTRUCTION IN IGREJA NOVA, ALJEZUR €140,000 254m2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A CHARMING TERRACED HOUSE IN THE CENTRE OF ALJEZUR €300,000]]></title>
@@ -67,12 +74,5 @@
         <link href="https://marcela.pt/properties-to-buy/traditional-house-in-the-historic-centre-of-aljezur-24909/"/>
         <updated>2026-04-29T18:53:42.135Z</updated>
         <content type="html"><![CDATA[ TRADITIONAL HOUSE IN THE HISTORIC CENTRE OF ALJEZUR €199,500 1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONTEMPORARY 3-BEDROOM HOUSE IN THE CENTER OF ALJEZUR WITH COUNTRYSIDE VIEWS €798,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/contemporary-3-bedroom-house-in-the-center-of-aljezur-with-countryside-views-24896/</id>
-        <link href="https://marcela.pt/properties-to-buy/contemporary-3-bedroom-house-in-the-center-of-aljezur-with-countryside-views-24896/"/>
-        <updated>2026-09-21T21:09:23.308Z</updated>
-        <content type="html"><![CDATA[ CONTEMPORARY 3-BEDROOM HOUSE IN THE CENTER OF ALJEZUR WITH COUNTRYSIDE VIEWS €798,000 3]]></content>
     </entry>
 </feed>
