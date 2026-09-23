@@ -2,7 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.maximoproperties.pt/en-gb/properties/faro-dst/aljezur?srt=1</id>
     <title>Maximo Properties</title>
-    <updated>2026-09-23T10:13:25.299Z</updated>
+    <updated>2026-09-23T20:36:36.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.maximoproperties.pt/en-gb/properties/faro-dst/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3.98ha Estate with Ruin and Project near Odemira 320 000 €]]></title>
+        <id>https://www.maximoproperties.pt/en-gb/property/398ha-estate-with-ruin-and-project-near-odemira/25927961</id>
+        <link href="https://www.maximoproperties.pt/en-gb/property/398ha-estate-with-ruin-and-project-near-odemira/25927961"/>
+        <updated>2026-09-23T20:36:00.263Z</updated>
+        <content type="html"><![CDATA[ 3.98ha Estate with Ruin and Project near Odemira Property for sale in Odemira with 3.98 hectares, located just 5 minutes from the town and around 25 minutes from the beaches of the Costa Vicentina. ... 320 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Espargal Velho Estate on the Mira River 2 375 000 €]]></title>
+        <id>https://www.maximoproperties.pt/en-gb/property/espargal-velho-estate-on-the-mira-river/25837888</id>
+        <link href="https://www.maximoproperties.pt/en-gb/property/espargal-velho-estate-on-the-mira-river/25837888"/>
+        <updated>2026-09-23T20:36:00.264Z</updated>
+        <content type="html"><![CDATA[ Espargal Velho Estate on the Mira River Espargal Velho Estate is a mixed-use property for sale in Odemira, offering 38.6 hectares in a unique riverside setting along the Mira River, just mi... 2 375 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[158ha Estate with Tourism and Agriculture Potential 2 650 000 €]]></title>
+        <id>https://www.maximoproperties.pt/en-gb/property/158ha-estate-with-tourism-and-agriculture-potential/22161488</id>
+        <link href="https://www.maximoproperties.pt/en-gb/property/158ha-estate-with-tourism-and-agriculture-potential/22161488"/>
+        <updated>2026-09-23T20:36:00.265Z</updated>
+        <content type="html"><![CDATA[ 158ha Estate with Tourism and Agriculture Potential Rustic estate of 158ha near the Campilhas Dam, just 7km from Cercal and 14km from Vila Nova de Milfontes. With paved access and infrastructure such a... 2 650 000 €]]></content>
+    </entry>
 </feed>
