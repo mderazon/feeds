@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.cosmosportugal.com/en-gb/properties/aljezur</id>
     <title>Cosmos</title>
-    <updated>2026-09-24T10:18:51.493Z</updated>
+    <updated>2026-09-24T20:40:33.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.cosmosportugal.com/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Spacious Algarvian Villa with Pool, Terraces & Outbuilding 759 950 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/spacious-algarvian-villa-with-pool-terraces-outbuilding/24039765"/>
+        <updated>2026-09-24T20:38:21.400Z</updated>
+        <content type="html"><![CDATA[ Spacious Algarvian Villa with Pool, Terraces & Outbuilding This charming 4-bedroom, 2-bathroom villa sits on a unique oval-shaped designated green space, used almost exclusively by the surrounding residents, giving it a quiet and private setting. The home co... Ref. M-0237 4                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                                                                                 Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                200 m² 759 950 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 bed villa with pool on 1,450 m² plot 620 000 €]]></title>
+        <id>https://www.cosmosportugal.com/en-gb/property/3-bed-villa-with-pool-on-1450-m-plot/24999340</id>
+        <link href="https://www.cosmosportugal.com/en-gb/property/3-bed-villa-with-pool-on-1450-m-plot/24999340"/>
+        <updated>2026-09-24T20:38:21.402Z</updated>
+        <content type="html"><![CDATA[ 3 bed villa with pool on 1,450 m² plot Located on the perimeter road of Vale da Telha, this well-proportioned villa occupies one of the largest plots in the urbanisation, offering a sense of openness, mature surroundings, and excellent ac... Ref. M-0239 3                                                                                                                                                                                                                                                                                                                                                                        2                                                                                                                                                                                                                                                                                                                                                                         1                                                                                                                                                                                                                                                                                                                                                                         Outdoor                                                                                                                                                                                                                                                                                                                                                                                                                                174 m² 620 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detached Two-Storey Villa in Vale da Telha with Pool & Garden Price upon request]]></title>
         <id>https://www.cosmosportugal.com/en-gb/property/detached-two-storey-villa-in-vale-da-telha-with-pool-garden/25585115</id>
@@ -76,23 +90,5 @@ Situated in a secluded and peaceful area of the urbani... Ref. M-0242 3         
         <link href="https://www.cosmosportugal.com/en-gb/property/serene-rustic-retreat-in-aljezur/21652027"/>
         <updated>2026-09-23T20:34:35.425Z</updated>
         <content type="html"><![CDATA[ Serene Rustic Retreat in Aljezur Nestled in the serene countryside of Aljezur, this rustic land offers an opportunity to own a peaceful retreat surrounded by nature. Accessed via a charming stream crossing, the land has been lovingl... Ref. T-0221 3750 m² 65 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traditional House Plus Ruin with Exceptional Potential in the Historic Centre of Aljezur 250 000 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/traditional-house-plus-ruin-with-exceptional-potential-in-the-historic-centre-of-aljezur/26387815</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/traditional-house-plus-ruin-with-exceptional-potential-in-the-historic-centre-of-aljezur/26387815"/>
-        <updated>2026-09-23T20:34:35.426Z</updated>
-        <content type="html"><![CDATA[ Traditional House Plus Ruin with Exceptional Potential in the Historic Centre of Aljezur Discover a unique opportunity to create your dream home or invest in a renovation project in the heart of Aljezur's historic centre.
-
-Located in the old part of the village, this property enjoys a ... Ref. M-0257 2                                                                                                                                                                                                                                                                                                                                                                        1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        66 m² 250 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prime development land in Rogil 399 990 €]]></title>
-        <id>https://www.cosmosportugal.com/en-gb/property/prime-development-land-in-rogil/19576870</id>
-        <link href="https://www.cosmosportugal.com/en-gb/property/prime-development-land-in-rogil/19576870"/>
-        <updated>2026-09-23T20:34:35.426Z</updated>
-        <content type="html"><![CDATA[ Prime development land in Rogil Don't miss out on an exceptional opportunity to secure a substantial parcel of land situated in the popular town center of Rogil.
-
-Positioned just moments away from Rogil's high street, the land bo... Ref. T-0108 3974 m² 399 990 €]]></content>
     </entry>
 </feed>
