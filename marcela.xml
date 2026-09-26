@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-09-25T20:40:26.508Z</updated>
+    <updated>2026-09-26T10:03:08.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
+    <entry>
+        <title type="html"><![CDATA[RURAL LAND IN ALJEZUR WITH 19,500 m² €45,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/rural-land-in-aljezur-with-19500-m2-26054/</id>
+        <link href="https://marcela.pt/properties-to-buy/rural-land-in-aljezur-with-19500-m2-26054/"/>
+        <updated>2026-09-26T09:59:30.165Z</updated>
+        <content type="html"><![CDATA[ RURAL LAND IN ALJEZUR WITH 19,500 m² €45,000 19500m2]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEMI-DETACHED HOUSE IN NEED OF RESTORATION IN CARRAPATEIRA, ALJEZUR €240,000]]></title>
         <id>https://marcela.pt/properties-to-buy/semi-detached-house-in-need-of-restoration-in-carrapateira-aljezur-26045/</id>
@@ -67,12 +74,5 @@
         <link href="https://marcela.pt/properties-to-buy/detached-house-with-2-bedrooms-carrapateira-24923/"/>
         <updated>2026-04-29T18:53:42.133Z</updated>
         <content type="html"><![CDATA[ DETACHED HOUSE WITH 2 BEDROOMS, CARRAPATEIRA €440,000 2]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRADITIONAL HOUSE IN THE HISTORIC CENTRE OF ALJEZUR €199,500]]></title>
-        <id>https://marcela.pt/properties-to-buy/traditional-house-in-the-historic-centre-of-aljezur-24909/</id>
-        <link href="https://marcela.pt/properties-to-buy/traditional-house-in-the-historic-centre-of-aljezur-24909/"/>
-        <updated>2026-04-29T18:53:42.135Z</updated>
-        <content type="html"><![CDATA[ TRADITIONAL HOUSE IN THE HISTORIC CENTRE OF ALJEZUR €199,500 1]]></content>
     </entry>
 </feed>
