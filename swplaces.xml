@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-10-02T11:15:32.180Z</updated>
+    <updated>2026-10-02T21:25:51.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[   € 70 000]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quintinha perto do mar- Valor Negociável ! € 980 000]]></title>
+        <title type="html"><![CDATA[Quintinha perto do mar- Valor Negociável ! € 895 000]]></title>
         <id>https://sw-places.com/property/quintinha-perto-do-mar-valor-negociavel/184501</id>
         <link href="https://sw-places.com/property/quintinha-perto-do-mar-valor-negociavel/184501"/>
         <updated>2026-07-29T18:30:46.191Z</updated>
-        <content type="html"><![CDATA[  3312 € 980 000]]></content>
+        <content type="html"><![CDATA[  3312 € 895 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Exclusiva Quinta junto ao paraíso do surf na Carrapateira € 2 100 000]]></title>
