@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties-county-aljezur/</id>
     <title>Provenda</title>
-    <updated>2026-10-07T22:10:43.828Z</updated>
+    <updated>2026-10-08T12:12:00.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties-county-aljezur/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://www.provenda.net/en/house-1-bedrooms-bordeira-aljezur+1000020091.html"/>
         <updated>2026-10-07T22:07:43.656Z</updated>
         <content type="html"><![CDATA[ SaleThis house combines authentic Algarve charm with a modern, relaxed touch. Completely rebuilt, the property is spread over three floors connected by a stone staircase and features whitewashed interiors, custom-made wooden furniture and natural textiles that create a serene and bright atmosphere. With a bedroom, a bathroom and a living room, a fully equipped kitchen and a patio facing the street, it is the perfect refuge for those who appreciate the simplicity of village life. Here, time slows down and every detail invites you to relax. Just 10 minutes from the wild beaches of the Costa Vicentina, such as Praia da Bordeira and Carrapateira. Close to Aljezur and around 30 km from Sagres and Lagos, it offers the perfect balance between rural tranquility and easy access to the coast.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 840.000 Farm 2+1 bedrooms Perdigão Rogil Aljezur - electricity, equipped, terraces, water, air conditioning, kitchen, water hole, garden]]></title>
-        <id>https://www.provenda.net/en/farm-2+1-bedrooms-perdigao-rogil-aljezur-electricity-equipped-terraces-water-air-conditioning-kitchen-water-hole-garden+1000020043.html</id>
-        <link href="https://www.provenda.net/en/farm-2+1-bedrooms-perdigao-rogil-aljezur-electricity-equipped-terraces-water-air-conditioning-kitchen-water-hole-garden+1000020043.html"/>
-        <updated>2026-10-07T22:07:43.659Z</updated>
-        <content type="html"><![CDATA[ SaleProperty with a housing, located in the middle of nature, in a quiet and private zone, surrounded by pine trees and also many other tree species, as well as a garden. It is easily accessible, with private path, parking zone, terraces and pérgulas, providing various leisure zones. House in a position to be inhabited, with equipped kitchen, heating, air conditioning, electricity and water from the network and borehole. Possibility of expanding the construction area.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[€ 650.000 Farm to rebuild 5 bedrooms Chaparral Bordeira Aljezur - cork oaks]]></title>
@@ -88,5 +81,12 @@
         <link href="https://www.provenda.net/en/house-3-bedrooms-aljezur-terrace+1000018928.html"/>
         <updated>2026-10-07T22:07:43.669Z</updated>
         <content type="html"><![CDATA[ SaleHouse located in the village of Aljezur, overlooking the wonderful landscape of the green meadow, the Igreja Nova and the Serra de Monchique Mountains. With easy access, both on foot and by car, it is possible to park next to the house. The house consists of 3 bedrooms, living room, kitchen, bathroom, entrance hall and a pleasant outdoor terrace.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[€ 1.400.000 Apartment 3 bedrooms Arrifana Aljezur - kitchen, air conditioning, radiant floor, balconies, lots of natural light]]></title>
+        <id>https://www.provenda.net/en/apartment-3-bedrooms-arrifana-aljezur-kitchen-air-conditioning-radiant-floor-balconies-lots-of-natural-light+1000018424.html</id>
+        <link href="https://www.provenda.net/en/apartment-3-bedrooms-arrifana-aljezur-kitchen-air-conditioning-radiant-floor-balconies-lots-of-natural-light+1000018424.html"/>
+        <updated>2026-10-08T12:08:42.899Z</updated>
+        <content type="html"><![CDATA[ SaleBuilding with contemporary architecture, 3 bedroom apartment, consisting of 3 suites, 4WC, open space kitchen and living room, with plenty of natural light, balconies, also includes 2 parking spaces. First quality materials and finishes, equipped kitchen, radiant floor heating and air conditioning system, with architecture contextualized in local references and in analogy with the cliffs of Arrifana. Just 450m from Praia da Arrifana.]]></content>
     </entry>
 </feed>
