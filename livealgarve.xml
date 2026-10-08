@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://livealgarve.com/properties/aljezur</id>
     <title>Live Algarve</title>
-    <updated>2026-10-08T12:12:00.023Z</updated>
+    <updated>2026-10-08T22:18:09.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://livealgarve.com/properties/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ €
+                                        199,000]]></title>
+        <id>https://livealgarve.com/property/urban-plot-for-construction-of-villa-at-bordeira-for-sale-aljezur-1162</id>
+        <link href="https://livealgarve.com/property/urban-plot-for-construction-of-villa-at-bordeira-for-sale-aljezur-1162"/>
+        <updated>2026-10-08T22:16:21.936Z</updated>
+        <content type="html"><![CDATA[  €
+                                        199,000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ €
                                         405,000]]></title>
