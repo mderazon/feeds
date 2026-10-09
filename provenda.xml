@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties-county-aljezur/</id>
     <title>Provenda</title>
-    <updated>2026-10-08T22:18:09.138Z</updated>
+    <updated>2026-10-09T12:09:31.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties-county-aljezur/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 495.000 Farm to recover Endiabrada Bordeira Aljezur - water, water hole]]></title>
+        <id>https://www.provenda.net/en/farm-to-recover-endiabrada-bordeira-aljezur-water-water-hole+1000020545.html</id>
+        <link href="https://www.provenda.net/en/farm-to-recover-endiabrada-bordeira-aljezur-water-water-hole+1000020545.html"/>
+        <updated>2026-10-09T12:06:34.682Z</updated>
+        <content type="html"><![CDATA[ SaleDiscover the tranquillity of life surrounded by nature, this property comprises 117,500 m² of rural land and three buildings registered as urban properties, all requiring reconstruction: a 140 m² warehouse and two dwellings measuring 43 m² and 35 m², providing a combined existing area of 218 m². The property also benefits from a water borehole, a valuable resource for making use of the land. An opportunity to acquire a substantial plot with existing buildings to restore and adapt to your plans, subject to the relevant planning permissions. An inviting setting in which to enjoy a slower pace of life amidst beautiful natural surroundings.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 270.000 House 1+1 bedrooms Tramelo Bordeira Aljezur - excellent location]]></title>
         <id>https://www.provenda.net/en/house-1+1-bedrooms-tramelo-bordeira-aljezur-excellent-location+1000020441.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/house-3-bedrooms-aljezur-terrace+1000018928.html"/>
         <updated>2026-10-07T22:07:43.669Z</updated>
         <content type="html"><![CDATA[ SaleHouse located in the village of Aljezur, overlooking the wonderful landscape of the green meadow, the Igreja Nova and the Serra de Monchique Mountains. With easy access, both on foot and by car, it is possible to park next to the house. The house consists of 3 bedrooms, living room, kitchen, bathroom, entrance hall and a pleasant outdoor terrace.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 1.400.000 Apartment 3 bedrooms Arrifana Aljezur - kitchen, air conditioning, radiant floor, balconies, lots of natural light]]></title>
-        <id>https://www.provenda.net/en/apartment-3-bedrooms-arrifana-aljezur-kitchen-air-conditioning-radiant-floor-balconies-lots-of-natural-light+1000018424.html</id>
-        <link href="https://www.provenda.net/en/apartment-3-bedrooms-arrifana-aljezur-kitchen-air-conditioning-radiant-floor-balconies-lots-of-natural-light+1000018424.html"/>
-        <updated>2026-10-08T12:08:42.899Z</updated>
-        <content type="html"><![CDATA[ SaleBuilding with contemporary architecture, 3 bedroom apartment, consisting of 3 suites, 4WC, open space kitchen and living room, with plenty of natural light, balconies, also includes 2 parking spaces. First quality materials and finishes, equipped kitchen, radiant floor heating and air conditioning system, with architecture contextualized in local references and in analogy with the cliffs of Arrifana. Just 450m from Praia da Arrifana.]]></content>
     </entry>
 </feed>
