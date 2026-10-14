@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lusoland.pt/en/property-for-sale/?search=search&amp;textTowns=&amp;zonas=&amp;host_dominio=https%3A%2F%2Flusoland.pt&amp;empresa=lusoland.pt&amp;town%5B%5D=Aljezur&amp;price-min=&amp;price-max=&amp;ref=&amp;habs-min=0&amp;habs-max=20&amp;baths-min=0&amp;baths-max=20&amp;m_cons-min=&amp;m_cons-max=</id>
     <title>Lusoland</title>
-    <updated>2026-10-13T21:57:02.052Z</updated>
+    <updated>2026-10-14T10:26:01.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://lusoland.pt/wp-content/uploads/2024/02/cropped-favicon-lusoland-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Terraced House 495.000€]]></title>
+        <id>https://lusoland.pt/en/property/terraced-house-aljezur-refu00045-26-849205/</id>
+        <link href="https://lusoland.pt/en/property/terraced-house-aljezur-refu00045-26-849205/"/>
+        <updated>2026-09-28T11:53:45.189Z</updated>
+        <content type="html"><![CDATA[ Terraced House Aljezur 495.000€]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Land 87.470€]]></title>
         <id>https://lusoland.pt/en/property/land-aljezur-refr00049-24-594875/</id>
@@ -32,13 +39,6 @@
         <link href="https://lusoland.pt/en/property/land-aljezur-refr0005226-894585/"/>
         <updated>2026-09-28T11:53:45.187Z</updated>
         <content type="html"><![CDATA[ Land Aljezur 250.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terraced House 495.000€]]></title>
-        <id>https://lusoland.pt/en/property/terraced-house-aljezur-refu00045-26-849205/</id>
-        <link href="https://lusoland.pt/en/property/terraced-house-aljezur-refu00045-26-849205/"/>
-        <updated>2026-09-28T11:53:45.189Z</updated>
-        <content type="html"><![CDATA[ Terraced House Aljezur 495.000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Land 200.000€]]></title>
