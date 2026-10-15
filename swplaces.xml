@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-10-15T10:12:00.490Z</updated>
+    <updated>2026-10-15T20:29:42.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://sw-places.com/property/duas-moradias-t2-com-terreno-odeceixe/192429"/>
         <updated>2026-09-25T10:22:11.696Z</updated>
         <content type="html"><![CDATA[  222 € 390 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surf Camp próximo de Aljezur € 790 000]]></title>
+        <id>https://sw-places.com/property/surf-camp-proximo-de-aljezur/189933</id>
+        <link href="https://sw-places.com/property/surf-camp-proximo-de-aljezur/189933"/>
+        <updated>2026-10-15T20:27:28.236Z</updated>
+        <content type="html"><![CDATA[  212 € 790 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[23 hectares de natureza pura em Carrascalinho, com 2 ruínas € 800 000]]></title>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/quintinha-perto-do-mar-valor-negociavel/184501"/>
         <updated>2026-07-29T18:30:46.191Z</updated>
         <content type="html"><![CDATA[  3312 € 895 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusiva Quinta junto ao paraíso do surf na Carrapateira € 2 100 000]]></title>
-        <id>https://sw-places.com/property/exclusiva-quinta-junto-ao-paraiso-do-surf-na-carrapateira/169166</id>
-        <link href="https://sw-places.com/property/exclusiva-quinta-junto-ao-paraiso-do-surf-na-carrapateira/169166"/>
-        <updated>2026-08-18T17:56:33.390Z</updated>
-        <content type="html"><![CDATA[  6323 € 2 100 000]]></content>
     </entry>
 </feed>
