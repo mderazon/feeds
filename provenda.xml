@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties-county-aljezur/</id>
     <title>Provenda</title>
-    <updated>2026-10-16T10:04:14.367Z</updated>
+    <updated>2026-10-16T20:04:13.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties-county-aljezur/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 1.490.000 Land with 1480sqm Aljezur]]></title>
+        <id>https://www.provenda.net/en/land-with-1480sqm-aljezur+1000020557.html</id>
+        <link href="https://www.provenda.net/en/land-with-1480sqm-aljezur+1000020557.html"/>
+        <updated>2026-10-16T20:00:54.244Z</updated>
+        <content type="html"><![CDATA[ SaleAn excellent investment opportunity in the historic centre of Aljezur, right on the Costa Vicentina, in a location of great interest to both tourists and residents. With a plot area of 2,001.20 m², this property offers two possibilities for property development: a residential development or a 4-star aparthotel. 1 - Residential Development Feasibility study for the construction of a four-storey residential and commercial building, comprising commercial or service spaces on the ground floor covering approximately 300 m², with potential for a restaurant, retail, wellness facilities or other compatible uses, and 18 flats with a gross residential area of approximately 1,480 m², spread over three storeys, including studio to three-bedroom flats, with a rooftop swimming pool. 2. 4-Star Aparthotel An aparthotel comprising 24 holiday units, spread over four levels, with a gross floor area of 1,923.50 m². The concept includes indoor and outdoor swimming pools, a restaurant, a gym, a wellness area, terraces and landscaped gardens. A versatile opportunity for property developers and investors, with potential for residential, commercial or tourist development, in one of the most authentic areas of the Algarve. The tourism project has planning permission approved by Aljezur Municipal Council, issued in September 2026, subject to subsequent legal procedures. The residential proposal is a preliminary study, subject to the necessary municipal approvals. Planning documentation and further information are available on request.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 495.000 Farm to recover Endiabrada Bordeira Aljezur - water, water hole]]></title>
         <id>https://www.provenda.net/en/farm-to-recover-endiabrada-bordeira-aljezur-water-water-hole+1000020545.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/homestead-to-rebuild-moinho-do-corisco-aljezur-cork-oaks+1000019021.html"/>
         <updated>2026-10-07T22:07:43.668Z</updated>
         <content type="html"><![CDATA[ SaleProperty located in a quiet area, with easy access through natural vegetation, pine trees and cork oaks. The Estate has harmonious landscapes - hills, valleys, plateaus - as well as a beautiful Natural Lake. There are 3 old houses (to be rebuilt), in different areas of the property. Come visit this Property and enjoy what nature offers us.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 440.000 House 3 bedrooms Aljezur - terrace]]></title>
-        <id>https://www.provenda.net/en/house-3-bedrooms-aljezur-terrace+1000018928.html</id>
-        <link href="https://www.provenda.net/en/house-3-bedrooms-aljezur-terrace+1000018928.html"/>
-        <updated>2026-10-07T22:07:43.669Z</updated>
-        <content type="html"><![CDATA[ SaleHouse located in the village of Aljezur, overlooking the wonderful landscape of the green meadow, the Igreja Nova and the Serra de Monchique Mountains. With easy access, both on foot and by car, it is possible to park next to the house. The house consists of 3 bedrooms, living room, kitchen, bathroom, entrance hall and a pleasant outdoor terrace.]]></content>
     </entry>
 </feed>
