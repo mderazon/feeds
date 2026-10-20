@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.algarvhome.pt/imoveis?loc=Aljezur&amp;dst=8&amp;mun=104</id>
     <title>AlgarvHome</title>
-    <updated>2026-10-20T10:17:58.994Z</updated>
+    <updated>2026-10-20T20:48:26.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.algarvhome.pt/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Espaçoso Apartamento T2 Mobilado com Vista sobre a Várzea de Odeceixe 900 €]]></title>
+        <id>https://www.algarvhome.pt/imovel/espacoso-apartamento-t2-mobilado-com-vista-sobre-a-varzea-de-odeceixe/26825590</id>
+        <link href="https://www.algarvhome.pt/imovel/espacoso-apartamento-t2-mobilado-com-vista-sobre-a-varzea-de-odeceixe/26825590"/>
+        <updated>2026-10-20T20:48:06.459Z</updated>
+        <content type="html"><![CDATA[ Espaçoso Apartamento T2 Mobilado com Vista sobre a Várzea de Odeceixe Descubra este espaçoso apartamento T2 com 88,5 m², situado no coração de Odeceixe, em plena Costa Vicentina. Inserido numa zona tranquila, destaca-se... 900 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terreno rústico em Odeceixe 79 000 €]]></title>
         <id>https://www.algarvhome.pt/imovel/terreno-rustico-em-odeceixe/26157046</id>
@@ -194,14 +201,5 @@ Num dos mais bonitos vales do concelho de Aljezur, por estrada alcatr... Vendido
         <content type="html"><![CDATA[ Terreno Rústico no Carrascalinho Terreno Rústico com a área de 9.040m2 localizado entre o Rogil e o Carrascalinho.
 
 Este belo terreno é abastecido pela água do Perímetro de Rega do... Vendido]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lote de Terreno para Moradia Vendido]]></title>
-        <id>https://www.algarvhome.pt/imovel/lote-de-terreno-para-moradia/22902723</id>
-        <link href="https://www.algarvhome.pt/imovel/lote-de-terreno-para-moradia/22902723"/>
-        <updated>2026-09-23T20:36:15.498Z</updated>
-        <content type="html"><![CDATA[ Lote de Terreno para Moradia Terreno Urbano para a construção de uma moradia, localizado no coração da Costa Vicentina, a 2,80km do mar e a 6 Km de diversas praias.
-
-Com uma ár... Vendido]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.maximoproperties.pt/en-gb/properties/faro-dst/aljezur?srt=1</id>
     <title>Maximo Properties</title>
-    <updated>2026-10-20T10:17:58.985Z</updated>
+    <updated>2026-10-20T20:48:26.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.maximoproperties.pt/en-gb/properties/faro-dst/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[38-Hectare Rural Estate with Two Buildings in São Teotónio 435 000 €]]></title>
+        <id>https://www.maximoproperties.pt/en-gb/property/38-hectare-rural-estate-with-two-buildings-in-sao-teotonio/26826534</id>
+        <link href="https://www.maximoproperties.pt/en-gb/property/38-hectare-rural-estate-with-two-buildings-in-sao-teotonio/26826534"/>
+        <updated>2026-10-20T20:47:52.139Z</updated>
+        <content type="html"><![CDATA[ 38-Hectare Rural Estate with Two Buildings in São Teotónio Set among the rolling hills of São Teotónio, in the municipality of Odemira, Domingo de Ramos is a traditional rural estate extending over 38.25 hect... 435 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20-Hectare Estate with Houses and Tourism Potential in Odemira 1 600 000 €]]></title>
         <id>https://www.maximoproperties.pt/en-gb/property/20-hectare-estate-with-houses-and-tourism-potential-in-odemira/26777101</id>
