@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://remax.pt/en/comprar/imoveis/h/r/aljezur/r/t?s=%7B%22rg%22%3A%22Aljezur%22%2C%22prn%22%3A%22Aljezur%2C%20Faro%22%2C%22mio%22%3A%22false%22%7D&amp;p=1&amp;o=-PublishDate</id>
     <title>Remax Aljezur</title>
-    <updated>2026-10-22T20:42:47.001Z</updated>
+    <updated>2026-10-23T10:20:19.455Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://remax.pt/favicon.ico</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[ 165 000 € House Odeceixe, Aljezur]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[699 000 € House]]></title>
-        <id>https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-aljezur/126841004-61</id>
-        <link href="https://remax.pt/en/imoveis/venda-moradia-t3-aljezur-aljezur/126841004-61"/>
-        <updated>2026-07-30T18:53:12.671Z</updated>
-        <content type="html"><![CDATA[ 699 000 € House Aljezur, Aljezur]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[130 000 € Land]]></title>
         <id>https://remax.pt/en/imoveis/venda-terreno-taljezur-rogil/126521021-27</id>
         <link href="https://remax.pt/en/imoveis/venda-terreno-taljezur-rogil/126521021-27"/>
@@ -88,5 +81,12 @@
         <link href="https://remax.pt/en/imoveis/venda-apartamento-t1-aljezur-aljezur/124471005-182"/>
         <updated>2026-06-25T19:21:27.060Z</updated>
         <content type="html"><![CDATA[ 275 900 € Apartment Aljezur, Aljezur]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[205 000 € Apartment]]></title>
+        <id>https://remax.pt/en/imoveis/venda-apartamento-t1-aljezur-aljezur/123041071-49</id>
+        <link href="https://remax.pt/en/imoveis/venda-apartamento-t1-aljezur-aljezur/123041071-49"/>
+        <updated>2026-10-23T10:16:34.156Z</updated>
+        <content type="html"><![CDATA[ 205 000 € Apartment Aljezur, Aljezur]]></content>
     </entry>
 </feed>
