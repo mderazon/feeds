@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-11-03T00:00:58.277Z</updated>
+    <updated>2026-11-03T12:57:35.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://sw-places.com/property/predio-com-dois-t2-e-terreno-em-aljezur/201225"/>
         <updated>2026-10-23T20:33:15.760Z</updated>
         <content type="html"><![CDATA[  2222 € 489 000]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encantadora Moradia T2 com Vista Mar Panorâmica e Piscina Exclusiva € 598 000]]></title>
+        <id>https://sw-places.com/property/encantadora-moradia-t2-com-vista-mar-panoramica-e-piscina-exclusiva/195244</id>
+        <link href="https://sw-places.com/property/encantadora-moradia-t2-com-vista-mar-panoramica-e-piscina-exclusiva/195244"/>
+        <updated>2026-11-03T12:55:30.821Z</updated>
+        <content type="html"><![CDATA[  2111 € 598 000]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Duas Moradias T2 com Terreno – Odeceixe € 390 000]]></title>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/terreno-rustico-no-parque-natural/187868"/>
         <updated>2026-08-15T05:48:18.744Z</updated>
         <content type="html"><![CDATA[   € 50 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dois predios pelo preço de um € 70 000]]></title>
-        <id>https://sw-places.com/property/dois-predios-pelo-preco-de-um/187862</id>
-        <link href="https://sw-places.com/property/dois-predios-pelo-preco-de-um/187862"/>
-        <updated>2026-08-15T05:48:18.746Z</updated>
-        <content type="html"><![CDATA[   € 70 000]]></content>
     </entry>
 </feed>
