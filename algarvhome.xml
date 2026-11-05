@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.algarvhome.pt/imoveis?loc=Aljezur&amp;dst=8&amp;mun=104</id>
     <title>AlgarvHome</title>
-    <updated>2026-11-05T13:25:24.472Z</updated>
+    <updated>2026-11-05T22:46:54.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.algarvhome.pt/DevGear/Favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Terreno Rústico com Charco e Potencial Agrícola em Rogil 180 000 €]]></title>
+        <id>https://www.algarvhome.pt/imovel/terreno-rustico-com-charco-e-potencial-agricola-em-rogil/26942300</id>
+        <link href="https://www.algarvhome.pt/imovel/terreno-rustico-com-charco-e-potencial-agricola-em-rogil/26942300"/>
+        <updated>2026-11-05T22:46:33.568Z</updated>
+        <content type="html"><![CDATA[ Terreno Rústico com Charco e Potencial Agrícola em Rogil Terreno rústico com 28.770 m², situado na Estrada da Esteveira, em Rogil, numa zona tranquila da Costa Vicentina e a poucos minutos do centro da vila... 180 000 €]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Invista na Qualidade de Vida | Moradia T4 + T2 com Anexo e Amplo Terreno com potencial para construção de uma segunda moradia na Costa Vicentina | Rogil 590 000 €]]></title>
         <id>https://www.algarvhome.pt/imovel/invista-na-qualidade-de-vida-moradia-t4-t2-com-anexo-e-amplo-terreno-com-potencial-para-construcao-de-uma-segunda-moradia-na-costa-vicentina-rogil/26215526</id>
@@ -192,14 +199,5 @@ Terreno urbano com 640... Reservado]]></content>
         <content type="html"><![CDATA[ Terreno Rústico em Vale das Amoreiras Magnifico terreno rústico, situado no Vale das Amoreiras, a 5 Km de Aljezur.
 
 Num dos mais bonitos vales do concelho de Aljezur, por estrada alcatr... Vendido]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terreno Rústico no Carrascalinho Vendido]]></title>
-        <id>https://www.algarvhome.pt/imovel/terreno-rustico-no-carrascalinho/22122660</id>
-        <link href="https://www.algarvhome.pt/imovel/terreno-rustico-no-carrascalinho/22122660"/>
-        <updated>2026-09-23T20:36:15.497Z</updated>
-        <content type="html"><![CDATA[ Terreno Rústico no Carrascalinho Terreno Rústico com a área de 9.040m2 localizado entre o Rogil e o Carrascalinho.
-
-Este belo terreno é abastecido pela água do Perímetro de Rega do... Vendido]]></content>
     </entry>
 </feed>

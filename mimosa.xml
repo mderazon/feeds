@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.mimosaproperties.com/en-gb/properties-mimosaproperties?loc=Aljezur&amp;dst=8&amp;mun=104&amp;bus=1</id>
     <title>Mimosa</title>
-    <updated>2026-11-05T13:25:24.506Z</updated>
+    <updated>2026-11-05T22:46:54.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.mimosaproperties.com/DevGear/Favicon/android-icon-192x192.png</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/5-bedroom-villa-with-2-independent-annexes-in-vale-da-telha/26219888"/>
         <updated>2026-09-23T20:33:32.077Z</updated>
         <content type="html"><![CDATA[ 5 Bedroom Villa with 2 Independent Annexes in Vale da Telha A characterful and versatile home set on a well-cultivated plot, offering a unique blend of charm, open views, and potential. The property has been t... 690 000 €]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farm with 7 Bedrooms, Annex and Business License in Aljezur 850 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/farm-with-7-bedrooms-annex-and-business-license-in-aljezur/26215408</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/farm-with-7-bedrooms-annex-and-business-license-in-aljezur/26215408"/>
-        <updated>2026-09-23T20:33:32.077Z</updated>
-        <content type="html"><![CDATA[ Farm with 7 Bedrooms, Annex and Business License in Aljezur The 'Monte da Azenha', is an excellent opportunity to acquire a farm with more than 1.4 hectares, located just 5 km from Aljezur and with good access... 850 000 €]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3 Bedroom Villa with Pool in Vale da Telha, Aljezur 699 500 €]]></title>
@@ -76,17 +69,24 @@
         <content type="html"><![CDATA[ Modern apartment in New Development in Espartal - Aljezur Discover an exclusive development located in Espartal - Monte Clérigo, one of the most sought-after areas of the Costa Vicentina, in the municipality... 549 000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apartment in New Development in Espartal - Aljezur 405 000 €]]></title>
-        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartment-in-new-development-in-espartal-aljezur/25764884</id>
-        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/apartment-in-new-development-in-espartal-aljezur/25764884"/>
-        <updated>2026-09-23T20:33:32.087Z</updated>
-        <content type="html"><![CDATA[ Apartment in New Development in Espartal - Aljezur Discover an exclusive development located in Espartal - Monte Clérigo, one of the most sought-after areas of the Costa Vicentina, in the municipality... 405 000 €]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7.1 hectare estate with tourism potential in Aljezur 450 000 €]]></title>
         <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/71-hectare-estate-with-tourism-potential-in-aljezur/25770683</id>
         <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/71-hectare-estate-with-tourism-potential-in-aljezur/25770683"/>
         <updated>2026-09-23T20:33:32.088Z</updated>
         <content type="html"><![CDATA[ 7.1 hectare estate with tourism potential in Aljezur This is the ideal place for those looking to live in communion with nature, develop a sustainable tourism project or build a family refuge, with easy... 450 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 1+1 bedroom flat 500m from Carrapateira beach 384 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-1-1-bedroom-flat-500m-from-carrapateira-beach/25770638</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-1-1-bedroom-flat-500m-from-carrapateira-beach/25770638"/>
+        <updated>2026-11-05T22:44:07.231Z</updated>
+        <content type="html"><![CDATA[ New 1+1 bedroom flat 500m from Carrapateira beach We present this charming 1+1 bedroom flat, set in a contemporary residential building in the final stages of construction, located in the picturesque... 384 000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New 2 Bedroom Apartment 5 Minutes from the Beach, Aljezur 384 000 €]]></title>
+        <id>https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-2-bedroom-apartment-5-minutes-from-the-beach-aljezur/25770633</id>
+        <link href="https://www.mimosaproperties.com/en-gb/property-mimosaproperties/new-2-bedroom-apartment-5-minutes-from-the-beach-aljezur/25770633"/>
+        <updated>2026-11-05T22:44:07.232Z</updated>
+        <content type="html"><![CDATA[ New 2 Bedroom Apartment 5 Minutes from the Beach, Aljezur Discover this elegant 2 bedroom flat, integrated in a modern residential development in the final stages of construction, located in the charming Ald... 384 000 €]]></content>
     </entry>
 </feed>
