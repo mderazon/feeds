@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sw-places.com/properties?location=%7B%22country%22:2,%22region%22:40,%22district%22:149,%22county%22:35863%7D</id>
     <title>SW-Places</title>
-    <updated>2026-11-06T13:08:54.075Z</updated>
+    <updated>2026-11-06T22:15:42.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://sw-places.com/assets/manifest-icons/128x128.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Excelente Oportunidade de Investimento no Coração de Odeceixe € 175 000]]></title>
+        <id>https://sw-places.com/property/excelente-oportunidade-de-investimento-no-coracao-de-odeceixe/203294</id>
+        <link href="https://sw-places.com/property/excelente-oportunidade-de-investimento-no-coracao-de-odeceixe/203294"/>
+        <updated>2026-11-06T22:13:31.265Z</updated>
+        <content type="html"><![CDATA[  4333 € 175 000]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prédio com Dois T2 e Terreno em Aljezur € 489 000]]></title>
         <id>https://sw-places.com/property/predio-com-dois-t2-e-terreno-em-aljezur/201225</id>
@@ -53,12 +60,5 @@
         <link href="https://sw-places.com/property/t3-duplex-com-terracos-no-coracao-de-aljezur/188256"/>
         <updated>2026-08-25T17:53:33.382Z</updated>
         <content type="html"><![CDATA[  3121 € 385 000]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terreno rústico no Parque Natural € 50 000]]></title>
-        <id>https://sw-places.com/property/terreno-rustico-no-parque-natural/187868</id>
-        <link href="https://sw-places.com/property/terreno-rustico-no-parque-natural/187868"/>
-        <updated>2026-08-15T05:48:18.744Z</updated>
-        <content type="html"><![CDATA[   € 50 000]]></content>
     </entry>
 </feed>
