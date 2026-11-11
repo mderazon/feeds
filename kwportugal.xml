@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.kwportugal.pt/en/imoveis?business=1%2C4%2C5&amp;orderBy=11&amp;viewType=grid&amp;priceMin=80&amp;priceMax=36000000&amp;rooms=all&amp;bathrooms=all&amp;parkings=all&amp;district=8&amp;council=803</id>
     <title>KW Portugal Aljezur</title>
-    <updated>2026-11-11T12:54:21.701Z</updated>
+    <updated>2026-11-11T23:36:27.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.kwportugal.pt/favicon.ico?5e594d5da6b5456e</icon>
     <entry>
+        <title type="html"><![CDATA[180.000€]]></title>
+        <id>https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/21986/1210-2974</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/21986/1210-2974"/>
+        <updated>2026-11-11T23:36:21.342Z</updated>
+        <content type="html"><![CDATA[ 180.000€]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[385.000€]]></title>
-        <id>https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/81787</id>
-        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/81787"/>
-        <updated>2026-11-03T22:27:28.479Z</updated>
+        <id>https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/81787/KWPT-041551</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/81787/KWPT-041551"/>
+        <updated>2026-11-11T23:36:21.343Z</updated>
         <content type="html"><![CDATA[ 385.000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[490.000€]]></title>
-        <id>https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/33465</id>
-        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/33465"/>
-        <updated>2026-11-03T22:27:28.481Z</updated>
+        <id>https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/33465/KWPT-016570</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Aljezur/33465/KWPT-016570"/>
+        <updated>2026-11-11T23:36:21.344Z</updated>
         <content type="html"><![CDATA[ 490.000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[850.000€]]></title>
-        <id>https://www.kwportugal.pt/en/Imovel/For-sale/Farm/Estate/Faro/Aljezur/Odeceixe/29246</id>
-        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/Farm/Estate/Faro/Aljezur/Odeceixe/29246"/>
-        <updated>2026-11-03T22:27:28.486Z</updated>
+        <id>https://www.kwportugal.pt/en/Imovel/For-sale/Farm/Estate/Faro/Aljezur/Odeceixe/29246/KWPT-004421</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/Farm/Estate/Faro/Aljezur/Odeceixe/29246/KWPT-004421"/>
+        <updated>2026-11-11T23:36:21.346Z</updated>
         <content type="html"><![CDATA[ 850.000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[420.000€]]></title>
-        <id>https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Bordeira/21338</id>
-        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Bordeira/21338"/>
-        <updated>2026-11-03T22:27:28.484Z</updated>
+        <id>https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Bordeira/21338/KWPT-033734</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/House/Faro/Aljezur/Bordeira/21338/KWPT-033734"/>
+        <updated>2026-11-11T23:36:21.347Z</updated>
         <content type="html"><![CDATA[ 420.000€]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[100.000€]]></title>
-        <id>https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/34639</id>
-        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/34639"/>
-        <updated>2026-11-03T22:27:28.480Z</updated>
+        <id>https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/34639/KWPT-036464</id>
+        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/34639/KWPT-036464"/>
+        <updated>2026-11-11T23:36:21.348Z</updated>
         <content type="html"><![CDATA[ 100.000€]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[180.000€]]></title>
-        <id>https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/21986</id>
-        <link href="https://www.kwportugal.pt/en/Imovel/For-sale/Land/Faro/Aljezur/Aljezur/21986"/>
-        <updated>2026-11-03T22:27:28.483Z</updated>
-        <content type="html"><![CDATA[ 180.000€]]></content>
     </entry>
 </feed>
