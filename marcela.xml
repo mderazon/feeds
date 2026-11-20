@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://marcela.pt/properties-to-buy/?county=Aljezur&amp;orderby=recent</id>
     <title>Marcela Properties</title>
-    <updated>2026-11-20T14:15:45.993Z</updated>
+    <updated>2026-11-20T23:16:39.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://marcela.pt/wp-content/smush-webp/2025/04/cropped-favicon-32x32.png.webp</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://marcela.pt/properties-to-buy/unique-property-featuring-4-apartments-in-the-historic-centre-of-aljezur-26052/"/>
         <updated>2026-11-16T13:52:04.556Z</updated>
         <content type="html"><![CDATA[ UNIQUE PROPERTY FEATURING 4 APARTMENTS IN THE HISTORIC CENTRE OF ALJEZUR €1,060,000 5]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEMI-DETACHED HOUSE IN NEED OF RESTORATION IN CARRAPATEIRA, ALJEZUR €230,000]]></title>
-        <id>https://marcela.pt/properties-to-buy/semi-detached-house-in-need-of-restoration-in-carrapateira-aljezur-26045/</id>
-        <link href="https://marcela.pt/properties-to-buy/semi-detached-house-in-need-of-restoration-in-carrapateira-aljezur-26045/"/>
-        <updated>2026-11-16T13:52:04.557Z</updated>
-        <content type="html"><![CDATA[ SEMI-DETACHED HOUSE IN NEED OF RESTORATION IN CARRAPATEIRA, ALJEZUR €230,000 3]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TOWN HOUSE IN THE HISTORIC CENTRE OF ALJEZUR €440,000]]></title>
@@ -74,5 +67,12 @@
         <link href="https://marcela.pt/properties-to-buy/charming-3-bedroom-bungalow-in-central-location-of-carrapateira-aljezur-24967/"/>
         <updated>2026-11-16T13:52:04.564Z</updated>
         <content type="html"><![CDATA[ CHARMING 3-BEDROOM BUNGALOW IN CENTRAL LOCATION OF CARRAPATEIRA - ALJEZUR €495,000 3]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DETACHED HOUSE WITH 2 BEDROOMS, CARRAPATEIRA €440,000]]></title>
+        <id>https://marcela.pt/properties-to-buy/detached-house-with-2-bedrooms-carrapateira-24923/</id>
+        <link href="https://marcela.pt/properties-to-buy/detached-house-with-2-bedrooms-carrapateira-24923/"/>
+        <updated>2026-11-20T23:13:11.406Z</updated>
+        <content type="html"><![CDATA[ DETACHED HOUSE WITH 2 BEDROOMS, CARRAPATEIRA €440,000 2]]></content>
     </entry>
 </feed>
