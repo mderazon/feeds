@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.provenda.net/en/properties-county-aljezur/</id>
     <title>Provenda</title>
-    <updated>2026-11-24T03:41:16.564Z</updated>
+    <updated>2026-11-24T16:06:33.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.provenda.net/en/properties-county-aljezur/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[€ 95.000 Land Urban with 14386sqm Alfaçal Aljezur]]></title>
+        <id>https://www.provenda.net/en/land-urban-with-14386sqm-alfacal-aljezur+1000020592.html</id>
+        <link href="https://www.provenda.net/en/land-urban-with-14386sqm-alfacal-aljezur+1000020592.html"/>
+        <updated>2026-11-24T16:02:41.293Z</updated>
+        <content type="html"><![CDATA[ SaleA 14,386 m² plot of rural land located in Alfaçal, approximately 3 km from the centre of Aljezur. Set in beautiful natural surroundings, the property combines pine woodland, native vegetation and spacious clearings, offering tranquillity, privacy and abundant natural light. Its location combines the peacefulness of the countryside with easy access to local shops, amenities and the stunning beaches of the Costa Vicentina. An excellent opportunity for investment, the development of agricultural or forestry projects, subject to applicable regulations, or simply for those seeking a peaceful retreat in nature. Located in Alfaçal, just 3 km from the centre of Aljezur, this charming rural plot, with a total area of 14,386 m², enjoys an idyllic natural setting characterised by tranquillity, abundant vegetation and the beauty of the Algarve countryside. The land offers a diverse landscape, combining pine woodland, trees of varying heights, natural vegetation and open spaces with plenty of sunlight. In spring, an abundance of wildflowers adds a particularly charming touch to the property. The combination of wooded areas and open clearings provides a delightful balance of sunshine and shade, creating a peaceful and private atmosphere. Its location offers the perfect balance between the tranquillity of the countryside and the convenience of being close to Aljezur, with its local shops, amenities and restaurants, as well as the stunning beaches of the Costa Vicentina. An excellent opportunity for those looking to invest in rural land, develop an agricultural or forestry project, subject to applicable regulations, or simply enjoy a natural retreat away from the hustle and bustle of urban life. Set in a region renowned for its unspoilt landscapes, natural beauty and exceptional quality of life, this property offers an invitation to embrace a slower pace of life in harmony with nature. For further information or to arrange a viewing, please contact us.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[€ 850.000 Homestead 3 bedrooms Alfaçal Aljezur - equipped, kitchen, water, terrace, electricity, cork oaks]]></title>
         <id>https://www.provenda.net/en/homestead-3-bedrooms-alfacal-aljezur-equipped-kitchen-water-terrace-electricity-cork-oaks+1000020590.html</id>
@@ -81,12 +88,5 @@
         <link href="https://www.provenda.net/en/farm-corte-de-sobro-rogil-aljezur-water-electricity+1000019759.html"/>
         <updated>2026-10-23T10:17:08.730Z</updated>
         <content type="html"><![CDATA[ SaleLocated on the Vicentina coast, with a total area of 7.09 hectares, it includes an old housing, a natural lake, a pond, panoramic views of the sea and the saw, just 4.5 km from Rogil, 7 km from Aljezur and 8 km from the beach. Electricity and water supply network are available on site, ensuring all essential conditions for housing or project development. The existing house has an implementation area of 195.8sqm and a useful area of 140.31sqm. There is a possibility of renewing, expansion or construction of a rural tourism project up to 2000sqm. With great agricultural potential is an opportunity to create a quiet refuge, a sustainable project or a lucrative rural business, this property offers what you are looking for!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[€ 550.000 Hotel Aljezur - laundry]]></title>
-        <id>https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html</id>
-        <link href="https://www.provenda.net/en/hotel-aljezur-laundry+1000019549.html"/>
-        <updated>2026-10-07T22:07:43.665Z</updated>
-        <content type="html"><![CDATA[ SaleLocated in a beautiful area with easy access, approximately 8 km from Aljezur, this property is ideal for a nature retreat. It has prior approval for the construction of a resort-style hotel with dispersed units, comprising: 20 buildings, of which 15 are accommodation units/houses with a total area of ​​675sqm (45sqm/unit); 3 buildings for staff accommodation with a total area of ​​120sqm; 1 building for common areas and services with 400sqm; 1 building for laundry, technical area and storage with 150sqm. The project also includes a biological swimming pool, solar park and parking. Areas can be adjusted according to a new plan. The property has a wide variety of trees. Water is supplied via the public network and a borehole, and electricity and telecommunications are located close to the property. It is approximately 15 minutes from the beaches of Vale dos Homens and Amoreira, a 40-minute drive from Palmares Golf Course and approximately 90 minutes by car from Faro Airport.]]></content>
     </entry>
 </feed>
