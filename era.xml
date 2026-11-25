@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.era.pt/en/buy?ob=1&amp;tp=1,2&amp;lc=08-03&amp;ord=3&amp;ir=1&amp;nr=0&amp;dt=08&amp;co=08-03-00-0&amp;page=1</id>
     <title>ERA Aljezur</title>
-    <updated>2026-11-24T16:06:33.006Z</updated>
+    <updated>2026-11-25T01:31:57.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.era.pt/Portals/_default/Skins/ERA/webmanifest/favicon-32x32.png</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[House T2 Aljezur, Aldeia Velha - 1552522 - 21 House Aldeia Velha, Aljezur 490.000 €]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[250.000 € Terraced House]]></title>
-        <id>https://www.era.pt/en/property/terraced-house-t2-aljezur-centro-historico-411260016</id>
-        <link href="https://www.era.pt/en/property/terraced-house-t2-aljezur-centro-historico-411260016"/>
-        <updated>2026-04-08T18:45:50.201Z</updated>
-        <content type="html"><![CDATA[Terraced House  Aljezur, Centro Histórico - 1548891 - 8 Terraced House Centro Histórico, Aljezur 250.000 €]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[675.000 € Terraced House]]></title>
         <id>https://www.era.pt/en/property/terraced-house-t4-annex-aljezur-rogil-411260013</id>
         <link href="https://www.era.pt/en/property/terraced-house-t4-annex-aljezur-rogil-411260013"/>
@@ -109,5 +102,12 @@
         <link href="https://www.era.pt/en/property/house-t1-aljezur-aljezur-259250097"/>
         <updated>2025-11-27T05:41:56.998Z</updated>
         <content type="html"><![CDATA[House T1 Aljezur, Aljezur - 1520434 - 7 House Aljezur, Aljezur 210.000 €]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[950.000 € Detached House]]></title>
+        <id>https://www.era.pt/en/property/detached-house-t4-swimming-pool-aljezur-espartal-411250031</id>
+        <link href="https://www.era.pt/en/property/detached-house-t4-swimming-pool-aljezur-espartal-411250031"/>
+        <updated>2026-11-25T01:29:46.215Z</updated>
+        <content type="html"><![CDATA[Detached House T3 Aljezur, Espartal - 1495626 - 4 Detached House Espartal, Aljezur 950.000 €]]></content>
     </entry>
 </feed>
